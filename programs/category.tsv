@@ -1,637 +1,637 @@
 passage	node	occurrence	OSMmorph	OSMtype	BHStype	OSMmorphSuffix	OSMsuffixType	BHSsuffixType
-Genesis 1:1	5	אֵ֥ת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:1	9	אֵ֥ת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:2	15	הָיְתָ֥ה	HVqp3fs	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:3	33	יֹּ֥אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:3	35	יְהִ֣י	HVqj3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:3	38	יְהִי	HVqw3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:4	43	אֶת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:4	51	בֵּ֥ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:4	55	בֵ֥ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:5	64	יֹ֔ום	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:5	70	לָ֑יְלָה	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:5	72	יְהִי	HVqw3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:5	73	עֶ֥רֶב	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:5	75	יְהִי	HVqw3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:5	76	בֹ֖קֶר	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:5	77	יֹ֥ום	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:6	80	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:6	82	יְהִ֥י	HVqj3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:6	89	יהִ֣י	HVqi3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:6	91	בֵּ֥ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:7	98	אֶת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:7	103	בֵּ֤ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:7	106	אֲשֶׁר֙	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:7	113	בֵ֣ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:7	116	אֲשֶׁ֖ר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:7	123	יְהִי	HVqw3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:7	124	כֵֽן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 1:8	133	יְהִי	HVqw3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:8	134	עֶ֥רֶב	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:8	136	יְהִי	HVqw3ms	None	verb	verb:copulative verb:?	?	-:-
-Genesis 1:8	137	בֹ֖קֶר	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:8	138	יֹ֥ום	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:8	139	שֵׁנִֽי	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 1:9	141	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:9	159	כֵֽן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 1:11	180	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:11	195	אֲשֶׁ֥ר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:11	203	כֵֽן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 1:12	218	אֲשֶׁ֥ר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:13	230	עֶ֥רֶב	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:13	233	בֹ֖קֶר	HNcmsa	None	noun	noun:potential adverb:?	?	-:-
-Genesis 1:13	235	שְׁלִישִֽׁי	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 1:14	237	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:14	247	בֵּ֥ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:14	251	בֵ֣ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:15	281	כֵֽן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 1:16	285	אֶת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:16	290	גְּדֹלִ֑ים	HAampa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:16	291	אֶת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:16	295	גָּדֹל֙	HAamsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:16	301	אֶת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:16	305	קָּטֹן֙	HAamsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:16	311	אֵ֖ת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:17	316	אֹתָ֛ם	HTo	HSp3mp	particle	preposition:-:?	suffix	p:-
-Genesis 1:18	340	בֵּ֥ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:18	344	בֵ֣ין	HR	None	preposition	noun:potential preposition:?	?	-:-
-Genesis 1:19	359	רְבִיעִֽי	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 1:20	361	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:20	368	חַיָּ֑ה	HAafsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:21	383	אֶת	HTo	None	particle	preposition:-:?	?	-:-
-Genesis 1:21	387	גְּדֹלִ֑ים	HAampa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:21	390	כָּל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:21	393	חַיָּ֣ה	HAafsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:21	396	אֲשֶׁר֩	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:21	404	כָּל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:22	419	אמֹ֑ר	HVqc	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:23	445	חֲמִישִֽׁי	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 1:24	447	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:24	453	חַיָּה֙	HAafsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:24	460	חַֽיְתֹו	HNcfsc	None	noun	noun:-:?	?	-:W
-Genesis 1:24	466	כֵֽן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 1:25	484	כָּל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:26	496	יֹּ֣אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:26	521	כָל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:26	526	כָל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:27	547	זָכָ֥ר	HAamsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:28	557	יֹּ֨אמֶר	HVqw3ms	None	verb	verb:quotation verb:?	?	-:-
-Genesis 1:28	583	כָל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:29	593	הִנֵּה֩	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 1:29	597	כָּל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:29	601	אֲשֶׁר֙	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:29	604	כָל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:29	609	כָּל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:29	612	אֲשֶׁר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:30	624	כָל	HNcmsc	None	noun	noun:distributive noun:?	?	-:-
-Genesis 1:30	641	אֲשֶׁר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:30	644	חַיָּ֔ה	HAafsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:30	653	כֵֽן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 1:31	659	אֲשֶׁ֣ר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 1:31	662	הִנֵּה	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 1:31	663	טֹ֖וב	HAamsa	None	adjective	adjective:-:?	?	-:-
-Genesis 1:31	664	מְאֹ֑ד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 1:31	673	שִּׁשִּֽׁי	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 2:2	691	שְּׁבִיעִ֔י	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 2:2	693	אֲשֶׁ֣ר	HTr	None	particle	conjunction:-:?	?	-:-
-Genesis 2:2	701	שְּׁבִיעִ֔י	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 2:3	713	שְּׁבִיעִ֔י	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 2:4	728	אֵ֣לֶּה	HPdxcp	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 2:4	740	יְהוָ֥ה	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:5	750	טֶ֚רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 2:5	760	טֶ֣רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 2:5	763	לֹ֨א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 2:5	765	יְהוָ֤ה	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:5	772	אַ֔יִן	HTn	None	particle	noun:copulative noun:?	?	-:-
-Genesis 2:7	793	יְהוָ֨ה	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:8	817	יְהוָ֧ה	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:8	821	עֵ֖דֶן	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:9	834	יְהוָ֤ה	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:10	867	עֵ֔דֶן	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:11	885	פִּישֹׁ֑ון	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:11	893	חֲוִילָ֔ה	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:13	917	שֵּׁנִ֖י	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 2:13	918	גִּיחֹ֑ון	HNp	None	noun	proper noun:-:?	?	-:-
-Genesis 2:14	931	שְּׁלִישִׁי֙	HAomsa	None	adjective	adjective:ordinal:?	?	-:-
-Genesis 2:14	936	קִדְמַ֣ת	HNcfsc	None	noun	noun:potential preposition:?	?	-:-
-Genesis 2:17	986	לֹ֥א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 2:18	1000	לֹא	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 2:19	1036	מַה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 2:20	1073	לֹֽא	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 2:23	1120	זֹ֣את	HPdxfs	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 2:23	1131	זֹאת֙	HPdxfs	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 2:23	1138	זֹּֽאת	HPdxfs	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 2:24	1140	כֵּן֙	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 2:24	1144	אָבִ֖יו	HNcmsc	HSp3ms	noun	noun:-:?	suffix	p:J
-Genesis 2:25	1166	לֹ֖א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 3:1	1187	אַ֚ף	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 3:1	1191	לֹ֣א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 3:3	1223	לֹ֤א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 3:3	1227	לֹ֥א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 3:3	1231	תְּמֻתֽוּן	HVqi2mp	HSn	verb	verb:-:?	suffix	-:-
-Genesis 3:4	1239	לֹֽא	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 3:4	1241	תְּמֻתֽוּן	HVqi2mp	HSn	verb	verb:-:?	suffix	-:-
-Genesis 3:6	1292	גַּם	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 3:9	1354	אַיֶּֽכָּה	HTi	HSp2ms	particle	interrogative particle:-:?	suffix	p:N
-Genesis 3:11	1372	מִ֚י	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 3:11	1378	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 3:11	1385	בִלְתִּ֥י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 3:12	1397	עִמָּדִ֔י	HR	HSp1cs	preposition	noun:potential preposition:?	suffix	p:-
-Genesis 3:13	1413	מַה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 3:13	1414	זֹּ֣את	HPdxfs	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 3:14	1434	זֹּאת֒	HPdxfs	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 3:17	1516	לֹ֥א	HTn	None	particle	negative particle:-:?	?	-:-
-Genesis 3:22	1592	הֵ֤ן	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 3:22	1611	גַּ֚ם	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 3:24	1663	דֶּ֖רֶךְ	HNcbsc	None	noun	noun:potential preposition:?	?	-:-
-Genesis 4:2	1691	אָחִ֖יו	HNcmsc	HSp3ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:4	1722	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 4:5	1750	מְאֹ֔ד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 4:6	1759	לָ֚מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 4:6	1763	לָ֖מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 4:7	1766	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 4:8	1792	אָחִ֑יו	HNcmsc	HSp3ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:8	1805	אָחִ֖יו	HNcmsc	HSp3ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:9	1813	אֵ֖י	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 4:9	1815	אָחִ֑יךָ	HNcmsc	HSp2ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:10	1826	מֶ֣ה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 4:10	1830	אָחִ֔יךָ	HNcmsc	HSp2ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:11	1851	אָחִ֖יךָ	HNcmsc	HSp2ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:14	1880	הֵן֩	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 4:15	1911	לָכֵן֙	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Genesis 4:15	1915	שִׁבְעָתַ֖יִם	HNcfda	None	noun	noun:cardinal:?	?	-:-
-Genesis 4:15	1924	בִלְתִּ֥י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 4:16	1941	קִדְמַת	HNcfsc	None	noun	noun:potential preposition:?	?	-:-
-Genesis 4:20	2010	אֲבִ֕י	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 4:21	2017	אָחִ֖יו	HNcmsc	HSp3ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 4:21	2021	אֲבִ֕י	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 4:22	2029	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 4:24	2068	שִׁבְעָתַ֖יִם	HNcfda	None	noun	noun:cardinal:?	?	-:-
-Genesis 4:25	2079	עֹוד֙	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 4:26	2104	גַּם	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 5:1	2120	זֶ֣ה	HPdxms	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 5:29	2535	זֶ֞֠ה	HPdxms	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 6:3	2650	גַּ֖ם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 6:4	2672	גַ֣ם	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 6:4	2674	כֵ֗ן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 6:4	2689	גִּבֹּרִ֛ים	HAampa	None	adjective	noun:-:?	?	-:-
-Genesis 6:5	2712	רַ֥ק	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 6:9	2768	אֵ֚לֶּה	HPdxcp	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 6:12	2815	הִנֵּ֣ה	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 6:12	2822	דַּרְכֹּ֖ו	HNcbsc	HSp3ms	noun	noun:potential preposition:?	suffix	p:-
-Genesis 6:13	2845	הִנְנִ֥י	HTj	HSp1cs	particle	interjection:-:?	suffix	p:-
-Genesis 6:15	2872	זֶ֕ה	HPdxms	None	pronoun	demonstrative pronoun:-:?	?	-:-
-Genesis 6:16	2897	תְּכַלֶ֣נָּה	HVpi2ms	HSp3fs	verb	verb:-:?	suffix	p:N
-Genesis 6:16	2900	מַ֔עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Genesis 6:17	2915	הִנְנִי֩	HTm	HSp1cs	particle	interjection:-:?	suffix	p:-
-Genesis 6:22	3036	כֵּ֥ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 7:3	3087	גַּ֣ם	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 7:4	3108	עֹ֜וד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 7:18	3402	מְאֹ֖ד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 7:19	3418	מְאֹ֥ד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 7:19	3419	מְאֹ֖ד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 7:20	3440	מַ֔עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Genesis 7:23	3525	אַךְ	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 8:8	3696	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 8:10	3741	עֹ֔וד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 8:11	3763	הִנֵּ֥ה	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 8:12	3782	עֹ֔וד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 8:12	3796	עֹֽוד	HD	None	adverb	noun:potential adverb:?	?	-:-
-Genesis 8:13	3830	הִנֵּ֥ה	HTm	None	particle	interjection:-:?	?	-:-
-Genesis 9:4	4102	אַךְ	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 9:5	4110	אַ֨ךְ	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 9:5	4129	אָחִ֔יו	HNcmsc	HSp3ms	noun	noun:distributive noun:?	suffix	p:J
-Genesis 9:9	4177	הִנְנִ֥י	HTj	HSp1cs	particle	interjection:-:?	suffix	p:-
-Genesis 9:18	4387	אֲבִ֥י	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 9:22	4424	אֲבִ֣י	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 9:22	4428	אָבִ֑יו	HNcmsc	HSp3ms	noun	noun:-:?	suffix	p:J
-Genesis 10:8	4639	גִּבֹּ֖ר	HAamsa	None	adjective	noun:-:?	?	-:-
-Genesis 10:9	4651	כֵּן֙	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 10:9	4655	גִּבֹּ֥ור	HAamsc	None	adjective	noun:-:?	?	-:-
-Genesis 10:14	4728	פְּלִשְׁתִּ֖ים	HNgmpa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 10:16	4744	יְבוּסִי֙	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 10:16	4748	אֱמֹרִ֔י	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 10:17	4756	חִוִּ֥י	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 10:18	4782	כְּנַעֲנִֽי	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 10:19	4787	כְּנַעֲנִי֙	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 10:19	4791	גְרָ֖רָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 10:19	4795	סְדֹ֧מָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 10:21	4819	גַּם	HTa	None	particle	adverb:focus particle:?	?	-:-
-Genesis 10:21	4821	אֲבִי֙	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 10:21	4825	אֲחִ֖י	HNcmsc	None	noun	noun:distributive noun:?	?	-:J
-Genesis 10:30	4931	סְפָ֖רָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 11:3	4996	הָ֚בָה	HVqv2ms	HSh	verb	verb:-:?	suffix	-:-
-Genesis 11:4	5020	הָ֣בָה	HVqv2ms	HSh	verb	verb:-:?	suffix	-:-
-Genesis 11:7	5085	הָ֚בָה	HVqv2ms	HSh	verb	verb:-:?	suffix	-:-
-Genesis 11:9	5115	כֵּ֞ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 11:10	5142	מְאַ֣ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Genesis 11:10	5143	שָׁנָ֔ה	HAcbsc	HNcfsa	adjective	noun:-:?	noun	-:-
-Genesis 11:29	5421	אֲבִֽי	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 11:29	5424	אֲבִ֥י	HNcmsc	None	noun	noun:-:?	?	-:J
-Genesis 11:30	5430	אֵ֥ין	HTn	None	particle	noun:copulative noun:?	?	-:-
-Genesis 12:6	5604	כְּנַעֲנִ֖י	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 12:18	5822	מַה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 12:18	5826	לָ֚מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 12:19	5833	לָמָ֤ה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 13:7	5986	כְּנַעֲנִי֙	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 13:7	5989	פְּרִזִּ֔י	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 13:9	6017	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 13:15	6153	אֶתְּנֶ֑נָּה	HVqi1cs	HSp3fs	verb	verb:-:?	suffix	p:N
-Genesis 13:17	6192	אֶתְּנֶֽנָּה	HVqi1cs	HSp3fs	verb	verb:-:?	suffix	p:N
-Genesis 14:7	6337	אֱמֹרִ֔י	HNgmsa	None	noun	adjective:gentilic:?	?	-:-
-Genesis 14:10	6404	שָׁ֑מָּה	HD	HSd	adverb	adverb:-:?	suffix	-:H
-Genesis 15:2	6697	אֲדֹנָ֤י	HNcmpc	HSp1cs	noun	proper noun:-:?	suffix	-:-
-Genesis 15:2	6699	מַה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 15:5	6749	ח֗וּצָה	HNcmsa	HSd	noun	noun:-:?	suffix	-:H
-Genesis 15:5	6755	שָּׁמַ֗יְמָה	HNcmpa	HSd	noun	noun:-:?	suffix	-:H
-Genesis 15:8	6801	אֲדֹנָ֣י	HNcmpc	HSp1cs	noun	proper noun:-:?	suffix	-:-
-Genesis 15:8	6804	מָּ֥ה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 15:8	6807	אִֽירָשֶֽׁנָּה	HVqi1cs	HSp3fs	verb	verb:-:?	suffix	p:N
-Genesis 15:9	6811	קְחָ֥ה	HVqv2ms	HSh	verb	verb:-:?	suffix	-:-
-Genesis 15:14	6912	כֵ֥ן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 16:7	7176	דֶ֥רֶךְ	HNcbsc	None	noun	noun:potential preposition:?	?	-:-
-Genesis 16:8	7183	אֵֽי	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 16:8	7188	אָ֣נָה	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 16:13	7274	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 16:13	7275	גַ֥ם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 16:14	7281	כֵּן֙	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 17:17	7608	הַ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 17:17	7617	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 18:3	7844	אֲדֹנָ֗י	HNcmpc	HSp1cs	noun	proper noun:-:?	suffix	-:-
-Genesis 18:5	7880	כֵּ֥ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 18:5	7886	כֵּ֥ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 18:9	7959	אַיֵּ֖ה	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 18:13	8030	לָ֣מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 18:14	8043	הֲ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 18:17	8095	הַֽ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 18:19	8132	דֶּ֣רֶךְ	HNcbsc	None	noun	noun:potential preposition:?	?	-:-
-Genesis 18:21	8166	הַ	HTi	None	particle	interrogative particle:interrogative particle:?	?	-:-
-Genesis 18:22	8186	סְדֹ֑מָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 18:24	8206	יֵ֛שׁ	HTm	None	particle	noun:copulative noun:?	?	-:-
-Genesis 18:27	8293	אֲדֹנָ֔י	HNcmpc	HSp1cs	noun	proper noun:-:?	suffix	-:-
-Genesis 19:1	8429	סְדֹ֨מָה֙	HNp		noun	proper noun:-:?	?	-:H
-Genesis 19:2	8470	דַרְכְּכֶ֑ם	HNcbsc	HSp2mp	noun	noun:potential preposition:?	suffix	p:-
-Genesis 19:4	8499	טֶרֶם֮	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 19:5	8528	אַיֵּ֧ה	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 19:8	8590	כֵּ֥ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 19:12	8675	מִֽי	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 19:17	8809	ח֗וּצָה	HNcmsa	HSd	noun	noun:-:?	suffix	-:H
-Genesis 19:20	8877	שָׁ֖מָּה	HD	HSd	adverb	adverb:-:?	suffix	-:H
-Genesis 19:20	8883	שָׁ֗מָּה	HD	HSd	adverb	adverb:-:?	suffix	-:H
-Genesis 19:21	8904	בִלְתִּ֛י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 19:22	8913	שָׁ֔מָּה	HD	HSd	adverb	adverb:-:?	suffix	-:H
-Genesis 19:22	8922	שָׁ֑מָּה	HD	HSd	adverb	adverb:-:?	suffix	-:H
-Genesis 19:22	8924	כֵּ֛ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 19:23	8939	צֹֽעֲרָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 19:31	9100	אֵ֤ין	HTn	None	particle	noun:copulative noun:?	?	-:-
-Genesis 19:31	9108	דֶ֖רֶךְ	HNcbsc	None	noun	noun:potential preposition:?	?	-:-
-Genesis 19:38	9231	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 20:5	9327	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 20:6	9366	כֵּ֥ן	HTm	None	particle	adverb:anaphoric adverb:?	?	-:-
-Genesis 20:9	9433	מֶֽה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 20:9	9437	מֶֽה	HTi	None	particle	interrogative pronoun:-:?	?	-:-
-Genesis 20:11	9474	אֵין	HTn	None	particle	noun:copulative noun:?	?	-:-
-Genesis 21:5	9686	מְאַ֣ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Genesis 21:5	9687	שָׁנָ֑ה	HAcbsc	HNcfsa	adjective	noun:-:?	noun	-:-
-Genesis 21:26	10103	בִּלְתִּ֥י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 22:7	10387	הִנֶּ֣נִּֽי	HTm	HSp1cs	particle	interjection:-:?	suffix	p:N
-Genesis 22:7	10398	אַיֵּ֥ה	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 22:20	10669	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 23:1	10747	שְׁנֵ֖י	HAcmdc	None	adjective	noun:-:?	?	-:-
-Genesis 23:8	10850	יֵ֣שׁ	HTm	None	particle	noun:copulative noun:?	?	-:-
-Genesis 23:19	11071	כֵן֩	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 24:15	11420	טֶרֶם֮	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 24:21	11536	דַּרְכֹּ֖ו	HNcbsc	HSp3ms	noun	noun:potential preposition:?	suffix	p:-
-Genesis 24:23	11573	יֵ֧שׁ	HTm	None	particle	noun:copulative noun:?	?	-:-
-Genesis 24:27	11632	דֶּ֨רֶךְ֙	HNcbsa	None	noun	noun:potential preposition:?	?	-:-
-Genesis 24:31	11717	לָ֤מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 24:42	11926	יֶשְׁךָ	HTm	HSp2ms	particle	noun:copulative noun:?	suffix	p:-
-Genesis 24:45	11979	טֶ֨רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 24:49	12083	יֶשְׁכֶ֨ם	HTm	HSp2mp	particle	noun:copulative noun:?	suffix	p:-
-Genesis 24:60	12282	רְבָבָ֑ה	HNcfsa	None	noun	noun:noun of multitude:?	?	-:-
-Genesis 25:7	12523	שְׁנֵֽי	HAcmdc	None	adjective	noun:-:?	?	-:-
-Genesis 25:7	12528	מְאַ֥ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Genesis 25:7	12529	שָׁנָ֛ה	HAcbsc	HNcfsa	adjective	noun:-:?	noun	-:-
-Genesis 25:17	12670	שְׁנֵי֙	HAcmdc	None	adjective	noun:-:?	?	-:-
-Genesis 25:17	12673	מְאַ֥ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Genesis 25:17	12674	שָׁנָ֛ה	HAcbsc	HNcfsa	adjective	noun:-:?	noun	-:-
-Genesis 25:22	12769	לָ֥מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 25:26	12826	כֵ֞ן	HD	None	adverb	adverb:anaphoric adverb:?	?	-:-
-Genesis 25:32	12933	לָמָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 26:1	13002	גְּרָֽרָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 26:9	13160	אֵ֥יךְ	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 26:27	13481	מַדּ֖וּעַ	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 26:33	13591	שִׁבְעָ֑ה	HAcmsa	None	adjective	proper noun:-:?	?	-:-
-Genesis 26:33	13598	שֶׁ֔בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-Genesis 27:4	13702	טֶ֥רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 27:18	13927	הִנֶּ֔נִּי	HTm	HSp1cs	particle	interjection:-:?	suffix	p:N
-Genesis 27:19	13953	תְּבָרֲכַ֥נִּי	HVpi3fs	HSp1cs	verb	verb:-:?	suffix	p:N
-Genesis 27:31	14177	תְּבָרֲכַ֥נִּי	HVpi3fs	HSp1cs	verb	verb:-:?	suffix	p:N
-Genesis 27:33	14215	טֶ֥רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 27:34	14241	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 27:38	14321	גַם	HD	None	adverb	adverb:focus particle:?	?	-:-
-Genesis 27:45	14450	אַף	HTa	None	particle	noun:-:?	?	-:-
-Genesis 27:45	14465	לָמָ֥ה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 27:46	14496	לָ֥מָּה	HR	HTi	preposition	interrogative particle:-:?	particle	-:-
-Genesis 28:13	14748	אֶתְּנֶ֖נָּה	HVqi1cs	HSp3fs	verb	verb:-:?	suffix	p:N
-Genesis 28:16	14814	יֵ֣שׁ	HTm	None	particle	noun:copulative noun:?	?	-:-
-Genesis 29:4	15029	אַ֣יִן	HTi	None	particle	interrogative particle:-:?	?	-:-
-Genesis 30:2	15620	אַ֥ף	HTa	None	particle	noun:-:?	?	-:-
-Genesis 30:15	15823	לָכֵן֙	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Genesis 31:20	16737	בְּלִי֙	HTn	None	particle	noun:potential preposition:?	?	-:-
-Genesis 35:16	19358	אֶפְרָ֑תָה	HNp	None	noun	proper noun:-:?	?	-:H
-Genesis 35:19	19407	אֶפְרָ֔תָה	HNp	None	noun	proper noun:-:?	?	-:H
-Genesis 35:28	19526	מְאַ֥ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Genesis 35:28	19527	שָׁנָ֖ה	HAcbsc	HNcfsa	adjective	noun:-:?	noun	-:-
-Genesis 37:17	20482	דֹּתָ֑יְנָה	HNp		noun	proper noun:-:?	?	-:H
-Genesis 37:18	20499	טֶ֨רֶם֙	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 37:30	20737	אָ֥נָה	HD	None	adverb	interrogative particle:-:?	?	-:-
-Genesis 38:9	20979	בִלְתִּ֥י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 41:50	23277	טֶ֥רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 43:3	24185	בִּלְתִּ֖י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 43:5	24213	בִּלְתִּ֖י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Genesis 45:28	25991	טֶ֥רֶם	HD	None	adverb	noun:potential preposition:?	?	-:-
-Genesis 47:18	26979	בִּלְתִּ֥י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Exodus 4:14	30441	אַ֨ף	HTa	None	particle	noun:-:?	?	-:-
-Exodus 6:6	31334	לָכֵ֞ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Exodus 8:18	32802	בִלְתִּ֥י	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Exodus 8:25	32965	בִלְתִּי֙	HC	None	conjunction	noun:potential preposition:?	?	-:J
-Exodus 10:29	34441	כֵּ֣ן	HTm	None	particle	adjective:-:?	?	-:-
-Exodus 12:9	34847	נָ֔א	HTe	None	particle	adjective:-:?	?	-:-
-Exodus 16:28	37951	אָ֨נָה֙	HD	None	adverb	interrogative particle:-:?	?	-:-
-Exodus 21:8	40141	לא	HTn	None	particle	preposition:-:?	?	p:-
-Exodus 25:20	42254	מַ֗עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Exodus 32:19	46923	אַ֣ף	HTa	None	particle	noun:-:?	?	-:-
-Exodus 32:22	46988	אַ֖ף	HTa	None	particle	noun:-:?	?	-:-
-Exodus 37:9	50072	מַ֗עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Exodus 38:25	50893	מְאַ֣ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Exodus 38:25	50894	כִּכָּ֑ר	HAcbsc	HNcbsa	adjective	noun:-:?	noun	-:-
-Exodus 38:26	50932	מַ֔עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Exodus 38:27	50947	מְאַת֙	HR	None	preposition	noun:cardinal:?	?	-:-
-Exodus 38:27	50948	כִּכַּ֣ר	HAcbsc	HNcbsc	adjective	noun:-:?	noun	-:-
-Exodus 38:27	50962	מְאַ֧ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Exodus 38:27	50963	אֲדָנִ֛ים	HAcbsc	HNcmpa	adjective	noun:-:?	noun	-:-
-Leviticus 11:21	58184	לא	HTn	None	particle	preposition:-:?	?	p:-
-Leviticus 25:30	67708	לא	HTn	None	particle	preposition:-:?	?	p:-
-Leviticus 26:8	68272	רְבָבָ֣ה	HNcfsa	None	noun	noun:noun of multitude:?	?	-:-
-Leviticus 27:7	69079	מַ֨עְלָה֙	HD	HSd	adverb	noun:-:?	suffix	-:H
-Numbers 1:3	69665	מַ֔עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Numbers 1:16	69771	אַלְפֵ֥י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Numbers 1:18	69816	מַ֖עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Numbers 1:20	69854	מַ֔עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Numbers 1:22	69891	מַ֔עְלָה	HD	HSd	adverb	noun:-:?	suffix	-:H
-Numbers 2:9	70537	מְאַ֨ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Numbers 2:9	70538	אֶ֜לֶף	HAcbsc	HAcbsa	adjective	noun:cardinal:?	adjective	-:-
-Numbers 2:16	70632	מְאַ֨ת	HR	None	preposition	noun:cardinal:?	?	-:-
-Numbers 2:16	70633	אֶ֜לֶף	HAcbsc	HAcbsa	adjective	noun:cardinal:?	adjective	-:-
-Numbers 2:24	70744	אֶ֛לֶף	HAcbsc	HAcbsa	adjective	noun:cardinal:?	adjective	-:-
-Numbers 2:31	70834	אֶ֗לֶף	HAcbsc	HAcbsa	adjective	noun:cardinal:?	adjective	-:-
-Numbers 7:13	74146	מְלֵאִ֗ים	HAampa	None	adjective	verb:-:?	?	-:-
-Numbers 7:14	74158	מְלֵאָ֥ה	HAafsa	None	adjective	verb:-:?	?	-:-
-Numbers 7:19	74228	מְלֵאִ֗ים	HAampa	None	adjective	verb:-:?	?	-:-
-Numbers 7:20	74240	מְלֵאָ֥ה	HAafsa	None	adjective	verb:-:?	?	-:-
-Numbers 7:25	74309	מְלֵאִ֗ים	HAampa	None	adjective	verb:-:?	?	-:-
-Numbers 7:26	74321	מְלֵאָ֥ה	HAafsa	None	adjective	verb:-:?	?	-:-
-Numbers 7:31	74390	מְלֵאִ֗ים	HAampa	None	adjective	verb:-:?	?	-:-
-Numbers 7:32	74402	מְלֵאָ֥ה	HAafsa	None	adjective	verb:-:?	?	-:-
-Numbers 7:37	74471	מְלֵאִ֗ים	HAampa	None	adjective	verb:-:?	?	-:-
-Numbers 7:38	74483	מְלֵאָ֥ה	HAafsa	None	adjective	verb:-:?	?	-:-
-Numbers 10:4	76318	אַלְפֵ֥י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Numbers 10:36	76792	רִֽבְבֹ֖ות	HNcfpc	None	noun	noun:noun of multitude:?	?	-:-
-Numbers 10:36	76793	אַלְפֵ֥י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Numbers 11:10	76982	אַ֤ף	HTa	None	particle	noun:-:?	?	-:-
-Numbers 12:9	77733	אַ֧ף	HTa	None	particle	noun:-:?	?	-:-
-Numbers 13:28	78266	אֶ֚פֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-Numbers 14:11	78625	אָ֥נָה	HD	None	adverb	interrogative particle:-:?	?	-:-
-Numbers 14:11	78633	אָ֨נָה֙	HD	None	adverb	interrogative particle:-:?	?	-:-
-Numbers 16:11	80256	לָכֵ֗ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Numbers 20:12	82792	לָכֵ֗ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Numbers 22:22	84242	אַ֣ף	HTa	None	particle	noun:-:?	?	-:-
-Numbers 22:27	84374	אַ֣ף	HTa	None	particle	noun:-:?	?	-:-
-Numbers 22:35	84560	אֶ֗פֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-Numbers 23:13	84915	אֶ֚פֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-Numbers 23:18	85007	בְּנֹ֥ו	HNcmsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Numbers 24:3	85260	בְּנֹ֣ו	HNcmsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Numbers 24:10	85352	אַ֤ף	HTa	None	particle	noun:-:?	?	-:-
-Numbers 24:15	85462	בְּנֹ֣ו	HNcmsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Numbers 25:6	85714	מִּדְיָנִ֔ית	HAafsa	None	adjective	adjective:gentilic:?	?	-:-
-Numbers 25:12	85826	לָכֵ֖ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Numbers 25:14	85864	מִּדְיָנִ֔ית	HAafsa	None	adjective	adjective:gentilic:?	?	-:-
-Numbers 25:15	85881	מִּדְיָנִ֖ית	HAafsa	None	adjective	adjective:gentilic:?	?	-:-
-Numbers 27:7	87018	כֵּ֗ן	HTm	None	particle	adjective:-:?	?	-:-
-Numbers 31:5	88937	אַלְפֵ֣י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Numbers 31:48	89752	אַלְפֵ֣י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Numbers 36:5	92641	כֵּ֛ן	HTm	None	particle	adjective:-:?	?	-:-
-Deuteronomy 1:28	93374	אָנָ֣ה	HD	None	adverb	interrogative particle:-:?	?	-:-
-Deuteronomy 15:4	102035	אֶ֕פֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-Deuteronomy 26:14	107494	אֹנִ֜י	HNcmsa	None	noun	noun:-:?	?	p:-
-Deuteronomy 32:11	111587	כְּנָפָיו֙	HD		adverb	noun:-:?	?	p:-
-Deuteronomy 32:30	111834	רְבָבָ֑ה	HNcfsa	None	noun	noun:noun of multitude:?	?	-:-
-Deuteronomy 33:2	112259	רִבְבֹ֣ת	HNcfpc	None	noun	noun:noun of multitude:?	?	-:-
-Deuteronomy 33:17	112490	אַפְסֵי	HNcmpc	None	noun	noun:copulative noun:?	?	-:-
-Deuteronomy 33:17	112494	רִבְבֹ֣ות	HNcfpc	None	noun	noun:noun of multitude:?	?	-:-
-Deuteronomy 33:17	112498	אַלְפֵ֥י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Joshua 2:4	113450	כֵּ֗ן	HTm	None	particle	adjective:-:?	?	-:-
-Joshua 2:5	113476	אָ֥נָה	HD	None	adverb	interrogative particle:-:?	?	-:-
-Joshua 15:28	121878	שֶׁ֖בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-Joshua 18:3	122887	אָ֨נָה֙	HD	None	adverb	interrogative particle:-:?	?	-:-
-Joshua 19:2	123440	שֶׁ֥בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-Joshua 19:2	123442	שֶׁ֖בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-Joshua 22:14	125618	אַלְפֵ֥י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Joshua 22:21	125800	אַלְפֵ֥י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Joshua 22:30	126046	אַלְפֵ֤י	HAcbpc	None	adjective	noun:noun of multitude:?	?	-:-
-Judges 1:5	127539	אֲדֹנִ֥י בֶ֨זֶק֙	HNp	HNp	noun	proper noun:-:?	noun	-:-
-Judges 1:6	127556	אֲדֹ֣נִי בֶ֔זֶק	HNp	HNp	noun	proper noun:-:?	noun	-:-
-Judges 1:10	127653	קִרְיַ֣ת אַרְבַּ֑ע	HNp	HAcfsa	noun	proper noun:-:?	adjective	-:-
-Judges 4:9	129562	אֶ֚פֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-Judges 4:11	129619	חֹתֵ֣ן	HNcmsc	None	noun	verb:-:?	?	-:-
-Judges 5:26	130324	עֲמֵלִ֑ים	HNcmpa	None	noun	adjective:-:?	?	-:-
-Judges 6:15	130741	אַלְפִּי֙	HNcmsc	HSp1cs	noun	noun:noun of multitude:?	suffix	p:-
-Judges 8:7	132272	לָכֵ֗ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Judges 10:13	134367	לָכֵ֥ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Judges 11:8	134614	לָכֵן֙	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-Judges 12:6	135537	כֵּ֔ן	HTm	None	particle	adjective:-:?	?	-:-
-Judges 19:17	139509	אָ֥נָה	HD	None	adverb	interrogative particle:-:?	?	-:-
-Judges 20:1	139905	שֶׁ֔בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-Judges 20:10	140087	רְבָבָ֔ה	HNcfsa	None	noun	noun:noun of multitude:?	?	-:-
-1_Samuel 2:10	142251	אַפְסֵי	HNcmpc	None	noun	noun:copulative noun:?	?	-:-
-1_Samuel 2:30	142706	לָכֵ֗ן	HR	HD	preposition	adverb:conjunctive adverb:?	adverb	-:-
-1_Samuel 4:21	143795	אִֽי־כָבֹוד֙	HTj		particle	proper noun:-:?	?	-:-
-1_Samuel 7:9	144886	יעלה	HVhw3ms	None	verb	verb:-:?	?	p:-
-1_Samuel 10:19	146672	אַלְפֵיכֶֽם	HAcbpc	HSp2mp	adjective	noun:noun of multitude:?	suffix	p:-
-1_Samuel 16:16	150632	טֹ֥וב	HVqq3ms	None	verb	adjective:-:?	?	-:-
-1_Samuel 16:23	150776	טֹ֣וב	HVqp3ms	None	verb	adjective:-:?	?	-:-
-1_Samuel 18:1	152175	יאהבו	HVqw3ms	None	verb	verb:-:?	?	p:-
-1_Samuel 18:7	152309	רִבְבֹתָֽיו	HNcfpc	HSp3ms	noun	noun:noun of multitude:?	suffix	p:-
-1_Samuel 18:8	152328	רְבָבֹ֔ות	HNcfpa	None	noun	noun:noun of multitude:?	?	-:-
-1_Samuel 23:17	155703	כֵּֽן	HTm	None	particle	adjective:-:?	?	-:-
-2_Samuel 1:21	160870	בְּלִ֖י	HTn	None	particle	noun:potential preposition:?	?	-:-
-2_Samuel 2:1	160986	אָ֥נָה	HD	None	adverb	interrogative particle:-:?	?	-:-
-2_Samuel 12:14	166691	אֶ֗פֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-2_Samuel 13:13	167413	אָ֤נָה	HD	None	adverb	interrogative particle:-:?	?	-:-
-2_Samuel 16:18	170177	לא	HTn	None	particle	preposition:-:?	?	p:-
-2_Samuel 17:11	170533	שֶׁ֔בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-2_Samuel 20:1	173091	שֶׁ֥בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-2_Samuel 20:2	173128	שֶׁ֣בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-2_Samuel 20:6	173220	שֶׁ֥בַע	HAcfsa	None	adjective	proper noun:-:?	?	-:-
-2_Samuel 24:3	175489	כָּהֵ֤ם	HR	HPp3mp	preposition	preposition:-:?	pronoun	p:-
-2_Samuel 24:3	175491	כָהֵם֙	HR	HPp3mp	preposition	preposition:-:?	pronoun	p:-
-1_Kings 6:24	180572	כְּנָפָ֖יו	HD		adverb	noun:-:?	?	p:-
-1_Kings 6:24	180576	כְּנָפָֽיו	HD		adverb	noun:-:?	?	p:-
-Isaiah 1:5	212146	וְ	HR	None	preposition	conjunction:-:?	?	-:-
-Isaiah 3:24	213261	כִּי	HC	None	conjunction	noun:-:?	?	-:-
-Isaiah 3:26	213275	אָנ֥וּ	HD	None	adverb	verb:-:?	?	-:-
-Isaiah 5:8	213572	אֶ֣פֶס	HNcmsc	None	noun	noun:copulative noun:?	?	-:-
-Isaiah 14:6	216934	בְּלִ֥י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Isaiah 19:8	218260	אָנוּ֙	HD	None	adverb	verb:-:?	?	-:-
-Isaiah 28:8	220950	בְּלִ֖י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Isaiah 32:10	222800	בְּלִ֥י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Isaiah 34:12	223468	אָֽפֶס	HNcmsa	None	noun	noun:copulative noun:?	?	-:-
-Isaiah 38:17	225311	בְּלִ֔י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Isaiah 47:8	228639	אַפְסִ֣י	HNcmsc	HSp1cs	noun	noun:copulative noun:?	suffix	-:J
-Isaiah 47:10	228689	אַפְסִ֥י	HNcmsc	HSp1cs	noun	noun:copulative noun:?	suffix	-:J
-Isaiah 56:9	231488	חַיְתֹ֣ו	HNcfsc	None	noun	noun:-:?	?	-:W
-Isaiah 56:9	231494	חַיְתֹ֖ו	HNcfsc	None	noun	noun:-:?	?	-:W
-Jeremiah 9:24	239863	מ֖וּל	HR	None	preposition	verb:-:?	?	-:-
-Jeremiah 18:3	243708	הו	HSp3ms	None	suffix	personal pronoun:-:?	?	-:-
-Ezekiel 48:16	290515	חֲמֵ֥שׁ חמשׁ	HAcfsa	HAcfsa	adjective	noun:cardinal:?	adjective	-:-
-Hosea 1:4	290992	מְעַ֗ט	HAamsa	None	adjective	noun:potential adverb:?	?	-:-
-Hosea 1:6	291032	לֹ֣א רֻחָ֑מָה	HTn	HNp	particle	proper noun:-:?	noun	-:-
-Hosea 1:8	291074	לֹ֣א רֻחָ֑מָה	HTn	HNp	particle	proper noun:-:?	noun	-:-
-Hosea 1:9	291084	לֹ֣א עַמִּ֑י	HTn	HNp	particle	proper noun:-:?	noun	-:-
-Hosea 2:3	291153	רֻחָֽמָה	HVPp3fs	None	verb	proper noun:-:?	?	-:-
-Hosea 2:25	291573	לֹ֣א רֻחָ֑מָה	HTn	HNp	particle	proper noun:-:?	noun	-:-
-Hosea 4:18	291977	מָגִנֶּֽיהָ	HNcbpc	HSp3fs	noun	adjective:-:?	suffix	p:-
-Hosea 7:4	292417	אֹפֶ֑ה	HVqrmsa	None	verb	noun:-:?	?	-:-
-Hosea 7:6	292448	אֹֽפֵהֶ֔ם	HVqrmsc	HSp3mp	verb	noun:-:?	suffix	p:-
-Hosea 7:8	292480	בְּלִ֥י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Hosea 8:7	292687	בְּלִ֣י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Hosea 8:10	292726	מְּעָ֔ט	HAamsa	None	adjective	noun:potential adverb:?	?	-:-
-Hosea 9:10	292956	אָהֳבָֽם	HVqc	HSp3mp	verb	noun:-:?	suffix	p:-
-Hosea 13:10	293827	אֵפֹ֔וא	HD	None	adverb	interjection:-:?	?	-:-
-Joel 4:3	295061	זֹּונָ֔ה	HNcfsa	None	noun	verb:-:?	?	-:-
-Joel 4:14	295245	חָר֑וּץ	HNp	None	noun	verb:-:?	?	-:-
-Joel 4:14	295253	חָרֽוּץ	HNp	None	noun	verb:-:?	?	-:-
-Amos 5:14	296736	כֵ֞ן	HD	None	adverb	adjective:-:?	?	-:-
-Amos 6:2	296968	רַבָּ֑ה	HNp	None	noun	adjective:-:?	?	-:-
-Obadiah 1:3	298206	שִׁבְתֹּ֑ו	HNcfsc	HSp3ms	noun	verb:-:?	suffix	p:-
-Jonah 1:15	298910	זַּעְפֹּֽו	HVqc	HSp3ms	verb	noun:-:?	suffix	p:-
-Jonah 2:4	298980	וְ	HR	None	preposition	conjunction:-:?	?	-:-
-Jonah 3:5	299157	וְ	HR	None	preposition	conjunction:-:?	?	-:-
-Jonah 4:11	299537	וּ	HR	None	preposition	conjunction:-:?	?	-:-
-Habakkuk 2:19	302774	דּוּמָ֑ם	HNcmsa	None	noun	adverb:-:?	?	-:-
-Habakkuk 2:20	302794	הַ֥ס	HTj	None	particle	verb:-:?	?	-:-
-Zephaniah 1:7	303207	הַ֕ס	HTj	None	particle	verb:-:?	?	-:-
-Zephaniah 1:11	303303	נְטִ֥ילֵי	HNcmpc	None	noun	adjective:-:?	?	-:-
-Zephaniah 2:14	303699	חַיְתֹו	HNcfsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Zephaniah 2:15	303735	אַפְסִ֣י	HNcmsc	HSp1cs	noun	noun:copulative noun:?	suffix	-:J
-Zephaniah 3:7	303852	אָכֵן֙	HD	None	adverb	interjection:-:?	?	-:-
-Zephaniah 3:8	303873	קָבְצִ֣י	HVqc	HSp1cs	verb	verb:-:?	suffix	-:J
-Zephaniah 3:10	303914	פּוּצַ֔י	HVqsmsc	HSp1cs	verb	noun:-:?	suffix	-:-
-Haggai 1:6	304217	מְעָ֗ט	HAamsa	None	adjective	noun:potential adverb:?	?	-:-
-Haggai 1:9	304272	מְעָ֔ט	HAamsa	None	adjective	noun:potential adverb:?	?	-:-
-Haggai 2:6	304606	הֶ	HR	None	preposition	article:-:?	?	-:-
-Haggai 2:18	304862	מָ֑עְלָה	HR	HSd	preposition	noun:-:?	suffix	-:H
-Haggai 2:19	304900	הַ	HRd	None	preposition	article:-:?	?	-:-
-Malachi 3:10	310378	בְּלִי	HTn	None	particle	noun:potential preposition:?	?	-:-
-Psalms 19:4	313207	בְּ֝לִ֗י	HTn	None	particle	noun:potential preposition:?	?	-:-
-Psalms 50:10	318733	חַיְתֹו	HNcfsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Psalms 79:2	324272	חַיְתֹו	HNcfsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Psalms 79:12	324385	שִׁ֭בְעָתַיִם	HNcfda	None	noun	noun:cardinal:?	?	-:-
-Psalms 90:12	326354	כֵּ֣ן	HTm	None	particle	adjective:-:?	?	-:-
-Psalms 104:11	328329	חַיְתֹ֣ו	HNcfsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Psalms 104:20	328426	חַיְתֹו	HNcfsc	HSp3ms	noun	noun:-:?	suffix	-:W
-Proverbs 1:5	346968	חָ֭כָם	HNcmsa	None	noun	adjective:-:?	?	-:-
-Proverbs 1:10	347016	חַ֝טָּאִ֗ים	HNcmpa	None	noun	adjective:-:?	?	-:-
-Proverbs 3:13	347564	יָפִ֥יק	HNcfsa	None	noun	verb:-:?	?	-:-
-Proverbs 3:35	347774	כְסִילִ֗ים	HNcmpa	None	noun	adjective:-:?	?	-:-
-Proverbs 11:19	349793	כֵּן	HTm	None	particle	adjective:-:?	?	-:-
-Proverbs 28:2	354600	כֵּ֣ן	HTm	None	particle	adjective:-:?	?	-:-
-Ruth 1:13	356036	לָהֵ֣ן	HC	None	conjunction	adverb:conjunctive adverb:?	?	-:-
-Ruth 1:13	356038	עַ֚ד	HD	None	adverb	preposition:-:?	?	-:-
-Ruth 1:13	356042	לָהֵן֙	HC	None	conjunction	adverb:conjunctive adverb:?	?	-:-
-Ruth 1:20	356181	מָרָ֔א	HNp	None	noun	adjective:-:?	?	-:-
-Ruth 2:1	356231	מידע	HVPrmsa	None	verb	noun:-:?	?	-:-
-Ruth 2:7	356376	מְעָֽט	HAamsa	None	adjective	noun:potential adverb:?	?	-:-
-Ruth 2:9	356432	אֲשֶׁ֥ר	HPr	None	pronoun	conjunction:-:?	?	-:-
-Ruth 3:12	356979	כִּ֥י אם	HC	HC	conjunction	conjunction:-:?	conjunction	-:-
-Ruth 3:13	357009	חַי	HNcmsa	None	noun	adjective:-:?	?	-:-
-Ruth 4:1	357142	פְּלֹנִ֣י	HPf	None	pronoun	noun:-:?	?	-:-
-Song_of_songs 2:13	357957	לכי	HVqv2fs	None	verb	preposition:-:?	?	p:-
-Song_of_songs 3:8	358155	אֲחֻ֣זֵי	HVqsmpc	None	verb	adjective:-:?	?	-:-
-Song_of_songs 6:5	358742	הֵ֖ם	HSp3mp	None	suffix	personal pronoun:-:?	?	-:-
-Song_of_songs 6:12	358853	עַמִּי	HNcmsc	HSp1cs	noun	noun:-:?	suffix	-:J
-Ecclesiastes 3:21	360509	מָ֑עְלָה	HR	HSd	preposition	noun:-:?	suffix	-:H
-Ecclesiastes 8:12	362111	וּ	HAcbsc	HC	adjective	conjunction:-:?	conjunction	-:-
-Ecclesiastes 9:12	362645	כָּהֵ֗ם	HR	HPp3mp	preposition	preposition:-:?	pronoun	p:-
-Esther 5:13	367881	יְּהוּדִ֔י	HAamsa	None	adjective	adjective:gentilic:?	?	-:-
-Esther 9:13	369453	יְּהוּדִים֙	HAampa	None	adjective	adjective:gentilic:?	?	-:-
-Daniel 2:4	370605	אֲרָמִ֑ית	HNgmsa	None	noun	adjective:-:?	?	-:-
-Daniel 2:5	370625	אַזְדָּ֑א	AAafsa	None	adjective	adverb:-:?	?	-:-
-Daniel 2:6	370653	לָהֵ֕ן	AC	None	conjunction	adverb:conjunctive adverb:?	?	-:-
-Daniel 2:7	370659	תִנְיָנ֖וּת	AAobpa	None	adjective	adverb:-:?	?	-:-
-Daniel 2:7	370668	פִשְׁרָ֥ה	ANcmsc	ASp3ms	noun	noun:-:?	suffix	-:>
-Daniel 2:8	370678	דִּ֥י	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:8	370682	כָּ	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:8	370683	ל	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:8	370685	דִּ֣י	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:8	370687	דִּ֥י	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:8	370688	אַזְדָּ֖א	AAafsa	None	adjective	adverb:-:?	?	-:-
-Daniel 2:9	370712	לָהֵ֗ן	AC	None	conjunction	adverb:conjunctive adverb:?	?	-:-
-Daniel 2:9	370718	דִּ֥י	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:10	370738	כָּ	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:10	370739	ל	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:10	370741	דִּ֚י	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:12	370781	כָּ	AC	None	conjunction	preposition:-:?	?	-:-
-Daniel 2:12	370784	דְּנָ֔ה	AC	None	conjunction	demonstrative pronoun:-:?	?	-:-
-Daniel 2:15	370840	מָ֥ה	APixbs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 2:20	370939	הִֽיא	ATa	None	particle	personal pronoun:-:?	?	-:-
-Daniel 2:22	370966	מָ֣ה	APfxbs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 2:23	370982	וּ	ANcfsd	None	noun	conjunction:-:?	?	-:-
-Daniel 2:24	370999	דְּנָ֗ה	AC	None	conjunction	demonstrative pronoun:-:?	?	-:-
-Daniel 2:26	371072	חֲזֵ֖ית	ATr	None	particle	verb:-:?	?	-:-
-Daniel 2:28	371095	בְּרַ֡ם	AC	None	conjunction	adverb:-:?	?	-:-
-Daniel 2:28	371107	מָ֛ה	APfxbs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 2:28	371120	הֽוּא	HTa	None	particle	personal pronoun:-:?	?	-:-
-Daniel 2:29	371127	מָ֛ה	APfxbs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 2:29	371136	מָה	APfxbs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 2:35	371257	הִמֹּון֙	ASp3mp	None	suffix	personal pronoun:-:?	?	-:-
-Daniel 2:38	371321	ה֔וּא	ATa	None	particle	personal pronoun:-:?	?	-:-
-Daniel 2:45	371507	מָ֛ה	APfxbs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 2:47	371547	ה֣וּא	ATa	None	particle	personal pronoun:-:?	?	-:-
-Daniel 3:6	371722	מַן	APf3bs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 3:6	371723	דִּי	APf3bs	None	pronoun	preposition:-:?	?	-:-
-Daniel 3:7	371739	דְּנָ֡ה	AC	None	conjunction	demonstrative pronoun:-:?	?	-:-
-Daniel 3:8	371774	דְּנָה֙	AC	None	conjunction	demonstrative pronoun:-:?	?	-:-
-Daniel 3:11	371823	מַן	APf3cs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 3:11	371824	דִּי	APf3cs	None	pronoun	preposition:-:?	?	-:-
-Daniel 3:14	371896	צְדָּ֕א	ANcmsa	None	noun	adverb:-:?	?	-:-
-Daniel 3:15	371955	מַן	APi3cs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 3:15	371956	ה֣וּא	ATa	None	particle	personal pronoun:-:?	?	-:-
-Daniel 3:22	372091	דְּנָ֗ה	AC	None	conjunction	demonstrative pronoun:-:?	?	-:-
-Daniel 3:33	372373	מָ֣ה	APfxcs	None	pronoun	interrogative pronoun:-:?	?	-:-
-Daniel 4:12	372585	בְּרַ֨ם	AC	None	conjunction	adverb:-:?	?	-:-
-Daniel 4:14	372650	דִּ֤י	APfxcs	None	pronoun	preposition:-:?	?	-:-
-Daniel 4:15	372667	פִּשְׁרֵ֣א	ANcmsd	ATd	noun	noun:-:?	particle	p:-
-Daniel 4:16	372708	פִשְׁרֵא֙	ANcmsd	ATd	noun	noun:-:?	particle	p:-
-Daniel 4:20	372796	בְּרַ֨ם	AC	None	conjunction	adverb:-:?	?	-:-
-Daniel 4:21	372840	מַלְכָּֽא	ANcmsc	ASp1cs	noun	noun:-:?	suffix	-:>
-Daniel 4:22	372862	לָ֣ךְ	AR	ATo	preposition	preposition:-:?	particle	p:-
-Daniel 4:22	372881	דִּ֥י	APrxcs	None	pronoun	preposition:-:?	?	-:-
-Daniel 4:23	372897	דִּ֣י	AAafsa	None	adjective	preposition:-:?	?	-:-
-Daniel 4:24	372902	לָהֵ֣ן	AC	None	conjunction	adverb:conjunctive adverb:?	?	-:-
-Daniel 4:29	373010	דִּ֥י	APrxcs	None	pronoun	preposition:-:?	?	-:-
-Daniel 5:2	373192	אֲב֔וּהִי	ANcmsc	ASp3ms	noun	noun:-:?	suffix	p:W
-Daniel 5:8	373341	פשׁרא	ANcmsd	ATd	noun	noun:-:?	particle	p:-
-Daniel 6:6	373962	עֲלֹ֖והִי	AR	APp3ms	preposition	preposition:-:?	pronoun	p:-
-Daniel 6:10	374043	דְּנָ֑ה	AC	None	conjunction	demonstrative pronoun:-:?	?	-:-
-Daniel 6:18	374272	חֲדָ֔ה	ANcfsa	None	noun	noun:cardinal:?	?	-:-
-Daniel 6:20	374320	הִ֨תְבְּהָלָ֔ה	ANcfsa	None	noun	verb:-:?	?	-:-
-Daniel 6:23	374385	הִשְׁתְּכַ֣חַת	ANcfsa	None	noun	verb:-:?	?	-:-
-Daniel 6:28	374522	וּ	AR	None	preposition	conjunction:-:?	?	-:-
-Daniel 6:28	374523	בְ	ANcmpd	None	noun	preposition:-:?	?	-:-
-Daniel 7:5	374644	שׁניה	ANcfpd	ATd	noun	noun:-:?	particle	p:-
-1_Chronicles 6:9	394165	תַּ֤חַת	HR	None	preposition	proper noun:-:?	?	-:-
-1_Chronicles 6:22	394298	תַּ֨חַת֙	HR	None	preposition	proper noun:-:?	?	-:-
-1_Chronicles 21:3	401846	כָּהֵם֙	HR	HPp3mp	preposition	preposition:-:?	pronoun	p:-
-2_Chronicles 9:11	411307	כָהֵ֛ם	HR	HPp3mp	preposition	preposition:-:?	pronoun	p:-
+Genesis 1:1	5	אֵ֥ת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:1	9	אֵ֥ת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:2	15	הָיְתָ֥ה	HVqp3fs	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:3	33	יֹּ֥אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:3	35	יְהִ֣י	HVqj3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:3	38	יְהִי	HVqw3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:4	43	אֶת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:4	51	בֵּ֥ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:4	55	בֵ֥ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:5	64	יֹ֔ום	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:5	70	לָ֑יְלָה	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:5	72	יְהִי	HVqw3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:5	73	עֶ֥רֶב	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:5	75	יְהִי	HVqw3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:5	76	בֹ֖קֶר	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:5	77	יֹ֥ום	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:6	80	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:6	82	יְהִ֥י	HVqj3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:6	89	יהִ֣י	HVqi3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:6	91	בֵּ֥ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:7	98	אֶת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:7	103	בֵּ֤ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:7	106	אֲשֶׁר֙	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:7	113	בֵ֣ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:7	116	אֲשֶׁ֖ר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:7	123	יְהִי	HVqw3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:7	124	כֵֽן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 1:8	133	יְהִי	HVqw3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:8	134	עֶ֥רֶב	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:8	136	יְהִי	HVqw3ms	verb	verb:copulative verb:?	None	?	-:-
+Genesis 1:8	137	בֹ֖קֶר	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:8	138	יֹ֥ום	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:8	139	שֵׁנִֽי	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 1:9	141	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:9	159	כֵֽן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 1:11	180	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:11	195	אֲשֶׁ֥ר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:11	203	כֵֽן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 1:12	218	אֲשֶׁ֥ר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:13	230	עֶ֥רֶב	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:13	233	בֹ֖קֶר	HNcmsa	noun	noun:potential adverb:?	None	?	-:-
+Genesis 1:13	235	שְׁלִישִֽׁי	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 1:14	237	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:14	247	בֵּ֥ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:14	251	בֵ֣ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:15	281	כֵֽן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 1:16	285	אֶת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:16	290	גְּדֹלִ֑ים	HAampa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:16	291	אֶת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:16	295	גָּדֹל֙	HAamsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:16	301	אֶת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:16	305	קָּטֹן֙	HAamsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:16	311	אֵ֖ת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:17	316	אֹתָ֛ם	HTo	particle	preposition:-:?	HSp3mp	suffix	p:-
+Genesis 1:18	340	בֵּ֥ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:18	344	בֵ֣ין	HR	preposition	noun:potential preposition:?	None	?	-:-
+Genesis 1:19	359	רְבִיעִֽי	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 1:20	361	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:20	368	חַיָּ֑ה	HAafsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:21	383	אֶת	HTo	particle	preposition:-:?	None	?	-:-
+Genesis 1:21	387	גְּדֹלִ֑ים	HAampa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:21	390	כָּל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:21	393	חַיָּ֣ה	HAafsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:21	396	אֲשֶׁר֩	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:21	404	כָּל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:22	419	אמֹ֑ר	HVqc	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:23	445	חֲמִישִֽׁי	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 1:24	447	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:24	453	חַיָּה֙	HAafsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:24	460	חַֽיְתֹו	HNcfsc	noun	noun:-:?	None	?	-:W
+Genesis 1:24	466	כֵֽן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 1:25	484	כָּל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:26	496	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:26	521	כָל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:26	526	כָל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:27	547	זָכָ֥ר	HAamsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:28	557	יֹּ֨אמֶר	HVqw3ms	verb	verb:quotation verb:?	None	?	-:-
+Genesis 1:28	583	כָל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:29	593	הִנֵּה֩	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 1:29	597	כָּל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:29	601	אֲשֶׁר֙	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:29	604	כָל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:29	609	כָּל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:29	612	אֲשֶׁר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:30	624	כָל	HNcmsc	noun	noun:distributive noun:?	None	?	-:-
+Genesis 1:30	641	אֲשֶׁר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:30	644	חַיָּ֔ה	HAafsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:30	653	כֵֽן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 1:31	659	אֲשֶׁ֣ר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 1:31	662	הִנֵּה	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 1:31	663	טֹ֖וב	HAamsa	adjective	adjective:-:?	None	?	-:-
+Genesis 1:31	664	מְאֹ֑ד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 1:31	673	שִּׁשִּֽׁי	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 2:2	691	שְּׁבִיעִ֔י	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 2:2	693	אֲשֶׁ֣ר	HTr	particle	conjunction:-:?	None	?	-:-
+Genesis 2:2	701	שְּׁבִיעִ֔י	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 2:3	713	שְּׁבִיעִ֔י	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 2:4	728	אֵ֣לֶּה	HPdxcp	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 2:4	740	יְהוָ֥ה	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:5	750	טֶ֚רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 2:5	760	טֶ֣רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 2:5	763	לֹ֨א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 2:5	765	יְהוָ֤ה	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:5	772	אַ֔יִן	HTn	particle	noun:copulative noun:?	None	?	-:-
+Genesis 2:7	793	יְהוָ֨ה	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:8	817	יְהוָ֧ה	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:8	821	עֵ֖דֶן	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:9	834	יְהוָ֤ה	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:10	867	עֵ֔דֶן	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:11	885	פִּישֹׁ֑ון	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:11	893	חֲוִילָ֔ה	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:13	917	שֵּׁנִ֖י	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 2:13	918	גִּיחֹ֑ון	HNp	noun	proper noun:-:?	None	?	-:-
+Genesis 2:14	931	שְּׁלִישִׁי֙	HAomsa	adjective	adjective:ordinal:?	None	?	-:-
+Genesis 2:14	936	קִדְמַ֣ת	HNcfsc	noun	noun:potential preposition:?	None	?	-:-
+Genesis 2:17	986	לֹ֥א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 2:18	1000	לֹא	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 2:19	1036	מַה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 2:20	1073	לֹֽא	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 2:23	1120	זֹ֣את	HPdxfs	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 2:23	1131	זֹאת֙	HPdxfs	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 2:23	1138	זֹּֽאת	HPdxfs	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 2:24	1140	כֵּן֙	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 2:24	1144	אָבִ֖יו	HNcmsc	noun	noun:-:?	HSp3ms	suffix	p:J
+Genesis 2:25	1166	לֹ֖א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 3:1	1187	אַ֚ף	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 3:1	1191	לֹ֣א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 3:3	1223	לֹ֤א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 3:3	1227	לֹ֥א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 3:3	1231	תְּמֻתֽוּן	HVqi2mp	verb	verb:-:?	HSn	suffix	-:-
+Genesis 3:4	1239	לֹֽא	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 3:4	1241	תְּמֻתֽוּן	HVqi2mp	verb	verb:-:?	HSn	suffix	-:-
+Genesis 3:6	1292	גַּם	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 3:9	1354	אַיֶּֽכָּה	HTi	particle	interrogative particle:-:?	HSp2ms	suffix	p:N
+Genesis 3:11	1372	מִ֚י	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 3:11	1378	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 3:11	1385	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 3:12	1397	עִמָּדִ֔י	HR	preposition	noun:potential preposition:?	HSp1cs	suffix	p:-
+Genesis 3:13	1413	מַה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 3:13	1414	זֹּ֣את	HPdxfs	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 3:14	1434	זֹּאת֒	HPdxfs	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 3:17	1516	לֹ֥א	HTn	particle	negative particle:-:?	None	?	-:-
+Genesis 3:22	1592	הֵ֤ן	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 3:22	1611	גַּ֚ם	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 3:24	1663	דֶּ֖רֶךְ	HNcbsc	noun	noun:potential preposition:?	None	?	-:-
+Genesis 4:2	1691	אָחִ֖יו	HNcmsc	noun	noun:distributive noun:?	HSp3ms	suffix	p:J
+Genesis 4:4	1722	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 4:5	1750	מְאֹ֔ד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 4:6	1759	לָ֚מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 4:6	1763	לָ֖מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 4:7	1766	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 4:8	1792	אָחִ֑יו	HNcmsc	noun	noun:distributive noun:?	HSp3ms	suffix	p:J
+Genesis 4:8	1805	אָחִ֖יו	HNcmsc	noun	noun:distributive noun:?	HSp3ms	suffix	p:J
+Genesis 4:9	1813	אֵ֖י	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 4:9	1815	אָחִ֑יךָ	HNcmsc	noun	noun:distributive noun:?	HSp2ms	suffix	p:J
+Genesis 4:10	1826	מֶ֣ה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 4:10	1830	אָחִ֔יךָ	HNcmsc	noun	noun:distributive noun:?	HSp2ms	suffix	p:J
+Genesis 4:11	1851	אָחִ֖יךָ	HNcmsc	noun	noun:distributive noun:?	HSp2ms	suffix	p:J
+Genesis 4:14	1880	הֵן֩	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 4:15	1911	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Genesis 4:15	1915	שִׁבְעָתַ֖יִם	HNcfda	noun	noun:cardinal:?	None	?	-:-
+Genesis 4:15	1924	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 4:16	1941	קִדְמַת	HNcfsc	noun	noun:potential preposition:?	None	?	-:-
+Genesis 4:20	2010	אֲבִ֕י	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 4:21	2017	אָחִ֖יו	HNcmsc	noun	noun:distributive noun:?	HSp3ms	suffix	p:J
+Genesis 4:21	2021	אֲבִ֕י	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 4:22	2029	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 4:24	2068	שִׁבְעָתַ֖יִם	HNcfda	noun	noun:cardinal:?	None	?	-:-
+Genesis 4:25	2079	עֹוד֙	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 4:26	2104	גַּם	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 5:1	2120	זֶ֣ה	HPdxms	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 5:29	2535	זֶ֞֠ה	HPdxms	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 6:3	2650	גַּ֖ם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 6:4	2672	גַ֣ם	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 6:4	2674	כֵ֗ן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 6:4	2689	גִּבֹּרִ֛ים	HAampa	adjective	noun:-:?	None	?	-:-
+Genesis 6:5	2712	רַ֥ק	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 6:9	2768	אֵ֚לֶּה	HPdxcp	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 6:12	2815	הִנֵּ֣ה	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 6:12	2822	דַּרְכֹּ֖ו	HNcbsc	noun	noun:potential preposition:?	HSp3ms	suffix	p:-
+Genesis 6:13	2845	הִנְנִ֥י	HTj	particle	interjection:-:?	HSp1cs	suffix	p:-
+Genesis 6:15	2872	זֶ֕ה	HPdxms	pronoun	demonstrative pronoun:-:?	None	?	-:-
+Genesis 6:16	2897	תְּכַלֶ֣נָּה	HVpi2ms	verb	verb:-:?	HSp3fs	suffix	p:N
+Genesis 6:16	2900	מַ֔עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Genesis 6:17	2915	הִנְנִי֩	HTm	particle	interjection:-:?	HSp1cs	suffix	p:-
+Genesis 6:22	3036	כֵּ֥ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 7:3	3087	גַּ֣ם	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 7:4	3108	עֹ֜וד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 7:18	3402	מְאֹ֖ד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 7:19	3418	מְאֹ֥ד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 7:19	3419	מְאֹ֖ד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 7:20	3440	מַ֔עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Genesis 7:23	3525	אַךְ	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 8:8	3696	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 8:10	3741	עֹ֔וד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 8:11	3763	הִנֵּ֥ה	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 8:12	3782	עֹ֔וד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 8:12	3796	עֹֽוד	HD	adverb	noun:potential adverb:?	None	?	-:-
+Genesis 8:13	3830	הִנֵּ֥ה	HTm	particle	interjection:-:?	None	?	-:-
+Genesis 9:4	4102	אַךְ	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 9:5	4110	אַ֨ךְ	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 9:5	4129	אָחִ֔יו	HNcmsc	noun	noun:distributive noun:?	HSp3ms	suffix	p:J
+Genesis 9:9	4177	הִנְנִ֥י	HTj	particle	interjection:-:?	HSp1cs	suffix	p:-
+Genesis 9:18	4387	אֲבִ֥י	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 9:22	4424	אֲבִ֣י	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 9:22	4428	אָבִ֑יו	HNcmsc	noun	noun:-:?	HSp3ms	suffix	p:J
+Genesis 10:8	4639	גִּבֹּ֖ר	HAamsa	adjective	noun:-:?	None	?	-:-
+Genesis 10:9	4651	כֵּן֙	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 10:9	4655	גִּבֹּ֥ור	HAamsc	adjective	noun:-:?	None	?	-:-
+Genesis 10:14	4728	פְּלִשְׁתִּ֖ים	HNgmpa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 10:16	4744	יְבוּסִי֙	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 10:16	4748	אֱמֹרִ֔י	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 10:17	4756	חִוִּ֥י	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 10:18	4782	כְּנַעֲנִֽי	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 10:19	4787	כְּנַעֲנִי֙	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 10:19	4791	גְרָ֖רָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 10:19	4795	סְדֹ֧מָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 10:21	4819	גַּם	HTa	particle	adverb:focus particle:?	None	?	-:-
+Genesis 10:21	4821	אֲבִי֙	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 10:21	4825	אֲחִ֖י	HNcmsc	noun	noun:distributive noun:?	None	?	-:J
+Genesis 10:30	4931	סְפָ֖רָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 11:3	4996	הָ֚בָה	HVqv2ms	verb	verb:-:?	HSh	suffix	-:-
+Genesis 11:4	5020	הָ֣בָה	HVqv2ms	verb	verb:-:?	HSh	suffix	-:-
+Genesis 11:7	5085	הָ֚בָה	HVqv2ms	verb	verb:-:?	HSh	suffix	-:-
+Genesis 11:9	5115	כֵּ֞ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 11:10	5142	מְאַ֣ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Genesis 11:10	5143	שָׁנָ֔ה	HAcbsc	adjective	noun:-:?	HNcfsa	noun	-:-
+Genesis 11:29	5421	אֲבִֽי	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 11:29	5424	אֲבִ֥י	HNcmsc	noun	noun:-:?	None	?	-:J
+Genesis 11:30	5430	אֵ֥ין	HTn	particle	noun:copulative noun:?	None	?	-:-
+Genesis 12:6	5604	כְּנַעֲנִ֖י	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 12:18	5822	מַה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 12:18	5826	לָ֚מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 12:19	5833	לָמָ֤ה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 13:7	5986	כְּנַעֲנִי֙	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 13:7	5989	פְּרִזִּ֔י	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 13:9	6017	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 13:15	6153	אֶתְּנֶ֑נָּה	HVqi1cs	verb	verb:-:?	HSp3fs	suffix	p:N
+Genesis 13:17	6192	אֶתְּנֶֽנָּה	HVqi1cs	verb	verb:-:?	HSp3fs	suffix	p:N
+Genesis 14:7	6337	אֱמֹרִ֔י	HNgmsa	noun	adjective:gentilic:?	None	?	-:-
+Genesis 14:10	6404	שָׁ֑מָּה	HD	adverb	adverb:-:?	HSd	suffix	-:H
+Genesis 15:2	6697	אֲדֹנָ֤י	HNcmpc	noun	proper noun:-:?	HSp1cs	suffix	-:-
+Genesis 15:2	6699	מַה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 15:5	6749	ח֗וּצָה	HNcmsa	noun	noun:-:?	HSd	suffix	-:H
+Genesis 15:5	6755	שָּׁמַ֗יְמָה	HNcmpa	noun	noun:-:?	HSd	suffix	-:H
+Genesis 15:8	6801	אֲדֹנָ֣י	HNcmpc	noun	proper noun:-:?	HSp1cs	suffix	-:-
+Genesis 15:8	6804	מָּ֥ה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 15:8	6807	אִֽירָשֶֽׁנָּה	HVqi1cs	verb	verb:-:?	HSp3fs	suffix	p:N
+Genesis 15:9	6811	קְחָ֥ה	HVqv2ms	verb	verb:-:?	HSh	suffix	-:-
+Genesis 15:14	6912	כֵ֥ן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 16:7	7176	דֶ֥רֶךְ	HNcbsc	noun	noun:potential preposition:?	None	?	-:-
+Genesis 16:8	7183	אֵֽי	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 16:8	7188	אָ֣נָה	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 16:13	7274	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 16:13	7275	גַ֥ם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 16:14	7281	כֵּן֙	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 17:17	7608	הַ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 17:17	7617	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 18:3	7844	אֲדֹנָ֗י	HNcmpc	noun	proper noun:-:?	HSp1cs	suffix	-:-
+Genesis 18:5	7880	כֵּ֥ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 18:5	7886	כֵּ֥ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 18:9	7959	אַיֵּ֖ה	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 18:13	8030	לָ֣מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 18:14	8043	הֲ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 18:17	8095	הַֽ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 18:19	8132	דֶּ֣רֶךְ	HNcbsc	noun	noun:potential preposition:?	None	?	-:-
+Genesis 18:21	8166	הַ	HTi	particle	interrogative particle:interrogative particle:?	None	?	-:-
+Genesis 18:22	8186	סְדֹ֑מָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 18:24	8206	יֵ֛שׁ	HTm	particle	noun:copulative noun:?	None	?	-:-
+Genesis 18:27	8293	אֲדֹנָ֔י	HNcmpc	noun	proper noun:-:?	HSp1cs	suffix	-:-
+Genesis 19:1	8429	סְדֹ֨מָה֙	HNp	noun	proper noun:-:?		?	-:H
+Genesis 19:2	8470	דַרְכְּכֶ֑ם	HNcbsc	noun	noun:potential preposition:?	HSp2mp	suffix	p:-
+Genesis 19:4	8499	טֶרֶם֮	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 19:5	8528	אַיֵּ֧ה	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 19:8	8590	כֵּ֥ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 19:12	8675	מִֽי	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 19:17	8809	ח֗וּצָה	HNcmsa	noun	noun:-:?	HSd	suffix	-:H
+Genesis 19:20	8877	שָׁ֖מָּה	HD	adverb	adverb:-:?	HSd	suffix	-:H
+Genesis 19:20	8883	שָׁ֗מָּה	HD	adverb	adverb:-:?	HSd	suffix	-:H
+Genesis 19:21	8904	בִלְתִּ֛י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 19:22	8913	שָׁ֔מָּה	HD	adverb	adverb:-:?	HSd	suffix	-:H
+Genesis 19:22	8922	שָׁ֑מָּה	HD	adverb	adverb:-:?	HSd	suffix	-:H
+Genesis 19:22	8924	כֵּ֛ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 19:23	8939	צֹֽעֲרָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 19:31	9100	אֵ֤ין	HTn	particle	noun:copulative noun:?	None	?	-:-
+Genesis 19:31	9108	דֶ֖רֶךְ	HNcbsc	noun	noun:potential preposition:?	None	?	-:-
+Genesis 19:38	9231	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 20:5	9327	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 20:6	9366	כֵּ֥ן	HTm	particle	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 20:9	9433	מֶֽה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 20:9	9437	מֶֽה	HTi	particle	interrogative pronoun:-:?	None	?	-:-
+Genesis 20:11	9474	אֵין	HTn	particle	noun:copulative noun:?	None	?	-:-
+Genesis 21:5	9686	מְאַ֣ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Genesis 21:5	9687	שָׁנָ֑ה	HAcbsc	adjective	noun:-:?	HNcfsa	noun	-:-
+Genesis 21:26	10103	בִּלְתִּ֥י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 22:7	10387	הִנֶּ֣נִּֽי	HTm	particle	interjection:-:?	HSp1cs	suffix	p:N
+Genesis 22:7	10398	אַיֵּ֥ה	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 22:20	10669	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 23:1	10747	שְׁנֵ֖י	HAcmdc	adjective	noun:-:?	None	?	-:-
+Genesis 23:8	10850	יֵ֣שׁ	HTm	particle	noun:copulative noun:?	None	?	-:-
+Genesis 23:19	11071	כֵן֩	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 24:15	11420	טֶרֶם֮	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 24:21	11536	דַּרְכֹּ֖ו	HNcbsc	noun	noun:potential preposition:?	HSp3ms	suffix	p:-
+Genesis 24:23	11573	יֵ֧שׁ	HTm	particle	noun:copulative noun:?	None	?	-:-
+Genesis 24:27	11632	דֶּ֨רֶךְ֙	HNcbsa	noun	noun:potential preposition:?	None	?	-:-
+Genesis 24:31	11717	לָ֤מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 24:42	11926	יֶשְׁךָ	HTm	particle	noun:copulative noun:?	HSp2ms	suffix	p:-
+Genesis 24:45	11979	טֶ֨רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 24:49	12083	יֶשְׁכֶ֨ם	HTm	particle	noun:copulative noun:?	HSp2mp	suffix	p:-
+Genesis 24:60	12282	רְבָבָ֑ה	HNcfsa	noun	noun:noun of multitude:?	None	?	-:-
+Genesis 25:7	12523	שְׁנֵֽי	HAcmdc	adjective	noun:-:?	None	?	-:-
+Genesis 25:7	12528	מְאַ֥ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Genesis 25:7	12529	שָׁנָ֛ה	HAcbsc	adjective	noun:-:?	HNcfsa	noun	-:-
+Genesis 25:17	12670	שְׁנֵי֙	HAcmdc	adjective	noun:-:?	None	?	-:-
+Genesis 25:17	12673	מְאַ֥ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Genesis 25:17	12674	שָׁנָ֛ה	HAcbsc	adjective	noun:-:?	HNcfsa	noun	-:-
+Genesis 25:22	12769	לָ֥מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 25:26	12826	כֵ֞ן	HD	adverb	adverb:anaphoric adverb:?	None	?	-:-
+Genesis 25:32	12933	לָמָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 26:1	13002	גְּרָֽרָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 26:9	13160	אֵ֥יךְ	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 26:27	13481	מַדּ֖וּעַ	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 26:33	13591	שִׁבְעָ֑ה	HAcmsa	adjective	proper noun:-:?	None	?	-:-
+Genesis 26:33	13598	שֶׁ֔בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+Genesis 27:4	13702	טֶ֥רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 27:18	13927	הִנֶּ֔נִּי	HTm	particle	interjection:-:?	HSp1cs	suffix	p:N
+Genesis 27:19	13953	תְּבָרֲכַ֥נִּי	HVpi3fs	verb	verb:-:?	HSp1cs	suffix	p:N
+Genesis 27:31	14177	תְּבָרֲכַ֥נִּי	HVpi3fs	verb	verb:-:?	HSp1cs	suffix	p:N
+Genesis 27:33	14215	טֶ֥רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 27:34	14241	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 27:38	14321	גַם	HD	adverb	adverb:focus particle:?	None	?	-:-
+Genesis 27:45	14450	אַף	HTa	particle	noun:-:?	None	?	-:-
+Genesis 27:45	14465	לָמָ֥ה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 27:46	14496	לָ֥מָּה	HR	preposition	interrogative particle:-:?	HTi	particle	-:-
+Genesis 28:13	14748	אֶתְּנֶ֖נָּה	HVqi1cs	verb	verb:-:?	HSp3fs	suffix	p:N
+Genesis 28:16	14814	יֵ֣שׁ	HTm	particle	noun:copulative noun:?	None	?	-:-
+Genesis 29:4	15029	אַ֣יִן	HTi	particle	interrogative particle:-:?	None	?	-:-
+Genesis 30:2	15620	אַ֥ף	HTa	particle	noun:-:?	None	?	-:-
+Genesis 30:15	15823	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Genesis 31:20	16737	בְּלִי֙	HTn	particle	noun:potential preposition:?	None	?	-:-
+Genesis 35:16	19358	אֶפְרָ֑תָה	HNp	noun	proper noun:-:?	None	?	-:H
+Genesis 35:19	19407	אֶפְרָ֔תָה	HNp	noun	proper noun:-:?	None	?	-:H
+Genesis 35:28	19526	מְאַ֥ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Genesis 35:28	19527	שָׁנָ֖ה	HAcbsc	adjective	noun:-:?	HNcfsa	noun	-:-
+Genesis 37:17	20482	דֹּתָ֑יְנָה	HNp	noun	proper noun:-:?		?	-:H
+Genesis 37:18	20499	טֶ֨רֶם֙	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 37:30	20737	אָ֥נָה	HD	adverb	interrogative particle:-:?	None	?	-:-
+Genesis 38:9	20979	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 41:50	23277	טֶ֥רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 43:3	24185	בִּלְתִּ֖י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 43:5	24213	בִּלְתִּ֖י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Genesis 45:28	25991	טֶ֥רֶם	HD	adverb	noun:potential preposition:?	None	?	-:-
+Genesis 47:18	26979	בִּלְתִּ֥י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Exodus 4:14	30441	אַ֨ף	HTa	particle	noun:-:?	None	?	-:-
+Exodus 6:6	31334	לָכֵ֞ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Exodus 8:18	32802	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Exodus 8:25	32965	בִלְתִּי֙	HC	conjunction	noun:potential preposition:?	None	?	-:J
+Exodus 10:29	34441	כֵּ֣ן	HTm	particle	adjective:-:?	None	?	-:-
+Exodus 12:9	34847	נָ֔א	HTe	particle	adjective:-:?	None	?	-:-
+Exodus 16:28	37951	אָ֨נָה֙	HD	adverb	interrogative particle:-:?	None	?	-:-
+Exodus 21:8	40141	לא	HTn	particle	preposition:-:?	None	?	p:-
+Exodus 25:20	42254	מַ֗עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Exodus 32:19	46923	אַ֣ף	HTa	particle	noun:-:?	None	?	-:-
+Exodus 32:22	46988	אַ֖ף	HTa	particle	noun:-:?	None	?	-:-
+Exodus 37:9	50072	מַ֗עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Exodus 38:25	50893	מְאַ֣ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Exodus 38:25	50894	כִּכָּ֑ר	HAcbsc	adjective	noun:-:?	HNcbsa	noun	-:-
+Exodus 38:26	50932	מַ֔עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Exodus 38:27	50947	מְאַת֙	HR	preposition	noun:cardinal:?	None	?	-:-
+Exodus 38:27	50948	כִּכַּ֣ר	HAcbsc	adjective	noun:-:?	HNcbsc	noun	-:-
+Exodus 38:27	50962	מְאַ֧ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Exodus 38:27	50963	אֲדָנִ֛ים	HAcbsc	adjective	noun:-:?	HNcmpa	noun	-:-
+Leviticus 11:21	58184	לא	HTn	particle	preposition:-:?	None	?	p:-
+Leviticus 25:30	67708	לא	HTn	particle	preposition:-:?	None	?	p:-
+Leviticus 26:8	68272	רְבָבָ֣ה	HNcfsa	noun	noun:noun of multitude:?	None	?	-:-
+Leviticus 27:7	69079	מַ֨עְלָה֙	HD	adverb	noun:-:?	HSd	suffix	-:H
+Numbers 1:3	69665	מַ֔עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Numbers 1:16	69771	אַלְפֵ֥י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Numbers 1:18	69816	מַ֖עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Numbers 1:20	69854	מַ֔עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Numbers 1:22	69891	מַ֔עְלָה	HD	adverb	noun:-:?	HSd	suffix	-:H
+Numbers 2:9	70537	מְאַ֨ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Numbers 2:9	70538	אֶ֜לֶף	HAcbsc	adjective	noun:cardinal:?	HAcbsa	adjective	-:-
+Numbers 2:16	70632	מְאַ֨ת	HR	preposition	noun:cardinal:?	None	?	-:-
+Numbers 2:16	70633	אֶ֜לֶף	HAcbsc	adjective	noun:cardinal:?	HAcbsa	adjective	-:-
+Numbers 2:24	70744	אֶ֛לֶף	HAcbsc	adjective	noun:cardinal:?	HAcbsa	adjective	-:-
+Numbers 2:31	70834	אֶ֗לֶף	HAcbsc	adjective	noun:cardinal:?	HAcbsa	adjective	-:-
+Numbers 7:13	74146	מְלֵאִ֗ים	HAampa	adjective	verb:-:?	None	?	-:-
+Numbers 7:14	74158	מְלֵאָ֥ה	HAafsa	adjective	verb:-:?	None	?	-:-
+Numbers 7:19	74228	מְלֵאִ֗ים	HAampa	adjective	verb:-:?	None	?	-:-
+Numbers 7:20	74240	מְלֵאָ֥ה	HAafsa	adjective	verb:-:?	None	?	-:-
+Numbers 7:25	74309	מְלֵאִ֗ים	HAampa	adjective	verb:-:?	None	?	-:-
+Numbers 7:26	74321	מְלֵאָ֥ה	HAafsa	adjective	verb:-:?	None	?	-:-
+Numbers 7:31	74390	מְלֵאִ֗ים	HAampa	adjective	verb:-:?	None	?	-:-
+Numbers 7:32	74402	מְלֵאָ֥ה	HAafsa	adjective	verb:-:?	None	?	-:-
+Numbers 7:37	74471	מְלֵאִ֗ים	HAampa	adjective	verb:-:?	None	?	-:-
+Numbers 7:38	74483	מְלֵאָ֥ה	HAafsa	adjective	verb:-:?	None	?	-:-
+Numbers 10:4	76318	אַלְפֵ֥י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Numbers 10:36	76792	רִֽבְבֹ֖ות	HNcfpc	noun	noun:noun of multitude:?	None	?	-:-
+Numbers 10:36	76793	אַלְפֵ֥י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Numbers 11:10	76982	אַ֤ף	HTa	particle	noun:-:?	None	?	-:-
+Numbers 12:9	77733	אַ֧ף	HTa	particle	noun:-:?	None	?	-:-
+Numbers 13:28	78266	אֶ֚פֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+Numbers 14:11	78625	אָ֥נָה	HD	adverb	interrogative particle:-:?	None	?	-:-
+Numbers 14:11	78633	אָ֨נָה֙	HD	adverb	interrogative particle:-:?	None	?	-:-
+Numbers 16:11	80256	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Numbers 20:12	82792	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Numbers 22:22	84242	אַ֣ף	HTa	particle	noun:-:?	None	?	-:-
+Numbers 22:27	84374	אַ֣ף	HTa	particle	noun:-:?	None	?	-:-
+Numbers 22:35	84560	אֶ֗פֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+Numbers 23:13	84915	אֶ֚פֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+Numbers 23:18	85007	בְּנֹ֥ו	HNcmsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Numbers 24:3	85260	בְּנֹ֣ו	HNcmsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Numbers 24:10	85352	אַ֤ף	HTa	particle	noun:-:?	None	?	-:-
+Numbers 24:15	85462	בְּנֹ֣ו	HNcmsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Numbers 25:6	85714	מִּדְיָנִ֔ית	HAafsa	adjective	adjective:gentilic:?	None	?	-:-
+Numbers 25:12	85826	לָכֵ֖ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Numbers 25:14	85864	מִּדְיָנִ֔ית	HAafsa	adjective	adjective:gentilic:?	None	?	-:-
+Numbers 25:15	85881	מִּדְיָנִ֖ית	HAafsa	adjective	adjective:gentilic:?	None	?	-:-
+Numbers 27:7	87018	כֵּ֗ן	HTm	particle	adjective:-:?	None	?	-:-
+Numbers 31:5	88937	אַלְפֵ֣י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Numbers 31:48	89752	אַלְפֵ֣י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Numbers 36:5	92641	כֵּ֛ן	HTm	particle	adjective:-:?	None	?	-:-
+Deuteronomy 1:28	93374	אָנָ֣ה	HD	adverb	interrogative particle:-:?	None	?	-:-
+Deuteronomy 15:4	102035	אֶ֕פֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+Deuteronomy 26:14	107494	אֹנִ֜י	HNcmsa	noun	noun:-:?	None	?	p:-
+Deuteronomy 32:11	111587	כְּנָפָיו֙	HD	adverb	noun:-:?		?	p:-
+Deuteronomy 32:30	111834	רְבָבָ֑ה	HNcfsa	noun	noun:noun of multitude:?	None	?	-:-
+Deuteronomy 33:2	112259	רִבְבֹ֣ת	HNcfpc	noun	noun:noun of multitude:?	None	?	-:-
+Deuteronomy 33:17	112490	אַפְסֵי	HNcmpc	noun	noun:copulative noun:?	None	?	-:-
+Deuteronomy 33:17	112494	רִבְבֹ֣ות	HNcfpc	noun	noun:noun of multitude:?	None	?	-:-
+Deuteronomy 33:17	112498	אַלְפֵ֥י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Joshua 2:4	113450	כֵּ֗ן	HTm	particle	adjective:-:?	None	?	-:-
+Joshua 2:5	113476	אָ֥נָה	HD	adverb	interrogative particle:-:?	None	?	-:-
+Joshua 15:28	121878	שֶׁ֖בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+Joshua 18:3	122887	אָ֨נָה֙	HD	adverb	interrogative particle:-:?	None	?	-:-
+Joshua 19:2	123440	שֶׁ֥בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+Joshua 19:2	123442	שֶׁ֖בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+Joshua 22:14	125618	אַלְפֵ֥י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Joshua 22:21	125800	אַלְפֵ֥י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Joshua 22:30	126046	אַלְפֵ֤י	HAcbpc	adjective	noun:noun of multitude:?	None	?	-:-
+Judges 1:5	127539	אֲדֹנִ֥י בֶ֨זֶק֙	HNp	noun	proper noun:-:?	HNp	noun	-:-
+Judges 1:6	127556	אֲדֹ֣נִי בֶ֔זֶק	HNp	noun	proper noun:-:?	HNp	noun	-:-
+Judges 1:10	127653	קִרְיַ֣ת אַרְבַּ֑ע	HNp	noun	proper noun:-:?	HAcfsa	adjective	-:-
+Judges 4:9	129562	אֶ֚פֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+Judges 4:11	129619	חֹתֵ֣ן	HNcmsc	noun	verb:-:?	None	?	-:-
+Judges 5:26	130324	עֲמֵלִ֑ים	HNcmpa	noun	adjective:-:?	None	?	-:-
+Judges 6:15	130741	אַלְפִּי֙	HNcmsc	noun	noun:noun of multitude:?	HSp1cs	suffix	p:-
+Judges 8:7	132272	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Judges 10:13	134367	לָכֵ֥ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Judges 11:8	134614	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+Judges 12:6	135537	כֵּ֔ן	HTm	particle	adjective:-:?	None	?	-:-
+Judges 19:17	139509	אָ֥נָה	HD	adverb	interrogative particle:-:?	None	?	-:-
+Judges 20:1	139905	שֶׁ֔בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+Judges 20:10	140087	רְבָבָ֔ה	HNcfsa	noun	noun:noun of multitude:?	None	?	-:-
+1_Samuel 2:10	142251	אַפְסֵי	HNcmpc	noun	noun:copulative noun:?	None	?	-:-
+1_Samuel 2:30	142706	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:?	HD	adverb	-:-
+1_Samuel 4:21	143795	אִֽי־כָבֹוד֙	HTj	particle	proper noun:-:?		?	-:-
+1_Samuel 7:9	144886	יעלה	HVhw3ms	verb	verb:-:?	None	?	p:-
+1_Samuel 10:19	146672	אַלְפֵיכֶֽם	HAcbpc	adjective	noun:noun of multitude:?	HSp2mp	suffix	p:-
+1_Samuel 16:16	150632	טֹ֥וב	HVqq3ms	verb	adjective:-:?	None	?	-:-
+1_Samuel 16:23	150776	טֹ֣וב	HVqp3ms	verb	adjective:-:?	None	?	-:-
+1_Samuel 18:1	152175	יאהבו	HVqw3ms	verb	verb:-:?	None	?	p:-
+1_Samuel 18:7	152309	רִבְבֹתָֽיו	HNcfpc	noun	noun:noun of multitude:?	HSp3ms	suffix	p:-
+1_Samuel 18:8	152328	רְבָבֹ֔ות	HNcfpa	noun	noun:noun of multitude:?	None	?	-:-
+1_Samuel 23:17	155703	כֵּֽן	HTm	particle	adjective:-:?	None	?	-:-
+2_Samuel 1:21	160870	בְּלִ֖י	HTn	particle	noun:potential preposition:?	None	?	-:-
+2_Samuel 2:1	160986	אָ֥נָה	HD	adverb	interrogative particle:-:?	None	?	-:-
+2_Samuel 12:14	166691	אֶ֗פֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+2_Samuel 13:13	167413	אָ֤נָה	HD	adverb	interrogative particle:-:?	None	?	-:-
+2_Samuel 16:18	170177	לא	HTn	particle	preposition:-:?	None	?	p:-
+2_Samuel 17:11	170533	שֶׁ֔בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+2_Samuel 20:1	173091	שֶׁ֥בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+2_Samuel 20:2	173128	שֶׁ֣בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+2_Samuel 20:6	173220	שֶׁ֥בַע	HAcfsa	adjective	proper noun:-:?	None	?	-:-
+2_Samuel 24:3	175489	כָּהֵ֤ם	HR	preposition	preposition:-:?	HPp3mp	pronoun	p:-
+2_Samuel 24:3	175491	כָהֵם֙	HR	preposition	preposition:-:?	HPp3mp	pronoun	p:-
+1_Kings 6:24	180572	כְּנָפָ֖יו	HD	adverb	noun:-:?		?	p:-
+1_Kings 6:24	180576	כְּנָפָֽיו	HD	adverb	noun:-:?		?	p:-
+Isaiah 1:5	212146	וְ	HR	preposition	conjunction:-:?	None	?	-:-
+Isaiah 3:24	213261	כִּי	HC	conjunction	noun:-:?	None	?	-:-
+Isaiah 3:26	213275	אָנ֥וּ	HD	adverb	verb:-:?	None	?	-:-
+Isaiah 5:8	213572	אֶ֣פֶס	HNcmsc	noun	noun:copulative noun:?	None	?	-:-
+Isaiah 14:6	216934	בְּלִ֥י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Isaiah 19:8	218260	אָנוּ֙	HD	adverb	verb:-:?	None	?	-:-
+Isaiah 28:8	220950	בְּלִ֖י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Isaiah 32:10	222800	בְּלִ֥י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Isaiah 34:12	223468	אָֽפֶס	HNcmsa	noun	noun:copulative noun:?	None	?	-:-
+Isaiah 38:17	225311	בְּלִ֔י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Isaiah 47:8	228639	אַפְסִ֣י	HNcmsc	noun	noun:copulative noun:?	HSp1cs	suffix	-:J
+Isaiah 47:10	228689	אַפְסִ֥י	HNcmsc	noun	noun:copulative noun:?	HSp1cs	suffix	-:J
+Isaiah 56:9	231488	חַיְתֹ֣ו	HNcfsc	noun	noun:-:?	None	?	-:W
+Isaiah 56:9	231494	חַיְתֹ֖ו	HNcfsc	noun	noun:-:?	None	?	-:W
+Jeremiah 9:24	239863	מ֖וּל	HR	preposition	verb:-:?	None	?	-:-
+Jeremiah 18:3	243708	הו	HSp3ms	suffix	personal pronoun:-:?	None	?	-:-
+Ezekiel 48:16	290515	חֲמֵ֥שׁ חמשׁ	HAcfsa	adjective	noun:cardinal:?	HAcfsa	adjective	-:-
+Hosea 1:4	290992	מְעַ֗ט	HAamsa	adjective	noun:potential adverb:?	None	?	-:-
+Hosea 1:6	291032	לֹ֣א רֻחָ֑מָה	HTn	particle	proper noun:-:?	HNp	noun	-:-
+Hosea 1:8	291074	לֹ֣א רֻחָ֑מָה	HTn	particle	proper noun:-:?	HNp	noun	-:-
+Hosea 1:9	291084	לֹ֣א עַמִּ֑י	HTn	particle	proper noun:-:?	HNp	noun	-:-
+Hosea 2:3	291153	רֻחָֽמָה	HVPp3fs	verb	proper noun:-:?	None	?	-:-
+Hosea 2:25	291573	לֹ֣א רֻחָ֑מָה	HTn	particle	proper noun:-:?	HNp	noun	-:-
+Hosea 4:18	291977	מָגִנֶּֽיהָ	HNcbpc	noun	adjective:-:?	HSp3fs	suffix	p:-
+Hosea 7:4	292417	אֹפֶ֑ה	HVqrmsa	verb	noun:-:?	None	?	-:-
+Hosea 7:6	292448	אֹֽפֵהֶ֔ם	HVqrmsc	verb	noun:-:?	HSp3mp	suffix	p:-
+Hosea 7:8	292480	בְּלִ֥י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Hosea 8:7	292687	בְּלִ֣י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Hosea 8:10	292726	מְּעָ֔ט	HAamsa	adjective	noun:potential adverb:?	None	?	-:-
+Hosea 9:10	292956	אָהֳבָֽם	HVqc	verb	noun:-:?	HSp3mp	suffix	p:-
+Hosea 13:10	293827	אֵפֹ֔וא	HD	adverb	interjection:-:?	None	?	-:-
+Joel 4:3	295061	זֹּונָ֔ה	HNcfsa	noun	verb:-:?	None	?	-:-
+Joel 4:14	295245	חָר֑וּץ	HNp	noun	verb:-:?	None	?	-:-
+Joel 4:14	295253	חָרֽוּץ	HNp	noun	verb:-:?	None	?	-:-
+Amos 5:14	296736	כֵ֞ן	HD	adverb	adjective:-:?	None	?	-:-
+Amos 6:2	296968	רַבָּ֑ה	HNp	noun	adjective:-:?	None	?	-:-
+Obadiah 1:3	298206	שִׁבְתֹּ֑ו	HNcfsc	noun	verb:-:?	HSp3ms	suffix	p:-
+Jonah 1:15	298910	זַּעְפֹּֽו	HVqc	verb	noun:-:?	HSp3ms	suffix	p:-
+Jonah 2:4	298980	וְ	HR	preposition	conjunction:-:?	None	?	-:-
+Jonah 3:5	299157	וְ	HR	preposition	conjunction:-:?	None	?	-:-
+Jonah 4:11	299537	וּ	HR	preposition	conjunction:-:?	None	?	-:-
+Habakkuk 2:19	302774	דּוּמָ֑ם	HNcmsa	noun	adverb:-:?	None	?	-:-
+Habakkuk 2:20	302794	הַ֥ס	HTj	particle	verb:-:?	None	?	-:-
+Zephaniah 1:7	303207	הַ֕ס	HTj	particle	verb:-:?	None	?	-:-
+Zephaniah 1:11	303303	נְטִ֥ילֵי	HNcmpc	noun	adjective:-:?	None	?	-:-
+Zephaniah 2:14	303699	חַיְתֹו	HNcfsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Zephaniah 2:15	303735	אַפְסִ֣י	HNcmsc	noun	noun:copulative noun:?	HSp1cs	suffix	-:J
+Zephaniah 3:7	303852	אָכֵן֙	HD	adverb	interjection:-:?	None	?	-:-
+Zephaniah 3:8	303873	קָבְצִ֣י	HVqc	verb	verb:-:?	HSp1cs	suffix	-:J
+Zephaniah 3:10	303914	פּוּצַ֔י	HVqsmsc	verb	noun:-:?	HSp1cs	suffix	-:-
+Haggai 1:6	304217	מְעָ֗ט	HAamsa	adjective	noun:potential adverb:?	None	?	-:-
+Haggai 1:9	304272	מְעָ֔ט	HAamsa	adjective	noun:potential adverb:?	None	?	-:-
+Haggai 2:6	304606	הֶ	HR	preposition	article:-:?	None	?	-:-
+Haggai 2:18	304862	מָ֑עְלָה	HR	preposition	noun:-:?	HSd	suffix	-:H
+Haggai 2:19	304900	הַ	HRd	preposition	article:-:?	None	?	-:-
+Malachi 3:10	310378	בְּלִי	HTn	particle	noun:potential preposition:?	None	?	-:-
+Psalms 19:4	313207	בְּ֝לִ֗י	HTn	particle	noun:potential preposition:?	None	?	-:-
+Psalms 50:10	318733	חַיְתֹו	HNcfsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Psalms 79:2	324272	חַיְתֹו	HNcfsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Psalms 79:12	324385	שִׁ֭בְעָתַיִם	HNcfda	noun	noun:cardinal:?	None	?	-:-
+Psalms 90:12	326354	כֵּ֣ן	HTm	particle	adjective:-:?	None	?	-:-
+Psalms 104:11	328329	חַיְתֹ֣ו	HNcfsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Psalms 104:20	328426	חַיְתֹו	HNcfsc	noun	noun:-:?	HSp3ms	suffix	-:W
+Proverbs 1:5	346968	חָ֭כָם	HNcmsa	noun	adjective:-:?	None	?	-:-
+Proverbs 1:10	347016	חַ֝טָּאִ֗ים	HNcmpa	noun	adjective:-:?	None	?	-:-
+Proverbs 3:13	347564	יָפִ֥יק	HNcfsa	noun	verb:-:?	None	?	-:-
+Proverbs 3:35	347774	כְסִילִ֗ים	HNcmpa	noun	adjective:-:?	None	?	-:-
+Proverbs 11:19	349793	כֵּן	HTm	particle	adjective:-:?	None	?	-:-
+Proverbs 28:2	354600	כֵּ֣ן	HTm	particle	adjective:-:?	None	?	-:-
+Ruth 1:13	356036	לָהֵ֣ן	HC	conjunction	adverb:conjunctive adverb:?	None	?	-:-
+Ruth 1:13	356038	עַ֚ד	HD	adverb	preposition:-:?	None	?	-:-
+Ruth 1:13	356042	לָהֵן֙	HC	conjunction	adverb:conjunctive adverb:?	None	?	-:-
+Ruth 1:20	356181	מָרָ֔א	HNp	noun	adjective:-:?	None	?	-:-
+Ruth 2:1	356231	מידע	HVPrmsa	verb	noun:-:?	None	?	-:-
+Ruth 2:7	356376	מְעָֽט	HAamsa	adjective	noun:potential adverb:?	None	?	-:-
+Ruth 2:9	356432	אֲשֶׁ֥ר	HPr	pronoun	conjunction:-:?	None	?	-:-
+Ruth 3:12	356979	כִּ֥י אם	HC	conjunction	conjunction:-:?	HC	conjunction	-:-
+Ruth 3:13	357009	חַי	HNcmsa	noun	adjective:-:?	None	?	-:-
+Ruth 4:1	357142	פְּלֹנִ֣י	HPf	pronoun	noun:-:?	None	?	-:-
+Song_of_songs 2:13	357957	לכי	HVqv2fs	verb	preposition:-:?	None	?	p:-
+Song_of_songs 3:8	358155	אֲחֻ֣זֵי	HVqsmpc	verb	adjective:-:?	None	?	-:-
+Song_of_songs 6:5	358742	הֵ֖ם	HSp3mp	suffix	personal pronoun:-:?	None	?	-:-
+Song_of_songs 6:12	358853	עַמִּי	HNcmsc	noun	noun:-:?	HSp1cs	suffix	-:J
+Ecclesiastes 3:21	360509	מָ֑עְלָה	HR	preposition	noun:-:?	HSd	suffix	-:H
+Ecclesiastes 8:12	362111	וּ	HAcbsc	adjective	conjunction:-:?	HC	conjunction	-:-
+Ecclesiastes 9:12	362645	כָּהֵ֗ם	HR	preposition	preposition:-:?	HPp3mp	pronoun	p:-
+Esther 5:13	367881	יְּהוּדִ֔י	HAamsa	adjective	adjective:gentilic:?	None	?	-:-
+Esther 9:13	369453	יְּהוּדִים֙	HAampa	adjective	adjective:gentilic:?	None	?	-:-
+Daniel 2:4	370605	אֲרָמִ֑ית	HNgmsa	noun	adjective:-:?	None	?	-:-
+Daniel 2:5	370625	אַזְדָּ֑א	AAafsa	adjective	adverb:-:?	None	?	-:-
+Daniel 2:6	370653	לָהֵ֕ן	AC	conjunction	adverb:conjunctive adverb:?	None	?	-:-
+Daniel 2:7	370659	תִנְיָנ֖וּת	AAobpa	adjective	adverb:-:?	None	?	-:-
+Daniel 2:7	370668	פִשְׁרָ֥ה	ANcmsc	noun	noun:-:?	ASp3ms	suffix	-:>
+Daniel 2:8	370678	דִּ֥י	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:8	370682	כָּ	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:8	370683	ל	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:8	370685	דִּ֣י	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:8	370687	דִּ֥י	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:8	370688	אַזְדָּ֖א	AAafsa	adjective	adverb:-:?	None	?	-:-
+Daniel 2:9	370712	לָהֵ֗ן	AC	conjunction	adverb:conjunctive adverb:?	None	?	-:-
+Daniel 2:9	370718	דִּ֥י	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:10	370738	כָּ	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:10	370739	ל	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:10	370741	דִּ֚י	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:12	370781	כָּ	AC	conjunction	preposition:-:?	None	?	-:-
+Daniel 2:12	370784	דְּנָ֔ה	AC	conjunction	demonstrative pronoun:-:?	None	?	-:-
+Daniel 2:15	370840	מָ֥ה	APixbs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 2:20	370939	הִֽיא	ATa	particle	personal pronoun:-:?	None	?	-:-
+Daniel 2:22	370966	מָ֣ה	APfxbs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 2:23	370982	וּ	ANcfsd	noun	conjunction:-:?	None	?	-:-
+Daniel 2:24	370999	דְּנָ֗ה	AC	conjunction	demonstrative pronoun:-:?	None	?	-:-
+Daniel 2:26	371072	חֲזֵ֖ית	ATr	particle	verb:-:?	None	?	-:-
+Daniel 2:28	371095	בְּרַ֡ם	AC	conjunction	adverb:-:?	None	?	-:-
+Daniel 2:28	371107	מָ֛ה	APfxbs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 2:28	371120	הֽוּא	HTa	particle	personal pronoun:-:?	None	?	-:-
+Daniel 2:29	371127	מָ֛ה	APfxbs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 2:29	371136	מָה	APfxbs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 2:35	371257	הִמֹּון֙	ASp3mp	suffix	personal pronoun:-:?	None	?	-:-
+Daniel 2:38	371321	ה֔וּא	ATa	particle	personal pronoun:-:?	None	?	-:-
+Daniel 2:45	371507	מָ֛ה	APfxbs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 2:47	371547	ה֣וּא	ATa	particle	personal pronoun:-:?	None	?	-:-
+Daniel 3:6	371722	מַן	APf3bs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 3:6	371723	דִּי	APf3bs	pronoun	preposition:-:?	None	?	-:-
+Daniel 3:7	371739	דְּנָ֡ה	AC	conjunction	demonstrative pronoun:-:?	None	?	-:-
+Daniel 3:8	371774	דְּנָה֙	AC	conjunction	demonstrative pronoun:-:?	None	?	-:-
+Daniel 3:11	371823	מַן	APf3cs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 3:11	371824	דִּי	APf3cs	pronoun	preposition:-:?	None	?	-:-
+Daniel 3:14	371896	צְדָּ֕א	ANcmsa	noun	adverb:-:?	None	?	-:-
+Daniel 3:15	371955	מַן	APi3cs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 3:15	371956	ה֣וּא	ATa	particle	personal pronoun:-:?	None	?	-:-
+Daniel 3:22	372091	דְּנָ֗ה	AC	conjunction	demonstrative pronoun:-:?	None	?	-:-
+Daniel 3:33	372373	מָ֣ה	APfxcs	pronoun	interrogative pronoun:-:?	None	?	-:-
+Daniel 4:12	372585	בְּרַ֨ם	AC	conjunction	adverb:-:?	None	?	-:-
+Daniel 4:14	372650	דִּ֤י	APfxcs	pronoun	preposition:-:?	None	?	-:-
+Daniel 4:15	372667	פִּשְׁרֵ֣א	ANcmsd	noun	noun:-:?	ATd	particle	p:-
+Daniel 4:16	372708	פִשְׁרֵא֙	ANcmsd	noun	noun:-:?	ATd	particle	p:-
+Daniel 4:20	372796	בְּרַ֨ם	AC	conjunction	adverb:-:?	None	?	-:-
+Daniel 4:21	372840	מַלְכָּֽא	ANcmsc	noun	noun:-:?	ASp1cs	suffix	-:>
+Daniel 4:22	372862	לָ֣ךְ	AR	preposition	preposition:-:?	ATo	particle	p:-
+Daniel 4:22	372881	דִּ֥י	APrxcs	pronoun	preposition:-:?	None	?	-:-
+Daniel 4:23	372897	דִּ֣י	AAafsa	adjective	preposition:-:?	None	?	-:-
+Daniel 4:24	372902	לָהֵ֣ן	AC	conjunction	adverb:conjunctive adverb:?	None	?	-:-
+Daniel 4:29	373010	דִּ֥י	APrxcs	pronoun	preposition:-:?	None	?	-:-
+Daniel 5:2	373192	אֲב֔וּהִי	ANcmsc	noun	noun:-:?	ASp3ms	suffix	p:W
+Daniel 5:8	373341	פשׁרא	ANcmsd	noun	noun:-:?	ATd	particle	p:-
+Daniel 6:6	373962	עֲלֹ֖והִי	AR	preposition	preposition:-:?	APp3ms	pronoun	p:-
+Daniel 6:10	374043	דְּנָ֑ה	AC	conjunction	demonstrative pronoun:-:?	None	?	-:-
+Daniel 6:18	374272	חֲדָ֔ה	ANcfsa	noun	noun:cardinal:?	None	?	-:-
+Daniel 6:20	374320	הִ֨תְבְּהָלָ֔ה	ANcfsa	noun	verb:-:?	None	?	-:-
+Daniel 6:23	374385	הִשְׁתְּכַ֣חַת	ANcfsa	noun	verb:-:?	None	?	-:-
+Daniel 6:28	374522	וּ	AR	preposition	conjunction:-:?	None	?	-:-
+Daniel 6:28	374523	בְ	ANcmpd	noun	preposition:-:?	None	?	-:-
+Daniel 7:5	374644	שׁניה	ANcfpd	noun	noun:-:?	ATd	particle	p:-
+1_Chronicles 6:9	394165	תַּ֤חַת	HR	preposition	proper noun:-:?	None	?	-:-
+1_Chronicles 6:22	394298	תַּ֨חַת֙	HR	preposition	proper noun:-:?	None	?	-:-
+1_Chronicles 21:3	401846	כָּהֵם֙	HR	preposition	preposition:-:?	HPp3mp	pronoun	p:-
+2_Chronicles 9:11	411307	כָהֵ֛ם	HR	preposition	preposition:-:?	HPp3mp	pronoun	p:-
