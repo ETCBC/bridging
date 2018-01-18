@@ -9,7 +9,7 @@ def show(T, F, ws, getBHSinfo, getOSMinfo, indent='', asString=False):
 
     getBHSInfo will be used to grab BHS info, getOSMinfo will be used to grab OSM info.
     '''
-    t = ('{}{} w{} "{}"\n{}\tBHS: {}\n{}\tOSM: {}'.format(
+    t = ('{}{} w{}"{}"\n{}\tBHS: {}\n{}\tOSM: {}'.format(
         indent,
         '{} {}:{}'.format(*T.sectionFromNode(ws[0])),
         '/'.join(str(w) for w in ws),

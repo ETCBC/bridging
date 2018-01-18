@@ -1,0 +1,312 @@
+
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+o-o COMPARING FEATURE main
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+
+
+---------------------------------------------------------------------------------
+--- main OSM ===> BHS
+---------------------------------------------------------------------------------
+
+adjective                               
+	noun:cardinal:                           ( 47% =   6134x)
+	adjective::                              ( 47% =   6095x)
+	adjective:ordinal:                       (  3% =    349x)
+	noun::                                   (  2% =    286x)
+	verb::                                   (  0% =     38x)
+	proper noun::                            (  0% =     30x)
+	noun:noun of multitude:                  (  0% =     13x)
+	adjective:gentilic:                      (  0% =      5x)
+	noun:potential adverb:                   (  0% =      5x)
+	adverb::                                 (  0% =      3x)
+	conjunction::                            (  0% =      1x)
+	preposition::                            (  0% =      1x)
+adverb                                  
+	adverb::                                 ( 66% =   2545x)
+	noun:potential adverb:                   ( 24% =    939x)
+	adverb:anaphoric adverb:                 (  3% =    116x)
+	adverb:focus particle:                   (  3% =    106x)
+	noun::                                   (  2% =     71x)
+	noun:potential preposition:              (  1% =     56x)
+	interrogative particle::                 (  1% =     29x)
+	interjection::                           (  0% =      2x)
+	verb::                                   (  0% =      2x)
+	adjective::                              (  0% =      1x)
+	preposition::                            (  0% =      1x)
+conjunction                             
+	conjunction::                            (100% =  49250x)
+	noun:potential preposition:              (  0% =    121x)
+	preposition::                            (  0% =     77x)
+	demonstrative pronoun::                  (  0% =      6x)
+	adverb:conjunctive adverb:               (  0% =      5x)
+	adverb::                                 (  0% =      3x)
+	noun::                                   (  0% =      1x)
+noun                                    
+	noun::                                   ( 65% =  85410x)
+	proper noun::                            ( 24% =  31764x)
+	noun:distributive noun:                  (  7% =   8771x)
+	noun:potential adverb:                   (  3% =   3685x)
+	adjective:gentilic:                      (  1% =    885x)
+	noun:potential preposition:              (  1% =    757x)
+	noun:copulative noun:                    (  0% =     36x)
+	adjective::                              (  0% =     25x)
+	noun:noun of multitude:                  (  0% =     15x)
+	verb::                                   (  0% =      8x)
+	noun:cardinal:                           (  0% =      4x)
+	adverb::                                 (  0% =      2x)
+	conjunction::                            (  0% =      1x)
+	preposition::                            (  0% =      1x)
+particle                                
+	article::                                ( 42% =  21000x)
+	preposition::                            ( 22% =  11101x)
+	negative particle::                      ( 12% =   6027x)
+	conjunction::                            ( 11% =   5643x)
+	interjection::                           (  4% =   1786x)
+	adverb:focus particle:                   (  2% =   1061x)
+	interrogative pronoun::                  (  2% =    992x)
+	noun:copulative noun:                    (  2% =    791x)
+	interrogative particle:interrogative particle: (  1% =    542x)
+	adverb:anaphoric adverb:                 (  1% =    422x)
+	interrogative particle::                 (  1% =    299x)
+	noun::                                   (  0% =     66x)
+	noun:potential preposition:              (  0% =     20x)
+	adjective::                              (  0% =     11x)
+	personal pronoun::                       (  0% =      5x)
+	proper noun::                            (  0% =      5x)
+	verb::                                   (  0% =      3x)
+preposition                             
+	preposition::                            ( 96% =  55591x)
+	noun:potential preposition:              (  3% =   1643x)
+	adverb:conjunctive adverb:               (  0% =    194x)
+	interrogative particle::                 (  0% =    169x)
+	noun:cardinal:                           (  0% =     13x)
+	conjunction::                            (  0% =      5x)
+	article::                                (  0% =      2x)
+	noun::                                   (  0% =      2x)
+	proper noun::                            (  0% =      2x)
+	verb::                                   (  0% =      1x)
+pronoun                                 
+	personal pronoun::                       ( 65% =   4910x)
+	demonstrative pronoun::                  ( 34% =   2562x)
+	interrogative pronoun::                  (  0% =     18x)
+	preposition::                            (  0% =      5x)
+	conjunction::                            (  0% =      1x)
+	noun::                                   (  0% =      1x)
+suffix                                  
+	personal pronoun::                       (100% =      3x)
+verb                                    
+	verb::                                   ( 84% =  50691x)
+	verb:quotation verb:                     ( 10% =   6137x)
+	verb:copulative verb:                    (  5% =   3246x)
+	noun::                                   (  0% =      6x)
+	adjective::                              (  0% =      3x)
+	preposition::                            (  0% =      1x)
+	proper noun::                            (  0% =      1x)
+
+main (OSM ===> BHS): 445 cases
+
+---------------------------------------------------------------------------------
+--- main BHS ===> OSM
+---------------------------------------------------------------------------------
+
+adjective::                             
+	adjective                                ( 99% =   6095x)
+	noun                                     (  0% =     25x)
+	particle                                 (  0% =     11x)
+	verb                                     (  0% =      3x)
+	adverb                                   (  0% =      1x)
+adjective:gentilic:                     
+	noun                                     ( 99% =    885x)
+	adjective                                (  1% =      5x)
+adjective:ordinal:                      
+	adjective                                (100% =    349x)
+adverb::                                
+	adverb                                   (100% =   2545x)
+	adjective                                (  0% =      3x)
+	conjunction                              (  0% =      3x)
+	noun                                     (  0% =      2x)
+adverb:anaphoric adverb:                
+	particle                                 ( 78% =    422x)
+	adverb                                   ( 22% =    116x)
+adverb:conjunctive adverb:              
+	preposition                              ( 97% =    194x)
+	conjunction                              (  3% =      5x)
+adverb:focus particle:                  
+	particle                                 ( 91% =   1061x)
+	adverb                                   (  9% =    106x)
+article::                               
+	particle                                 (100% =  21000x)
+	preposition                              (  0% =      2x)
+conjunction::                           
+	conjunction                              ( 90% =  49250x)
+	particle                                 ( 10% =   5643x)
+	preposition                              (  0% =      5x)
+	adjective                                (  0% =      1x)
+	noun                                     (  0% =      1x)
+	pronoun                                  (  0% =      1x)
+demonstrative pronoun::                 
+	pronoun                                  (100% =   2562x)
+	conjunction                              (  0% =      6x)
+interjection::                          
+	particle                                 (100% =   1786x)
+	adverb                                   (  0% =      2x)
+interrogative particle::                
+	particle                                 ( 60% =    299x)
+	preposition                              ( 34% =    169x)
+	adverb                                   (  6% =     29x)
+interrogative particle:interrogative particle:
+	particle                                 (100% =    542x)
+interrogative pronoun::                 
+	particle                                 ( 98% =    992x)
+	pronoun                                  (  2% =     18x)
+negative particle::                     
+	particle                                 (100% =   6027x)
+noun::                                  
+	noun                                     ( 99% =  85410x)
+	adjective                                (  0% =    286x)
+	adverb                                   (  0% =     71x)
+	particle                                 (  0% =     66x)
+	verb                                     (  0% =      6x)
+	preposition                              (  0% =      2x)
+	conjunction                              (  0% =      1x)
+	pronoun                                  (  0% =      1x)
+noun:cardinal:                          
+	adjective                                (100% =   6134x)
+	preposition                              (  0% =     13x)
+	noun                                     (  0% =      4x)
+noun:copulative noun:                   
+	particle                                 ( 96% =    791x)
+	noun                                     (  4% =     36x)
+noun:distributive noun:                 
+	noun                                     (100% =   8771x)
+noun:noun of multitude:                 
+	noun                                     ( 54% =     15x)
+	adjective                                ( 46% =     13x)
+noun:potential adverb:                  
+	noun                                     ( 80% =   3685x)
+	adverb                                   ( 20% =    939x)
+	adjective                                (  0% =      5x)
+noun:potential preposition:             
+	preposition                              ( 63% =   1643x)
+	noun                                     ( 29% =    757x)
+	conjunction                              (  5% =    121x)
+	adverb                                   (  2% =     56x)
+	particle                                 (  1% =     20x)
+personal pronoun::                      
+	pronoun                                  (100% =   4910x)
+	particle                                 (  0% =      5x)
+	suffix                                   (  0% =      3x)
+preposition::                           
+	preposition                              ( 83% =  55591x)
+	particle                                 ( 17% =  11101x)
+	conjunction                              (  0% =     77x)
+	pronoun                                  (  0% =      5x)
+	adjective                                (  0% =      1x)
+	adverb                                   (  0% =      1x)
+	noun                                     (  0% =      1x)
+	verb                                     (  0% =      1x)
+proper noun::                           
+	noun                                     (100% =  31764x)
+	adjective                                (  0% =     30x)
+	particle                                 (  0% =      5x)
+	preposition                              (  0% =      2x)
+	verb                                     (  0% =      1x)
+verb::                                  
+	verb                                     (100% =  50691x)
+	adjective                                (  0% =     38x)
+	noun                                     (  0% =      8x)
+	particle                                 (  0% =      3x)
+	adverb                                   (  0% =      2x)
+	preposition                              (  0% =      1x)
+verb:copulative verb:                   
+	verb                                     (100% =   3246x)
+verb:quotation verb:                    
+	verb                                     (100% =   6137x)
+
+main (BHS ===> OSM): 258 cases
+
+main: 448 cases
+
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+o-o COMPARING FEATURE suffix
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+
+
+---------------------------------------------------------------------------------
+--- suffix OSM ===> BHS
+---------------------------------------------------------------------------------
+
+?                                       
+	:                                        (100% = 330435x)
+	:J                                       (  0% =    231x)
+	:H                                       (  0% =     97x)
+	p:                                       (  0% =     35x)
+	:W                                       (  0% =      3x)
+adjective                               
+	:                                        (100% =      6x)
+adverb                                  
+	:                                        (100% =    194x)
+conjunction                             
+	:                                        (100% =      2x)
+noun                                    
+	:                                        (100% =     79x)
+particle                                
+	:>                                       ( 77% =    602x)
+	:                                        ( 22% =    170x)
+	p:                                       (  1% =      5x)
+pronoun                                 
+	p:                                       (100% =      6x)
+suffix                                  
+	p:                                       ( 95% =  38538x)
+	:                                        (  3% =   1027x)
+	p:J                                      (  2% =    663x)
+	:H                                       (  1% =    379x)
+	p:N                                      (  0% =    148x)
+	:W                                       (  0% =      8x)
+	:J                                       (  0% =      5x)
+	:>                                       (  0% =      2x)
+	p:W                                      (  0% =      1x)
+
+suffix (OSM ===> BHS): 94 cases
+
+---------------------------------------------------------------------------------
+--- suffix BHS ===> OSM
+---------------------------------------------------------------------------------
+
+:                                       
+	?                                        (100% = 330435x)
+	suffix                                   (  0% =   1027x)
+	adverb                                   (  0% =    194x)
+	particle                                 (  0% =    170x)
+	noun                                     (  0% =     79x)
+	adjective                                (  0% =      6x)
+	conjunction                              (  0% =      2x)
+:>                                      
+	particle                                 (100% =    602x)
+	suffix                                   (  0% =      2x)
+:H                                      
+	suffix                                   ( 80% =    379x)
+	?                                        ( 20% =     97x)
+:J                                      
+	?                                        ( 98% =    231x)
+	suffix                                   (  2% =      5x)
+:W                                      
+	suffix                                   ( 73% =      8x)
+	?                                        ( 27% =      3x)
+p:                                      
+	suffix                                   (100% =  38538x)
+	?                                        (  0% =     35x)
+	pronoun                                  (  0% =      6x)
+	particle                                 (  0% =      5x)
+p:J                                     
+	suffix                                   (100% =    663x)
+p:N                                     
+	suffix                                   (100% =    148x)
+p:W                                     
+	suffix                                   (100% =      1x)
+
+suffix (BHS ===> OSM): 76 cases
+
+suffix: 138 cases
+
+All features: 556 cases

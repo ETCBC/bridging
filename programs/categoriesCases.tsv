@@ -1,0 +1,2994 @@
+
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+o-o COMPARING FEATURE main
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+
+
+---------------------------------------------------------------------------------
+--- main OSM ===> BHS
+---------------------------------------------------------------------------------
+
+adjective                               
+	noun:cardinal:                           ( 47% =   6134x)
+	adjective::                              ( 47% =   6095x)
+	adjective:ordinal:                       (  3% =    349x)
+				Genesis 1:8 w139"שֵׁנִֽי"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 1:13 w235"שְׁלִישִֽׁי"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 1:19 w359"רְבִיעִֽי"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 1:23 w445"חֲמִישִֽׁי"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 1:31 w673"שִּׁשִּֽׁי"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 2:2 w691"שְּׁבִיעִ֔י"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 2:2 w701"שְּׁבִיעִ֔י"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 2:3 w713"שְּׁבִיעִ֔י"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 2:13 w917"שֵּׁנִ֖י"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				Genesis 2:14 w931"שְּׁלִישִׁי֙"
+					BHS: T=adjective:ordinal: S=:
+					OSM: T=adjective [HAomsa] S=? [None]
+				and 339 more
+	noun::                                   (  2% =    286x)
+				Genesis 6:4 w2689"גִּבֹּרִ֛ים"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Genesis 10:8 w4639"גִּבֹּ֖ר"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Genesis 10:9 w4655"גִּבֹּ֥ור"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAamsc] S=? [None]
+				Genesis 11:10 w5143"שָׁנָ֔ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 21:5 w9687"שָׁנָ֑ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 23:1 w10747"שְׁנֵ֖י"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcmdc] S=? [None]
+				Genesis 25:7 w12523"שְׁנֵֽי"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcmdc] S=? [None]
+				Genesis 25:7 w12529"שָׁנָ֛ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 25:17 w12670"שְׁנֵי֙"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcmdc] S=? [None]
+				Genesis 25:17 w12674"שָׁנָ֛ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				and 276 more
+	verb::                                   (  0% =     38x)
+				Numbers 7:13 w74146"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:14 w74158"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:19 w74228"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:20 w74240"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:25 w74309"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:26 w74321"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:31 w74390"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:32 w74402"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:37 w74471"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:38 w74483"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				and 28 more
+	proper noun::                            (  0% =     30x)
+				Genesis 26:33 w13591"שִׁבְעָ֑ה"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcmsa] S=? [None]
+				Genesis 26:33 w13598"שֶׁ֔בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Joshua 15:28 w121878"שֶׁ֖בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Joshua 19:2 w123440"שֶׁ֥בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Joshua 19:2 w123442"שֶׁ֖בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Judges 20:1 w139905"שֶׁ֔בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 17:11 w170533"שֶׁ֔בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 20:1 w173091"שֶׁ֥בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 20:2 w173128"שֶׁ֣בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 20:6 w173220"שֶׁ֥בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				and 20 more
+	noun:noun of multitude:                  (  0% =     13x)
+				Numbers 1:16 w69771"אַלְפֵ֥י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Numbers 10:4 w76318"אַלְפֵ֥י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Numbers 10:36 w76793"אַלְפֵ֥י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Numbers 31:5 w88937"אַלְפֵ֣י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Numbers 31:48 w89752"אַלְפֵ֣י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Deuteronomy 33:17 w112498"אַלְפֵ֥י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Joshua 22:14 w125618"אַלְפֵ֥י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Joshua 22:21 w125800"אַלְפֵ֥י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				Joshua 22:30 w126046"אַלְפֵ֤י"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=adjective [HAcbpc] S=? [None]
+				1_Samuel 10:19 w146672"אַלְפֵיכֶֽם"
+					BHS: T=noun:noun of multitude: S=p:
+					OSM: T=adjective [HAcbpc] S=suffix [HSp2mp]
+				and 3 more
+	adjective:gentilic:                      (  0% =      5x)
+				Numbers 25:6 w85714"מִּדְיָנִ֔ית"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 25:14 w85864"מִּדְיָנִ֔ית"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 25:15 w85881"מִּדְיָנִ֖ית"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Esther 5:13 w367881"יְּהוּדִ֔י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Esther 9:13 w369453"יְּהוּדִים֙"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+	noun:potential adverb:                   (  0% =      5x)
+				Hosea 1:4 w290992"מְעַ֗ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Hosea 8:10 w292726"מְּעָ֔ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Haggai 1:6 w304217"מְעָ֗ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Haggai 1:9 w304272"מְעָ֔ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Ruth 2:7 w356376"מְעָֽט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+	adverb::                                 (  0% =      3x)
+				Daniel 2:5 w370625"אַזְדָּ֑א"
+					BHS: T=adverb:: S=:
+					OSM: T=adjective [AAafsa] S=? [None]
+				Daniel 2:7 w370659"תִנְיָנ֖וּת"
+					BHS: T=adverb:: S=:
+					OSM: T=adjective [AAobpa] S=? [None]
+				Daniel 2:8 w370688"אַזְדָּ֖א"
+					BHS: T=adverb:: S=:
+					OSM: T=adjective [AAafsa] S=? [None]
+	conjunction::                            (  0% =      1x)
+				Ecclesiastes 8:12 w362111"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=adjective [HAcbsc] S=conjunction [HC]
+	preposition::                            (  0% =      1x)
+				Daniel 4:23 w372897"דִּ֣י"
+					BHS: T=preposition:: S=:
+					OSM: T=adjective [AAafsa] S=? [None]
+adverb                                  
+	adverb::                                 ( 66% =   2545x)
+	noun:potential adverb:                   ( 24% =    939x)
+	adverb:anaphoric adverb:                 (  3% =    116x)
+				Genesis 1:7 w124"כֵֽן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 1:9 w159"כֵֽן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 1:11 w203"כֵֽן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 1:15 w281"כֵֽן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 1:24 w466"כֵֽן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 1:30 w653"כֵֽן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 6:4 w2674"כֵ֗ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 15:14 w6912"כֵ֥ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 23:19 w11071"כֵן֩"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 25:26 w12826"כֵ֞ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 106 more
+	adverb:focus particle:                   (  3% =    106x)
+				Genesis 4:4 w1722"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 4:22 w2029"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 6:3 w2650"גַּ֖ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 9:5 w4110"אַ֨ךְ"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 16:13 w7275"גַ֥ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 19:38 w9231"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 20:5 w9327"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 22:20 w10669"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:34 w14241"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:38 w14321"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 96 more
+	noun::                                   (  2% =     71x)
+				Genesis 6:16 w2900"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 7:20 w3440"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Exodus 25:20 w42254"מַ֗עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Exodus 37:9 w50072"מַ֗עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Exodus 38:26 w50932"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Leviticus 27:7 w69079"מַ֨עְלָה֙"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:3 w69665"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:18 w69816"מַ֖עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:20 w69854"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:22 w69891"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				and 61 more
+	noun:potential preposition:              (  1% =     56x)
+				Genesis 2:5 w750"טֶ֚רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 2:5 w760"טֶ֣רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 19:4 w8499"טֶרֶם֮"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 24:15 w11420"טֶרֶם֮"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 24:45 w11979"טֶ֨רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:4 w13702"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:33 w14215"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 37:18 w20499"טֶ֨רֶם֙"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 41:50 w23277"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 45:28 w25991"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 46 more
+	interrogative particle::                 (  1% =     29x)
+				Genesis 37:30 w20737"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Exodus 16:28 w37951"אָ֨נָה֙"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Numbers 14:11 w78625"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Numbers 14:11 w78633"אָ֨נָה֙"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Deuteronomy 1:28 w93374"אָנָ֣ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Joshua 2:5 w113476"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Joshua 18:3 w122887"אָ֨נָה֙"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Judges 19:17 w139509"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				2_Samuel 2:1 w160986"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				2_Samuel 13:13 w167413"אָ֤נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 19 more
+	interjection::                           (  0% =      2x)
+				Hosea 13:10 w293827"אֵפֹ֔וא"
+					BHS: T=interjection:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Zephaniah 3:7 w303852"אָכֵן֙"
+					BHS: T=interjection:: S=:
+					OSM: T=adverb [HD] S=? [None]
+	verb::                                   (  0% =      2x)
+				Isaiah 3:26 w213275"אָנ֥וּ"
+					BHS: T=verb:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Isaiah 19:8 w218260"אָנוּ֙"
+					BHS: T=verb:: S=:
+					OSM: T=adverb [HD] S=? [None]
+	adjective::                              (  0% =      1x)
+				Amos 5:14 w296736"כֵ֞ן"
+					BHS: T=adjective:: S=:
+					OSM: T=adverb [HD] S=? [None]
+	preposition::                            (  0% =      1x)
+				Ruth 1:13 w356038"עַ֚ד"
+					BHS: T=preposition:: S=:
+					OSM: T=adverb [HD] S=? [None]
+conjunction                             
+	conjunction::                            (100% =  49250x)
+	noun:potential preposition:              (  0% =    121x)
+				Genesis 3:11 w1385"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 4:15 w1924"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 19:21 w8904"בִלְתִּ֛י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 21:26 w10103"בִּלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 38:9 w20979"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 43:3 w24185"בִּלְתִּ֖י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 43:5 w24213"בִּלְתִּ֖י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 47:18 w26979"בִּלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Exodus 8:18 w32802"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Exodus 8:25 w32965"בִלְתִּי֙"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				and 111 more
+	preposition::                            (  0% =     77x)
+				Daniel 2:8 w370678"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370682"כָּ"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370683"ל"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370685"דִּ֣י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370687"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:9 w370718"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:10 w370738"כָּ"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:10 w370739"ל"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:10 w370741"דִּ֚י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:12 w370781"כָּ"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				and 67 more
+	demonstrative pronoun::                  (  0% =      6x)
+				Daniel 2:12 w370784"דְּנָ֔ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:24 w370999"דְּנָ֗ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 3:7 w371739"דְּנָ֡ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 3:8 w371774"דְּנָה֙"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 3:22 w372091"דְּנָ֗ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 6:10 w374043"דְּנָ֑ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+	adverb:conjunctive adverb:               (  0% =      5x)
+				Ruth 1:13 w356036"לָהֵ֣ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [HC] S=? [None]
+				Ruth 1:13 w356042"לָהֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [HC] S=? [None]
+				Daniel 2:6 w370653"לָהֵ֕ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:9 w370712"לָהֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 4:24 w372902"לָהֵ֣ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [AC] S=? [None]
+	adverb::                                 (  0% =      3x)
+				Daniel 2:28 w371095"בְּרַ֡ם"
+					BHS: T=adverb:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 4:12 w372585"בְּרַ֨ם"
+					BHS: T=adverb:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 4:20 w372796"בְּרַ֨ם"
+					BHS: T=adverb:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+	noun::                                   (  0% =      1x)
+				Isaiah 3:24 w213261"כִּי"
+					BHS: T=noun:: S=:
+					OSM: T=conjunction [HC] S=? [None]
+noun                                    
+	noun::                                   ( 65% =  85410x)
+	proper noun::                            ( 24% =  31764x)
+	noun:distributive noun:                  (  7% =   8771x)
+				Genesis 1:21 w390"כָּל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:21 w404"כָּל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:25 w484"כָּל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:26 w521"כָל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:26 w526"כָל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:28 w583"כָל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:29 w597"כָּל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:29 w604"כָל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:29 w609"כָּל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 1:30 w624"כָל"
+					BHS: T=noun:distributive noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				and 8761 more
+	noun:potential adverb:                   (  3% =   3685x)
+				Genesis 1:5 w64"יֹ֔ום"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:5 w70"לָ֑יְלָה"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:5 w73"עֶ֥רֶב"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:5 w76"בֹ֖קֶר"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:5 w77"יֹ֥ום"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:8 w134"עֶ֥רֶב"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:8 w137"בֹ֖קֶר"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:8 w138"יֹ֥ום"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:13 w230"עֶ֥רֶב"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Genesis 1:13 w233"בֹ֖קֶר"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				and 3675 more
+	adjective:gentilic:                      (  1% =    885x)
+				Genesis 10:14 w4728"פְּלִשְׁתִּ֖ים"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmpa] S=? [None]
+				Genesis 10:16 w4744"יְבוּסִי֙"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 10:16 w4748"אֱמֹרִ֔י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 10:17 w4756"חִוִּ֥י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 10:18 w4782"כְּנַעֲנִֽי"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 10:19 w4787"כְּנַעֲנִי֙"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 12:6 w5604"כְּנַעֲנִ֖י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 13:7 w5986"כְּנַעֲנִי֙"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 13:7 w5989"פְּרִזִּ֔י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				Genesis 14:7 w6337"אֱמֹרִ֔י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				and 875 more
+	noun:potential preposition:              (  1% =    757x)
+				Genesis 2:14 w936"קִדְמַ֣ת"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcfsc] S=? [None]
+				Genesis 3:24 w1663"דֶּ֖רֶךְ"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcbsc] S=? [None]
+				Genesis 4:16 w1941"קִדְמַת"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcfsc] S=? [None]
+				Genesis 6:12 w2822"דַּרְכֹּ֖ו"
+					BHS: T=noun:potential preposition: S=p:
+					OSM: T=noun [HNcbsc] S=suffix [HSp3ms]
+				Genesis 16:7 w7176"דֶ֥רֶךְ"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcbsc] S=? [None]
+				Genesis 18:19 w8132"דֶּ֣רֶךְ"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcbsc] S=? [None]
+				Genesis 19:2 w8470"דַרְכְּכֶ֑ם"
+					BHS: T=noun:potential preposition: S=p:
+					OSM: T=noun [HNcbsc] S=suffix [HSp2mp]
+				Genesis 19:31 w9108"דֶ֖רֶךְ"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcbsc] S=? [None]
+				Genesis 24:21 w11536"דַּרְכֹּ֖ו"
+					BHS: T=noun:potential preposition: S=p:
+					OSM: T=noun [HNcbsc] S=suffix [HSp3ms]
+				Genesis 24:27 w11632"דֶּ֨רֶךְ֙"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=noun [HNcbsa] S=? [None]
+				and 747 more
+	noun:copulative noun:                    (  0% =     36x)
+				Numbers 13:28 w78266"אֶ֚פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Numbers 22:35 w84560"אֶ֗פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Numbers 23:13 w84915"אֶ֚פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Deuteronomy 15:4 w102035"אֶ֕פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Deuteronomy 33:17 w112490"אַפְסֵי"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmpc] S=? [None]
+				Judges 4:9 w129562"אֶ֚פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				1_Samuel 2:10 w142251"אַפְסֵי"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmpc] S=? [None]
+				2_Samuel 12:14 w166691"אֶ֗פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Isaiah 5:8 w213572"אֶ֣פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Isaiah 34:12 w223468"אָֽפֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				and 26 more
+	adjective::                              (  0% =     25x)
+				Judges 5:26 w130324"עֲמֵלִ֑ים"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpa] S=? [None]
+				Hosea 4:18 w291977"מָגִנֶּֽיהָ"
+					BHS: T=adjective:: S=p:
+					OSM: T=noun [HNcbpc] S=suffix [HSp3fs]
+				Amos 6:2 w296968"רַבָּ֑ה"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Zephaniah 1:11 w303303"נְטִ֥ילֵי"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpc] S=? [None]
+				Proverbs 1:5 w346968"חָ֭כָם"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Proverbs 1:10 w347016"חַ֝טָּאִ֗ים"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpa] S=? [None]
+				Proverbs 3:35 w347774"כְסִילִ֗ים"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpa] S=? [None]
+				Ruth 1:20 w356181"מָרָ֔א"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Ruth 3:13 w357009"חַי"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Daniel 2:4 w370605"אֲרָמִ֑ית"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				and 15 more
+	noun:noun of multitude:                  (  0% =     15x)
+				Genesis 24:60 w12282"רְבָבָ֑ה"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Leviticus 26:8 w68272"רְבָבָ֣ה"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Numbers 10:36 w76792"רִֽבְבֹ֖ות"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfpc] S=? [None]
+				Deuteronomy 32:30 w111834"רְבָבָ֑ה"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Deuteronomy 33:2 w112259"רִבְבֹ֣ת"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfpc] S=? [None]
+				Deuteronomy 33:17 w112494"רִבְבֹ֣ות"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfpc] S=? [None]
+				Judges 6:15 w130741"אַלְפִּי֙"
+					BHS: T=noun:noun of multitude: S=p:
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Judges 20:10 w140087"רְבָבָ֔ה"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				1_Samuel 18:7 w152309"רִבְבֹתָֽיו"
+					BHS: T=noun:noun of multitude: S=p:
+					OSM: T=noun [HNcfpc] S=suffix [HSp3ms]
+				1_Samuel 18:8 w152328"רְבָבֹ֔ות"
+					BHS: T=noun:noun of multitude: S=:
+					OSM: T=noun [HNcfpa] S=? [None]
+				and 5 more
+	verb::                                   (  0% =      8x)
+				Judges 4:11 w129619"חֹתֵ֣ן"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Joel 4:3 w295061"זֹּונָ֔ה"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Joel 4:14 w295245"חָר֑וּץ"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Joel 4:14 w295253"חָרֽוּץ"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Obadiah 1:3 w298206"שִׁבְתֹּ֑ו"
+					BHS: T=verb:: S=p:
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+				Proverbs 3:13 w347564"יָפִ֥יק"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Daniel 6:20 w374320"הִ֨תְבְּהָלָ֔ה"
+					BHS: T=verb:: S=:
+					OSM: T=noun [ANcfsa] S=? [None]
+				Daniel 6:23 w374385"הִשְׁתְּכַ֣חַת"
+					BHS: T=verb:: S=:
+					OSM: T=noun [ANcfsa] S=? [None]
+	noun:cardinal:                           (  0% =      4x)
+				Genesis 4:15 w1915"שִׁבְעָתַ֖יִם"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [HNcfda] S=? [None]
+				Genesis 4:24 w2068"שִׁבְעָתַ֖יִם"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [HNcfda] S=? [None]
+				Psalms 79:12 w324385"שִׁ֭בְעָתַיִם"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [HNcfda] S=? [None]
+				Daniel 6:18 w374272"חֲדָ֔ה"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [ANcfsa] S=? [None]
+	adverb::                                 (  0% =      2x)
+				Habakkuk 2:19 w302774"דּוּמָ֑ם"
+					BHS: T=adverb:: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Daniel 3:14 w371896"צְדָּ֕א"
+					BHS: T=adverb:: S=:
+					OSM: T=noun [ANcmsa] S=? [None]
+	conjunction::                            (  0% =      1x)
+				Daniel 2:23 w370982"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=noun [ANcfsd] S=? [None]
+	preposition::                            (  0% =      1x)
+				Daniel 6:28 w374523"בְ"
+					BHS: T=preposition:: S=:
+					OSM: T=noun [ANcmpd] S=? [None]
+particle                                
+	article::                                ( 42% =  21000x)
+	preposition::                            ( 22% =  11101x)
+	negative particle::                      ( 12% =   6027x)
+	conjunction::                            ( 11% =   5643x)
+	interjection::                           (  4% =   1786x)
+				Genesis 1:29 w593"הִנֵּה֩"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 1:31 w662"הִנֵּה"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 3:22 w1592"הֵ֤ן"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 4:14 w1880"הֵן֩"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 6:12 w2815"הִנֵּ֣ה"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 6:13 w2845"הִנְנִ֥י"
+					BHS: T=interjection:: S=p:
+					OSM: T=particle [HTj] S=suffix [HSp1cs]
+				Genesis 6:17 w2915"הִנְנִי֩"
+					BHS: T=interjection:: S=p:
+					OSM: T=particle [HTm] S=suffix [HSp1cs]
+				Genesis 8:11 w3763"הִנֵּ֥ה"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 8:13 w3830"הִנֵּ֥ה"
+					BHS: T=interjection:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 9:9 w4177"הִנְנִ֥י"
+					BHS: T=interjection:: S=p:
+					OSM: T=particle [HTj] S=suffix [HSp1cs]
+				and 1776 more
+	adverb:focus particle:                   (  2% =   1061x)
+				Genesis 3:1 w1187"אַ֚ף"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 3:6 w1292"גַּם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 3:22 w1611"גַּ֚ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 4:26 w2104"גַּם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 6:4 w2672"גַ֣ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 6:5 w2712"רַ֥ק"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 7:3 w3087"גַּ֣ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 7:23 w3525"אַךְ"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 9:4 w4102"אַךְ"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 10:21 w4819"גַּם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=particle [HTa] S=? [None]
+				and 1051 more
+	interrogative pronoun::                  (  2% =    992x)
+				Genesis 2:19 w1036"מַה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 3:11 w1372"מִ֚י"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 3:13 w1413"מַה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 4:10 w1826"מֶ֣ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 12:18 w5822"מַה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 15:2 w6699"מַה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 15:8 w6804"מָּ֥ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 19:12 w8675"מִֽי"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 20:9 w9433"מֶֽה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 20:9 w9437"מֶֽה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				and 982 more
+	noun:copulative noun:                    (  2% =    791x)
+				Genesis 2:5 w772"אַ֔יִן"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Genesis 11:30 w5430"אֵ֥ין"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Genesis 18:24 w8206"יֵ֛שׁ"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 19:31 w9100"אֵ֤ין"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Genesis 20:11 w9474"אֵין"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Genesis 23:8 w10850"יֵ֣שׁ"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 24:23 w11573"יֵ֧שׁ"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 24:42 w11926"יֶשְׁךָ"
+					BHS: T=noun:copulative noun: S=p:
+					OSM: T=particle [HTm] S=suffix [HSp2ms]
+				Genesis 24:49 w12083"יֶשְׁכֶ֨ם"
+					BHS: T=noun:copulative noun: S=p:
+					OSM: T=particle [HTm] S=suffix [HSp2mp]
+				Genesis 28:16 w14814"יֵ֣שׁ"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=particle [HTm] S=? [None]
+				and 781 more
+	interrogative particle:interrogative particle: (  1% =    542x)
+				Genesis 3:11 w1378"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 4:7 w1766"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 8:8 w3696"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 13:9 w6017"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 16:13 w7274"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 17:17 w7608"הַ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 17:17 w7617"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 18:14 w8043"הֲ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 18:17 w8095"הַֽ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 18:21 w8166"הַ"
+					BHS: T=interrogative particle:interrogative particle: S=:
+					OSM: T=particle [HTi] S=? [None]
+				and 532 more
+	adverb:anaphoric adverb:                 (  1% =    422x)
+				Genesis 2:24 w1140"כֵּן֙"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 6:22 w3036"כֵּ֥ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 10:9 w4651"כֵּן֙"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 11:9 w5115"כֵּ֞ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 16:14 w7281"כֵּן֙"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 18:5 w7880"כֵּ֥ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 18:5 w7886"כֵּ֥ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 19:8 w8590"כֵּ֥ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 19:22 w8924"כֵּ֛ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Genesis 20:6 w9366"כֵּ֥ן"
+					BHS: T=adverb:anaphoric adverb: S=:
+					OSM: T=particle [HTm] S=? [None]
+				and 412 more
+	interrogative particle::                 (  1% =    299x)
+				Genesis 3:9 w1354"אַיֶּֽכָּה"
+					BHS: T=interrogative particle:: S=p:N
+					OSM: T=particle [HTi] S=suffix [HSp2ms]
+				Genesis 4:9 w1813"אֵ֖י"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 16:8 w7183"אֵֽי"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 16:8 w7188"אָ֣נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 18:9 w7959"אַיֵּ֖ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 19:5 w8528"אַיֵּ֧ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 22:7 w10398"אַיֵּ֥ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 26:9 w13160"אֵ֥יךְ"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 26:27 w13481"מַדּ֖וּעַ"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				Genesis 29:4 w15029"אַ֣יִן"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=particle [HTi] S=? [None]
+				and 289 more
+	noun::                                   (  0% =     66x)
+				Genesis 27:45 w14450"אַף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 30:2 w15620"אַ֥ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Exodus 4:14 w30441"אַ֨ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Exodus 32:19 w46923"אַ֣ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Exodus 32:22 w46988"אַ֖ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 11:10 w76982"אַ֤ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 12:9 w77733"אַ֧ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 22:22 w84242"אַ֣ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 22:27 w84374"אַ֣ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 24:10 w85352"אַ֤ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				and 56 more
+	noun:potential preposition:              (  0% =     20x)
+				Genesis 31:20 w16737"בְּלִי֙"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				2_Samuel 1:21 w160870"בְּלִ֖י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 14:6 w216934"בְּלִ֥י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 28:8 w220950"בְּלִ֖י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 32:10 w222800"בְּלִ֥י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 38:17 w225311"בְּלִ֔י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Hosea 7:8 w292480"בְּלִ֥י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Hosea 8:7 w292687"בְּלִ֣י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Malachi 3:10 w310378"בְּלִי"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Psalms 19:4 w313207"בְּ֝לִ֗י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				and 10 more
+	adjective::                              (  0% =     11x)
+				Exodus 10:29 w34441"כֵּ֣ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Exodus 12:9 w34847"נָ֔א"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTe] S=? [None]
+				Numbers 27:7 w87018"כֵּ֗ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Numbers 36:5 w92641"כֵּ֛ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Joshua 2:4 w113450"כֵּ֗ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Judges 12:6 w135537"כֵּ֔ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				1_Samuel 23:17 w155703"כֵּֽן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Psalms 90:12 w326354"כֵּ֣ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Proverbs 11:19 w349793"כֵּן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Proverbs 28:2 w354600"כֵּ֣ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				and 1 more
+	personal pronoun::                       (  0% =      5x)
+				Daniel 2:20 w370939"הִֽיא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+				Daniel 2:28 w371120"הֽוּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Daniel 2:38 w371321"ה֔וּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+				Daniel 2:47 w371547"ה֣וּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+				Daniel 3:15 w371956"ה֣וּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+	proper noun::                            (  0% =      5x)
+				1_Samuel 4:21 w143795"אִֽי־כָבֹוד֙"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTj] S=? []
+				Hosea 1:6 w291032"לֹ֣א רֻחָ֑מָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+				Hosea 1:8 w291074"לֹ֣א רֻחָ֑מָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+				Hosea 1:9 w291084"לֹ֣א עַמִּ֑י"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+				Hosea 2:25 w291573"לֹ֣א רֻחָ֑מָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+	verb::                                   (  0% =      3x)
+				Habakkuk 2:20 w302794"הַ֥ס"
+					BHS: T=verb:: S=:
+					OSM: T=particle [HTj] S=? [None]
+				Zephaniah 1:7 w303207"הַ֕ס"
+					BHS: T=verb:: S=:
+					OSM: T=particle [HTj] S=? [None]
+				Daniel 2:26 w371072"חֲזֵ֖ית"
+					BHS: T=verb:: S=:
+					OSM: T=particle [ATr] S=? [None]
+preposition                             
+	preposition::                            ( 96% =  55591x)
+	noun:potential preposition:              (  3% =   1643x)
+				Genesis 1:4 w51"בֵּ֥ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:4 w55"בֵ֥ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:6 w91"בֵּ֥ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:7 w103"בֵּ֤ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:7 w113"בֵ֣ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:14 w247"בֵּ֥ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:14 w251"בֵ֣ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:18 w340"בֵּ֥ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 1:18 w344"בֵ֣ין"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 3:12 w1397"עִמָּדִ֔י"
+					BHS: T=noun:potential preposition: S=p:
+					OSM: T=preposition [HR] S=suffix [HSp1cs]
+				and 1633 more
+	adverb:conjunctive adverb:               (  0% =    194x)
+				Genesis 4:15 w1911"לָכֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Genesis 30:15 w15823"לָכֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Exodus 6:6 w31334"לָכֵ֞ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Numbers 16:11 w80256"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Numbers 20:12 w82792"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Numbers 25:12 w85826"לָכֵ֖ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Judges 8:7 w132272"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Judges 10:13 w134367"לָכֵ֥ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Judges 11:8 w134614"לָכֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				1_Samuel 2:30 w142706"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				and 184 more
+	interrogative particle::                 (  0% =    169x)
+				Genesis 4:6 w1759"לָ֚מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 4:6 w1763"לָ֖מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 12:18 w5826"לָ֚מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 12:19 w5833"לָמָ֤ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 18:13 w8030"לָ֣מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 24:31 w11717"לָ֤מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 25:22 w12769"לָ֥מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 25:32 w12933"לָמָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 27:45 w14465"לָמָ֥ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 27:46 w14496"לָ֥מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				and 159 more
+	noun:cardinal:                           (  0% =     13x)
+				Genesis 11:10 w5142"מְאַ֣ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 21:5 w9686"מְאַ֣ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 25:7 w12528"מְאַ֥ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 25:17 w12673"מְאַ֥ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 35:28 w19526"מְאַ֥ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Exodus 38:25 w50893"מְאַ֣ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Exodus 38:27 w50947"מְאַת֙"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Exodus 38:27 w50962"מְאַ֧ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Numbers 2:9 w70537"מְאַ֨ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Numbers 2:16 w70632"מְאַ֨ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				and 3 more
+	conjunction::                            (  0% =      5x)
+				Isaiah 1:5 w212146"וְ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Jonah 2:4 w298980"וְ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Jonah 3:5 w299157"וְ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Jonah 4:11 w299537"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Daniel 6:28 w374522"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [AR] S=? [None]
+	article::                                (  0% =      2x)
+				Haggai 2:6 w304606"הֶ"
+					BHS: T=article:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Haggai 2:19 w304900"הַ"
+					BHS: T=article:: S=:
+					OSM: T=preposition [HRd] S=? [None]
+	noun::                                   (  0% =      2x)
+				Haggai 2:18 w304862"מָ֑עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=preposition [HR] S=suffix [HSd]
+				Ecclesiastes 3:21 w360509"מָ֑עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=preposition [HR] S=suffix [HSd]
+	proper noun::                            (  0% =      2x)
+				1_Chronicles 6:9 w394165"תַּ֤חַת"
+					BHS: T=proper noun:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				1_Chronicles 6:22 w394298"תַּ֨חַת֙"
+					BHS: T=proper noun:: S=:
+					OSM: T=preposition [HR] S=? [None]
+	verb::                                   (  0% =      1x)
+				Jeremiah 9:24 w239863"מ֖וּל"
+					BHS: T=verb:: S=:
+					OSM: T=preposition [HR] S=? [None]
+pronoun                                 
+	personal pronoun::                       ( 65% =   4910x)
+	demonstrative pronoun::                  ( 34% =   2562x)
+	interrogative pronoun::                  (  0% =     18x)
+				Daniel 2:15 w370840"מָ֥ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APixbs] S=? [None]
+				Daniel 2:22 w370966"מָ֣ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:28 w371107"מָ֛ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:29 w371127"מָ֛ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:29 w371136"מָה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:45 w371507"מָ֛ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 3:6 w371722"מַן"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APf3bs] S=? [None]
+				Daniel 3:11 w371823"מַן"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APf3cs] S=? [None]
+				Daniel 3:15 w371955"מַן"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APi3cs] S=? [None]
+				Daniel 3:33 w372373"מָ֣ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxcs] S=? [None]
+				and 8 more
+	preposition::                            (  0% =      5x)
+				Daniel 3:6 w371723"דִּי"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APf3bs] S=? [None]
+				Daniel 3:11 w371824"דִּי"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APf3cs] S=? [None]
+				Daniel 4:14 w372650"דִּ֤י"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APfxcs] S=? [None]
+				Daniel 4:22 w372881"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APrxcs] S=? [None]
+				Daniel 4:29 w373010"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APrxcs] S=? [None]
+	conjunction::                            (  0% =      1x)
+				Ruth 2:9 w356432"אֲשֶׁ֥ר"
+					BHS: T=conjunction:: S=:
+					OSM: T=pronoun [HPr] S=? [None]
+	noun::                                   (  0% =      1x)
+				Ruth 4:1 w357142"פְּלֹנִ֣י"
+					BHS: T=noun:: S=:
+					OSM: T=pronoun [HPf] S=? [None]
+suffix                                  
+	personal pronoun::                       (100% =      3x)
+verb                                    
+	verb::                                   ( 84% =  50691x)
+	verb:quotation verb:                     ( 10% =   6137x)
+	verb:copulative verb:                    (  5% =   3246x)
+				Genesis 1:2 w15"הָיְתָ֥ה"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqp3fs] S=? [None]
+				Genesis 1:3 w35"יְהִ֣י"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqj3ms] S=? [None]
+				Genesis 1:3 w38"יְהִי"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				Genesis 1:5 w72"יְהִי"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				Genesis 1:5 w75"יְהִי"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				Genesis 1:6 w82"יְהִ֥י"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqj3ms] S=? [None]
+				Genesis 1:6 w89"יהִ֣י"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqi3ms] S=? [None]
+				Genesis 1:7 w123"יְהִי"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				Genesis 1:8 w133"יְהִי"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				Genesis 1:8 w136"יְהִי"
+					BHS: T=verb:copulative verb: S=:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				and 3236 more
+	noun::                                   (  0% =      6x)
+				Hosea 7:4 w292417"אֹפֶ֑ה"
+					BHS: T=noun:: S=:
+					OSM: T=verb [HVqrmsa] S=? [None]
+				Hosea 7:6 w292448"אֹֽפֵהֶ֔ם"
+					BHS: T=noun:: S=p:
+					OSM: T=verb [HVqrmsc] S=suffix [HSp3mp]
+				Hosea 9:10 w292956"אָהֳבָֽם"
+					BHS: T=noun:: S=p:
+					OSM: T=verb [HVqc] S=suffix [HSp3mp]
+				Jonah 1:15 w298910"זַּעְפֹּֽו"
+					BHS: T=noun:: S=p:
+					OSM: T=verb [HVqc] S=suffix [HSp3ms]
+				Zephaniah 3:10 w303914"פּוּצַ֔י"
+					BHS: T=noun:: S=:
+					OSM: T=verb [HVqsmsc] S=suffix [HSp1cs]
+				Ruth 2:1 w356231"מידע"
+					BHS: T=noun:: S=:
+					OSM: T=verb [HVPrmsa] S=? [None]
+	adjective::                              (  0% =      3x)
+				1_Samuel 16:16 w150632"טֹ֥וב"
+					BHS: T=adjective:: S=:
+					OSM: T=verb [HVqq3ms] S=? [None]
+				1_Samuel 16:23 w150776"טֹ֣וב"
+					BHS: T=adjective:: S=:
+					OSM: T=verb [HVqp3ms] S=? [None]
+				Song_of_songs 3:8 w358155"אֲחֻ֣זֵי"
+					BHS: T=adjective:: S=:
+					OSM: T=verb [HVqsmpc] S=? [None]
+	preposition::                            (  0% =      1x)
+				Song_of_songs 2:13 w357957"לכי"
+					BHS: T=preposition:: S=p:
+					OSM: T=verb [HVqv2fs] S=? [None]
+	proper noun::                            (  0% =      1x)
+				Hosea 2:3 w291153"רֻחָֽמָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=verb [HVPp3fs] S=? [None]
+
+main (OSM ===> BHS): 445 cases
+
+---------------------------------------------------------------------------------
+--- main BHS ===> OSM
+---------------------------------------------------------------------------------
+
+adjective::                             
+	adjective                                ( 99% =   6095x)
+	noun                                     (  0% =     25x)
+				Judges 5:26 w130324"עֲמֵלִ֑ים"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpa] S=? [None]
+				Hosea 4:18 w291977"מָגִנֶּֽיהָ"
+					BHS: T=adjective:: S=p:
+					OSM: T=noun [HNcbpc] S=suffix [HSp3fs]
+				Amos 6:2 w296968"רַבָּ֑ה"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Zephaniah 1:11 w303303"נְטִ֥ילֵי"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpc] S=? [None]
+				Proverbs 1:5 w346968"חָ֭כָם"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Proverbs 1:10 w347016"חַ֝טָּאִ֗ים"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpa] S=? [None]
+				Proverbs 3:35 w347774"כְסִילִ֗ים"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmpa] S=? [None]
+				Ruth 1:20 w356181"מָרָ֔א"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Ruth 3:13 w357009"חַי"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Daniel 2:4 w370605"אֲרָמִ֑ית"
+					BHS: T=adjective:: S=:
+					OSM: T=noun [HNgmsa] S=? [None]
+				and 15 more
+	particle                                 (  0% =     11x)
+				Exodus 10:29 w34441"כֵּ֣ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Exodus 12:9 w34847"נָ֔א"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTe] S=? [None]
+				Numbers 27:7 w87018"כֵּ֗ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Numbers 36:5 w92641"כֵּ֛ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Joshua 2:4 w113450"כֵּ֗ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Judges 12:6 w135537"כֵּ֔ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				1_Samuel 23:17 w155703"כֵּֽן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Psalms 90:12 w326354"כֵּ֣ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Proverbs 11:19 w349793"כֵּן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				Proverbs 28:2 w354600"כֵּ֣ן"
+					BHS: T=adjective:: S=:
+					OSM: T=particle [HTm] S=? [None]
+				and 1 more
+	verb                                     (  0% =      3x)
+				1_Samuel 16:16 w150632"טֹ֥וב"
+					BHS: T=adjective:: S=:
+					OSM: T=verb [HVqq3ms] S=? [None]
+				1_Samuel 16:23 w150776"טֹ֣וב"
+					BHS: T=adjective:: S=:
+					OSM: T=verb [HVqp3ms] S=? [None]
+				Song_of_songs 3:8 w358155"אֲחֻ֣זֵי"
+					BHS: T=adjective:: S=:
+					OSM: T=verb [HVqsmpc] S=? [None]
+	adverb                                   (  0% =      1x)
+				Amos 5:14 w296736"כֵ֞ן"
+					BHS: T=adjective:: S=:
+					OSM: T=adverb [HD] S=? [None]
+adjective:gentilic:                     
+	noun                                     ( 99% =    885x)
+	adjective                                (  1% =      5x)
+				Numbers 25:6 w85714"מִּדְיָנִ֔ית"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 25:14 w85864"מִּדְיָנִ֔ית"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 25:15 w85881"מִּדְיָנִ֖ית"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Esther 5:13 w367881"יְּהוּדִ֔י"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Esther 9:13 w369453"יְּהוּדִים֙"
+					BHS: T=adjective:gentilic: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+adjective:ordinal:                      
+	adjective                                (100% =    349x)
+adverb::                                
+	adverb                                   (100% =   2545x)
+	adjective                                (  0% =      3x)
+				Daniel 2:5 w370625"אַזְדָּ֑א"
+					BHS: T=adverb:: S=:
+					OSM: T=adjective [AAafsa] S=? [None]
+				Daniel 2:7 w370659"תִנְיָנ֖וּת"
+					BHS: T=adverb:: S=:
+					OSM: T=adjective [AAobpa] S=? [None]
+				Daniel 2:8 w370688"אַזְדָּ֖א"
+					BHS: T=adverb:: S=:
+					OSM: T=adjective [AAafsa] S=? [None]
+	conjunction                              (  0% =      3x)
+				Daniel 2:28 w371095"בְּרַ֡ם"
+					BHS: T=adverb:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 4:12 w372585"בְּרַ֨ם"
+					BHS: T=adverb:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 4:20 w372796"בְּרַ֨ם"
+					BHS: T=adverb:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+	noun                                     (  0% =      2x)
+				Habakkuk 2:19 w302774"דּוּמָ֑ם"
+					BHS: T=adverb:: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Daniel 3:14 w371896"צְדָּ֕א"
+					BHS: T=adverb:: S=:
+					OSM: T=noun [ANcmsa] S=? [None]
+adverb:anaphoric adverb:                
+	particle                                 ( 78% =    422x)
+	adverb                                   ( 22% =    116x)
+adverb:conjunctive adverb:              
+	preposition                              ( 97% =    194x)
+	conjunction                              (  3% =      5x)
+				Ruth 1:13 w356036"לָהֵ֣ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [HC] S=? [None]
+				Ruth 1:13 w356042"לָהֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [HC] S=? [None]
+				Daniel 2:6 w370653"לָהֵ֕ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:9 w370712"לָהֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 4:24 w372902"לָהֵ֣ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=conjunction [AC] S=? [None]
+adverb:focus particle:                  
+	particle                                 ( 91% =   1061x)
+	adverb                                   (  9% =    106x)
+				Genesis 4:4 w1722"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 4:22 w2029"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 6:3 w2650"גַּ֖ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 9:5 w4110"אַ֨ךְ"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 16:13 w7275"גַ֥ם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 19:38 w9231"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 20:5 w9327"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 22:20 w10669"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:34 w14241"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:38 w14321"גַם"
+					BHS: T=adverb:focus particle: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 96 more
+article::                               
+	particle                                 (100% =  21000x)
+	preposition                              (  0% =      2x)
+				Haggai 2:6 w304606"הֶ"
+					BHS: T=article:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Haggai 2:19 w304900"הַ"
+					BHS: T=article:: S=:
+					OSM: T=preposition [HRd] S=? [None]
+conjunction::                           
+	conjunction                              ( 90% =  49250x)
+	particle                                 ( 10% =   5643x)
+	preposition                              (  0% =      5x)
+				Isaiah 1:5 w212146"וְ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Jonah 2:4 w298980"וְ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Jonah 3:5 w299157"וְ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Jonah 4:11 w299537"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Daniel 6:28 w374522"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=preposition [AR] S=? [None]
+	adjective                                (  0% =      1x)
+				Ecclesiastes 8:12 w362111"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=adjective [HAcbsc] S=conjunction [HC]
+	noun                                     (  0% =      1x)
+				Daniel 2:23 w370982"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=noun [ANcfsd] S=? [None]
+	pronoun                                  (  0% =      1x)
+				Ruth 2:9 w356432"אֲשֶׁ֥ר"
+					BHS: T=conjunction:: S=:
+					OSM: T=pronoun [HPr] S=? [None]
+demonstrative pronoun::                 
+	pronoun                                  (100% =   2562x)
+	conjunction                              (  0% =      6x)
+				Daniel 2:12 w370784"דְּנָ֔ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:24 w370999"דְּנָ֗ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 3:7 w371739"דְּנָ֡ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 3:8 w371774"דְּנָה֙"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 3:22 w372091"דְּנָ֗ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 6:10 w374043"דְּנָ֑ה"
+					BHS: T=demonstrative pronoun:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+interjection::                          
+	particle                                 (100% =   1786x)
+	adverb                                   (  0% =      2x)
+				Hosea 13:10 w293827"אֵפֹ֔וא"
+					BHS: T=interjection:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Zephaniah 3:7 w303852"אָכֵן֙"
+					BHS: T=interjection:: S=:
+					OSM: T=adverb [HD] S=? [None]
+interrogative particle::                
+	particle                                 ( 60% =    299x)
+	preposition                              ( 34% =    169x)
+	adverb                                   (  6% =     29x)
+				Genesis 37:30 w20737"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Exodus 16:28 w37951"אָ֨נָה֙"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Numbers 14:11 w78625"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Numbers 14:11 w78633"אָ֨נָה֙"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Deuteronomy 1:28 w93374"אָנָ֣ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Joshua 2:5 w113476"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Joshua 18:3 w122887"אָ֨נָה֙"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Judges 19:17 w139509"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				2_Samuel 2:1 w160986"אָ֥נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				2_Samuel 13:13 w167413"אָ֤נָה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 19 more
+interrogative particle:interrogative particle:
+	particle                                 (100% =    542x)
+interrogative pronoun::                 
+	particle                                 ( 98% =    992x)
+	pronoun                                  (  2% =     18x)
+				Daniel 2:15 w370840"מָ֥ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APixbs] S=? [None]
+				Daniel 2:22 w370966"מָ֣ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:28 w371107"מָ֛ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:29 w371127"מָ֛ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:29 w371136"מָה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 2:45 w371507"מָ֛ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxbs] S=? [None]
+				Daniel 3:6 w371722"מַן"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APf3bs] S=? [None]
+				Daniel 3:11 w371823"מַן"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APf3cs] S=? [None]
+				Daniel 3:15 w371955"מַן"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APi3cs] S=? [None]
+				Daniel 3:33 w372373"מָ֣ה"
+					BHS: T=interrogative pronoun:: S=:
+					OSM: T=pronoun [APfxcs] S=? [None]
+				and 8 more
+negative particle::                     
+	particle                                 (100% =   6027x)
+noun::                                  
+	noun                                     ( 99% =  85410x)
+	adjective                                (  0% =    286x)
+				Genesis 6:4 w2689"גִּבֹּרִ֛ים"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Genesis 10:8 w4639"גִּבֹּ֖ר"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Genesis 10:9 w4655"גִּבֹּ֥ור"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAamsc] S=? [None]
+				Genesis 11:10 w5143"שָׁנָ֔ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 21:5 w9687"שָׁנָ֑ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 23:1 w10747"שְׁנֵ֖י"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcmdc] S=? [None]
+				Genesis 25:7 w12523"שְׁנֵֽי"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcmdc] S=? [None]
+				Genesis 25:7 w12529"שָׁנָ֛ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 25:17 w12670"שְׁנֵי֙"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcmdc] S=? [None]
+				Genesis 25:17 w12674"שָׁנָ֛ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				and 276 more
+	adverb                                   (  0% =     71x)
+				Genesis 6:16 w2900"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 7:20 w3440"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Exodus 25:20 w42254"מַ֗עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Exodus 37:9 w50072"מַ֗עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Exodus 38:26 w50932"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Leviticus 27:7 w69079"מַ֨עְלָה֙"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:3 w69665"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:18 w69816"מַ֖עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:20 w69854"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Numbers 1:22 w69891"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				and 61 more
+	particle                                 (  0% =     66x)
+				Genesis 27:45 w14450"אַף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Genesis 30:2 w15620"אַ֥ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Exodus 4:14 w30441"אַ֨ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Exodus 32:19 w46923"אַ֣ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Exodus 32:22 w46988"אַ֖ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 11:10 w76982"אַ֤ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 12:9 w77733"אַ֧ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 22:22 w84242"אַ֣ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 22:27 w84374"אַ֣ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Numbers 24:10 w85352"אַ֤ף"
+					BHS: T=noun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				and 56 more
+	verb                                     (  0% =      6x)
+				Hosea 7:4 w292417"אֹפֶ֑ה"
+					BHS: T=noun:: S=:
+					OSM: T=verb [HVqrmsa] S=? [None]
+				Hosea 7:6 w292448"אֹֽפֵהֶ֔ם"
+					BHS: T=noun:: S=p:
+					OSM: T=verb [HVqrmsc] S=suffix [HSp3mp]
+				Hosea 9:10 w292956"אָהֳבָֽם"
+					BHS: T=noun:: S=p:
+					OSM: T=verb [HVqc] S=suffix [HSp3mp]
+				Jonah 1:15 w298910"זַּעְפֹּֽו"
+					BHS: T=noun:: S=p:
+					OSM: T=verb [HVqc] S=suffix [HSp3ms]
+				Zephaniah 3:10 w303914"פּוּצַ֔י"
+					BHS: T=noun:: S=:
+					OSM: T=verb [HVqsmsc] S=suffix [HSp1cs]
+				Ruth 2:1 w356231"מידע"
+					BHS: T=noun:: S=:
+					OSM: T=verb [HVPrmsa] S=? [None]
+	preposition                              (  0% =      2x)
+				Haggai 2:18 w304862"מָ֑עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=preposition [HR] S=suffix [HSd]
+				Ecclesiastes 3:21 w360509"מָ֑עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=preposition [HR] S=suffix [HSd]
+	conjunction                              (  0% =      1x)
+				Isaiah 3:24 w213261"כִּי"
+					BHS: T=noun:: S=:
+					OSM: T=conjunction [HC] S=? [None]
+	pronoun                                  (  0% =      1x)
+				Ruth 4:1 w357142"פְּלֹנִ֣י"
+					BHS: T=noun:: S=:
+					OSM: T=pronoun [HPf] S=? [None]
+noun:cardinal:                          
+	adjective                                (100% =   6134x)
+	preposition                              (  0% =     13x)
+				Genesis 11:10 w5142"מְאַ֣ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 21:5 w9686"מְאַ֣ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 25:7 w12528"מְאַ֥ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 25:17 w12673"מְאַ֥ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Genesis 35:28 w19526"מְאַ֥ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Exodus 38:25 w50893"מְאַ֣ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Exodus 38:27 w50947"מְאַת֙"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Exodus 38:27 w50962"מְאַ֧ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Numbers 2:9 w70537"מְאַ֨ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				Numbers 2:16 w70632"מְאַ֨ת"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=preposition [HR] S=? [None]
+				and 3 more
+	noun                                     (  0% =      4x)
+				Genesis 4:15 w1915"שִׁבְעָתַ֖יִם"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [HNcfda] S=? [None]
+				Genesis 4:24 w2068"שִׁבְעָתַ֖יִם"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [HNcfda] S=? [None]
+				Psalms 79:12 w324385"שִׁ֭בְעָתַיִם"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [HNcfda] S=? [None]
+				Daniel 6:18 w374272"חֲדָ֔ה"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=noun [ANcfsa] S=? [None]
+noun:copulative noun:                   
+	particle                                 ( 96% =    791x)
+	noun                                     (  4% =     36x)
+				Numbers 13:28 w78266"אֶ֚פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Numbers 22:35 w84560"אֶ֗פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Numbers 23:13 w84915"אֶ֚פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Deuteronomy 15:4 w102035"אֶ֕פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Deuteronomy 33:17 w112490"אַפְסֵי"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmpc] S=? [None]
+				Judges 4:9 w129562"אֶ֚פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				1_Samuel 2:10 w142251"אַפְסֵי"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmpc] S=? [None]
+				2_Samuel 12:14 w166691"אֶ֗פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Isaiah 5:8 w213572"אֶ֣פֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Isaiah 34:12 w223468"אָֽפֶס"
+					BHS: T=noun:copulative noun: S=:
+					OSM: T=noun [HNcmsa] S=? [None]
+				and 26 more
+noun:distributive noun:                 
+	noun                                     (100% =   8771x)
+noun:noun of multitude:                 
+	noun                                     ( 54% =     15x)
+	adjective                                ( 46% =     13x)
+noun:potential adverb:                  
+	noun                                     ( 80% =   3685x)
+	adverb                                   ( 20% =    939x)
+	adjective                                (  0% =      5x)
+				Hosea 1:4 w290992"מְעַ֗ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Hosea 8:10 w292726"מְּעָ֔ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Haggai 1:6 w304217"מְעָ֗ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Haggai 1:9 w304272"מְעָ֔ט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+				Ruth 2:7 w356376"מְעָֽט"
+					BHS: T=noun:potential adverb: S=:
+					OSM: T=adjective [HAamsa] S=? [None]
+noun:potential preposition:             
+	preposition                              ( 63% =   1643x)
+	noun                                     ( 29% =    757x)
+	conjunction                              (  5% =    121x)
+				Genesis 3:11 w1385"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 4:15 w1924"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 19:21 w8904"בִלְתִּ֛י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 21:26 w10103"בִּלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 38:9 w20979"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 43:3 w24185"בִּלְתִּ֖י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 43:5 w24213"בִּלְתִּ֖י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 47:18 w26979"בִּלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Exodus 8:18 w32802"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Exodus 8:25 w32965"בִלְתִּי֙"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				and 111 more
+	adverb                                   (  2% =     56x)
+				Genesis 2:5 w750"טֶ֚רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 2:5 w760"טֶ֣רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 19:4 w8499"טֶרֶם֮"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 24:15 w11420"טֶרֶם֮"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 24:45 w11979"טֶ֨רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:4 w13702"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 27:33 w14215"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 37:18 w20499"טֶ֨רֶם֙"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 41:50 w23277"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Genesis 45:28 w25991"טֶ֥רֶם"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=adverb [HD] S=? [None]
+				and 46 more
+	particle                                 (  1% =     20x)
+				Genesis 31:20 w16737"בְּלִי֙"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				2_Samuel 1:21 w160870"בְּלִ֖י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 14:6 w216934"בְּלִ֥י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 28:8 w220950"בְּלִ֖י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 32:10 w222800"בְּלִ֥י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Isaiah 38:17 w225311"בְּלִ֔י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Hosea 7:8 w292480"בְּלִ֥י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Hosea 8:7 w292687"בְּלִ֣י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Malachi 3:10 w310378"בְּלִי"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				Psalms 19:4 w313207"בְּ֝לִ֗י"
+					BHS: T=noun:potential preposition: S=:
+					OSM: T=particle [HTn] S=? [None]
+				and 10 more
+personal pronoun::                      
+	pronoun                                  (100% =   4910x)
+	particle                                 (  0% =      5x)
+				Daniel 2:20 w370939"הִֽיא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+				Daniel 2:28 w371120"הֽוּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [HTa] S=? [None]
+				Daniel 2:38 w371321"ה֔וּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+				Daniel 2:47 w371547"ה֣וּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+				Daniel 3:15 w371956"ה֣וּא"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=particle [ATa] S=? [None]
+	suffix                                   (  0% =      3x)
+				Jeremiah 18:3 w243708"הו"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=suffix [HSp3ms] S=? [None]
+				Song_of_songs 6:5 w358742"הֵ֖ם"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=suffix [HSp3mp] S=? [None]
+				Daniel 2:35 w371257"הִמֹּון֙"
+					BHS: T=personal pronoun:: S=:
+					OSM: T=suffix [ASp3mp] S=? [None]
+preposition::                           
+	preposition                              ( 83% =  55591x)
+	particle                                 ( 17% =  11101x)
+	conjunction                              (  0% =     77x)
+				Daniel 2:8 w370678"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370682"כָּ"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370683"ל"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370685"דִּ֣י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:8 w370687"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:9 w370718"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:10 w370738"כָּ"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:10 w370739"ל"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:10 w370741"דִּ֚י"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				Daniel 2:12 w370781"כָּ"
+					BHS: T=preposition:: S=:
+					OSM: T=conjunction [AC] S=? [None]
+				and 67 more
+	pronoun                                  (  0% =      5x)
+				Daniel 3:6 w371723"דִּי"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APf3bs] S=? [None]
+				Daniel 3:11 w371824"דִּי"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APf3cs] S=? [None]
+				Daniel 4:14 w372650"דִּ֤י"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APfxcs] S=? [None]
+				Daniel 4:22 w372881"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APrxcs] S=? [None]
+				Daniel 4:29 w373010"דִּ֥י"
+					BHS: T=preposition:: S=:
+					OSM: T=pronoun [APrxcs] S=? [None]
+	adjective                                (  0% =      1x)
+				Daniel 4:23 w372897"דִּ֣י"
+					BHS: T=preposition:: S=:
+					OSM: T=adjective [AAafsa] S=? [None]
+	adverb                                   (  0% =      1x)
+				Ruth 1:13 w356038"עַ֚ד"
+					BHS: T=preposition:: S=:
+					OSM: T=adverb [HD] S=? [None]
+	noun                                     (  0% =      1x)
+				Daniel 6:28 w374523"בְ"
+					BHS: T=preposition:: S=:
+					OSM: T=noun [ANcmpd] S=? [None]
+	verb                                     (  0% =      1x)
+				Song_of_songs 2:13 w357957"לכי"
+					BHS: T=preposition:: S=p:
+					OSM: T=verb [HVqv2fs] S=? [None]
+proper noun::                           
+	noun                                     (100% =  31764x)
+	adjective                                (  0% =     30x)
+				Genesis 26:33 w13591"שִׁבְעָ֑ה"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcmsa] S=? [None]
+				Genesis 26:33 w13598"שֶׁ֔בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Joshua 15:28 w121878"שֶׁ֖בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Joshua 19:2 w123440"שֶׁ֥בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Joshua 19:2 w123442"שֶׁ֖בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				Judges 20:1 w139905"שֶׁ֔בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 17:11 w170533"שֶׁ֔בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 20:1 w173091"שֶׁ֥בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 20:2 w173128"שֶׁ֣בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				2_Samuel 20:6 w173220"שֶׁ֥בַע"
+					BHS: T=proper noun:: S=:
+					OSM: T=adjective [HAcfsa] S=? [None]
+				and 20 more
+	particle                                 (  0% =      5x)
+				1_Samuel 4:21 w143795"אִֽי־כָבֹוד֙"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTj] S=? []
+				Hosea 1:6 w291032"לֹ֣א רֻחָ֑מָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+				Hosea 1:8 w291074"לֹ֣א רֻחָ֑מָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+				Hosea 1:9 w291084"לֹ֣א עַמִּ֑י"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+				Hosea 2:25 w291573"לֹ֣א רֻחָ֑מָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=particle [HTn] S=noun [HNp]
+	preposition                              (  0% =      2x)
+				1_Chronicles 6:9 w394165"תַּ֤חַת"
+					BHS: T=proper noun:: S=:
+					OSM: T=preposition [HR] S=? [None]
+				1_Chronicles 6:22 w394298"תַּ֨חַת֙"
+					BHS: T=proper noun:: S=:
+					OSM: T=preposition [HR] S=? [None]
+	verb                                     (  0% =      1x)
+				Hosea 2:3 w291153"רֻחָֽמָה"
+					BHS: T=proper noun:: S=:
+					OSM: T=verb [HVPp3fs] S=? [None]
+verb::                                  
+	verb                                     (100% =  50691x)
+	adjective                                (  0% =     38x)
+				Numbers 7:13 w74146"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:14 w74158"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:19 w74228"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:20 w74240"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:25 w74309"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:26 w74321"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:31 w74390"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:32 w74402"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				Numbers 7:37 w74471"מְלֵאִ֗ים"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAampa] S=? [None]
+				Numbers 7:38 w74483"מְלֵאָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=adjective [HAafsa] S=? [None]
+				and 28 more
+	noun                                     (  0% =      8x)
+				Judges 4:11 w129619"חֹתֵ֣ן"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNcmsc] S=? [None]
+				Joel 4:3 w295061"זֹּונָ֔ה"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Joel 4:14 w295245"חָר֑וּץ"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Joel 4:14 w295253"חָרֽוּץ"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNp] S=? [None]
+				Obadiah 1:3 w298206"שִׁבְתֹּ֑ו"
+					BHS: T=verb:: S=p:
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+				Proverbs 3:13 w347564"יָפִ֥יק"
+					BHS: T=verb:: S=:
+					OSM: T=noun [HNcfsa] S=? [None]
+				Daniel 6:20 w374320"הִ֨תְבְּהָלָ֔ה"
+					BHS: T=verb:: S=:
+					OSM: T=noun [ANcfsa] S=? [None]
+				Daniel 6:23 w374385"הִשְׁתְּכַ֣חַת"
+					BHS: T=verb:: S=:
+					OSM: T=noun [ANcfsa] S=? [None]
+	particle                                 (  0% =      3x)
+				Habakkuk 2:20 w302794"הַ֥ס"
+					BHS: T=verb:: S=:
+					OSM: T=particle [HTj] S=? [None]
+				Zephaniah 1:7 w303207"הַ֕ס"
+					BHS: T=verb:: S=:
+					OSM: T=particle [HTj] S=? [None]
+				Daniel 2:26 w371072"חֲזֵ֖ית"
+					BHS: T=verb:: S=:
+					OSM: T=particle [ATr] S=? [None]
+	adverb                                   (  0% =      2x)
+				Isaiah 3:26 w213275"אָנ֥וּ"
+					BHS: T=verb:: S=:
+					OSM: T=adverb [HD] S=? [None]
+				Isaiah 19:8 w218260"אָנוּ֙"
+					BHS: T=verb:: S=:
+					OSM: T=adverb [HD] S=? [None]
+	preposition                              (  0% =      1x)
+				Jeremiah 9:24 w239863"מ֖וּל"
+					BHS: T=verb:: S=:
+					OSM: T=preposition [HR] S=? [None]
+verb:copulative verb:                   
+	verb                                     (100% =   3246x)
+verb:quotation verb:                    
+	verb                                     (100% =   6137x)
+
+main (BHS ===> OSM): 258 cases
+
+main: 448 cases
+
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+o-o COMPARING FEATURE suffix
+o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+
+
+---------------------------------------------------------------------------------
+--- suffix OSM ===> BHS
+---------------------------------------------------------------------------------
+
+?                                       
+	:                                        (100% = 330435x)
+	:J                                       (  0% =    231x)
+				Genesis 3:11 w1385"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 4:15 w1924"בִלְתִּ֥י"
+					BHS: T=noun:potential preposition: S=:J
+					OSM: T=conjunction [HC] S=? [None]
+				Genesis 4:20 w2010"אֲבִ֕י"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 4:21 w2021"אֲבִ֕י"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 9:18 w4387"אֲבִ֥י"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 9:22 w4424"אֲבִ֣י"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 10:21 w4821"אֲבִי֙"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 10:21 w4825"אֲחִ֖י"
+					BHS: T=noun:distributive noun: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 11:29 w5421"אֲבִֽי"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				Genesis 11:29 w5424"אֲבִ֥י"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=? [None]
+				and 221 more
+	:H                                       (  0% =     97x)
+				Genesis 10:19 w4791"גְרָ֖רָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 10:19 w4795"סְדֹ֧מָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 10:30 w4931"סְפָ֖רָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 18:22 w8186"סְדֹ֑מָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 19:1 w8429"סְדֹ֨מָה֙"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 19:23 w8939"צֹֽעֲרָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 26:1 w13002"גְּרָֽרָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				Genesis 35:16 w19358"אֶפְרָ֑תָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? [None]
+				Genesis 35:19 w19407"אֶפְרָ֔תָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? [None]
+				Genesis 37:17 w20482"דֹּתָ֑יְנָה"
+					BHS: T=proper noun:: S=:H
+					OSM: T=noun [HNp] S=? []
+				and 87 more
+	p:                                       (  0% =     35x)
+				Exodus 21:8 w40141"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				Leviticus 11:21 w58184"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				Leviticus 25:30 w67708"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				Deuteronomy 26:14 w107494"אֹנִ֜י"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Deuteronomy 32:11 w111587"כְּנָפָיו֙"
+					BHS: T=noun:: S=p:
+					OSM: T=adverb [HD] S=? []
+				1_Samuel 7:9 w144886"יעלה"
+					BHS: T=verb:: S=p:
+					OSM: T=verb [HVhw3ms] S=? [None]
+				1_Samuel 18:1 w152175"יאהבו"
+					BHS: T=verb:: S=p:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				2_Samuel 16:18 w170177"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				1_Kings 6:24 w180572"כְּנָפָ֖יו"
+					BHS: T=noun:: S=p:
+					OSM: T=adverb [HD] S=? []
+				1_Kings 6:24 w180576"כְּנָפָֽיו"
+					BHS: T=noun:: S=p:
+					OSM: T=adverb [HD] S=? []
+				and 25 more
+	:W                                       (  0% =      3x)
+				Genesis 1:24 w460"חַֽיְתֹו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=? [None]
+				Isaiah 56:9 w231488"חַיְתֹ֣ו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=? [None]
+				Isaiah 56:9 w231494"חַיְתֹ֖ו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=? [None]
+adjective                               
+	:                                        (100% =      6x)
+adverb                                  
+	:                                        (100% =    194x)
+conjunction                             
+	:                                        (100% =      2x)
+noun                                    
+	:                                        (100% =     79x)
+particle                                
+	:>                                       ( 77% =    602x)
+	:                                        ( 22% =    170x)
+	p:                                       (  1% =      5x)
+				Daniel 4:15 w372667"פִּשְׁרֵ֣א"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcmsd] S=particle [ATd]
+				Daniel 4:16 w372708"פִשְׁרֵא֙"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcmsd] S=particle [ATd]
+				Daniel 4:22 w372862"לָ֣ךְ"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [AR] S=particle [ATo]
+				Daniel 5:8 w373341"פשׁרא"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcmsd] S=particle [ATd]
+				Daniel 7:5 w374644"שׁניה"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcfpd] S=particle [ATd]
+pronoun                                 
+	p:                                       (100% =      6x)
+suffix                                  
+	p:                                       ( 95% =  38538x)
+	:                                        (  3% =   1027x)
+				Genesis 3:3 w1231"תְּמֻתֽוּן"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqi2mp] S=suffix [HSn]
+				Genesis 3:4 w1241"תְּמֻתֽוּן"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqi2mp] S=suffix [HSn]
+				Genesis 11:3 w4996"הָ֚בָה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 11:4 w5020"הָ֣בָה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 11:7 w5085"הָ֚בָה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 15:2 w6697"אֲדֹנָ֤י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				Genesis 15:8 w6801"אֲדֹנָ֣י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				Genesis 15:9 w6811"קְחָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 18:3 w7844"אֲדֹנָ֗י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				Genesis 18:27 w8293"אֲדֹנָ֔י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				and 1017 more
+	p:J                                      (  2% =    663x)
+				Genesis 2:24 w1144"אָבִ֖יו"
+					BHS: T=noun:: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Genesis 4:2 w1691"אָחִ֖יו"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Genesis 4:8 w1792"אָחִ֑יו"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Genesis 4:8 w1805"אָחִ֖יו"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Genesis 4:9 w1815"אָחִ֑יךָ"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp2ms]
+				Genesis 4:10 w1830"אָחִ֔יךָ"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp2ms]
+				Genesis 4:11 w1851"אָחִ֖יךָ"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp2ms]
+				Genesis 4:21 w2017"אָחִ֖יו"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Genesis 9:5 w4129"אָחִ֔יו"
+					BHS: T=noun:distributive noun: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Genesis 9:22 w4428"אָבִ֑יו"
+					BHS: T=noun:: S=p:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				and 653 more
+	:H                                       (  1% =    379x)
+				Genesis 6:16 w2900"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 7:20 w3440"מַ֔עְלָה"
+					BHS: T=noun:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 14:10 w6404"שָׁ֑מָּה"
+					BHS: T=adverb:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 15:5 w6749"ח֗וּצָה"
+					BHS: T=noun:: S=:H
+					OSM: T=noun [HNcmsa] S=suffix [HSd]
+				Genesis 15:5 w6755"שָּׁמַ֗יְמָה"
+					BHS: T=noun:: S=:H
+					OSM: T=noun [HNcmpa] S=suffix [HSd]
+				Genesis 19:17 w8809"ח֗וּצָה"
+					BHS: T=noun:: S=:H
+					OSM: T=noun [HNcmsa] S=suffix [HSd]
+				Genesis 19:20 w8877"שָׁ֖מָּה"
+					BHS: T=adverb:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 19:20 w8883"שָׁ֗מָּה"
+					BHS: T=adverb:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 19:22 w8913"שָׁ֔מָּה"
+					BHS: T=adverb:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				Genesis 19:22 w8922"שָׁ֑מָּה"
+					BHS: T=adverb:: S=:H
+					OSM: T=adverb [HD] S=suffix [HSd]
+				and 369 more
+	p:N                                      (  0% =    148x)
+				Genesis 3:9 w1354"אַיֶּֽכָּה"
+					BHS: T=interrogative particle:: S=p:N
+					OSM: T=particle [HTi] S=suffix [HSp2ms]
+				Genesis 6:16 w2897"תְּכַלֶ֣נָּה"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVpi2ms] S=suffix [HSp3fs]
+				Genesis 13:15 w6153"אֶתְּנֶ֑נָּה"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVqi1cs] S=suffix [HSp3fs]
+				Genesis 13:17 w6192"אֶתְּנֶֽנָּה"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVqi1cs] S=suffix [HSp3fs]
+				Genesis 15:8 w6807"אִֽירָשֶֽׁנָּה"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVqi1cs] S=suffix [HSp3fs]
+				Genesis 22:7 w10387"הִנֶּ֣נִּֽי"
+					BHS: T=interjection:: S=p:N
+					OSM: T=particle [HTm] S=suffix [HSp1cs]
+				Genesis 27:18 w13927"הִנֶּ֔נִּי"
+					BHS: T=interjection:: S=p:N
+					OSM: T=particle [HTm] S=suffix [HSp1cs]
+				Genesis 27:19 w13953"תְּבָרֲכַ֥נִּי"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVpi3fs] S=suffix [HSp1cs]
+				Genesis 27:31 w14177"תְּבָרֲכַ֥נִּי"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVpi3fs] S=suffix [HSp1cs]
+				Genesis 28:13 w14748"אֶתְּנֶ֖נָּה"
+					BHS: T=verb:: S=p:N
+					OSM: T=verb [HVqi1cs] S=suffix [HSp3fs]
+				and 138 more
+	:W                                       (  0% =      8x)
+				Numbers 23:18 w85007"בְּנֹ֥ו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Numbers 24:3 w85260"בְּנֹ֣ו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Numbers 24:15 w85462"בְּנֹ֣ו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcmsc] S=suffix [HSp3ms]
+				Zephaniah 2:14 w303699"חַיְתֹו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+				Psalms 50:10 w318733"חַיְתֹו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+				Psalms 79:2 w324272"חַיְתֹו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+				Psalms 104:11 w328329"חַיְתֹ֣ו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+				Psalms 104:20 w328426"חַיְתֹו"
+					BHS: T=noun:: S=:W
+					OSM: T=noun [HNcfsc] S=suffix [HSp3ms]
+	:J                                       (  0% =      5x)
+				Isaiah 47:8 w228639"אַפְסִ֣י"
+					BHS: T=noun:copulative noun: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Isaiah 47:10 w228689"אַפְסִ֥י"
+					BHS: T=noun:copulative noun: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Zephaniah 2:15 w303735"אַפְסִ֣י"
+					BHS: T=noun:copulative noun: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Zephaniah 3:8 w303873"קָבְצִ֣י"
+					BHS: T=verb:: S=:J
+					OSM: T=verb [HVqc] S=suffix [HSp1cs]
+				Song_of_songs 6:12 w358853"עַמִּי"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+	:>                                       (  0% =      2x)
+				Daniel 2:7 w370668"פִשְׁרָ֥ה"
+					BHS: T=noun:: S=:>
+					OSM: T=noun [ANcmsc] S=suffix [ASp3ms]
+				Daniel 4:21 w372840"מַלְכָּֽא"
+					BHS: T=noun:: S=:>
+					OSM: T=noun [ANcmsc] S=suffix [ASp1cs]
+	p:W                                      (  0% =      1x)
+				Daniel 5:2 w373192"אֲב֔וּהִי"
+					BHS: T=noun:: S=p:W
+					OSM: T=noun [ANcmsc] S=suffix [ASp3ms]
+
+suffix (OSM ===> BHS): 94 cases
+
+---------------------------------------------------------------------------------
+--- suffix BHS ===> OSM
+---------------------------------------------------------------------------------
+
+:                                       
+	?                                        (100% = 330435x)
+	suffix                                   (  0% =   1027x)
+				Genesis 3:3 w1231"תְּמֻתֽוּן"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqi2mp] S=suffix [HSn]
+				Genesis 3:4 w1241"תְּמֻתֽוּן"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqi2mp] S=suffix [HSn]
+				Genesis 11:3 w4996"הָ֚בָה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 11:4 w5020"הָ֣בָה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 11:7 w5085"הָ֚בָה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 15:2 w6697"אֲדֹנָ֤י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				Genesis 15:8 w6801"אֲדֹנָ֣י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				Genesis 15:9 w6811"קְחָ֥ה"
+					BHS: T=verb:: S=:
+					OSM: T=verb [HVqv2ms] S=suffix [HSh]
+				Genesis 18:3 w7844"אֲדֹנָ֗י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				Genesis 18:27 w8293"אֲדֹנָ֔י"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNcmpc] S=suffix [HSp1cs]
+				and 1017 more
+	adverb                                   (  0% =    194x)
+				Genesis 4:15 w1911"לָכֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Genesis 30:15 w15823"לָכֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Exodus 6:6 w31334"לָכֵ֞ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Numbers 16:11 w80256"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Numbers 20:12 w82792"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Numbers 25:12 w85826"לָכֵ֖ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Judges 8:7 w132272"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Judges 10:13 w134367"לָכֵ֥ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				Judges 11:8 w134614"לָכֵן֙"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				1_Samuel 2:30 w142706"לָכֵ֗ן"
+					BHS: T=adverb:conjunctive adverb: S=:
+					OSM: T=preposition [HR] S=adverb [HD]
+				and 184 more
+	particle                                 (  0% =    170x)
+				Genesis 4:6 w1759"לָ֚מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 4:6 w1763"לָ֖מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 12:18 w5826"לָ֚מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 12:19 w5833"לָמָ֤ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 18:13 w8030"לָ֣מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 24:31 w11717"לָ֤מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 25:22 w12769"לָ֥מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 25:32 w12933"לָמָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 27:45 w14465"לָמָ֥ה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				Genesis 27:46 w14496"לָ֥מָּה"
+					BHS: T=interrogative particle:: S=:
+					OSM: T=preposition [HR] S=particle [HTi]
+				and 160 more
+	noun                                     (  0% =     79x)
+				Genesis 11:10 w5143"שָׁנָ֔ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 21:5 w9687"שָׁנָ֑ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 25:7 w12529"שָׁנָ֛ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 25:17 w12674"שָׁנָ֛ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Genesis 35:28 w19527"שָׁנָ֖ה"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcfsa]
+				Exodus 38:25 w50894"כִּכָּ֑ר"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcbsa]
+				Exodus 38:27 w50948"כִּכַּ֣ר"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcbsc]
+				Exodus 38:27 w50963"אֲדָנִ֛ים"
+					BHS: T=noun:: S=:
+					OSM: T=adjective [HAcbsc] S=noun [HNcmpa]
+				Judges 1:5 w127539"אֲדֹנִ֥י בֶ֨זֶק֙"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNp] S=noun [HNp]
+				Judges 1:6 w127556"אֲדֹ֣נִי בֶ֔זֶק"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNp] S=noun [HNp]
+				and 69 more
+	adjective                                (  0% =      6x)
+				Numbers 2:9 w70538"אֶ֜לֶף"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=adjective [HAcbsc] S=adjective [HAcbsa]
+				Numbers 2:16 w70633"אֶ֜לֶף"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=adjective [HAcbsc] S=adjective [HAcbsa]
+				Numbers 2:24 w70744"אֶ֛לֶף"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=adjective [HAcbsc] S=adjective [HAcbsa]
+				Numbers 2:31 w70834"אֶ֗לֶף"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=adjective [HAcbsc] S=adjective [HAcbsa]
+				Judges 1:10 w127653"קִרְיַ֣ת אַרְבַּ֑ע"
+					BHS: T=proper noun:: S=:
+					OSM: T=noun [HNp] S=adjective [HAcfsa]
+				Ezekiel 48:16 w290515"חֲמֵ֥שׁ חמשׁ"
+					BHS: T=noun:cardinal: S=:
+					OSM: T=adjective [HAcfsa] S=adjective [HAcfsa]
+	conjunction                              (  0% =      2x)
+				Ruth 3:12 w356979"כִּ֥י אם"
+					BHS: T=conjunction:: S=:
+					OSM: T=conjunction [HC] S=conjunction [HC]
+				Ecclesiastes 8:12 w362111"וּ"
+					BHS: T=conjunction:: S=:
+					OSM: T=adjective [HAcbsc] S=conjunction [HC]
+:>                                      
+	particle                                 (100% =    602x)
+	suffix                                   (  0% =      2x)
+				Daniel 2:7 w370668"פִשְׁרָ֥ה"
+					BHS: T=noun:: S=:>
+					OSM: T=noun [ANcmsc] S=suffix [ASp3ms]
+				Daniel 4:21 w372840"מַלְכָּֽא"
+					BHS: T=noun:: S=:>
+					OSM: T=noun [ANcmsc] S=suffix [ASp1cs]
+:H                                      
+	suffix                                   ( 80% =    379x)
+	?                                        ( 20% =     97x)
+:J                                      
+	?                                        ( 98% =    231x)
+	suffix                                   (  2% =      5x)
+				Isaiah 47:8 w228639"אַפְסִ֣י"
+					BHS: T=noun:copulative noun: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Isaiah 47:10 w228689"אַפְסִ֥י"
+					BHS: T=noun:copulative noun: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Zephaniah 2:15 w303735"אַפְסִ֣י"
+					BHS: T=noun:copulative noun: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+				Zephaniah 3:8 w303873"קָבְצִ֣י"
+					BHS: T=verb:: S=:J
+					OSM: T=verb [HVqc] S=suffix [HSp1cs]
+				Song_of_songs 6:12 w358853"עַמִּי"
+					BHS: T=noun:: S=:J
+					OSM: T=noun [HNcmsc] S=suffix [HSp1cs]
+:W                                      
+	suffix                                   ( 73% =      8x)
+	?                                        ( 27% =      3x)
+p:                                      
+	suffix                                   (100% =  38538x)
+	?                                        (  0% =     35x)
+				Exodus 21:8 w40141"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				Leviticus 11:21 w58184"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				Leviticus 25:30 w67708"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				Deuteronomy 26:14 w107494"אֹנִ֜י"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [HNcmsa] S=? [None]
+				Deuteronomy 32:11 w111587"כְּנָפָיו֙"
+					BHS: T=noun:: S=p:
+					OSM: T=adverb [HD] S=? []
+				1_Samuel 7:9 w144886"יעלה"
+					BHS: T=verb:: S=p:
+					OSM: T=verb [HVhw3ms] S=? [None]
+				1_Samuel 18:1 w152175"יאהבו"
+					BHS: T=verb:: S=p:
+					OSM: T=verb [HVqw3ms] S=? [None]
+				2_Samuel 16:18 w170177"לא"
+					BHS: T=preposition:: S=p:
+					OSM: T=particle [HTn] S=? [None]
+				1_Kings 6:24 w180572"כְּנָפָ֖יו"
+					BHS: T=noun:: S=p:
+					OSM: T=adverb [HD] S=? []
+				1_Kings 6:24 w180576"כְּנָפָֽיו"
+					BHS: T=noun:: S=p:
+					OSM: T=adverb [HD] S=? []
+				and 25 more
+	pronoun                                  (  0% =      6x)
+				2_Samuel 24:3 w175489"כָּהֵ֤ם"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [HR] S=pronoun [HPp3mp]
+				2_Samuel 24:3 w175491"כָהֵם֙"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [HR] S=pronoun [HPp3mp]
+				Ecclesiastes 9:12 w362645"כָּהֵ֗ם"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [HR] S=pronoun [HPp3mp]
+				Daniel 6:6 w373962"עֲלֹ֖והִי"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [AR] S=pronoun [APp3ms]
+				1_Chronicles 21:3 w401846"כָּהֵם֙"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [HR] S=pronoun [HPp3mp]
+				2_Chronicles 9:11 w411307"כָהֵ֛ם"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [HR] S=pronoun [HPp3mp]
+	particle                                 (  0% =      5x)
+				Daniel 4:15 w372667"פִּשְׁרֵ֣א"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcmsd] S=particle [ATd]
+				Daniel 4:16 w372708"פִשְׁרֵא֙"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcmsd] S=particle [ATd]
+				Daniel 4:22 w372862"לָ֣ךְ"
+					BHS: T=preposition:: S=p:
+					OSM: T=preposition [AR] S=particle [ATo]
+				Daniel 5:8 w373341"פשׁרא"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcmsd] S=particle [ATd]
+				Daniel 7:5 w374644"שׁניה"
+					BHS: T=noun:: S=p:
+					OSM: T=noun [ANcfpd] S=particle [ATd]
+p:J                                     
+	suffix                                   (100% =    663x)
+p:N                                     
+	suffix                                   (100% =    148x)
+p:W                                     
+	suffix                                   (100% =      1x)
+
+suffix (BHS ===> OSM): 76 cases
+
+suffix: 138 cases
+
+All features: 556 cases
