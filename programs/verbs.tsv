@@ -1,289 +1,1181 @@
 passage	node	occurrence	OSMmorph	stemOSM	stemBHS	conjOSM	conjBHS	personOSM	personBHS	genderOSM	genderBHS	numberOSM	numberBHS
+Genesis 1:4	47	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 1:10	178	טֹֽוב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 1:12	227	טֹֽוב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 1:18	351	טֹֽוב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 1:21	413	טֹֽוב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 1:25	494	טֹֽוב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 8:10	3740	יָּ֣חֶל	HVpw3ms	piel	qal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 12:15	5773	תֻּקַּ֥ח	HVQw3fs	qalpassive	hophal	wayyiqtol	wayyiqtol	3	3	f	f	s	s
+Genesis 18:1	7815	חֹ֥ם	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
 Genesis 18:2	7840	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 18:4	7857	יֻקַּֽח	HVQj3ms	qalpassive	hophal	jussive	imperfect	3	3	m	m	s	s
 Genesis 19:1	8447	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 19:16	8774	יִּתְמַהְמָ֓הּ	HVfw3ms	hithpalpel	hithpael	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 21:16	9883	מְטַחֲוֵ֣י	HVkrmpc	palel	piel	part act	part act	_	?	m	m	p	p
 Genesis 23:7	10836	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
 Genesis 23:12	10939	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Genesis 24:26	11610	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Genesis 24:52	12150	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Genesis 33:3	18134	יִּשְׁתַּ֤חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Genesis 33:7	18200	יִּֽשְׁתַּחֲו֑וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Genesis 33:7	18208	יִּֽשְׁתַּחֲוֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Genesis 37:10	20375	הִשְׁתַּחֲוֹ֥ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Genesis 42:6	23530	יִּשְׁתַּֽחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Genesis 43:26	24671	יִּשְׁתַּחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Genesis 47:31	27291	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Genesis 48:12	27525	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Exodus 12:27	35321	יִּֽשְׁתַּחֲוּֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Exodus 18:7	38589	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Exodus 32:8	46672	יִּשְׁתַּֽחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Exodus 34:8	47946	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Leviticus 26:1	68166	הִֽשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Numbers 7:13	74146	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:14	74158	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:19	74228	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:20	74240	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:25	74309	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:26	74321	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:31	74390	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:32	74402	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:37	74471	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:38	74483	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:43	74552	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:44	74564	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:49	74633	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:50	74645	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:55	74714	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:56	74726	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:61	74795	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:62	74807	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:67	74876	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:68	74888	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:73	74957	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:74	74969	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:79	75038	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Numbers 7:80	75050	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Numbers 7:86	75143	מְלֵאֹ֣ת	HAafpa	?	qal	?	part act	p	?	a	f	?	p
-Numbers 22:31	84473	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Deuteronomy 6:11	97154	מְלֵאִ֣ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Deuteronomy 17:3	102990	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Deuteronomy 33:23	112581	מָלֵ֖א	HAamsa	?	qal	?	part act	s	?	a	m	?	s
-Deuteronomy 34:9	112843	מָלֵא֙	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
-Joshua 5:14	115318	יִּשְׁתָּ֔חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Judges 1:27	128004	ישׁב	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
-Judges 2:12	128461	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Judges 2:17	128555	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Judges 2:19	128623	הִשְׁתַּחֲוֹ֣ת	HVvc	hishtaphel	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Judges 3:26	129257	הִֽתְמַהְמְהָ֑ם	HVfc	hithpalpel	hithpael	inf cons	inf cons	_	?	?	?	?	?
-Judges 4:11	129619	חֹתֵ֣ן	HNcmsc	tiphil	qal	?	part act	s	?	c	m	?	s
-Judges 5:5	130015	נָזְל֖וּ	HVqp3cp	qal	niphal	perfect	perfect	3	3	c	?	p	p
-Judges 5:13	130129	יְרַ֣ד	HVqp3ms	qal	piel	perfect	imperfect	3	3	m	m	s	s
-Judges 5:13	130135	יְרַד	HVqp3ms	qal	piel	perfect	imperfect	3	3	m	m	s	s
-Judges 5:14	130152	מְחֹ֣קְקִ֔ים	HVmrmpa	poel	piel	part act	part act	_	?	m	m	p	p
-Judges 5:28	130362	בֹּשֵׁ֤שׁ	HVop3ms	polel	piel	perfect	perfect	3	3	m	m	s	s
-Judges 7:15	131827	יִּשְׁתָּ֑חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Samuel 1:3	141594	הִֽשְׁתַּחֲוֹ֧ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-1_Samuel 1:19	141906	יִּֽשְׁתַּחֲווּ֙	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-1_Samuel 1:28	142109	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Samuel 2:36	142847	הִשְׁתַּחֲוֹ֣ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-1_Samuel 15:31	150180	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Samuel 16:16	150632	טֹ֥וב	HVqq3ms	qal	?	weqatal	?	3	_	m	m	s	s
-1_Samuel 16:23	150776	טֹ֣וב	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
-1_Samuel 20:41	154309	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Samuel 24:9	156186	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Samuel 25:23	157022	תִּשְׁתַּ֖חוּ	HVvw3fs	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	f	f	s	s
-1_Samuel 25:41	157481	תִּשְׁתַּ֥חוּ	HVvw3fs	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	f	f	s	s
-1_Samuel 28:14	158834	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 1:2	160520	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 9:6	165079	יִּשְׁתָּ֑חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 9:8	165119	יִּשְׁתַּ֕חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 12:20	166858	יִּשְׁתָּ֑חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 14:22	168578	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 14:33	168862	יִּשְׁתַּ֨חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 15:5	168985	הִשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-2_Samuel 18:21	171619	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 18:28	171796	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Samuel 24:20	175929	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Kings 1:16	176411	תִּשְׁתַּ֖חוּ	HVvw3fs	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	f	f	s	s
-1_Kings 1:23	176553	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Kings 1:31	176736	תִּשְׁתַּ֖חוּ	HVvw3fs	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	f	f	s	s
-1_Kings 1:47	177136	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Kings 1:53	177264	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Kings 2:19	177686	יִּשְׁתַּ֣חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Kings 11:33	185697	יִּֽשְׁתַּחֲווּ֮	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-1_Kings 16:31	189746	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Kings 22:49	194645	עשׂר	HAcmsa	tiphil	qal	?	perfect	s	3	a	m	?	s
-2_Kings 2:15	195621	יִּשְׁתַּחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Kings 4:37	197260	תִּשְׁתַּ֖חוּ	HVvw3fs	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	f	f	s	s
-2_Kings 5:18	197908	הִשְׁתַּחֲוֹ֨ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-2_Kings 17:16	205929	יִּֽשְׁתַּחֲווּ֙	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Kings 21:3	208740	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-2_Kings 21:21	209149	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Isaiah 2:20	212868	הִֽשְׁתַּחֲוֹ֔ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Isaiah 3:26	213275	אָנ֥וּ	HD	?	qal	?	perfect	?	3	?	?	?	p
-Isaiah 19:8	218260	אָנוּ֙	HD	?	qal	?	perfect	?	3	?	?	?	p
-Isaiah 44:15	227625	יִּשְׁתָּ֔חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Isaiah 66:23	234971	הִשְׁתַּחֲוֹ֥ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Jeremiah 1:16	235287	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Jeremiah 7:2	238233	הִֽשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Jeremiah 9:24	239863	מ֖וּל	HR	?	qal	?	part pass	?	?	?	m	?	s
-Jeremiah 16:11	242883	יִּשְׁתַּחֲו֣וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Jeremiah 22:9	245497	יִּֽשְׁתַּחֲו֛וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Jeremiah 26:2	247884	הִשְׁתַּחֲוֹ֣ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Ezekiel 10:12	268650	מְלֵאִ֤ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
-Ezekiel 37:1	283222	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Ezekiel 46:9	289269	הִֽשְׁתַּחֲוֹ֗ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Hosea 2:3	291153	רֻחָֽמָה	HVPp3fs	pual	?	perfect	?	3	_	f	f	s	s
-Hosea 2:9	291267	טֹ֥וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
-Hosea 4:3	291736	אֻמְלַל֙	HVKq3ms	pulal	pual	weqatal	perfect	3	3	m	m	s	s
-Hosea 6:9	292336	חַכֵּ֨י	HVpc	piel	piel	inf cons	part act	_	?	?	m	?	p
-Hosea 7:4	292417	אֹפֶ֑ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
-Hosea 7:5	292435	לֹצְצִֽים	HVormpa	polel	piel	part act	part act	_	?	m	m	p	p
-Hosea 7:6	292448	אֹֽפֵהֶ֔ם	HVqrmsc	qal	?	part act	?	_	_	m	m	s	s
-Hosea 7:8	292476	יִתְבֹּולָ֑ל	HVri3ms	hithpolel	hithpael	imperfect	imperfect	3	3	m	m	s	s
-Hosea 7:14	292575	יִתְגֹּורָ֖רוּ	HVri3mp	hithpolel	hithpael	imperfect	imperfect	3	3	m	m	p	p
-Hosea 9:7	292903	רַבָּ֖ה	HAafsa	?	qal	?	perfect	s	3	a	f	?	s
-Hosea 9:10	292956	אָהֳבָֽם	HVqc	qal	?	inf cons	?	_	_	?	?	?	s
-Hosea 9:11	292961	יִתְעֹופֵ֣ף	HVri3ms	hithpolel	hithpael	imperfect	imperfect	3	3	m	m	s	s
-Hosea 10:1	293076	טֹ֣וב	HAamsa	?	qal	?	inf cons	s	?	a	?	?	?
-Hosea 10:2	293088	יְשֹׁדֵ֖ד	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
-Hosea 10:14	293285	יוּשַּׁ֔ד	HVQi3ms	qalpassive	hophal	imperfect	imperfect	3	3	m	m	s	s
-Hosea 11:3	293343	קָחָ֖ם	HVqp3ms	qal	qal	perfect	inf cons	3	?	m	?	s	?
-Hosea 11:7	293406	יְרֹומֵם	HVoi3ms	polel	piel	imperfect	imperfect	3	3	m	m	s	s
-Hosea 13:3	293749	יְסֹעֵ֣ר	HVmi3ms	poel	poel	imperfect	imperfect	3	3	m	m	s	s
-Hosea 14:9	294037	אֲשׁוּרֶ֗נּוּ	HVqw1cs	qal	qal	wayyiqtol	imperfect	1	1	c	?	s	s
-Joel 1:10	294200	אֻמְלַ֥ל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
-Joel 1:11	294202	הֹבִ֣ישׁוּ	HVhv2mp	hiphil	hiphil	imperative	perfect	2	3	m	?	p	p
-Joel 1:11	294204	הֵילִ֨ילוּ֙	HVhv2mp	hiphil	hiphil	imperative	perfect	2	3	m	?	p	p
-Joel 1:12	294221	אֻמְלָ֑לָה	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
-Joel 4:1	295015	אשׁוב	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
-Joel 4:3	295061	זֹּונָ֔ה	HNcfsa	tiphil	qal	?	part act	s	?	a	f	?	s
-Joel 4:14	295245	חָר֑וּץ	HNp	piel	qal	?	part pass	?	?	?	m	?	s
-Joel 4:14	295253	חָרֽוּץ	HNp	piel	qal	?	part pass	?	?	?	m	?	s
-Amos 2:13	295902	תָּעִיק֙	HVhi3fs	hiphil	qal	imperfect	imperfect	3	3	f	f	s	s
-Amos 4:5	296306	קַטֵּ֤ר	HVpa	piel	piel	inf abs	imperative	_	2	?	m	?	s
-Amos 4:7	296377	תַמְטִ֥יר	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
-Amos 5:11	296674	בֹּושַׁסְכֶ֞ם	HVmc	poel	qal	inf cons	inf cons	_	?	?	?	?	?
-Amos 8:12	297750	יְשֹֽׁוטְט֛וּ	HVoi3mp	polel	piel	imperfect	imperfect	3	3	m	m	p	p
-Amos 9:1	297813	בְצַ֨עַם֙	HVqv2ms	qal	qal	imperative	inf cons	2	?	m	?	s	?
-Amos 9:10	298046	תַגִּ֧ישׁ	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
-Amos 9:10	298048	תַקְדִּ֛ים	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
-Amos 9:13	298119	תִּתְמֹוגַֽגְנָה	HVri3fp	hithpolel	hithpael	imperfect	imperfect	3	3	f	f	p	p
-Obadiah 1:3	298206	שִׁבְתֹּ֑ו	HNcfsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
-Jonah 1:9	298764	יָרֵ֔א	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
-Jonah 1:15	298910	זַּעְפֹּֽו	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
-Jonah 2:4	298982	יְסֹבְבֵ֑נִי	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
-Jonah 2:6	299008	יְסֹבְבֵ֑נִי	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
-Jonah 4:6	299394	יַּ֣עַל	HVqw3ms	qal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Jonah 4:8	299449	תַּ֥ךְ	HVhw3ms	hiphil	hiphil	wayyiqtol	wayyiqtol	3	3	m	f	s	s
-Nahum 1:4	301493	אֻמְלַ֤ל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
-Nahum 1:4	301500	אֻמְלָֽל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
-Nahum 1:5	301507	הִתְמֹגָ֑גוּ	HVrp3cp	hithpolel	hithpael	perfect	perfect	3	3	c	?	p	p
-Nahum 1:10	301582	אֻ֨כְּל֔וּ	HVQp3cp	qalpassive	pual	perfect	perfect	3	3	c	?	p	p
-Nahum 2:2	301671	צַפֵּה	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
-Nahum 2:2	301673	חַזֵּ֣ק	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
-Nahum 2:2	301675	אַמֵּ֥ץ	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
-Nahum 2:5	301714	יִתְהֹולְל֣וּ	HVri3mp	hithpolel	hithpael	imperfect	imperfect	3	3	m	m	p	p
-Nahum 2:5	301717	יִֽשְׁתַּקְשְׁק֖וּן	HVfi3mp	hithpalpel	hithpael	imperfect	imperfect	3	3	m	m	p	p
-Nahum 2:5	301728	יְרֹוצֵֽצוּ	HVoi3mp	polel	piel	imperfect	imperfect	3	3	m	m	p	p
-Nahum 2:8	301758	מְתֹפְפֹ֖ת	HVmrfpa	poel	piel	part act	part act	_	?	f	f	p	p
-Nahum 3:1	301880	מְלֵאָ֔ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-Nahum 3:7	301967	רֹאַ֨יִךְ֙	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
-Nahum 3:8	301983	תֵֽיטְבִי֙	HVhi2fs	hiphil	qal	imperfect	imperfect	2	2	f	f	s	s
-Nahum 3:17	302142	נֹודַ֔ד	HVMp3ms	poal	piel	perfect	perfect	3	3	m	m	s	s
-Habakkuk 1:4	302239	מְעֻקָּֽל	HVPrmsa	pual	pual	part act	part pass	_	?	m	m	s	s
-Habakkuk 2:3	302496	יָפֵ֥חַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
-Habakkuk 2:3	302504	יִתְמַהְמָהּ֙	HVfi3ms	hithpalpel	hithpael	imperfect	imperfect	3	3	m	m	s	s
-Habakkuk 2:7	302590	מְזַעְזְעֶ֑יךָ	HVlrmpc	pilpel	piel	part act	part act	_	?	m	m	p	p
-Habakkuk 2:12	302659	כֹונֵ֥ן	HVoq3ms	polel	piel	weqatal	perfect	3	3	m	m	s	s
-Habakkuk 2:20	302794	הַ֥ס	HTj	pealal	piel	?	imperative	?	2	?	m	?	s
-Habakkuk 3:6	302868	יְמֹ֣דֶד	HVow3ms	polel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Habakkuk 3:6	302875	יִּתְפֹּֽצְצוּ֙	HVrw3mp	hithpolel	hithpael	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Habakkuk 3:13	302969	עָרֹ֛ות	HVpa	piel	piel	inf abs	inf cons	_	?	?	?	?	?
-Zephaniah 1:2	303100	אָסֵ֜ף	HVhi1cs	hiphil	qal	imperfect	part act	1	?	c	m	s	s
-Zephaniah 1:3	303109	אָסֵ֨ף	HVhi1cs	hiphil	qal	imperfect	part act	1	?	c	m	s	s
-Zephaniah 1:3	303113	אָסֵ֤ף	HVhi1cs	hiphil	qal	imperfect	part act	1	?	c	m	s	s
-Zephaniah 1:5	303170	מִּשְׁתַּחֲוִ֥ים	HVvrmpa	hishtaphel	hishtaphel	part act	part act	_	?	m	m	p	p
-Zephaniah 1:5	303181	מִּֽשְׁתַּחֲוִים֙	HVvrmpa	hishtaphel	hishtaphel	part act	part act	_	?	m	m	p	p
-Zephaniah 1:7	303207	הַ֕ס	HTj	pealal	piel	?	imperative	?	2	?	m	?	s
-Zephaniah 1:14	303365	קָרֹ֖וב	HAamsa	?	qal	?	inf abs	s	?	a	?	?	?
-Zephaniah 1:14	303367	מַהֵ֣ר	HAamsa	?	piel	?	inf abs	s	?	a	?	?	?
-Zephaniah 1:17	303428	שֻׁפַּ֤ךְ	HVQq3ms	qalpassive	pual	weqatal	perfect	3	3	m	m	s	s
-Zephaniah 2:1	303468	הִֽתְקֹושְׁשׁ֖וּ	HVrv2mp	hithpolel	hithpael	imperative	imperative	2	2	m	m	p	p
-Zephaniah 2:11	303659	יִשְׁתַּֽחֲווּ	HVvi3mp	hishtaphel	hishtaphel	imperfect	imperfect	3	3	m	m	p	p
-Zephaniah 2:14	303709	יְשֹׁורֵ֤ר	HVoi3ms	polel	piel	imperfect	imperfect	3	3	m	m	s	s
-Zephaniah 3:10	303914	פּוּצַ֔י	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
-Zechariah 14:16	309314	הִֽשְׁתַּחֲוֹת֙	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Zechariah 14:17	309339	הִֽשְׁתַּחֲוֹ֔ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-Malachi 2:9	309940	נִבְזִ֥ים	HVNsmpa	niphal	niphal	part pass	part act	_	?	m	m	p	p
-Malachi 3:2	310175	מְכַלְכֵּל֙	HVlrmsa	pilpel	piel	part act	part act	_	?	m	m	s	s
-Psalms 106:19	329149	יִּשְׁתַּחֲו֗וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-Job 1:20	336492	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-Proverbs 3:13	347564	יָפִ֥יק	HNcfsa	tiphil	hiphil	?	imperfect	s	3	a	m	?	s
-Proverbs 24:17	353525	אויביך	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
-Proverbs 25:2	353721	הַסְתֵּ֣ר	HVhv2ms	hiphil	hiphil	imperative	inf abs	2	?	m	?	s	?
-Proverbs 26:10	354112	מְחֹֽולֵֽל	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
-Ruth 2:1	356231	מידע	HVPrmsa	pual	?	part act	?	_	_	m	m	s	s
-Ruth 2:4	356297	בָּ֚א	HVqrmsa	qal	qal	part act	perfect	_	3	m	m	s	s
-Ruth 2:6	356343	שָּׁ֥בָה	HVqrfsa	qal	qal	part act	perfect	_	3	f	f	s	s
-Ruth 2:10	356441	תִּשְׁתַּ֖חוּ	HVvw3fs	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	f	f	s	s
-Ruth 2:16	356588	שֹׁל	HVqa	qal	qal	inf abs	inf cons	_	?	?	?	?	?
-Ruth 2:20	356704	גֹּאֲלֵ֖נוּ	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
-Ruth 3:3	356811	ירדתי	HVqq1cs	qal	qal	weqatal	perfect	1	2	c	f	s	s
-Ruth 3:4	356844	שׁכבתי	HVqq1cs	qal	qal	weqatal	perfect	1	2	c	f	s	s
-Ruth 4:5	357240	קניתי	HVqp1cs	qal	qal	perfect	perfect	1	2	c	m	s	s
-Ruth 4:15	357495	כַלְכֵּ֖ל	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
-Song_of_songs 1:6	357660	נִֽחֲרוּ	HVNp3cp	niphal	piel	perfect	perfect	3	3	c	?	p	p
-Song_of_songs 1:10	357722	נָאו֤וּ	HVqp3cp	qal	piel	perfect	perfect	3	3	c	?	p	p
-Song_of_songs 2:7	357865	תְּעֹֽורְר֛וּ	HVoi2mp	polel	piel	imperfect	imperfect	2	2	m	m	p	p
-Song_of_songs 2:13	357957	לכי	HVqv2fs	qal	?	imperative	?	2	_	f	_	s	_
-Song_of_songs 3:2	358044	אֲסֹובְבָ֣ה	HVmh1cs	poel	piel	cohortative	imperfect	1	1	c	?	s	s
-Song_of_songs 3:5	358118	תְּעֹֽורְר֛וּ	HVoi2mp	polel	piel	imperfect	imperfect	2	2	m	m	p	p
-Song_of_songs 3:6	358134	מְקֻטֶּ֤רֶת	HVPrfsc	pual	pual	part act	part pass	_	?	f	f	s	s
-Song_of_songs 3:8	358155	אֲחֻ֣זֵי	HVqsmpc	qal	?	part pass	?	_	_	m	m	p	p
-Song_of_songs 3:8	358157	מְלֻמְּדֵ֖י	HVPrmpc	pual	pual	part act	part pass	_	?	m	m	p	p
-Song_of_songs 7:3	358899	סוּגָ֖ה	HVQrfsa	qalpassive	qal	part act	part pass	_	?	f	f	s	s
-Song_of_songs 8:4	359094	תְּעֹֽרְר֛וּ	HVoi2mp	polel	piel	imperfect	imperfect	2	2	m	m	p	p
-Song_of_songs 8:5	359113	עֹֽורַרְתִּ֔יךָ	HVop1cs	polel	piel	perfect	perfect	1	1	c	?	s	s
-Daniel 2:9	370703	שְׁחִיתָה֙	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
-Daniel 2:9	370704	הזמנתון	AVhp2mp	haphel	hithpeel	perfect	perfect	2	2	m	m	p	p
-Daniel 2:9	370711	יִשְׁתַּנֵּ֑א	AVMi3ms	hithpaal	etpaal	imperfect	imperfect	3	3	m	m	s	s
-Daniel 2:13	370810	הִתְקְטָלָֽה	AVMc	hithpaal	hithpeel	inf cons	inf cons	_	?	?	?	?	?
-Daniel 2:24	371012	אֲזַ֣ל	AVqrmsa	peal	peal	part act	perfect	_	3	m	m	s	s
-Daniel 2:24	371015	אֲמַר	AVqrmsa	peal	peal	part act	perfect	_	3	m	m	s	s
-Daniel 2:24	371021	תְּהֹובֵ֔ד	AVhi2ms	haphel	haphel	imperfect	imperfect	2	3	m	f	s	s
-Daniel 2:26	371072	חֲזֵ֖ית	ATr	hithpolel	peal	?	perfect	?	1	?	?	?	s
-Daniel 2:31	371168	חָזֵ֤ה	AVhrmsa	haphel	peal	part act	part act	_	?	m	m	s	s
-Daniel 2:31	371186	דְּחִֽיל	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
-Daniel 2:40	371363	מְרָעַ֥ע	AVqrmsa	peal	pael	part act	part act	_	?	m	m	s	s
-Daniel 2:41	371383	פְלִיגָה֙	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
-Daniel 2:42	371418	תְבִירָֽה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
-Daniel 2:43	371427	מִתְעָרְבִ֤ין	AVMsmpa	hithpaal	hithpaal	part pass	part act	_	?	m	m	p	p
-Daniel 2:44	371453	יְקִים֩	AVai3ms	aphel	haphel	imperfect	imperfect	3	3	m	m	s	s
-Daniel 3:1	371620	אֲקִימֵהּ֙	AVap3ms	aphel	aphel	perfect	perfect	3	3	m	m	s	s
-Daniel 3:17	371986	יָכִ֖ל	AVqi3ms	peal	peal	imperfect	part act	3	?	m	m	s	s
-Daniel 3:19	372027	אשׁתנו	AVPp3ms	ithpaal	etpaal	perfect	perfect	3	3	m	m	s	s
-Daniel 3:22	372096	מַחְצְפָ֔ה	AVarfsa	aphel	haphel	part act	part act	_	?	f	f	s	s
-Daniel 3:24	372151	מְכַפְּתִ֔ין	AVprmpa	pael	pael	part act	part pass	_	?	m	m	p	p
-Daniel 3:25	372167	שְׁרַ֨יִן֙	AVQsmpa	peil	peal	part pass	part pass	_	?	m	m	p	p
-Daniel 3:25	372168	מַהְלְכִ֣ין	AVarmpa	aphel	haphel	part act	part act	_	?	m	m	p	p
-Daniel 3:28	372256	בְּרִ֤יךְ	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
-Daniel 4:9	372532	תַּטְלֵ֣ל	AVai3fs	aphel	haphel	imperfect	imperfect	3	3	f	f	s	s
-Daniel 4:9	372538	ידרון	AVqi3mp	peal	peal	imperfect	imperfect	3	3	m	f	p	p
-Daniel 4:11	372572	אַתַּ֥רוּ	AVav2mp	aphel	aphel	imperative	imperative	2	2	m	m	p	p
-Daniel 4:14	372651	יִצְבֵּא֙	AVqp3ms	peal	peal	perfect	imperfect	3	3	m	m	s	s
-Daniel 4:14	372656	יְקִ֥ים	AVai3ms	aphel	haphel	imperfect	imperfect	3	3	m	m	s	s
-Daniel 4:16	372694	אֶשְׁתֹּומַם֙	AVzp3ms	ithpoel	etpaal	perfect	perfect	3	3	m	m	s	s
-Daniel 4:18	372758	יִשְׁכְּנָ֖ן	AVqi3ms	peal	peal	imperfect	imperfect	3	3	m	f	s	p
-Daniel 4:32	373085	חֲשִׁיבִ֔ין	AVQsmpa	peil	peal	part pass	part pass	_	?	m	m	p	p
-Daniel 4:34	373142	מְרֹומֵ֤ם	AVormsa	polel	pael	part act	part act	_	?	m	m	s	s
-Daniel 4:34	373157	מַהְלְכִ֣ין	AVarmpa	aphel	haphel	part act	part act	_	?	m	m	p	p
-Daniel 5:5	373247	נפקו	AVqp3mp	peal	peal	perfect	perfect	3	3	m	f	p	p
-Daniel 5:6	373281	מִשְׁתָּרַ֔יִן	AVMsmpa	hithpaal	hithpaal	part pass	part act	_	?	m	m	p	p
-Daniel 5:10	373383	יִשְׁתַּנֹּֽו	AVMi3mp	hithpaal	etpaal	imperfect	imperfect	3	3	m	m	p	p
-Daniel 6:4	373905	עֲשִׁ֔ית	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
-Daniel 6:5	373929	שְׁחִיתָ֜ה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
-Daniel 6:5	373944	שְׁחִיתָ֔ה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
-Daniel 6:8	373983	אִתְיָעַ֜טוּ	AVPp3mp	ithpaal	etpaal	perfect	perfect	3	3	m	m	p	p
-Daniel 6:9	374023	תְּקִ֥ים	AVai2ms	aphel	haphel	imperfect	imperfect	2	2	m	m	s	s
-Daniel 6:9	374039	תֶעְדֵּֽא	AVqi3fs	peal	peal	imperfect	imperfect	3	2	f	m	s	s
-Daniel 6:11	374063	פְּתִיחָ֥ן	AVQsfpa	peil	peal	part pass	part pass	_	?	f	f	p	p
-Daniel 6:11	374081	מֹודֵא֙	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
-Daniel 6:13	374108	קְרִ֨יבוּ	AVQp3mp	peil	peal	perfect	perfect	3	3	m	m	p	p
-Daniel 6:13	374110	אָמְרִ֥ין	AVqrmsa	peal	peal	part act	part act	_	?	m	m	s	p
-Daniel 6:13	374153	תֶעְדֵּֽא	AVqi3fs	peal	peal	imperfect	imperfect	3	2	f	m	s	s
-Daniel 6:15	374193	בְּאֵ֣שׁ	AVqrmsa	peal	peal	part act	perfect	_	3	m	m	s	s
-Daniel 6:20	374320	הִ֨תְבְּהָלָ֔ה	ANcfsa	tiphel	hithpeel	?	inf cons	s	?	a	?	?	?
-Daniel 6:23	374385	הִשְׁתְּכַ֣חַת	ANcfsa	tiphel	hithpeel	?	perfect	s	3	a	f	?	s
-Daniel 6:27	374479	שִׂ֣ים	AVqp3ms	peal	peil	perfect	perfect	3	3	m	m	s	s
-Daniel 6:28	374514	מַצִּ֗ל	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
-Daniel 7:2	374581	מְגִיחָ֖ן	AVarfpa	aphel	haphel	part act	part act	_	?	f	f	p	p
-1_Chronicles 11:13	397260	מְלֵאָ֣ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
-1_Chronicles 21:21	402289	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
-1_Chronicles 29:20	406593	יִּֽשְׁתַּחֲו֛וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Chronicles 7:3	410077	יִּֽשְׁתַּֽחֲו֔וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Chronicles 7:22	410593	יִּשְׁתַּחֲו֥וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Chronicles 20:18	416385	הִֽשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
-2_Chronicles 24:17	418626	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Chronicles 29:29	421648	יִּֽשְׁתַּחֲוֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Chronicles 29:30	421679	יִּֽשְׁתַּחֲוֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
-2_Chronicles 33:3	423935	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 24:26	11611	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 24:33	11763	יישׂם	HVQw3ms	qalpassive	hophal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 24:52	12151	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 24:59	12263	מֵנִקְתָּ֑הּ	HVhrfsc	hiphil	?	part act	?	_	_	f	f	s	s
+Genesis 26:13	13242	גָדֵ֔ל	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Genesis 27:12	13829	מְתַעְתֵּ֑עַ	HVlrmsa	pilpel	piel	part act	part act	_	?	m	m	s	s
+Genesis 27:29	14112	ישׁתחו	HVvj3ms	hishtaphel	hishtaphel	jussive	imperfect	3	3	m	m	s	p
+Genesis 29:27	15428	נִתְּנָ֨ה	HVNq3fs	niphal	qal	weqatal	imperfect	3	1	f	?	s	p
+Genesis 30:11	15747	ב	HR	?	qal	?	perfect	?	3	?	m	?	s
+Genesis 30:27	16018	נִחַ֕שְׁתִּי	HVpp1cs	piel	niphal	perfect	perfect	1	1	c	?	s	s
+Genesis 30:42	16354	עֲטֻפִים֙	HVqsmpa	qal	?	part pass	?	_	_	m	m	p	p
+Genesis 31:27	16871	אֲשַׁלֵּחֲךָ֛	HVpi1cs	piel	piel	imperfect	wayyiqtol	1	1	c	?	s	s
+Genesis 33:3	18135	יִּשְׁתַּ֤חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 33:7	18201	יִּֽשְׁתַּחֲו֑וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Genesis 33:7	18209	יִּֽשְׁתַּחֲוֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Genesis 37:10	20376	הִשְׁתַּחֲוֹ֥ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Genesis 39:20	21838	אסורי	HVqsmpc	qal	?	part pass	?	_	_	m	m	p	p
+Genesis 40:1	21928	אֹפֶ֑ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Genesis 40:2	21943	מַּשְׁקִ֔ים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+Genesis 40:2	21948	אֹופִֽים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Genesis 40:5	21997	מַּשְׁקֶ֣ה	HNcmsa	tiphil	hiphil	?	part act	s	?	a	m	?	s
+Genesis 40:5	22000	אֹפֶ֗ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Genesis 40:9	22067	מַּשְׁקִ֛ים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+Genesis 40:16	22206	אֹפִ֖ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Genesis 40:17	22236	אֹפֶ֑ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Genesis 40:20	22307	מַּשְׁקִ֗ים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+Genesis 40:20	22313	אֹפִ֖ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Genesis 40:21	22322	מַּשְׁקִ֖ים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+Genesis 40:22	22336	אֹפִ֖ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Genesis 40:23	22348	מַּשְׁקִ֛ים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+Genesis 41:9	22517	מַּשְׁקִ֔ים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+Genesis 41:10	22546	אֹפִֽים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Genesis 41:23	22768	צְנֻמֹ֥ות	HVqsfpa	qal	?	part pass	?	_	_	f	f	p	p
+Genesis 42:6	23531	יִּשְׁתַּֽחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Genesis 42:38	24118	מֵ֜ת	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Genesis 43:10	24315	הִתְמַהְמָ֑הְנוּ	HVfp1cp	hithpalpel	hithpael	perfect	perfect	1	1	c	?	p	p
+Genesis 43:26	24672	יִּשְׁתַּחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Genesis 43:28	24704	ישׁתחו	HVvw3ms	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	p
+Genesis 44:28	25334	טֹרָ֑ף	HVQp3ms	qalpassive	pual	perfect	perfect	3	3	m	m	s	s
+Genesis 45:11	25667	כִלְכַּלְתִּ֤י	HVlq1cs	pilpel	piel	weqatal	perfect	1	1	c	?	s	s
+Genesis 47:12	26790	יְכַלְכֵּ֤ל	HVlw3ms	pilpel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 47:31	27292	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 48:12	27526	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Genesis 49:10	27909	מְחֹקֵ֖ק	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Genesis 49:15	27976	טֹ֔וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Genesis 49:22	28044	פֹּרָת֙	HVqrfsc	qal	?	part act	?	_	_	f	f	s	s
+Genesis 49:22	28047	פֹּרָ֖ת	HVqrfsc	qal	?	part act	?	_	_	f	f	s	s
+Genesis 50:5	28348	תִּקְבְּרֵ֑נִי	HVqv2ms	qal	qal	imperative	imperfect	2	2	m	m	s	s
+Genesis 50:21	28653	אֲכַלְכֵּ֥ל	HVli1cs	pilpel	piel	imperfect	imperfect	1	1	c	?	s	s
+Exodus 3:2	29676	אֻכָּֽל	HVQsmsa	qalpassive	qalpassive	part pass	part pass	_	?	m	m	s	s
+Exodus 5:7	30953	קֹשְׁשׁ֥וּ	HVmq3cp	poel	piel	weqatal	perfect	3	3	c	?	p	p
+Exodus 5:12	31043	קֹשֵׁ֥שׁ	HVmc	poel	piel	inf cons	inf cons	_	?	?	?	?	?
+Exodus 5:16	31123	חָטָ֥את	HVqq2ms	qal	qal	weqatal	perfect	2	2	m	f	s	s
+Exodus 8:22	32877	נָכֹון֙	HVNrmsa	niphal	niphal	part act	perfect	_	3	m	m	s	s
+Exodus 12:11	34886	חֲגֻרִ֔ים	HVqrmpa	qal	qal	part act	part pass	_	?	m	m	p	p
+Exodus 12:27	35322	יִּֽשְׁתַּחֲוּֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Exodus 12:39	35556	הִתְמַהְמֵ֔הַּ	HVfc	hithpalpel	hithpael	inf cons	inf cons	_	?	?	?	?	?
+Exodus 16:2	37382	ילינו	HVhw3mp	hiphil	niphal	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Exodus 16:7	37525	תלונו	HVNi2mp	niphal	hiphil	imperfect	imperfect	2	2	m	m	p	p
+Exodus 18:7	38590	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Exodus 21:8	40137	רָעָ֞ה	HAafsa	?	qal	?	perfect	s	3	a	f	?	s
+Exodus 22:3	40644	הִמָּצֵא֩	HVNa	niphal	niphal	inf abs	inf cons	_	?	?	?	?	?
+Exodus 25:33	42483	מְֽשֻׁקָּדִ֞ים	HVPsmpa	pual	?	part pass	?	_	_	m	m	p	p
+Exodus 25:33	42495	מְשֻׁקָּדִ֛ים	HVPsmpa	pual	?	part pass	?	_	_	m	m	p	p
+Exodus 25:34	42520	מְשֻׁקָּדִ֔ים	HVPsmpa	pual	?	part pass	?	_	_	m	m	p	p
+Exodus 26:13	42898	סָר֜וּחַ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Exodus 32:8	46673	יִּשְׁתַּֽחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Exodus 34:8	47947	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Exodus 37:19	50254	מְֽשֻׁקָּדִ֞ים	HVPsmpa	pual	?	part pass	?	_	_	m	m	p	p
+Exodus 37:19	50266	מְשֻׁקָּדִ֛ים	HVPsmpa	pual	?	part pass	?	_	_	m	m	p	p
+Exodus 37:20	50289	מְשֻׁ֨קָּדִ֔ים	HVPsmpa	pual	?	part pass	?	_	_	m	m	p	p
+Leviticus 4:3	53551	אַשְׁמַ֣ת	HNcfsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Leviticus 5:24	54857	אַשְׁמָתֹֽו	HNcfsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Leviticus 7:9	55465	נַעֲשָׂ֥ה	HVNp3ms	niphal	niphal	perfect	part act	3	?	m	f	s	s
+Leviticus 11:45	58654	הְיִיתֶ֣ם	HVqq2cp	qal	qal	weqatal	perfect	2	2	c	m	p	p
+Leviticus 14:43	61203	חִלֵּ֣ץ	HVpp3ms	piel	piel	perfect	inf cons	3	?	m	?	s	?
+Leviticus 19:10	63951	תְעֹולֵ֔ל	HVmi2ms	poel	piel	imperfect	imperfect	2	2	m	m	s	s
+Leviticus 19:26	64230	תְעֹונֵֽנוּ	HVmi2mp	poel	piel	imperfect	imperfect	2	2	m	m	p	p
+Leviticus 21:5	65032	יקרחה	HVqi3fs	qal	qal	imperfect	imperfect	3	3	f	m	s	p
+Leviticus 21:7	65068	זֹנָ֤ה	HNcfsa	tiphil	qal	?	part act	s	?	a	f	?	s
+Leviticus 21:9	65106	תֵחֵ֖ל	HVNi3fs	niphal	hiphil	imperfect	imperfect	3	3	f	f	s	s
+Leviticus 21:14	65193	זֹנָ֔ה	HNcfsa	tiphil	qal	?	part act	s	?	a	f	?	s
+Leviticus 22:22	65763	חָר֣וּץ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Leviticus 26:1	68167	הִֽשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Leviticus 27:8	69097	מָ֥ךְ	HVqrmsa	qal	qal	part act	perfect	_	3	m	m	s	s
+Numbers 1:16	69765	קריאי	HAampc	?	qal	?	part pass	p	?	c	m	?	p
+Numbers 7:13	74147	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:14	74159	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:19	74229	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:20	74241	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:25	74310	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:26	74322	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:31	74391	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:32	74403	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:37	74472	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:38	74484	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:43	74553	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:44	74565	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:49	74634	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:50	74646	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:55	74715	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:56	74727	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:61	74796	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:62	74808	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:67	74877	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:68	74889	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:73	74958	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:74	74970	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:79	75039	מְלֵאִ֗ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Numbers 7:80	75051	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Numbers 7:86	75144	מְלֵאֹ֣ת	HAafpa	?	qal	?	part act	p	?	a	f	?	p
+Numbers 11:10	76990	רָֽע	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Numbers 11:15	77104	אֶרְאֶ֖ה	HVqc	qal	qal	inf cons	imperfect	_	1	?	?	?	s
+Numbers 11:16	77127	שֹׁטְרָ֑יו	HNcmpc	tiphil	qal	?	part act	p	?	c	m	?	p
+Numbers 11:21	77271	אָכְל֖וּ	HVqq1cp	qal	qal	weqatal	perfect	1	3	c	?	p	p
+Numbers 11:25	77361	נֹ֤וחַ	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Numbers 14:36	79137	ילונו	HVNw3mp	niphal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Numbers 15:31	79872	הִכָּרֵ֧ת	HVNa	niphal	niphal	inf abs	inf cons	_	?	?	?	?	?
+Numbers 15:32	79890	מְקֹשֵׁ֥שׁ	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Numbers 15:33	79902	מְקֹשֵׁ֣שׁ	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Numbers 17:3	80785	עָשׂ֨וּ	HVqv2mp	qal	qal	imperative	perfect	2	3	m	?	p	p
+Numbers 18:16	81647	פְדוּיָו֙	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	p
+Numbers 19:13	82302	זֹרַ֤ק	HVQp3ms	qalpassive	pual	perfect	perfect	3	3	m	m	s	s
+Numbers 19:20	82493	זֹרַ֥ק	HVQp3ms	qalpassive	pual	perfect	perfect	3	3	m	m	s	s
+Numbers 21:18	83483	מְחֹקֵ֖ק	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Numbers 21:32	83725	יירשׁ	HVqw3ms	qal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Numbers 22:31	84474	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Numbers 23:25	85111	קֹ֖ב	HVqa	qal	qal	inf abs	inf cons	_	?	?	?	?	?
+Numbers 24:3	85267	שְׁתֻ֥ם	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Numbers 24:15	85469	שְׁתֻ֥ם	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Numbers 24:17	85509	קַרְקַ֖ר	HVlp3ms	pilpel	?	perfect	?	3	_	m	?	s	s
+Numbers 24:20	85550	אֹבֵֽד	HNcmsa	tiphil	qal	?	part act	s	?	a	m	?	s
+Numbers 24:24	85605	אֹבֵֽד	HNcmsa	tiphil	qal	?	part act	s	?	a	m	?	s
+Numbers 26:9	86068	קרואי	HVqsmpc	qal	?	part pass	?	_	_	m	m	p	p
+Numbers 30:3	88584	הִשָּׁ֤בַע	HVNa	niphal	niphal	inf abs	inf cons	_	?	?	?	?	?
+Numbers 32:7	90015	תנואון	HVqi2mp	qal	hiphil	imperfect	imperfect	2	2	m	m	p	p
+Numbers 34:4	91467	היה	HVqq3ms	qal	qal	weqatal	perfect	3	3	m	?	s	p
+Deuteronomy 2:1	93765	נָּ֥סָב	HVqw1cs	qal	qal	wayyiqtol	wayyiqtol	1	1	c	?	s	p
+Deuteronomy 4:26	95779	הִשָּׁמֵ֖ד	HVNa	niphal	niphal	inf abs	inf cons	_	?	?	?	?	?
+Deuteronomy 6:11	97155	מְלֵאִ֣ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Deuteronomy 6:24	97386	טֹ֥וב	HAamsa	?	qal	?	inf cons	s	?	a	?	?	?
+Deuteronomy 10:13	99437	טֹ֖וב	HAamsa	?	qal	?	inf cons	s	?	a	?	?	?
+Deuteronomy 17:3	102991	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Deuteronomy 18:10	103639	מְעֹונֵ֥ן	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Deuteronomy 18:14	103691	מְעֹנְנִ֥ים	HVmrmpa	poel	piel	part act	part act	_	?	m	m	p	p
+Deuteronomy 21:7	104935	שׁפכה	HVqp3fs	qal	qal	perfect	perfect	3	3	f	?	s	p
+Deuteronomy 22:9	105469	תִּקְדַּ֗שׁ	HVqi2fs	qal	qal	imperfect	imperfect	2	3	f	f	s	s
+Deuteronomy 24:21	106769	תְעֹולֵ֖ל	HVmi2ms	poel	piel	imperfect	imperfect	2	2	m	m	s	s
+Deuteronomy 26:12	107418	עְשֵׂר	HVpc	piel	hiphil	inf cons	inf cons	_	?	?	?	?	?
+Deuteronomy 28:56	109181	הַצֵּ֣ג	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Deuteronomy 30:11	110425	נִפְלֵ֥את	HVNrfsa	niphal	niphal	part act	perfect	_	3	f	f	s	s
+Deuteronomy 31:14	111008	אֲצַוֶּ֑נּוּ	HVpw1cs	piel	piel	wayyiqtol	imperfect	1	1	c	?	s	s
+Deuteronomy 32:8	111545	הַנְחֵ֤ל	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Deuteronomy 32:10	111575	יְסֹֽבְבֶ֨נְהוּ֙	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Deuteronomy 33:21	112551	מְחֹקֵ֖ק	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Deuteronomy 33:23	112583	מָלֵ֖א	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+Deuteronomy 34:9	112845	מָלֵא֙	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Joshua 1:10	113145	שֹׁטְרֵ֥י	HNcmpc	tiphil	qal	?	part act	p	?	c	m	?	p
+Joshua 3:2	113977	שֹּׁטְרִ֖ים	HNcmpa	tiphil	qal	?	part act	p	?	a	m	?	p
+Joshua 3:13	114226	נֹ֣וחַ	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Joshua 5:14	115320	יִּשְׁתָּ֔חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Joshua 6:7	115495	יאמרו	HVqw3mp	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	s
+Joshua 6:9	115553	תקעו	HVqp3cp	qal	qal	perfect	part act	3	?	c	m	p	p
+Joshua 6:13	115662	הולך	HVqrmsa	qal	qal	part act	inf abs	_	?	m	?	s	?
+Joshua 7:7	116264	הַעֲבִ֜יר	HVha	hiphil	hiphil	inf abs	inf cons	_	?	?	?	?	?
+Joshua 9:7	117882	יאמרו	HVqw3mp	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	s
+Joshua 15:4	121459	היה	HVqp3ms	qal	qal	perfect	perfect	3	3	m	?	s	p
+Joshua 15:63	122164	יוכלו	HVqi3mp	qal	qal	imperfect	perfect	3	3	m	?	p	p
+Joshua 18:12	123142	היה	HVqq3ms	qal	qal	weqatal	perfect	3	3	m	?	s	p
+Joshua 18:14	123192	היה	HVqq3ms	qal	qal	weqatal	perfect	3	3	m	?	s	p
+Joshua 18:19	123292	היה	HVqq3ms	qal	qal	weqatal	perfect	3	3	m	?	s	p
+Joshua 19:29	123803	יהיו	HVqi3mp	qal	qal	imperfect	perfect	3	3	m	?	p	p
+Joshua 24:15	127006	רַ֨ע	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Judges 1:27	128006	ישׁב	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
+Judges 2:12	128463	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Judges 2:17	128557	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Judges 3:26	129260	הִֽתְמַהְמְהָ֑ם	HVfc	hithpalpel	hithpael	inf cons	inf cons	_	?	?	?	?	?
+Judges 5:5	130018	נָזְל֖וּ	HVqp3cp	qal	niphal	perfect	perfect	3	3	c	?	p	p
+Judges 5:13	130132	יְרַ֣ד	HVqp3ms	qal	piel	perfect	imperfect	3	3	m	m	s	s
+Judges 5:13	130138	יְרַד	HVqp3ms	qal	piel	perfect	imperfect	3	3	m	m	s	s
+Judges 5:14	130155	מְחֹ֣קְקִ֔ים	HVmrmpa	poel	piel	part act	part act	_	?	m	m	p	p
+Judges 7:10	131678	יָרֵ֥א	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Judges 7:15	131830	יִּשְׁתָּ֑חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Judges 7:21	132009	יניסו	HVhw3mp	hiphil	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Judges 9:6	133012	מֻצָּ֖ב	HVHsmsa	hophal	?	part pass	?	_	_	m	m	s	s
+Judges 9:37	133679	מְעֹונְנִֽים	HVmrmpa	poel	piel	part act	part act	_	?	m	m	p	p
+Judges 10:8	134252	יְרֹֽצְצוּ֙	HVmw3mp	poel	piel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Judges 13:5	135773	יֹלַ֣דְתְּ	HVqq2fs	qal	qal	weqatal	part act	2	?	f	f	s	s
+Judges 13:7	135843	יֹלַ֣דְתְּ	HVqq2fs	qal	qal	weqatal	part act	2	?	f	f	s	s
+Judges 13:8	135895	יּוּלָּֽד	HVQsmsa	qalpassive	qalpassive	part pass	part pass	_	?	m	m	s	s
+Judges 13:21	136158	הֵרָאֹ֖ה	HVNc	niphal	niphal	inf cons	inf abs	_	?	?	?	?	?
+Judges 14:15	136594	יָרְשֵׁ֕נוּ	HVqc	qal	piel	inf cons	inf cons	_	?	?	?	?	?
+Judges 16:2	137244	אֹ֥ור	HNcbsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Judges 16:25	137799	טוב	HVqp3ms	qal	qal	perfect	inf cons	3	?	m	?	s	?
+Judges 19:8	139274	הִֽתְמַהְמְה֖וּ	HVtv2mp	hithpael	hithpael	imperative	perfect	2	3	m	?	p	p
+Judges 19:11	139359	רַ֣ד	HVqp3ms	qal	qal	perfect	inf cons	3	?	m	?	s	?
+Judges 20:45	140905	יְעֹֽלְלֻ֨הוּ֙	HVmw3mp	poel	piel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+1_Samuel 1:1	141547	צֹופִ֖ים	HNp	piel	qal	?	part act	?	?	?	m	?	p
+1_Samuel 1:3	141597	הִֽשְׁתַּחֲוֹ֧ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+1_Samuel 1:19	141909	יִּֽשְׁתַּחֲווּ֙	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+1_Samuel 1:28	142112	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 2:5	142188	אֻמְלָֽלָה	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
+1_Samuel 2:10	142246	מריבו	HVhrmsc	hiphil	hiphil	part act	part act	_	?	m	m	s	p
+1_Samuel 2:22	142525	זָקֵ֣ן	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+1_Samuel 2:26	142618	גָדֵ֖ל	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+1_Samuel 2:36	142850	הִשְׁתַּחֲוֹ֣ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+1_Samuel 3:21	143263	הֵרָאֹ֣ה	HVNc	niphal	niphal	inf cons	inf abs	_	?	?	?	?	?
+1_Samuel 4:13	143581	יך	HVhc	hiphil	?	inf cons	?	_	_	?	?	?	s
+1_Samuel 4:18	143730	זָקֵ֥ן	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+1_Samuel 8:13	145338	אֹפֹֽות	HVqrfpa	qal	?	part act	?	_	_	f	m	p	p
+1_Samuel 9:9	145726	רֹאֶ֑ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+1_Samuel 9:9	145737	רֹאֶֽה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+1_Samuel 9:11	145779	רֹאֶֽה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+1_Samuel 9:18	145951	רֹאֶֽה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+1_Samuel 9:19	145961	רֹאֶ֔ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+1_Samuel 9:24	146112	שִׂים	HVqv2ms	qal	qal	imperative	part pass	2	?	m	m	s	s
+1_Samuel 11:9	147055	חם	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+1_Samuel 11:11	147112	חֹ֣ם	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+1_Samuel 12:10	147438	יאמר	HVqw3ms	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	s	p
+1_Samuel 13:8	147978	ייחל	HVNw3ms	niphal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 13:19	148221	אמר	HVqp3ms	qal	qal	perfect	perfect	3	3	m	?	s	p
+1_Samuel 14:36	149164	אֹ֣ור	HNcbsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+1_Samuel 15:9	149744	נְמִבְזָ֥ה	HNcfsa	tiphil	niphal	?	part act	s	?	a	f	?	s
+1_Samuel 15:16	149896	יאמרו	HVqw3mp	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	s
+1_Samuel 15:31	150183	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 15:35	150263	נִחָ֔ם	HVNp3ms	niphal	niphal	perfect	part act	3	?	m	m	s	s
+1_Samuel 16:16	150635	טֹ֥וב	HVqq3ms	qal	?	weqatal	?	3	_	m	m	s	s
+1_Samuel 16:23	150779	טֹ֣וב	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+1_Samuel 17:12	151031	זָקֵ֖ן	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+1_Samuel 17:39	151660	יֹּ֣אֶל	HVhw3ms	hiphil	qal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 18:9	152346	עון	HNcbsa	tiphil	qal	?	part act	s	?	a	m	?	s
+1_Samuel 18:21	152595	תִּתְחַתֵּ֥ן	HVtp2ms	hithpael	hithpael	perfect	imperfect	2	2	m	m	s	s
+1_Samuel 20:2	153449	עשׂה	HVqp3ms	qal	qal	perfect	imperfect	3	3	m	m	s	s
+1_Samuel 20:41	154312	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 21:3	154423	יֹודַ֔עְתִּי	HVmp1cs	poel	poal	perfect	perfect	1	1	c	?	s	s
+1_Samuel 24:5	156063	איביך	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+1_Samuel 24:9	156189	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 25:34	157306	אֹ֥ור	HNcbsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+1_Samuel 25:36	157370	אֹ֥ור	HNcbsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+1_Samuel 27:4	158296	יוסף	HVqrmsa	qal	qal	part act	perfect	_	3	m	m	s	s
+1_Samuel 28:14	158837	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Samuel 31:3	160241	מֹּורִֽים	HNcmpa	tiphil	hiphil	?	part act	p	?	a	m	?	p
+2_Samuel 1:2	160523	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 1:8	160637	יאמר	HVqw3ms	qal	qal	wayyiqtol	wayyiqtol	3	1	m	?	s	s
+2_Samuel 1:10	160662	אֲמֹ֣תְתֵ֔הוּ	HVow1cs	polel	piel	wayyiqtol	imperfect	1	1	c	?	s	s
+2_Samuel 3:2	161713	ילדו	HVqw3mp	qal	niphal	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Samuel 3:36	162531	טֹֽוב	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+2_Samuel 4:5	162712	חֹ֣ם	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+2_Samuel 5:8	163113	שׂנאו	HVqp3cp	qal	qal	perfect	part pass	3	?	c	m	p	p
+2_Samuel 6:1	163428	בָּח֥וּר	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+2_Samuel 6:14	163717	מְכַרְכֵּ֥ר	HVlrmsa	pilpel	piel	part act	part act	_	?	m	m	s	s
+2_Samuel 6:16	163768	מְכַרְכֵּר֙	HVlrmsa	pilpel	piel	part act	part act	_	?	m	m	s	s
+2_Samuel 6:20	163891	נִגְלֹ֖ות	HVNc	niphal	niphal	inf cons	part act	_	?	?	f	?	p
+2_Samuel 9:6	165082	יִּשְׁתָּ֑חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 9:8	165122	יִּשְׁתַּ֕חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 10:11	165518	הָיִ֥תָה	HVqq3fs	qal	qal	weqatal	perfect	3	2	f	m	s	s
+2_Samuel 12:20	166852	יָּ֗סֶךְ	HVqw3ms	qal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 12:20	166861	יִּשְׁתָּ֑חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 12:24	166960	יקרא	HVqw3ms	qal	qal	wayyiqtol	wayyiqtol	3	3	m	f	s	s
+2_Samuel 14:11	168260	הרבית	HVhc	hiphil	?	inf cons	?	_	_	?	f	?	s
+2_Samuel 14:15	168368	יֵֽרְאֻ֖נִי	HVpi3mp	piel	piel	imperfect	perfect	3	3	m	?	p	p
+2_Samuel 14:22	168581	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 14:30	168767	הוצתיה	HVhq1cs	hiphil	hiphil	weqatal	imperative	1	2	c	m	s	p
+2_Samuel 14:33	168865	יִּשְׁתַּ֨חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 15:5	168988	הִשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+2_Samuel 15:8	169063	ישׁיב	HVhi3ms	hiphil	qal	imperfect	inf abs	3	?	m	?	s	?
+2_Samuel 15:20	169328	אנועך	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
+2_Samuel 15:27	169520	רֹואֶ֣ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+2_Samuel 15:28	169539	מִתְמַהְמֵ֔הַּ	HVfrmsa	hithpalpel	hithpael	part act	part act	_	?	m	m	s	s
+2_Samuel 17:22	170875	אֹ֣ור	HNcbsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+2_Samuel 18:3	171145	עזיר	HVhc	hiphil	qal	inf cons	inf cons	_	?	?	?	?	?
+2_Samuel 18:8	171255	נפצית	HVNsfpa	niphal	niphal	part pass	part act	_	?	f	f	p	s
+2_Samuel 18:21	171622	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 18:22	171660	מֹצֵֽאת	HVqrfsa	qal	hiphil	part act	part act	_	?	f	f	s	s
+2_Samuel 18:28	171799	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 19:33	172772	כִלְכַּ֤ל	HVlp3ms	pilpel	piel	perfect	perfect	3	3	m	m	s	s
+2_Samuel 19:34	172795	כִלְכַּלְתִּ֥י	HVlq1cs	pilpel	piel	weqatal	perfect	1	1	c	?	s	s
+2_Samuel 19:41	172967	ויעברו	HC	?	hiphil	?	perfect	?	3	?	?	?	p
+2_Samuel 19:43	173041	נִשֵּׂ֥את	HVNa	niphal	niphal	inf abs	part act	_	?	?	f	?	s
+2_Samuel 20:3	173171	יְכַלְכְּלֵ֔ם	HVlw3ms	pilpel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 20:5	173209	ייחר	HVqw3ms	qal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 21:6	173854	ינתן	HVNj3ms	niphal	hophal	jussive	imperfect	3	3	m	m	s	s
+2_Samuel 21:19	174221	אֹרְגִ֜ים	HNp	piel	qal	?	part act	?	?	?	m	?	p
+2_Samuel 22:8	174382	תגעשׁ	HVqw3fs	qal	hithpael	wayyiqtol	wayyiqtol	3	3	f	m	s	s
+2_Samuel 22:15	174458	יהמם	HVhw3ms	hiphil	qal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Samuel 22:51	174792	מגדיל	HVhrmsc	hiphil	?	part act	?	_	_	m	m	s	s
+2_Samuel 23:6	174905	יִקָּֽחוּ	HVNi3mp	niphal	qal	imperfect	imperfect	3	3	m	m	p	p
+2_Samuel 23:11	175030	מְלֵאָ֣ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+2_Samuel 23:37	175405	נשׂאי	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+2_Samuel 24:20	175932	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Kings 1:23	176556	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Kings 1:47	177139	יִּשְׁתַּ֥חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Kings 1:53	177267	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Kings 2:19	177689	יִּשְׁתַּ֣חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Kings 2:21	177733	יֻתַּ֖ן	HVQj3ms	qalpassive	hophal	jussive	imperfect	3	3	m	m	s	s
+1_Kings 3:7	178579	בֹֽא	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+1_Kings 4:7	179160	כִלְכְּל֥וּ	HVlp3cp	pilpel	piel	perfect	perfect	3	3	c	?	p	p
+1_Kings 4:7	179176	כַלְכֵּֽל	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+1_Kings 5:7	179474	כִלְכְּלוּ֩	HVlp3cp	pilpel	piel	perfect	perfect	3	3	c	?	p	p
+1_Kings 6:19	180469	תִתֵּ֣ן	HVqc	qal	qal	inf cons	imperfect	_	2	?	m	?	s
+1_Kings 7:9	181021	מְגֹרָרֹ֥ות	HVMsfpa	poal	pual	part pass	part pass	_	?	f	f	p	p
+1_Kings 8:27	182661	יְכַלְכְּל֔וּךָ	HVli3mp	pilpel	piel	imperfect	imperfect	3	3	m	m	p	p
+1_Kings 8:48	183229	בנית	HVqp2ms	qal	qal	perfect	perfect	2	1	m	?	s	s
+1_Kings 9:9	183907	ישׁתחו	HVvw3ms	hishtaphel	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	p
+1_Kings 10:5	184433	משׁרתו	HVprmsc	piel	piel	part act	part act	_	?	m	m	s	p
+1_Kings 11:2	185063	אַהֲבָֽה	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+1_Kings 11:22	185450	חָסֵר֙	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+1_Kings 11:33	185700	יִּֽשְׁתַּחֲווּ֮	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+1_Kings 12:3	185987	יבאו	HVqw3mp	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	s
+1_Kings 12:7	186068	ידבר	HVpw3ms	piel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	p
+1_Kings 12:21	186447	יבאו	HVqw3mp	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	s
+1_Kings 13:22	187323	תֵּ֣שְׁתְּ	HVqj3ms	qal	qal	jussive	imperfect	3	2	m	m	s	s
+1_Kings 13:31	187546	מֹותִי֙	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+1_Kings 16:31	189749	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Kings 17:4	189886	כַלְכֶּלְךָ֖	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+1_Kings 17:9	189968	כַלְכְּלֶֽךָ	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+1_Kings 17:10	189985	מְקֹשֶׁ֣שֶׁת	HVmrfsc	poel	piel	part act	part act	_	?	f	f	s	s
+1_Kings 17:12	190043	מְקֹשֶׁ֜שֶׁת	HVmrfsa	poel	piel	part act	part act	_	?	f	f	s	s
+1_Kings 18:3	190377	יָרֵ֛א	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+1_Kings 18:12	190578	יָרֵ֥א	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+1_Kings 18:13	190611	אֲכַלְכְּלֵ֖ם	HVlw1cs	pilpel	piel	wayyiqtol	wayyiqtol	1	1	c	?	s	s
+1_Kings 18:36	191138	עֲלֹ֣ות	HVqc	qal	hiphil	inf cons	inf cons	_	?	?	?	?	?
+1_Kings 20:27	192537	כָלְכְּל֔וּ	HVLp3cp	polpal	pual	perfect	perfect	3	3	c	?	p	p
+1_Kings 20:33	192731	יַּחְלְט֣וּ	HVhw3mp	hiphil	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+1_Kings 20:39	192906	הִפָּקֵד֙	HVNa	niphal	niphal	inf abs	inf cons	_	?	?	?	?	?
+1_Kings 21:2	193041	טֹ֣וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+1_Kings 22:30	194277	הִתְחַפֵּשׂ֙	HVta	hithpael	hithpael	inf abs	imperative	_	2	?	m	?	s
+1_Kings 22:30	194279	בֹ֣א	HVqa	qal	qal	inf abs	imperative	_	2	?	m	?	s
+1_Kings 22:49	194648	עשׂר	HAcmsa	tiphil	qal	?	perfect	s	3	a	m	?	s
+1_Kings 22:49	194661	נשׁברה	HVNp3fs	niphal	niphal	perfect	perfect	3	3	f	?	s	p
+2_Kings 2:10	195488	לֻקָּ֤ח	HVQsmsa	qalpassive	qalpassive	part pass	part pass	_	?	m	m	s	s
+2_Kings 2:15	195624	יִּשְׁתַּחֲווּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Kings 3:20	196263	עֲלֹ֣ות	HVqc	qal	hiphil	inf cons	inf cons	_	?	?	?	?	?
+2_Kings 3:24	196364	יבו	HVqw3mp	qal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Kings 4:35	197223	יְזֹורֵ֤ר	HVmw3ms	poel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Kings 5:18	197911	הִשְׁתַּחֲוֹ֨ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+2_Kings 7:9	199192	אֹ֥ור	HNcbsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+2_Kings 7:15	199369	מְלֵאָ֤ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+2_Kings 9:30	200970	תָּ֨שֶׂם	HVqw3fs	qal	hiphil	wayyiqtol	wayyiqtol	3	3	f	f	s	s
+2_Kings 11:1	202008	וראתה	HC	?	qal	?	perfect	?	3	?	f	?	s
+2_Kings 12:12	202835	פקדים	HVqsmpa	qal	hophal	part pass	part pass	_	?	m	m	p	p
+2_Kings 12:13	202883	חָזְקָֽה	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+2_Kings 14:6	203756	ימות	HVqi3ms	qal	hophal	imperfect	imperfect	3	3	m	m	s	s
+2_Kings 14:13	203921	יבאו	HVqw3mp	qal	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	s
+2_Kings 17:16	205932	יִּֽשְׁתַּחֲווּ֙	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Kings 17:32	206302	יְרֵאִ֖ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+2_Kings 17:33	206323	יְרֵאִ֑ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+2_Kings 17:34	206351	יְרֵאִים֙	HAampa	?	qal	?	part act	p	?	a	m	?	p
+2_Kings 17:41	206501	יְרֵאִים֙	HAampa	?	qal	?	part act	p	?	a	m	?	p
+2_Kings 20:18	208604	יקח	HVqi3ms	qal	qal	imperfect	imperfect	3	3	m	m	s	p
+2_Kings 21:3	208743	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Kings 21:12	208950	שׁמעיו	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+2_Kings 21:21	209152	יִּשְׁתַּ֖חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Kings 22:5	209324	יתנה	HVqj3ms	qal	qal	jussive	imperfect	3	3	m	m	s	p
+2_Kings 22:20	209736	אֹֽסִפְךָ֜	HVqrmsc	qal	qal	part act	imperfect	_	1	m	?	s	s
+2_Kings 23:9	210086	יַֽעֲלוּ֙	HVqi3mp	qal	hiphil	imperfect	imperfect	3	3	m	m	p	p
+2_Kings 24:10	211080	עלה	HVqp3ms	qal	qal	perfect	perfect	3	3	m	?	s	p
+Isaiah 1:6	212169	זֹ֨רוּ֙	HVQp3cp	qalpassive	pual	perfect	perfect	3	3	c	?	p	p
+Isaiah 1:20	212372	תְּאֻכְּל֔וּ	HVQi2mp	qalpassive	pual	imperfect	imperfect	2	2	m	m	p	p
+Isaiah 2:6	212651	עֹֽנְנִ֖ים	HVmrmpa	poel	piel	part act	part act	_	?	m	m	p	p
+Isaiah 2:12	212752	שָׁפֵֽל	HVqq3ms	qal	?	weqatal	?	3	_	m	m	s	s
+Isaiah 2:20	212871	הִֽשְׁתַּחֲוֹ֔ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Isaiah 3:10	213074	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Isaiah 3:12	213090	מְעֹולֵ֔ל	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Isaiah 3:26	213278	אָנ֥וּ	HD	?	qal	?	perfect	?	3	?	?	?	p
+Isaiah 5:29	213937	ושׁאג	HC	?	qal	?	imperfect	?	3	?	m	?	s
+Isaiah 7:2	214295	נֹ֥ועַ	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Isaiah 7:11	214443	שְׁאָ֔לָה	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+Isaiah 8:6	214830	מְשֹׂ֥ושׂ	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+Isaiah 8:17	215019	קִוֵּ֖יתִֽי	HVpq1cp	piel	piel	weqatal	perfect	1	1	c	?	p	s
+Isaiah 8:19	215059	מְצַפְצְפִ֖ים	HVlrmpa	pilpel	piel	part act	part act	_	?	m	m	p	p
+Isaiah 9:4	215222	מְגֹולָלָ֣ה	HVMsfsa	poal	pual	part pass	part pass	_	?	f	f	s	s
+Isaiah 9:10	215337	יְסַכְסֵֽךְ	HVli3ms	pilpel	piel	imperfect	imperfect	3	3	m	m	s	s
+Isaiah 10:13	215743	שֹׁושֵׂ֔תִי	HVmp1cs	poel	poel	perfect	perfect	1	1	c	?	s	s
+Isaiah 10:14	215777	מְצַפְצֵֽף	HVlrmsa	pilpel	piel	part act	part act	_	?	m	m	s	s
+Isaiah 10:29	216023	לָ֑נוּ	HR	?	qal	?	perfect	?	3	?	?	?	p
+Isaiah 10:30	216030	צַהֲלִ֥י	HVqv2fs	qal	piel	imperative	imperative	2	2	f	f	s	s
+Isaiah 11:8	216208	שִֽׁעֲשַׁ֥ע	HVlq3ms	pilpel	piel	weqatal	perfect	3	3	m	m	s	s
+Isaiah 12:5	216481	מידעת	HVPsfsa	pual	hophal	part pass	part pass	_	?	f	f	s	s
+Isaiah 14:15	217049	תּוּרָ֖ד	HVHi3ms	hophal	hophal	imperfect	imperfect	3	2	m	m	s	s
+Isaiah 14:23	217169	טֵֽאטֵאתִ֨יהָ֙	HVlq1cs	pilpel	piel	weqatal	perfect	1	1	c	?	s	s
+Isaiah 16:3	217496	הביאו	HVhv2mp	hiphil	hiphil	imperative	imperative	2	2	m	f	p	s
+Isaiah 16:8	217584	אֻמְלָ֜ל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
+Isaiah 16:10	217636	יְרֹעָ֑ע	HVOi3ms	polal	pual	imperfect	imperfect	3	3	m	m	s	s
+Isaiah 17:11	217894	תְּשַׂגְשֵׂ֔גִי	HVli2fs	pilpel	piel	imperfect	imperfect	2	2	f	f	s	s
+Isaiah 18:2	217999	מֹורָ֔ט	HVPsmsa	pual	qalpassive	part pass	part pass	_	?	m	m	s	s
+Isaiah 18:4	218043	חֹ֥ם	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Isaiah 18:4	218051	חֹ֥ם	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Isaiah 18:7	218113	מֹורָ֔ט	HVPsmsa	pual	qalpassive	part pass	part pass	_	?	m	m	s	s
+Isaiah 19:1	218147	בָ֣א	HVqrmsa	qal	qal	part act	perfect	_	3	m	m	s	s
+Isaiah 19:2	218162	סִכְסַכְתִּ֤י	HVlq1cs	pilpel	piel	weqatal	perfect	1	1	c	?	s	s
+Isaiah 19:8	218263	אָנוּ֙	HD	?	qal	?	perfect	?	3	?	?	?	p
+Isaiah 19:8	218280	אֻמְלָֽלוּ	HVKp3cp	pulal	pual	perfect	perfect	3	3	c	?	p	p
+Isaiah 20:4	218687	חֲשׂוּפַ֥י	HVqsmpc	qal	?	part pass	?	_	_	m	?	p	s
+Isaiah 22:2	218997	מְלֵאָ֗ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Isaiah 22:5	219055	מְקַרְקַ֥ר	HVlrmsc	pilpel	piel	part act	part act	_	?	m	m	s	s
+Isaiah 22:17	219259	מְטַלְטֶלְךָ֔	HVlrmsc	pilpel	piel	part act	part act	_	?	m	m	s	s
+Isaiah 23:13	219585	עֹרְרוּ֙	HVmp3cp	poel	piel	perfect	imperative	3	2	c	m	p	p
+Isaiah 23:16	219630	נַגֵּן֙	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+Isaiah 23:16	219632	שִׁ֔יר	HNcbsa	tiphil	qal	?	inf abs	s	?	a	?	?	?
+Isaiah 24:4	219760	אֻמְלְלָ֥ה	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
+Isaiah 24:4	219763	אֻמְלָ֖לוּ	HVKp3cp	pulal	pual	perfect	perfect	3	3	c	?	p	p
+Isaiah 24:7	219802	אֻמְלְלָה	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
+Isaiah 24:19	219967	רֹ֥עָה	HVqa	qal	qal	inf abs	part act	_	?	?	f	?	s
+Isaiah 24:19	219971	פֹּ֤ור	HVqa	qal	qal	inf abs	inf cons	_	?	?	?	?	?
+Isaiah 26:3	220320	בָּטֽוּחַ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Isaiah 26:20	220533	חֲבִ֥י	HVqv2fs	qal	qal	imperative	imperative	2	2	f	m	s	s
+Isaiah 27:8	220670	סַאסְּאָ֖ה	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+Isaiah 28:15	221079	עבר	HVqp3ms	qal	qal	perfect	imperfect	3	3	m	m	s	s
+Isaiah 29:4	221391	תְּצַפְצֵֽף	HVli3fs	pilpel	piel	imperfect	imperfect	3	3	f	f	s	s
+Isaiah 29:7	221446	צֹבֶ֨יהָ֙	HVqrmpc	qal	?	part act	?	_	_	m	m	p	p
+Isaiah 29:8	221484	שֹׁוקֵקָ֑ה	HVqrfsa	qal	?	part act	?	_	_	f	f	s	s
+Isaiah 29:9	221496	הִתְמַהְמְה֣וּ	HVfv2mp	hithpalpel	hithpael	imperative	imperative	2	2	m	m	p	p
+Isaiah 29:9	221499	הִשְׁתַּֽעַשְׁע֖וּ	HVfv2mp	hithpalpel	hithpael	imperative	imperative	2	2	m	m	p	p
+Isaiah 29:13	221600	יִרְאָתָם֙	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+Isaiah 30:2	221829	עֹוז֙	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Isaiah 30:10	221962	רֹאִים֙	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Isaiah 30:10	221968	חֹזִ֔ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Isaiah 30:15	222070	הַשְׁקֵט֙	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Isaiah 30:22	222214	צֵ֖א	HVqv2ms	qal	?	imperative	?	2	_	m	?	s	s
+Isaiah 32:4	222713	דָ֑עַת	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+Isaiah 32:11	222807	רְגָ֖זָה	HVqv2fp	qal	qal	imperative	imperative	2	2	f	m	p	s
+Isaiah 32:11	222809	פְּשֹׁ֣טָֽה	HVqv2fp	qal	qal	imperative	imperative	2	2	f	m	p	s
+Isaiah 32:11	222811	עֹ֔רָה	HVqv2fp	qal	qal	imperative	imperative	2	2	f	m	p	s
+Isaiah 32:11	222813	חֲגֹ֖ורָה	HVqv2fp	qal	qal	imperative	imperative	2	2	f	m	p	s
+Isaiah 33:1	222956	תּוּשַּׁ֔ד	HVQi2ms	qalpassive	hophal	imperfect	imperfect	2	2	m	m	s	s
+Isaiah 33:9	223041	אֻמְלְלָה֙	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
+Isaiah 33:22	223227	מְחֹקְקֵ֑נוּ	HVmrmsc	poel	piel	part act	part act	_	?	m	m	s	s
+Isaiah 35:2	223587	רַנֵּ֔ן	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+Isaiah 37:30	224859	אכול	HVqa	qal	qal	inf abs	imperative	_	2	?	m	?	p
+Isaiah 38:14	225261	אֲצַפְצֵ֔ף	HVli1cs	pilpel	piel	imperfect	imperfect	1	1	c	?	s	s
+Isaiah 38:17	225305	מַר	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Isaiah 38:17	225307	מָ֑ר	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+Isaiah 40:14	225787	נֹועָץ֙	HVNp3ms	niphal	niphal	perfect	part act	3	?	m	m	s	s
+Isaiah 40:24	225941	שֹׁרֵ֥שׁ	HVmp3ms	poel	poel	perfect	perfect	3	3	m	m	s	s
+Isaiah 40:31	226051	קֹויֵ֤	HVqrmpc	qal	?	part act	?	_	_	m	m	p	p
+Isaiah 41:10	226209	תִּשְׁתָּ֖ע	HVqj2ms	qal	hithpael	jussive	imperfect	2	2	m	m	s	s
+Isaiah 41:23	226437	נִשְׁתָּ֖עָה	HVqh1cp	qal	hithpael	cohortative	imperfect	1	1	c	?	p	p
+Isaiah 42:20	226836	ראית	HVqp2ms	qal	qal	perfect	inf abs	2	?	m	?	s	?
+Isaiah 43:8	227058	הֹוצִ֥יא	HVhv2ms	hiphil	hiphil	imperative	inf cons	2	?	m	?	s	?
+Isaiah 44:15	227628	יִּשְׁתָּ֔חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Isaiah 45:2	227909	אושׁר	HVhi1cs	hiphil	piel	imperfect	imperfect	1	1	c	?	s	s
+Isaiah 46:1	228339	נְשֻׂאֹתֵיכֶ֣ם	HVqsfpc	qal	?	part pass	?	_	_	f	f	p	p
+Isaiah 47:13	228741	הברו	HVqp3cp	qal	qal	perfect	part act	3	?	c	m	p	p
+Isaiah 49:6	229248	נצירי	HAampc	?	qal	?	part pass	p	?	c	m	?	p
+Isaiah 49:23	229551	מֵינִ֣יקֹתַ֔יִךְ	HVhrfpc	hiphil	?	part act	?	_	_	f	f	p	p
+Isaiah 49:24	229570	יֻקַּ֥ח	HVPi3ms	pual	hophal	imperfect	imperfect	3	3	m	m	s	s
+Isaiah 49:25	229586	יֻקָּ֔ח	HVPi3ms	pual	hophal	imperfect	imperfect	3	3	m	m	s	s
+Isaiah 51:9	230034	מְחֹולֶ֥לֶת	HVmrfsc	poel	piel	part act	part act	_	?	f	f	s	s
+Isaiah 51:20	230239	מְלֵאִ֥ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Isaiah 52:2	230332	התפתחו	HVtv2mp	hithpael	hithpael	imperative	imperative	2	2	m	f	p	s
+Isaiah 52:5	230379	משׁלו	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
+Isaiah 52:5	230389	מִנֹּאָֽץ	HVrsmsa	hithpolel	hithpoel	part pass	part act	_	?	m	m	s	s
+Isaiah 52:7	230407	נָּאו֨וּ	HVqp3cp	qal	piel	perfect	perfect	3	3	c	?	p	p
+Isaiah 53:5	230617	מְחֹלָ֣ל	HVOsmsa	polal	pual	part pass	part pass	_	?	m	m	s	s
+Isaiah 54:16	231032	מַשְׁחִ֖ית	HVhrmsa	hiphil	?	part act	?	_	_	m	m	s	s
+Isaiah 56:10	231501	צפו	HVqp3cp	qal	qal	perfect	part act	3	?	c	m	p	p
+Isaiah 57:8	231680	תִּכְרָת	HVqw2fs	qal	qal	wayyiqtol	wayyiqtol	2	2	f	m	s	s
+Isaiah 58:6	232039	שַׁלַּ֤ח	HVpa	piel	piel	inf abs	inf cons	_	?	?	?	?	?
+Isaiah 59:5	232300	תִּבָּקַ֥ע	HVqi3fs	qal	niphal	imperfect	imperfect	3	3	f	f	s	s
+Isaiah 59:13	232451	הֹרֹ֧ו	HVma	poel	piel	inf abs	inf abs	_	?	?	?	?	?
+Isaiah 59:13	232453	הֹגֹ֛ו	HVma	poel	hophal	inf abs	inf abs	_	?	?	?	?	?
+Isaiah 61:10	233205	יְעָטָ֑נִי	HVqi3ms	qal	qal	imperfect	perfect	3	3	m	m	s	s
+Isaiah 62:3	233284	צנוף	HVqa	qal	?	inf abs	?	_	_	?	m	?	s
+Isaiah 63:1	233469	חֲמ֤וּץ	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Isaiah 63:3	233524	אֶגְאָֽלְתִּי	HVhp1cs	hiphil	qal	perfect	imperfect	1	1	c	?	s	s
+Isaiah 64:5	233863	נָּ֤בֶל	HVqw1cp	qal	hiphil	wayyiqtol	wayyiqtol	1	1	c	?	p	p
+Isaiah 65:9	234110	הֹוצֵאתִ֤י	HVqp1cs	qal	hiphil	perfect	perfect	1	1	c	?	s	s
+Isaiah 65:11	234148	שְּׁכֵחִ֖ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Isaiah 66:12	234709	תְּשָׁעֳשָֽׁעוּ	HVLi2mp	polpal	pual	imperfect	imperfect	2	2	m	m	p	p
+Isaiah 66:23	234974	הִשְׁתַּחֲוֹ֥ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Jeremiah 1:16	235290	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Jeremiah 2:15	235626	נצתה	HVNp3fs	niphal	niphal	perfect	perfect	3	3	f	?	s	p
+Jeremiah 2:17	235640	תַּעֲשֶׂה	HVqi2ms	qal	qal	imperfect	imperfect	2	3	m	f	s	s
+Jeremiah 2:19	235683	רַ֣ע	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 2:19	235685	מָ֔ר	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 2:20	235701	שָׁבַ֣רְתִּי	HVqp1cs	qal	qal	perfect	perfect	1	2	c	f	s	s
+Jeremiah 2:20	235703	נִתַּ֨קְתִּי֙	HVpp1cs	piel	piel	perfect	perfect	1	2	c	f	s	s
+Jeremiah 2:33	235940	למדתי	HVpp1cs	piel	piel	perfect	perfect	1	2	c	f	s	s
+Jeremiah 2:36	235976	תֵּזְלִ֥י	HVqi2fs	qal	hiphil	imperfect	imperfect	2	2	f	f	s	s
+Jeremiah 3:5	236107	דברתי	HVpp1cs	piel	piel	perfect	perfect	1	2	c	f	s	s
+Jeremiah 3:19	236442	תקראו	HVqi2mp	qal	qal	imperfect	imperfect	2	2	m	f	p	s
+Jeremiah 3:19	236448	תשׁובו	HVqi2mp	qal	qal	imperfect	imperfect	2	2	m	f	p	s
+Jeremiah 4:5	236639	ותקעו	HC	?	qal	?	imperative	?	2	?	m	?	p
+Jeremiah 4:18	236882	מָ֔ר	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 4:19	236889	אחולה	HVqh1cs	qal	hiphil	cohortative	imperfect	1	1	c	?	s	s
+Jeremiah 4:19	236900	שׁמעתי	HVqp1cs	qal	qal	perfect	perfect	1	2	c	f	s	s
+Jeremiah 4:24	236973	הִתְקַלְקָֽלוּ	HVfp3cp	hithpalpel	hithpael	perfect	perfect	3	3	c	?	p	p
+Jeremiah 5:13	237333	דִּבֵּ֖ר	HNcmsa	tiphil	piel	?	perfect	s	3	a	m	?	s
+Jeremiah 5:17	237416	יְרֹשֵׁ֞שׁ	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Jeremiah 5:27	237597	מָ֣לֵא	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+Jeremiah 5:27	237601	מְלֵאִ֣ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Jeremiah 5:28	237620	יַצְלִ֑יחוּ	HVqw3mp	qal	hiphil	wayyiqtol	imperfect	3	3	m	m	p	p
+Jeremiah 6:2	237699	דָּמִ֖יתִי	HVqp1cs	qal	qal	perfect	perfect	1	2	c	f	s	s
+Jeremiah 6:9	237797	עֹולֵ֛ל	HVma	poel	piel	inf abs	inf abs	_	?	?	?	?	?
+Jeremiah 6:9	237798	יְעֹולְל֥וּ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Jeremiah 6:11	237842	שְׁפֹ֤ךְ	HVqv2ms	qal	qal	imperative	inf cons	2	?	m	?	s	?
+Jeremiah 6:25	238115	תצאי	HVqj2fs	qal	qal	jussive	imperfect	2	2	f	m	s	p
+Jeremiah 6:25	238123	תלכי	HVqj2fs	qal	qal	jussive	imperfect	2	2	f	m	s	p
+Jeremiah 6:28	238164	סָרֵ֣י	HVqrmsc	qal	?	part act	?	_	_	m	m	s	p
+Jeremiah 6:29	238174	נָחַ֣ר	HVqp3ms	qal	niphal	perfect	perfect	3	3	m	m	s	s
+Jeremiah 7:2	238236	הִֽשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Jeremiah 8:1	238957	ויציאו	HC	?	hiphil	?	imperfect	?	3	?	m	?	p
+Jeremiah 8:5	239073	שֹׁובְבָ֜ה	HVop3fs	polel	?	perfect	?	3	_	f	f	s	s
+Jeremiah 8:13	239233	אֲסִיפֵ֖ם	HVhi1cs	hiphil	qal	imperfect	imperfect	1	1	c	?	s	s
+Jeremiah 9:4	239488	דַּבֶּר	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+Jeremiah 9:5	239492	שִׁבְתְּךָ֖	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+Jeremiah 9:7	239520	שׁוחט	HVqrmsa	qal	qal	part act	part pass	_	?	m	m	s	s
+Jeremiah 9:24	239866	מ֖וּל	HR	?	qal	?	part pass	?	?	?	m	?	s
+Jeremiah 10:2	239932	יֵחַ֥תּוּ	HVqi3mp	qal	niphal	imperfect	imperfect	3	3	m	m	p	p
+Jeremiah 12:2	240858	שֹׁרָ֔שׁוּ	HVMp3cp	poal	poal	perfect	perfect	3	3	c	?	p	p
+Jeremiah 13:20	241574	שׂאי	HVqv2fs	qal	qal	imperative	imperative	2	2	f	m	s	p
+Jeremiah 13:20	241577	ראי	HVqv2fs	qal	qal	imperative	imperative	2	2	f	m	s	p
+Jeremiah 14:2	241706	אֻמְלְל֖וּ	HVKp3cp	pulal	pual	perfect	perfect	3	3	c	?	p	p
+Jeremiah 15:9	242361	אֻמְלְלָ֞ה	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
+Jeremiah 15:9	242367	באה	HVqp3fs	qal	qal	perfect	perfect	3	3	f	m	s	s
+Jeremiah 15:11	242412	שׁרותך	HVqp1cs	qal	piel	perfect	perfect	1	1	c	?	s	s
+Jeremiah 16:11	242886	יִּשְׁתַּחֲו֣וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Jeremiah 17:23	243527	שׁומע	HVqrmsa	qal	qal	part act	inf cons	_	?	m	?	s	?
+Jeremiah 17:27	243662	בֹ֛א	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Jeremiah 18:2	243698	יֹּוצֵ֑ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 18:3	243708	יֹּוצֵ֑ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 18:4	243730	יֹּוצֵ֑ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 18:4	243743	יֹּוצֵ֖ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 18:6	243756	יֹּוצֵ֨ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 18:6	243775	יֹּוצֵ֔ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 18:23	244119	היו	HVqq3cp	qal	qal	weqatal	imperfect	3	3	c	m	p	p
+Jeremiah 19:1	244135	יֹוצֵ֣ר	HVqrmsc	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 19:11	244406	יֹּוצֵ֔ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Jeremiah 20:9	244767	כַּֽלְכֵ֖ל	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+Jeremiah 20:14	244852	יֻלַּ֖דְתִּי	HVQp1cs	qalpassive	pual	perfect	perfect	1	1	c	?	s	s
+Jeremiah 22:6	245447	נושׁבה	HVNsfsa	niphal	niphal	part pass	perfect	_	3	f	?	s	p
+Jeremiah 22:7	245451	מַשְׁחִתִ֖ים	HVhrmpa	hiphil	?	part act	?	_	_	m	m	p	p
+Jeremiah 22:9	245500	יִּֽשְׁתַּחֲו֛וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Jeremiah 22:15	245634	טֹ֥וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 22:16	245642	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 23:29	246504	יְפֹ֥צֵֽץ	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Jeremiah 23:36	246638	תִזְכְּרוּ	HVqi2ms	qal	qal	imperfect	imperfect	2	2	m	m	s	p
+Jeremiah 25:3	247070	אַשְׁכֵּ֥ים	HVha	hiphil	hiphil	inf abs	imperfect	_	1	?	?	?	s
+Jeremiah 25:7	247159	הכעסוני	HVhp3cp	hiphil	hiphil	perfect	inf cons	3	?	c	?	p	?
+Jeremiah 25:16	247375	הִֽתְגֹּֽעֲשׁ֖וּ	HVrq3cp	hithpolel	hithpoel	weqatal	perfect	3	3	c	?	p	p
+Jeremiah 25:34	247790	תְפֹוצֹ֣ותִיכֶ֔ם	HNcfpc	tiphil	tiphal	?	perfect	p	1	c	?	?	s
+Jeremiah 26:2	247887	הִשְׁתַּחֲוֹ֣ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Jeremiah 26:19	248339	יָרֵ֣א	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 27:9	248714	עֹֽנְנֵיכֶ֖ם	HVmrmpc	poel	piel	part act	part act	_	?	m	m	p	p
+Jeremiah 30:10	250400	שַׁאֲנַ֖ן	HVkq3ms	palel	piel	weqatal	perfect	3	3	m	m	s	s
+Jeremiah 31:15	250917	נִשְׁמָע֙	HVNsmsa	niphal	niphal	part pass	perfect	_	3	m	m	s	s
+Jeremiah 31:22	251063	תְּסֹ֥ובֵֽב	HVmi3fs	poel	piel	imperfect	imperfect	3	3	f	f	s	s
+Jeremiah 33:26	253138	אשׁוב	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
+Jeremiah 34:11	253428	יכבישׁום	HVhw3mp	hiphil	qal	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Jeremiah 35:5	253835	מְלֵאִ֥ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Jeremiah 37:21	255562	אֹפִ֔ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Jeremiah 38:23	256240	תִּשְׂרֹ֥ף	HVqi3fs	qal	qal	imperfect	imperfect	3	2	f	m	s	s
+Jeremiah 40:4	256879	טֹ֨וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Jeremiah 41:5	257432	מִתְגֹּֽדְדִ֑ים	HVzrmpa	hithpoel	hithpael	part act	part act	_	?	m	m	p	p
+Jeremiah 42:20	258271	התעתים	HVhp1cs	hiphil	hiphil	perfect	perfect	1	2	c	m	s	p
+Jeremiah 43:11	258603	באה	HVqrmsc	qal	qal	part act	perfect	_	3	m	m	s	s
+Jeremiah 44:19	259220	הַסֵּ֥ךְ	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Jeremiah 44:25	259423	הַסֵּ֥ךְ	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Jeremiah 44:25	259427	תָּקִ֨ימְנָה֙	HVhi2fp	hiphil	hiphil	imperfect	imperfect	2	3	f	f	p	p
+Jeremiah 44:25	259432	תַעֲשֶׂ֖ינָה	HVqi2fp	qal	qal	imperfect	imperfect	2	3	f	f	p	p
+Jeremiah 46:8	259825	יִתְגֹּ֣עֲשׁוּ	HVri3mp	hithpolel	hithpoel	imperfect	imperfect	3	3	m	m	p	p
+Jeremiah 46:11	259905	הרביתי	HVhp1cs	hiphil	hiphil	perfect	perfect	1	2	c	f	s	s
+Jeremiah 46:27	260200	שַׁאֲנַ֖ן	HVkp3ms	palel	piel	perfect	perfect	3	3	m	m	s	s
+Jeremiah 48:6	260447	תִֽהְיֶ֕ינָה	HVqi2fp	qal	qal	imperfect	imperfect	2	3	f	f	p	p
+Jeremiah 48:11	260522	שַׁאֲנַ֨ן	HVkp3ms	palel	piel	perfect	perfect	3	3	m	m	s	s
+Jeremiah 48:20	260672	הילילי	HVhv2fs	hiphil	hiphil	imperative	imperative	2	2	f	m	s	p
+Jeremiah 48:20	260674	זעקי	HVqv2fs	qal	qal	imperative	imperative	2	2	f	m	s	p
+Jeremiah 48:27	260766	נמצאה	HVNp3fs	niphal	niphal	perfect	perfect	3	3	f	m	s	s
+Jeremiah 49:4	261210	זָ֣ב	HVqrmsa	qal	qal	part act	perfect	_	3	m	m	s	s
+Jeremiah 49:14	261388	הִֽתְקַבְּצוּ֙	HVtp3cp	hithpael	hithpael	perfect	imperative	3	2	c	m	p	p
+Jeremiah 49:19	261483	בָח֖וּר	HVQsmsa	qalpassive	qal	part pass	part pass	_	?	m	m	s	s
+Jeremiah 49:25	261599	עֻזְּבָ֖ה	HVQp3fs	qalpassive	pual	perfect	perfect	3	3	f	f	s	s
+Jeremiah 49:39	261867	אשׁוב	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
+Jeremiah 50:6	261981	היה	HVqp3ms	qal	qal	perfect	perfect	3	3	m	?	s	p
+Jeremiah 50:6	261986	שׁובבים	HAampa	?	piel	?	perfect	p	3	a	?	?	p
+Jeremiah 50:8	262021	יצאו	HVqp3cp	qal	qal	perfect	imperative	3	2	c	m	p	p
+Jeremiah 50:11	262067	תשׂמחי	HVqi2fs	qal	qal	imperfect	imperfect	2	2	f	m	s	p
+Jeremiah 50:11	262069	תעלזי	HVqi2fs	qal	qal	imperfect	imperfect	2	2	f	m	s	p
+Jeremiah 50:11	262073	תפושׁי	HVqi2fs	qal	qal	imperfect	imperfect	2	2	f	m	s	p
+Jeremiah 50:11	262078	תצהלי	HVqi2fs	qal	qal	imperfect	imperfect	2	2	f	m	s	p
+Jeremiah 50:34	262501	הִרְגִּ֣יעַ	HVhc	hiphil	hiphil	inf cons	perfect	_	3	?	m	?	s
+Jeremiah 50:34	262506	הִרְגִּ֖יז	HVhc	hiphil	hiphil	inf cons	perfect	_	3	?	m	?	s
+Jeremiah 50:44	262688	ארוצם	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
+Jeremiah 51:1	262760	קָמָ֑י	HNp	piel	qal	?	part act	?	?	?	m	?	p
+Jeremiah 51:2	262771	יבֹקְק֖וּ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Jeremiah 51:13	262974	בִּצְעֵֽךְ	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Jeremiah 51:25	263169	גִלְגַּלְתִּ֨יךָ֙	HVlq1cs	pilpel	piel	weqatal	perfect	1	1	c	?	s	s
+Jeremiah 51:58	263750	עַרְעֵ֣ר	HVla	pilpel	piel	inf abs	inf abs	_	?	?	?	?	?
+Jeremiah 51:58	263751	תִּתְעַרְעָ֔ר	HVfi3fs	hithpalpel	hithpael	imperfect	imperfect	3	3	f	f	s	s
+Ezekiel 1:18	265071	מְלֵאֹ֥ת	HAafpa	?	qal	?	part act	p	?	a	f	?	p
+Ezekiel 3:15	265794	אשׁר	HTr	hithpolel	qal	?	wayyiqtol	?	1	?	?	?	s
+Ezekiel 4:12	266321	תְּעֻגֶ֖נָה	HVqi2ms	qal	qal	imperfect	imperfect	2	3	m	f	s	p
+Ezekiel 7:21	267523	חללה	HVpq3ms	piel	piel	weqatal	perfect	3	3	m	?	s	p
+Ezekiel 8:16	268013	מִשְׁתַּחֲוִיתֶ֥ם	HVvrmpa	hishtaphel	hishtaphel	part act	imperfect	_	2	m	m	p	p
+Ezekiel 9:1	268086	קָרְב֖וּ	HVqv2mp	qal	piel	imperative	imperative	2	2	m	m	p	p
+Ezekiel 9:2	268120	לָבֻ֣שׁ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Ezekiel 9:3	268158	לָּבֻ֣שׁ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Ezekiel 9:11	268357	לְבֻ֣שׁ	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Ezekiel 10:2	268400	לְבֻ֣שׁ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Ezekiel 10:6	268508	לְבֻֽשׁ	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Ezekiel 10:7	268556	לְבֻ֣שׁ	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Ezekiel 10:12	268653	מְלֵאִ֤ים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Ezekiel 11:7	268985	הֹוצִ֥יא	HVhp3ms	hiphil	hiphil	perfect	inf cons	3	?	m	?	s	?
+Ezekiel 14:4	270435	בה	HR	?	qal	?	part act	?	?	?	m	?	s
+Ezekiel 15:3	270911	יֻקַּ֤ח	HVQi3ms	qalpassive	hophal	imperfect	imperfect	3	3	m	m	s	s
+Ezekiel 16:10	271215	אֲכַסֵּ֖ךְ	HVpw1cs	piel	piel	wayyiqtol	imperfect	1	1	c	?	s	s
+Ezekiel 16:26	271479	גִּדְלֵ֣י	HVqrmpc	qal	?	part act	?	_	_	m	m	p	p
+Ezekiel 16:30	271536	אֲמֻלָה֙	HVqsfsa	qal	?	part pass	?	_	_	f	f	s	s
+Ezekiel 16:39	271716	נִתְּצ֣וּ	HVpq3cp	piel	niphal	weqatal	perfect	3	3	c	?	p	p
+Ezekiel 16:59	272092	עשׂית	HVqq2fs	qal	qal	weqatal	perfect	2	1	f	?	s	s
+Ezekiel 17:9	272349	יְקֹוסֵ֣ס	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Ezekiel 17:9	272366	מַשְׂאֹ֥ות	HVqc	qal	?	inf cons	?	_	_	?	f	?	p
+Ezekiel 21:24	274934	בָּרֵ֔א	HVpa	piel	piel	inf abs	imperative	_	2	?	m	?	s
+Ezekiel 21:24	274939	בָּרֵֽא	HVpa	piel	piel	inf abs	imperative	_	2	?	m	?	s
+Ezekiel 21:26	274971	קִלְקַ֤ל	HVlp3ms	pilpel	piel	perfect	perfect	3	3	m	m	s	s
+Ezekiel 21:36	275173	אָפִ֣יחַ	HVhi1cs	hiphil	qal	imperfect	imperfect	1	1	c	?	s	s
+Ezekiel 22:4	275260	תָּבֹ֖וא	HVqw3fs	qal	qal	wayyiqtol	wayyiqtol	3	2	f	m	s	s
+Ezekiel 23:15	275933	סְרוּחֵ֤י	HVqsmpc	qal	?	part pass	?	_	_	m	m	p	p
+Ezekiel 23:42	276431	סובאים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Ezekiel 23:43	276451	יזנה	HVqi3ms	qal	qal	imperfect	imperfect	3	3	m	m	s	p
+Ezekiel 24:2	276583	כתוב	HVqa	qal	qal	inf abs	imperative	_	2	?	m	?	s
+Ezekiel 24:4	276640	מַלֵּֽא	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
+Ezekiel 24:10	276738	הָתֵ֖ם	HVha	hiphil	hiphil	inf abs	imperative	_	2	?	m	?	s
+Ezekiel 27:25	278188	שָׁרֹותַ֖יִךְ	HVqrfpc	qal	?	part act	?	_	_	f	f	p	p
+Ezekiel 28:13	278576	כֹּונָֽנוּ	HVOp3cp	polal	pual	perfect	perfect	3	3	c	?	p	p
+Ezekiel 28:17	278643	רַ֥אֲוָה	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+Ezekiel 28:23	278734	נִפְלַ֤ל	HVlq3ms	pilpel	piel	weqatal	perfect	3	3	m	m	s	s
+Ezekiel 30:4	279327	בָאָ֥ה	HVqq3fs	qal	qal	weqatal	part act	3	?	f	f	s	s
+Ezekiel 35:12	282361	שׁממה	HVqp3fs	qal	qal	perfect	perfect	3	3	f	?	s	p
+Ezekiel 36:3	282457	שַׁמֹּות֩	HVqc	qal	?	inf cons	?	_	_	?	f	?	p
+Ezekiel 37:1	283225	מְלֵאָ֥ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Ezekiel 37:22	283670	יהיה	HVqi3ms	qal	qal	imperfect	imperfect	3	3	m	m	s	p
+Ezekiel 37:23	283685	יִֽטַמְּא֣וּ	HVti3mp	hithpael	piel	imperfect	imperfect	3	3	m	m	p	p
+Ezekiel 40:26	285552	עלותו	HNcfsc	tiphil	qal	?	part act	s	?	c	f	?	p
+Ezekiel 42:5	286778	קְצֻרֹ֑ות	HVqsfpa	qal	?	part pass	?	_	_	f	f	p	p
+Ezekiel 42:9	286866	מבוא	HNcmsa	tiphil	hiphil	?	part act	s	?	a	m	?	s
+Ezekiel 44:24	288284	שׁפט	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+Ezekiel 46:9	289272	הִֽשְׁתַּחֲוֹ֗ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Ezekiel 46:9	289297	יצאו	HVqi3mp	qal	qal	imperfect	imperfect	3	3	m	m	p	s
+Ezekiel 46:15	289435	ועשׂו	HC	?	qal	?	imperfect	?	3	?	m	?	p
+Ezekiel 47:10	289892	יעמדו	HVqi3mp	qal	qal	imperfect	perfect	3	3	m	?	p	p
+Ezekiel 47:12	289958	היו	HVqq3cp	qal	qal	weqatal	perfect	3	3	c	m	p	s
+Ezekiel 48:14	290467	יעבור	HVqi3ms	qal	hiphil	imperfect	imperfect	3	3	m	m	s	s
+Hosea 2:3	291156	רֻחָֽמָה	HVPp3fs	pual	?	perfect	?	3	_	f	f	s	s
+Hosea 2:9	291270	טֹ֥וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Hosea 4:3	291739	אֻמְלַל֙	HVKq3ms	pulal	pual	weqatal	perfect	3	3	m	m	s	s
+Hosea 6:9	292339	חַכֵּ֨י	HVpc	piel	piel	inf cons	part act	_	?	?	m	?	p
+Hosea 7:4	292420	אֹפֶ֑ה	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Hosea 7:6	292451	אֹֽפֵהֶ֔ם	HVqrmsc	qal	?	part act	?	_	_	m	m	s	s
+Hosea 9:7	292906	רַבָּ֖ה	HAafsa	?	qal	?	perfect	s	3	a	f	?	s
+Hosea 9:10	292959	אָהֳבָֽם	HVqc	qal	?	inf cons	?	_	_	?	?	?	s
+Hosea 10:1	293079	טֹ֣וב	HAamsa	?	qal	?	inf cons	s	?	a	?	?	?
+Hosea 10:2	293091	יְשֹׁדֵ֖ד	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Hosea 10:14	293288	יוּשַּׁ֔ד	HVQi3ms	qalpassive	hophal	imperfect	imperfect	3	3	m	m	s	s
+Hosea 11:3	293346	קָחָ֖ם	HVqp3ms	qal	qal	perfect	inf cons	3	?	m	?	s	?
+Hosea 13:3	293752	יְסֹעֵ֣ר	HVmi3ms	poel	poel	imperfect	imperfect	3	3	m	m	s	s
+Hosea 14:9	294040	אֲשׁוּרֶ֗נּוּ	HVqw1cs	qal	qal	wayyiqtol	imperfect	1	1	c	?	s	s
+Joel 1:10	294203	אֻמְלַ֥ל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
+Joel 1:11	294205	הֹבִ֣ישׁוּ	HVhv2mp	hiphil	hiphil	imperative	perfect	2	3	m	?	p	p
+Joel 1:11	294207	הֵילִ֨ילוּ֙	HVhv2mp	hiphil	hiphil	imperative	perfect	2	3	m	?	p	p
+Joel 1:12	294224	אֻמְלָ֑לָה	HVKp3fs	pulal	pual	perfect	perfect	3	3	f	f	s	s
+Joel 4:1	295018	אשׁוב	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
+Joel 4:3	295064	זֹּונָ֔ה	HNcfsa	tiphil	qal	?	part act	s	?	a	f	?	s
+Joel 4:14	295248	חָר֑וּץ	HNp	piel	qal	?	part pass	?	?	?	m	?	s
+Joel 4:14	295256	חָרֽוּץ	HNp	piel	qal	?	part pass	?	?	?	m	?	s
+Amos 2:13	295905	תָּעִיק֙	HVhi3fs	hiphil	qal	imperfect	imperfect	3	3	f	f	s	s
+Amos 4:5	296309	קַטֵּ֤ר	HVpa	piel	piel	inf abs	imperative	_	2	?	m	?	s
+Amos 4:7	296380	תַמְטִ֥יר	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
+Amos 5:11	296677	בֹּושַׁסְכֶ֞ם	HVmc	poel	qal	inf cons	inf cons	_	?	?	?	?	?
+Amos 6:4	297003	סְרֻחִ֖ים	HVqsmpa	qal	?	part pass	?	_	_	m	m	p	p
+Amos 6:7	297052	סְרוּחִֽים	HVqsmpa	qal	?	part pass	?	_	_	m	m	p	p
+Amos 9:1	297816	בְצַ֨עַם֙	HVqv2ms	qal	qal	imperative	inf cons	2	?	m	?	s	?
+Amos 9:10	298049	תַגִּ֧ישׁ	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
+Amos 9:10	298051	תַקְדִּ֛ים	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
+Obadiah 1:3	298209	שִׁבְתֹּ֑ו	HNcfsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Jonah 1:9	298767	יָרֵ֔א	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Jonah 1:15	298913	זַּעְפֹּֽו	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+Jonah 2:4	298985	יְסֹבְבֵ֑נִי	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Jonah 2:6	299011	יְסֹבְבֵ֑נִי	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Jonah 4:6	299397	יַּ֣עַל	HVqw3ms	qal	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Jonah 4:8	299452	תַּ֥ךְ	HVhw3ms	hiphil	hiphil	wayyiqtol	wayyiqtol	3	3	m	f	s	s
+Micah 1:10	299728	התפלשׁתי	HVtp1cs	hithpael	hithpael	perfect	imperative	1	2	c	f	s	s
+Micah 3:7	300185	חֹזִ֗ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Micah 4:8	300471	בָאָ֗ה	HVqq3fs	qal	qal	weqatal	part act	3	?	f	f	s	s
+Micah 5:11	300804	הִכְרַתִּ֥י	HVqh1cs	qal	hiphil	cohortative	perfect	1	1	c	?	s	s
+Micah 5:11	300809	מְעֹונְנִ֖ים	HVmrmpa	poel	piel	part act	part act	_	?	m	m	p	p
+Micah 7:18	301410	חָפֵ֥ץ	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Nahum 1:4	301496	אֻמְלַ֤ל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
+Nahum 1:4	301503	אֻמְלָֽל	HVKp3ms	pulal	pual	perfect	perfect	3	3	m	m	s	s
+Nahum 1:10	301585	אֻ֨כְּל֔וּ	HVQp3cp	qalpassive	pual	perfect	perfect	3	3	c	?	p	p
+Nahum 2:2	301674	צַפֵּה	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
+Nahum 2:2	301676	חַזֵּ֣ק	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
+Nahum 2:2	301678	אַמֵּ֥ץ	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
+Nahum 2:5	301720	יִֽשְׁתַּקְשְׁק֖וּן	HVfi3mp	hithpalpel	hithpael	imperfect	imperfect	3	3	m	m	p	p
+Nahum 2:8	301761	מְתֹפְפֹ֖ת	HVmrfpa	poel	piel	part act	part act	_	?	f	f	p	p
+Nahum 3:1	301883	מְלֵאָ֔ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+Nahum 3:7	301970	רֹאַ֨יִךְ֙	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+Nahum 3:8	301986	תֵֽיטְבִי֙	HVhi2fs	hiphil	qal	imperfect	imperfect	2	2	f	f	s	s
+Nahum 3:17	302145	נֹודַ֔ד	HVMp3ms	poal	piel	perfect	perfect	3	3	m	m	s	s
+Habakkuk 2:3	302499	יָפֵ֥חַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Habakkuk 2:3	302507	יִתְמַהְמָהּ֙	HVfi3ms	hithpalpel	hithpael	imperfect	imperfect	3	3	m	m	s	s
+Habakkuk 2:7	302593	מְזַעְזְעֶ֑יךָ	HVlrmpc	pilpel	piel	part act	part act	_	?	m	m	p	p
+Habakkuk 2:20	302797	הַ֥ס	HTj	pealal	piel	?	imperative	?	2	?	m	?	s
+Habakkuk 3:13	302972	עָרֹ֛ות	HVpa	piel	piel	inf abs	inf cons	_	?	?	?	?	?
+Zephaniah 1:2	303103	אָסֵ֜ף	HVhi1cs	hiphil	qal	imperfect	part act	1	?	c	m	s	s
+Zephaniah 1:3	303112	אָסֵ֨ף	HVhi1cs	hiphil	qal	imperfect	part act	1	?	c	m	s	s
+Zephaniah 1:3	303116	אָסֵ֤ף	HVhi1cs	hiphil	qal	imperfect	part act	1	?	c	m	s	s
+Zephaniah 1:7	303210	הַ֕ס	HTj	pealal	piel	?	imperative	?	2	?	m	?	s
+Zephaniah 1:14	303368	קָרֹ֖וב	HAamsa	?	qal	?	inf abs	s	?	a	?	?	?
+Zephaniah 1:14	303370	מַהֵ֣ר	HAamsa	?	piel	?	inf abs	s	?	a	?	?	?
+Zephaniah 1:17	303431	שֻׁפַּ֤ךְ	HVQq3ms	qalpassive	pual	weqatal	perfect	3	3	m	m	s	s
+Zephaniah 3:10	303917	פּוּצַ֔י	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Zechariah 2:17	305651	הַ֥ס	HTj	pealal	piel	?	imperative	?	2	?	m	?	s
+Zechariah 3:3	305712	לָבֻ֖שׁ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Zechariah 4:2	305910	יאמר	HVqw3ms	qal	qal	wayyiqtol	wayyiqtol	3	1	m	?	s	s
+Zechariah 7:3	306759	הִנָּזֵ֕ר	HVNa	niphal	niphal	inf abs	inf cons	_	?	?	?	?	?
+Zechariah 11:2	308050	בצור	HVqsmsa	qal	?	part pass	?	_	_	m	?	s	s
+Zechariah 11:5	308089	רֹ֣עֵיהֶ֔ם	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+Zechariah 11:8	308173	בָּחֲלָ֥ה	HVqp3fs	qal	qal	perfect	part act	3	?	f	f	s	s
+Zechariah 11:12	308238	טֹ֧וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Zechariah 11:13	308260	יֹּוצֵ֔ר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Zechariah 11:13	308280	יֹּוצֵֽר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Zechariah 11:16	308334	יְכַלְכֵּ֔ל	HVli3ms	pilpel	piel	imperfect	imperfect	3	3	m	m	s	s
+Zechariah 14:16	309317	הִֽשְׁתַּחֲוֹת֙	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Zechariah 14:17	309342	הִֽשְׁתַּחֲוֹ֔ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+Malachi 3:2	310178	מְכַלְכֵּל֙	HVlrmsa	pilpel	piel	part act	part act	_	?	m	m	s	s
+Psalms 5:5	311074	חָפֵ֘ץ	HAamsc	?	qal	?	part act	s	?	c	m	?	s
+Psalms 7:8	311358	תְּסֹובְבֶ֑ךָּ	HVmj3fs	poel	piel	jussive	imperfect	3	3	f	f	s	s
+Psalms 9:18	311737	שְׁכֵחֵ֥י	HAampc	?	qal	?	part act	p	?	c	m	?	p
+Psalms 10:5	311821	יָפִ֥יחַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Psalms 10:10	311879	ודכה	HC	?	qal	?	imperfect	?	3	?	m	?	s
+Psalms 11:1	311986	נודו	HVqv2mp	qal	qal	imperative	imperative	2	2	m	f	p	s
+Psalms 12:6	312121	יָפִ֥יחַֽ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Psalms 17:14	312628	צפינך	HNcmsc	tiphil	qal	?	part pass	s	?	c	m	?	s
+Psalms 18:15	312825	רָ֝ב	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+Psalms 18:51	313162	מגדל	HVprmsa	piel	hiphil	part act	part act	_	?	m	m	s	s
+Psalms 23:6	313954	יִ֭רְדְּפוּנִי	HVpi3mp	piel	qal	imperfect	imperfect	3	3	m	m	p	p
+Psalms 24:6	314028	דרשׁו	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
+Psalms 26:6	314334	אֲסֹבְבָ֖ה	HVmh1cs	poel	piel	cohortative	imperfect	1	1	c	?	s	s
+Psalms 30:4	314845	יורדי	HVqrmpc	qal	qal	part act	inf cons	_	?	m	?	p	?
+Psalms 32:7	315316	תְּסֹ֖ובְבֵ֣נִי	HVmi2ms	poel	piel	imperfect	imperfect	2	2	m	m	s	s
+Psalms 32:10	315357	יְסֹובְבֶֽנּוּ	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Psalms 34:9	315664	טֹ֣וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 34:13	315702	חָפֵ֣ץ	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+Psalms 35:27	316079	חָפֵ֗ץ	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+Psalms 37:23	316448	כֹּונָ֗נוּ	HVOp3cp	polal	pual	perfect	perfect	3	3	c	?	p	p
+Psalms 38:11	316711	סְ֭חַרְחַר	HVjp3ms	pealal	piel	perfect	perfect	3	3	m	m	s	s
+Psalms 38:17	316786	מֹ֥וט	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Psalms 44:23	317836	הֹרַ֣גְנוּ	HVQp1cp	qalpassive	pual	perfect	perfect	1	1	c	?	p	p
+Psalms 45:3	317902	יָפְיָפִ֡יתָ	HVjp2ms	pealal	piel	perfect	perfect	2	2	m	m	s	s
+Psalms 46:3	318109	מֹ֥וט	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Psalms 50:19	318825	תַּצְמִ֥יד	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	2	f	m	s	s
+Psalms 51:4	318895	הרבה	HVha	hiphil	hiphil	inf abs	imperative	_	2	?	m	?	s
+Psalms 51:7	318931	חֹולָ֑לְתִּי	HVOp1cs	polal	pual	perfect	perfect	1	1	c	?	s	s
+Psalms 52:4	319101	תַּחְשֹׁ֣ב	HVqi3fs	qal	qal	imperfect	imperfect	3	2	f	m	s	s
+Psalms 52:11	319183	אֲקַוֶּ֖ה	HVpw1cs	piel	piel	wayyiqtol	imperfect	1	1	c	?	s	s
+Psalms 52:11	319186	טֹ֝֗וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 54:7	319335	ישׁוב	HVqi3ms	qal	hiphil	imperfect	imperfect	3	3	m	m	s	s
+Psalms 54:8	319351	טֹֽוב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 55:11	319462	יְסֹובְבֻ֥הָ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Psalms 55:20	319558	יַעֲנֵם֮	HVqi3ms	qal	hiphil	imperfect	imperfect	3	3	m	m	s	s
+Psalms 55:23	319596	יְכַ֫לְכְּלֶ֥ךָ	HVli3ms	pilpel	piel	imperfect	imperfect	3	3	m	m	s	s
+Psalms 55:23	319601	מֹ֗וט	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+Psalms 56:7	319689	יצפינו	HVhi3mp	hiphil	qal	imperfect	imperfect	3	3	m	m	p	p
+Psalms 56:8	319699	פַּלֶּט	HVpv2ms	piel	piel	imperative	inf abs	2	?	m	?	s	?
+Psalms 56:8	319704	הֹורֵ֬ד	HVhv2ms	hiphil	hiphil	imperative	inf abs	2	?	m	?	s	?
+Psalms 58:4	319935	זֹ֣רוּ	HVqp3cp	qal	pual	perfect	perfect	3	3	c	?	p	p
+Psalms 58:6	319963	מְחֻכָּֽם	HVPsmpa	pual	pual	part pass	part pass	_	?	m	m	p	s
+Psalms 59:7	320113	יסֹ֥ובְבוּ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Psalms 59:15	320202	יסֹ֥ובְבוּ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Psalms 59:16	320205	ינועון	HVqi3mp	qal	hiphil	imperfect	imperfect	3	3	m	m	p	p
+Psalms 65:11	320927	רַ֭וֵּה	HVpa	piel	piel	inf abs	imperative	_	2	?	m	?	s
+Psalms 65:11	320928	נַחֵ֣ת	HVpa	piel	piel	inf abs	imperative	_	2	?	m	?	s
+Psalms 66:7	321035	ירימו	HVhj3mp	hiphil	qal	jussive	imperfect	3	3	m	m	p	p
+Psalms 66:9	321056	מֹּ֣וט	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+Psalms 67:2	321170	יְחָנֵּ֥נוּ	HVpi3ms	piel	qal	imperfect	imperfect	3	3	m	m	s	s
+Psalms 68:3	321245	הִנְדֹּ֥ף	HVNc	niphal	qal	inf cons	inf cons	_	?	?	?	?	?
+Psalms 68:24	321491	תִּֽמְחַ֥ץ	HVqi3fs	qal	qal	imperfect	imperfect	3	2	f	m	s	s
+Psalms 69:26	321892	נְשַׁמָּ֑ה	HVNrfsa	niphal	?	part act	?	_	_	f	f	s	s
+Psalms 69:32	321944	תִיטַ֣ב	HVqi3fs	qal	qal	imperfect	imperfect	3	2	f	m	s	s
+Psalms 72:17	322495	ינין	HVhj3ms	hiphil	niphal	jussive	imperfect	3	3	m	m	s	s
+Psalms 72:20	322528	כָּלּ֥וּ	HVPp3cp	pual	qal	perfect	perfect	3	3	c	?	p	p
+Psalms 73:2	322548	נטוי	HVqsmsc	qal	qal	part pass	perfect	_	3	m	?	s	p
+Psalms 73:2	322552	שׁפכה	HVQp3fs	qalpassive	pual	perfect	perfect	3	3	f	?	s	p
+Psalms 73:10	322614	ישׁיב	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Psalms 74:13	322916	פֹורַ֣רְתָּ	HVmp2ms	poel	piel	perfect	perfect	2	2	m	m	s	s
+Psalms 75:7	323092	הָרִֽים	HVhc	hiphil	?	inf cons	?	_	_	?	m	?	p
+Psalms 75:11	323136	תְּ֝רֹומַ֗מְנָה	HVOi3fp	polal	pual	imperfect	imperfect	3	3	f	f	p	p
+Psalms 76:6	323181	אֶשְׁתֹּולְל֨וּ	HVrp3cp	hithpolel	etpaal	perfect	perfect	3	3	c	?	p	p
+Psalms 77:11	323360	חַלֹּ֣ותִי	HVqc	qal	piel	inf cons	inf cons	_	?	?	?	?	?
+Psalms 77:12	323365	אזכיר	HVhi1cs	hiphil	qal	imperfect	imperfect	1	1	c	?	s	s
+Psalms 77:18	323420	זֹ֤רְמוּ	HVmp3cp	poel	poel	perfect	perfect	3	3	c	?	p	p
+Psalms 78:37	323869	נָכֹ֣ון	HVNrmsa	niphal	niphal	part act	perfect	_	3	m	m	s	s
+Psalms 84:11	325121	הִ֭סְתֹּופֵף	HVzc	hithpoel	hithpael	inf cons	inf abs	_	?	?	?	?	?
+Psalms 87:7	325533	חֹלְלִ֑ים	HVqrmpa	qal	piel	part act	part act	_	?	m	m	p	p
+Psalms 88:1	325548	עַנֹּ֑ות	HVpa	piel	piel	inf abs	inf cons	_	?	?	?	?	?
+Psalms 88:17	325708	צִמְּתוּתֻֽנִי	HVlp3cp	pilpel	piel	perfect	perfect	3	3	c	?	p	p
+Psalms 89:18	325905	תרים	HVhi2ms	hiphil	qal	imperfect	imperfect	2	3	m	f	s	s
+Psalms 89:44	326130	צ֣וּר	HNcmsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Psalms 90:2	326241	יֻלָּ֗דוּ	HVPi3mp	pual	pual	imperfect	perfect	3	3	m	?	p	p
+Psalms 90:6	326297	יְמֹולֵ֥ל	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Psalms 91:12	326520	תִּגֹּ֖ף	HVqi2ms	qal	qal	imperfect	imperfect	2	3	m	f	s	s
+Psalms 92:2	326566	טֹ֗וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 93:5	326759	נַאֲוָה	HVNp3ms	niphal	piel	perfect	perfect	3	3	m	m	s	s
+Psalms 94:19	326929	יְֽשַׁעַשְׁע֥וּ	HVli3mp	pilpel	piel	imperfect	imperfect	3	3	m	m	p	p
+Psalms 101:5	327668	מלושׁני	HVmrmsc	poel	piel	part act	part act	_	?	m	m	s	s
+Psalms 102:9	327809	מְ֝הֹולָלַ֗י	HVMsmpc	poal	piel	part pass	part act	_	?	m	m	p	p
+Psalms 102:15	327873	יְחֹנֵֽנוּ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Psalms 103:14	328142	זָ֝כ֗וּר	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Psalms 105:19	328741	עֵ֥ת	HVqc	qal	?	inf cons	?	_	_	?	?	?	s
+Psalms 106:1	328980	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 106:19	329153	יִּשְׁתַּחֲו֗וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Psalms 107:1	329464	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 107:9	329541	שֹׁקֵקָ֑ה	HVqrfsa	qal	?	part act	?	_	_	f	f	s	s
+Psalms 112:5	330510	יְכַלְכֵּ֖ל	HVli3ms	pilpel	piel	imperfect	imperfect	3	3	m	m	s	s
+Psalms 112:7	330531	בָּטֻ֥חַ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Psalms 118:1	331078	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 118:18	331223	יִסְּרַ֣נִּי	HVpp3ms	piel	piel	perfect	imperfect	3	3	m	m	s	s
+Psalms 118:29	331322	טֹ֑וב	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Psalms 119:16	331437	אֶֽשְׁתַּעֲשָׁ֑ע	HVfi1cs	hithpalpel	hithpael	imperfect	imperfect	1	1	c	?	s	s
+Psalms 119:38	331600	יִרְאָתֶֽךָ	HNcfsc	tiphil	qal	?	inf cons	s	?	c	?	?	?
+Psalms 119:47	331669	אֶשְׁתַּֽעֲשַׁ֥ע	HVfi1cs	hithpalpel	hithpael	imperfect	imperfect	1	1	c	?	s	s
+Psalms 119:60	331766	הִתְמַהְמָ֑הְתִּי	HVfp1cs	hithpalpel	hithpael	perfect	perfect	1	1	c	?	s	s
+Psalms 119:70	331849	שִֽׁעֲשָֽׁעְתִּי	HVlp1cs	pilpel	piel	perfect	perfect	1	1	c	?	s	s
+Psalms 119:73	331869	יְכֹונְנ֑וּנִי	HVoi3mp	polel	piel	imperfect	wayyiqtol	3	3	m	m	p	p
+Psalms 119:79	331919	ידעו	HVqq3cp	qal	qal	weqatal	part act	3	?	c	m	p	p
+Psalms 119:171	332615	תַּבַּ֣עְנָה	HVhi3fs	hiphil	hiphil	imperfect	imperfect	3	3	f	f	s	p
+Psalms 121:3	332745	מֹּ֣וט	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+Psalms 139:6	334398	נִ֝שְׂגְּבָ֗ה	HVNrfsa	niphal	niphal	part act	perfect	_	3	f	f	s	s
+Psalms 139:20	334536	נָשֻׂ֖א	HVqp3cp	qal	qal	perfect	part pass	3	?	c	m	p	s
+Psalms 139:21	334548	תְקֹומְמֶ֗יךָ	HNcmpc	tiphil	hithpael	?	part act	p	?	c	m	?	p
+Psalms 140:10	334669	מְסִבָּ֑י	HVhrmpc	hiphil	?	part act	?	_	_	m	m	p	p
+Psalms 140:10	334672	יכסומו	HVpj3mp	piel	piel	jussive	imperfect	3	3	m	m	p	s
+Psalms 140:11	334673	ימיטו	HVhj3mp	hiphil	niphal	jussive	imperfect	3	3	m	m	p	p
+Psalms 140:13	334697	ידעת	HVqp2ms	qal	qal	perfect	perfect	2	1	m	?	s	s
+Psalms 144:14	335225	יֹוצֵ֑את	HVqrfsa	qal	?	part act	?	_	_	f	f	s	s
+Psalms 147:11	335659	יְרֵאָ֑יו	HVqrmpc	qal	?	part act	?	_	_	m	m	p	p
+Job 1:16	336364	בָּ֣א	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Job 1:17	336398	בָּ֣א	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Job 1:18	336434	בָּ֣א	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Job 1:20	336496	יִּשְׁתָּֽחוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Job 3:18	337012	שַׁאֲנָ֑נוּ	HVkp3cp	palel	piel	perfect	perfect	3	3	c	?	p	p
+Job 4:2	337106	נִסָּ֬ה	HVNp3ms	niphal	piel	perfect	perfect	3	3	m	m	s	s
+Job 6:29	337840	שׁבי	HVqv2fs	qal	qal	imperative	imperative	2	2	f	m	s	p
+Job 8:14	338200	יָקֹ֥וט	HVqi3ms	qal	?	imperfect	?	3	_	m	?	s	s
+Job 9:15	338411	מְשֹׁפְטִ֗י	HVmrmsc	poel	poel	part act	part act	_	?	m	m	s	s
+Job 10:11	338696	תְּסֹכְכֵֽנִי	HVmi2ms	poel	piel	imperfect	imperfect	2	2	m	m	s	s
+Job 11:5	338854	דַּבֵּ֑ר	HVpv2ms	piel	piel	imperative	inf cons	2	?	m	?	s	?
+Job 11:17	338975	תָּ֝עֻ֗פָה	HVqi3fs	qal	?	imperfect	?	3	_	f	f	s	s
+Job 13:27	339494	תָ֘שֵׂ֤ם	HVqi2ms	qal	hiphil	imperfect	imperfect	2	2	m	m	s	s
+Job 14:2	339528	יִּמָּ֑ל	HVqw3ms	qal	niphal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Job 15:7	339807	חֹולָֽלְתָּ	HVOp2ms	polal	pual	perfect	perfect	2	2	m	m	s	s
+Job 15:32	340059	רַעֲנָֽנָה	HVkp3fs	palel	piel	perfect	perfect	3	3	f	f	s	s
+Job 16:12	340199	יְפַרְפְּרֵ֗נִי	HVlw3ms	pilpel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Job 16:12	340205	יְפַצְפְּצֵ֑נִי	HVlw3ms	pilpel	piel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Job 16:15	340238	עֹלַ֖לְתִּי	HVmp1cs	poel	piel	perfect	perfect	1	1	c	?	s	s
+Job 16:16	340244	חמרמרה	HVjp3fp	pealal	piel	perfect	perfect	3	3	f	?	p	p
+Job 17:3	340324	עָרְבֵ֣נִי	HVqv2ms	qal	qal	imperative	inf cons	2	?	m	?	s	?
+Job 19:3	340658	תַּהְכְּרוּ	HVhi2mp	hiphil	qal	imperfect	imperfect	2	2	m	m	p	p
+Job 21:13	341291	יֵחָֽתּוּ	HVqi3mp	qal	niphal	imperfect	imperfect	3	3	m	m	p	p
+Job 22:21	341684	תְּֽבֹואַתְךָ֥	HVqi3fs	qal	?	imperfect	?	3	_	f	f	s	s
+Job 23:9	341843	אָ֑חַז	HVqi1cs	qal	qal	imperfect	perfect	1	3	c	m	s	s
+Job 23:10	341853	בְּ֝חָנַ֗נִי	HVqp3ms	qal	qal	perfect	imperative	3	2	m	m	s	s
+Job 24:1	341931	ידעו	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
+Job 24:6	341977	יקצירו	HVhi3mp	hiphil	qal	imperfect	imperfect	3	3	m	m	p	p
+Job 24:24	342182	יִמָּֽלוּ	HVqi3mp	qal	niphal	imperfect	imperfect	3	3	m	m	p	p
+Job 26:5	342286	יְחֹולָ֑לוּ	HVOi3mp	polal	pual	imperfect	imperfect	3	3	m	m	p	p
+Job 26:9	342322	פַּרְשֵׁ֖ז	HVia	pilel	?	inf abs	?	_	_	?	?	?	s
+Job 26:11	342337	יְרֹופָ֑פוּ	HVMi3mp	poal	piel	imperfect	imperfect	3	3	m	m	p	p
+Job 26:13	342356	חֹֽלֲלָ֥ה	HVmp3fs	poel	piel	perfect	perfect	3	3	f	f	s	s
+Job 28:2	342604	יֻקָּ֑ח	HVQi3ms	qalpassive	hophal	imperfect	imperfect	3	3	m	m	s	s
+Job 28:2	342607	יָצ֥וּק	HVqi3ms	qal	qal	imperfect	part pass	3	?	m	m	s	s
+Job 30:14	343239	הִתְגַּלְגָּֽלוּ	HVfp3cp	hithpalpel	hithpael	perfect	perfect	3	3	c	?	p	p
+Job 30:22	343313	תשׁוה	HVPi2ms	pual	?	imperfect	?	2	_	m	f	s	s
+Job 31:5	343449	תַּ֖חַשׁ	HVqw3fs	qal	hiphil	wayyiqtol	wayyiqtol	3	3	f	f	s	s
+Job 31:8	343483	יְשֹׁרָֽשׁוּ	HVPi3mp	pual	poal	imperfect	imperfect	3	3	m	m	p	p
+Job 31:13	343527	רִבָ֗ם	HVNc	niphal	?	inf cons	?	_	_	?	m	?	s
+Job 31:31	343716	נִשְׂבָּֽע	HVNsmsa	niphal	qal	part pass	imperfect	_	1	m	?	s	p
+Job 32:17	343999	אַעֲנֶ֣ה	HVqi1cs	qal	hiphil	imperfect	imperfect	1	1	c	?	s	s
+Job 33:21	344236	שׁפי	HNcmsc	tiphil	pual	?	perfect	s	3	c	?	?	p
+Job 33:21	344239	רֻאּֽוּ	HVQp3cp	qalpassive	pual	perfect	perfect	3	3	c	?	p	p
+Job 33:25	344274	רֻֽטֲפַ֣שׁ	HVQp3ms	qalpassive	qal	perfect	perfect	3	3	m	m	s	s
+Job 34:35	344713	הַשְׂכֵּֽיל	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Job 39:12	345938	ישׁוב	HVqi3ms	qal	hiphil	imperfect	imperfect	3	3	m	m	s	s
+Job 42:2	346628	ידעת	HVqp2ms	qal	qal	perfect	perfect	2	1	m	?	s	s
+Proverbs 1:20	347111	תָּרֹ֑נָּה	HVqi3fs	qal	qal	imperfect	imperfect	3	3	f	f	s	p
+Proverbs 1:33	347243	שַׁאֲנַ֗ן	HVkq3ms	palel	piel	weqatal	perfect	3	3	m	m	s	s
+Proverbs 2:7	347304	וצפן	HC	?	qal	?	imperfect	?	3	?	m	?	s
+Proverbs 3:13	347568	יָפִ֥יק	HNcfsa	tiphil	hiphil	?	imperfect	s	3	a	m	?	s
+Proverbs 4:8	347850	סַלְסְלֶ֥הָ	HVlv2ms	pilpel	piel	imperative	imperative	2	2	m	m	s	s
+Proverbs 4:16	347933	יכשׁולו	HVqi3mp	qal	hiphil	imperfect	imperfect	3	3	m	m	p	p
+Proverbs 5:6	348077	תְּפַלֵּ֑ס	HVpi3fs	piel	piel	imperfect	imperfect	3	2	f	m	s	s
+Proverbs 5:13	348147	מְלַמְּדַ֗י	HVprmsc	piel	piel	part act	part act	_	?	m	m	s	p
+Proverbs 6:19	348420	יָפִ֣יחַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 6:25	348484	תִּ֝קָּֽחֲךָ֗	HVqj2ms	qal	qal	jussive	imperfect	2	3	m	f	s	s
+Proverbs 6:31	348545	נִמְצָא	HVNq3ms	niphal	niphal	weqatal	part act	3	?	m	m	s	s
+Proverbs 7:16	348736	חֲ֝טֻבֹ֗ות	HNcfpc	tiphil	qal	?	part pass	p	?	c	f	?	p
+Proverbs 8:3	348873	תָּרֹֽנָּה	HVqi3fs	qal	qal	imperfect	imperfect	3	3	f	f	s	p
+Proverbs 8:15	348981	יְחֹ֣קְקוּ	HVmi3mp	poel	piel	imperfect	imperfect	3	3	m	m	p	p
+Proverbs 8:24	349051	חֹולָ֑לְתִּי	HVOp1cs	polal	pual	perfect	perfect	1	1	c	?	s	s
+Proverbs 8:25	349064	חֹולָֽלְתִּי	HVOp1cs	polal	pual	perfect	perfect	1	1	c	?	s	s
+Proverbs 8:35	349166	מצאי	HVqrmpc	qal	qal	part act	perfect	_	3	m	m	p	s
+Proverbs 10:4	349366	רָ֗אשׁ	HNcmsa	tiphil	qal	?	part act	s	?	a	m	?	s
+Proverbs 11:25	349860	יֹורֶֽא	HVHi3ms	hophal	hiphil	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 12:9	349994	מְּתַכַּבֵּ֗ד	HVtrmsa	hithpael	tiphal	part act	part act	_	?	m	m	s	s
+Proverbs 12:14	350043	ישׁוב	HVqi3ms	qal	hiphil	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 12:17	350065	יָפִ֣יחַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 13:20	350342	הלוך	HVqa	qal	qal	inf abs	part act	_	?	?	m	?	s
+Proverbs 13:20	350345	וחכם	HC	?	qal	?	imperfect	?	3	?	m	?	s
+Proverbs 14:5	350439	יָפִ֥יחַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 14:14	350518	ס֣וּג	HAamsc	?	qal	?	inf cons	s	?	c	?	?	?
+Proverbs 14:21	350585	מְחֹונֵ֖ן	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Proverbs 14:25	350621	יָפִ֖חַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 17:1	351345	מָלֵ֥א	HAamsa	?	qal	?	part act	s	?	a	m	?	s
+Proverbs 17:13	351468	תמישׁ	HVhi3fs	hiphil	qal	imperfect	imperfect	3	3	f	f	s	s
+Proverbs 17:14	351479	הִ֝תְגַּלַּ֗ע	HVtp3ms	hithpael	hithpael	perfect	inf cons	3	?	m	?	s	?
+Proverbs 18:14	351746	יְכַלְכֵּ֣ל	HVli3ms	pilpel	piel	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 19:5	351890	יָפִ֥יחַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 19:9	351932	יָפִ֖יחַ	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 19:16	352001	יומת	HVHi3ms	hophal	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 20:30	352405	תמריק	HVhi3fs	hiphil	?	imperfect	?	3	_	f	m	s	s
+Proverbs 21:29	352691	יכין	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Proverbs 22:3	352737	יסתר	HVNi3ms	niphal	niphal	imperfect	perfect	3	3	m	m	s	s
+Proverbs 23:5	353035	תעוף	HVqi2ms	qal	hiphil	imperfect	imperfect	2	2	m	m	s	s
+Proverbs 23:5	353047	ועיף	HC	?	qal	?	imperfect	?	3	?	m	?	s
+Proverbs 23:24	353239	וישׂמח	HC	?	qal	?	imperfect	?	3	?	m	?	s
+Proverbs 24:7	353417	רָאמֹ֣ות	HVqrfpa	qal	?	part act	?	_	_	f	f	p	p
+Proverbs 24:11	353454	מָטִ֥ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+Proverbs 24:17	353529	אויביך	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+Proverbs 25:2	353725	הַסְתֵּ֣ר	HVhv2ms	hiphil	hiphil	imperative	inf abs	2	?	m	?	s	?
+Proverbs 25:19	353909	מוּעָ֑דֶת	HVQsfsa	qalpassive	qalpassive	part pass	part pass	_	?	f	f	s	s
+Proverbs 26:10	354116	מְחֹֽולֵֽל	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Proverbs 26:18	354191	מִתְלַהְלֵהַּ	HVfrmsa	hithpalpel	hithpael	part act	part act	_	?	m	m	s	s
+Proverbs 26:21	354231	חַרְחַר	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+Proverbs 27:15	354450	נִשְׁתָּוָֽה	HVDp3fs	nithpael	nithpael	perfect	perfect	3	3	f	m	s	s
+Proverbs 27:17	354461	יָ֑חַד	HVhi3ms	hiphil	?	imperfect	?	3	_	m	m	s	s
+Proverbs 27:17	354464	יַ֣חַד	HVhi3ms	hiphil	?	imperfect	?	3	_	m	m	s	s
+Proverbs 28:16	354741	שׂנאי	HVqrmpc	qal	qal	part act	part act	_	?	m	m	p	s
+Proverbs 29:6	354926	שָׂמֵֽחַ	HVqq3ms	qal	?	weqatal	?	3	_	m	m	s	s
+Proverbs 29:8	354937	יָפִ֣יחוּ	HVhi3mp	hiphil	qal	imperfect	imperfect	3	3	m	m	p	p
+Proverbs 31:16	355654	נטע	HVqp3ms	qal	qal	perfect	perfect	3	3	m	f	s	s
+Proverbs 31:21	355702	לָבֻ֥שׁ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Ruth 2:1	356235	מידע	HVPsmsa	pual	?	part pass	?	_	_	m	m	s	s
+Ruth 2:4	356301	בָּ֚א	HVqrmsa	qal	qal	part act	perfect	_	3	m	m	s	s
+Ruth 2:6	356347	שָּׁ֥בָה	HVqrfsa	qal	qal	part act	perfect	_	3	f	f	s	s
+Ruth 2:16	356592	שֹׁל	HVqa	qal	qal	inf abs	inf cons	_	?	?	?	?	?
+Ruth 2:20	356708	גֹּאֲלֵ֖נוּ	HVqrmsc	qal	qal	part act	part act	_	?	m	m	s	p
+Ruth 3:3	356815	ירדתי	HVqq1cs	qal	qal	weqatal	perfect	1	2	c	f	s	s
+Ruth 3:4	356848	שׁכבתי	HVqq1cs	qal	qal	weqatal	perfect	1	2	c	f	s	s
+Ruth 4:5	357244	קניתי	HVqp1cs	qal	qal	perfect	perfect	1	2	c	m	s	s
+Ruth 4:15	357499	כַלְכֵּ֖ל	HVlc	pilpel	piel	inf cons	inf cons	_	?	?	?	?	?
+Song_of_songs 1:6	357664	נִֽחֲרוּ	HVNp3cp	niphal	piel	perfect	perfect	3	3	c	?	p	p
+Song_of_songs 1:10	357726	נָאו֤וּ	HVqp3cp	qal	piel	perfect	perfect	3	3	c	?	p	p
+Song_of_songs 2:13	357961	לכי	HVqv2fs	qal	?	imperative	?	2	_	f	_	s	_
+Song_of_songs 3:2	358048	אֲסֹובְבָ֣ה	HVmh1cs	poel	piel	cohortative	imperfect	1	1	c	?	s	s
+Song_of_songs 3:8	358159	אֲחֻ֣זֵי	HVqsmpc	qal	?	part pass	?	_	_	m	m	p	p
+Song_of_songs 7:3	358903	סוּגָ֖ה	HVQsfsa	qalpassive	qal	part pass	part pass	_	?	f	f	s	s
+Ecclesiastes 1:17	359557	דַ֥עַת	HVqc	qal	?	inf cons	?	_	_	?	f	?	s
+Ecclesiastes 2:2	359600	מְהֹולָ֑ל	HVMsmsa	poal	pual	part pass	part pass	_	?	m	m	s	s
+Ecclesiastes 4:1	360559	עֲשֻׁקִ֔ים	HVqsmpa	qal	?	part pass	?	_	_	m	m	p	p
+Ecclesiastes 7:7	361568	יְהֹולֵ֣ל	HVmi3ms	poel	piel	imperfect	imperfect	3	3	m	m	s	s
+Ecclesiastes 7:25	361830	בַקֵּ֥שׁ	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+Ecclesiastes 8:13	362150	יָרֵ֖א	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+Ecclesiastes 9:3	362412	מָלֵא	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Ecclesiastes 9:12	362650	יֽוּקָשִׁים֙	HVPsmpa	pual	qal	part pass	part pass	_	?	m	m	p	p
+Ecclesiastes 10:10	362874	קִלְקַ֔ל	HVlp3ms	pilpel	piel	perfect	perfect	3	3	m	m	s	s
+Ecclesiastes 10:10	362880	הכשׁיר	HVhc	hiphil	hiphil	inf cons	inf abs	_	?	?	?	?	?
+Ecclesiastes 12:6	363368	ירחק	HVqi3ms	qal	niphal	imperfect	imperfect	3	3	m	m	s	s
+Ecclesiastes 12:13	363482	נִשְׁמָ֑ע	HVNp3ms	niphal	niphal	perfect	part act	3	?	m	m	s	s
+Lamentations 1:12	363756	עֹולַ֖ל	HVMp3ms	poal	pual	perfect	perfect	3	3	m	m	s	s
+Lamentations 1:20	363905	צַר	HAamsa	?	qal	?	perfect	s	3	a	m	?	s
+Lamentations 1:20	363908	חֳמַרְמָ֔רוּ	HVjp3cp	pealal	piel	perfect	perfect	3	3	c	?	p	p
+Lamentations 1:22	363953	עֹולֵ֣ל	HVmv2ms	poel	piel	imperative	imperative	2	2	m	m	s	s
+Lamentations 1:22	363957	עֹולַ֛לְתָּ	HVmp2ms	poel	piel	perfect	perfect	2	2	m	m	s	s
+Lamentations 2:8	364138	אֻמְלָֽלוּ	HVKp3cp	pulal	pual	perfect	perfect	3	3	c	?	p	p
+Lamentations 2:11	364189	חֳמַרְמְר֣וּ	HVjp3cp	pealal	piel	perfect	perfect	3	3	c	?	p	p
+Lamentations 2:19	364388	עֲטוּפִ֥ים	HVqsmpa	qal	?	part pass	?	_	_	m	m	p	p
+Lamentations 2:20	364401	עֹולַ֣לְתָּ	HVmp2ms	poel	piel	perfect	perfect	2	2	m	m	s	s
+Lamentations 3:17	364579	תִּזְנַ֧ח	HVqw3fs	qal	qal	wayyiqtol	wayyiqtol	3	2	f	m	s	s
+Lamentations 3:20	364603	תשׁיח	HVhi3fs	hiphil	qal	imperfect	imperfect	3	3	f	f	s	s
+Lamentations 3:45	364795	מָאֹ֛וס	HNcmsa	tiphil	qal	?	inf abs	s	?	a	?	?	?
+Lamentations 3:51	364840	עֹֽולְלָ֣ה	HVmp3fs	poel	piel	perfect	perfect	3	3	f	f	s	s
+Lamentations 4:8	365069	יָבֵ֖שׁ	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+Lamentations 4:10	365095	בָרֹות֙	HVpc	piel	?	inf cons	?	_	_	?	f	?	s
+Lamentations 5:18	365419	שָּׁמֵ֔ם	HVqp3ms	qal	?	perfect	?	3	_	m	m	s	s
+Esther 4:4	367209	תִּתְחַלְחַ֥ל	HVfw3fs	hithpalpel	hithpael	wayyiqtol	wayyiqtol	3	3	f	f	s	s
+Esther 9:18	369595	נֹ֗וחַ	HNcmsa	tiphil	qal	?	inf abs	s	?	a	?	?	?
+Esther 9:27	369840	קבל	HVpp3ms	piel	piel	perfect	perfect	3	3	m	?	s	p
+Daniel 2:9	370707	שְׁחִיתָה֙	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 2:9	370708	הזמנתון	AVhp2mp	haphel	hithpeel	perfect	perfect	2	2	m	m	p	p
+Daniel 2:9	370715	יִשְׁתַּנֵּ֑א	AVMi3ms	hithpaal	etpaal	imperfect	imperfect	3	3	m	m	s	s
+Daniel 2:13	370814	הִתְקְטָלָֽה	AVMc	hithpaal	hithpeel	inf cons	inf cons	_	?	?	?	?	?
+Daniel 2:24	371016	אֲזַ֣ל	AVqrmsa	peal	peal	part act	perfect	_	3	m	m	s	s
+Daniel 2:24	371019	אֲמַר	AVqrmsa	peal	peal	part act	perfect	_	3	m	m	s	s
+Daniel 2:24	371025	תְּהֹובֵ֔ד	AVhi2ms	haphel	haphel	imperfect	imperfect	2	3	m	f	s	s
+Daniel 2:26	371076	חֲזֵ֖ית	ATr	hithpolel	peal	?	perfect	?	1	?	?	?	s
+Daniel 2:31	371172	חָזֵ֤ה	AVhrmsa	haphel	peal	part act	part act	_	?	m	m	s	s
+Daniel 2:31	371190	דְּחִֽיל	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Daniel 2:40	371367	מְרָעַ֥ע	AVqrmsa	peal	pael	part act	part act	_	?	m	m	s	s
+Daniel 2:41	371387	פְלִיגָה֙	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 2:42	371422	תְבִירָֽה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 2:44	371457	יְקִים֩	AVai3ms	aphel	haphel	imperfect	imperfect	3	3	m	m	s	s
+Daniel 3:1	371624	אֲקִימֵהּ֙	AVap3ms	aphel	aphel	perfect	perfect	3	3	m	m	s	s
+Daniel 3:17	371990	יָכִ֖ל	AVqi3ms	peal	peal	imperfect	part act	3	?	m	m	s	s
+Daniel 3:19	372031	אשׁתנו	AVPp3ms	ithpaal	etpaal	perfect	perfect	3	3	m	m	s	s
+Daniel 3:22	372100	מַחְצְפָ֔ה	AVarfsa	aphel	haphel	part act	part act	_	?	f	f	s	s
+Daniel 3:24	372155	מְכַפְּתִ֔ין	AVprmpa	pael	pael	part act	part pass	_	?	m	m	p	p
+Daniel 3:25	372171	שְׁרַ֨יִן֙	AVQsmpa	peil	peal	part pass	part pass	_	?	m	m	p	p
+Daniel 3:25	372172	מַהְלְכִ֣ין	AVarmpa	aphel	haphel	part act	part act	_	?	m	m	p	p
+Daniel 3:28	372260	בְּרִ֤יךְ	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Daniel 4:9	372536	תַּטְלֵ֣ל	AVai3fs	aphel	haphel	imperfect	imperfect	3	3	f	f	s	s
+Daniel 4:9	372542	ידרון	AVqi3mp	peal	peal	imperfect	imperfect	3	3	m	f	p	p
+Daniel 4:11	372576	אַתַּ֥רוּ	AVav2mp	aphel	aphel	imperative	imperative	2	2	m	m	p	p
+Daniel 4:14	372655	יִצְבֵּא֙	AVqp3ms	peal	peal	perfect	imperfect	3	3	m	m	s	s
+Daniel 4:14	372660	יְקִ֥ים	AVai3ms	aphel	haphel	imperfect	imperfect	3	3	m	m	s	s
+Daniel 4:16	372698	אֶשְׁתֹּומַם֙	AVzp3ms	ithpoel	etpaal	perfect	perfect	3	3	m	m	s	s
+Daniel 4:18	372762	יִשְׁכְּנָ֖ן	AVqi3ms	peal	peal	imperfect	imperfect	3	3	m	f	s	p
+Daniel 4:32	373089	חֲשִׁיבִ֔ין	AVQsmpa	peil	peal	part pass	part pass	_	?	m	m	p	p
+Daniel 4:34	373146	מְרֹומֵ֤ם	AVormsa	polel	pael	part act	part act	_	?	m	m	s	s
+Daniel 4:34	373161	מַהְלְכִ֣ין	AVarmpa	aphel	haphel	part act	part act	_	?	m	m	p	p
+Daniel 5:5	373251	נפקו	AVqp3mp	peal	peal	perfect	perfect	3	3	m	f	p	p
+Daniel 5:10	373387	יִשְׁתַּנֹּֽו	AVMi3mp	hithpaal	etpaal	imperfect	imperfect	3	3	m	m	p	p
+Daniel 5:12	373436	אַֽחֲוָיַ֨ת	AVhc	haphel	aphel	inf cons	inf cons	_	?	?	?	?	?
+Daniel 5:12	373439	מְשָׁרֵ֣א	AVprmpc	pael	pael	part act	part act	_	?	m	m	p	s
+Daniel 5:18	373591	יְהַ֖ב	AVqi3ms	peal	peal	imperfect	perfect	3	3	m	m	s	s
+Daniel 5:19	373622	מַחֵ֔א	AVqrmsa	peal	haphel	part act	part act	_	?	m	m	s	s
+Daniel 5:19	373628	מָרִ֔ים	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
+Daniel 5:19	373634	מַשְׁפִּֽיל	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
+Daniel 5:20	373642	תִּֽקְפַ֣ת	AVqi3fs	peal	peal	imperfect	perfect	3	3	f	f	s	s
+Daniel 5:21	373662	שׁוי	AVQp3mp	peil	pael	perfect	perfect	3	3	m	m	p	p
+Daniel 5:23	373712	הִתְרֹומַ֡מְתָּ	AVrp2ms	hithpolel	hithpaal	perfect	perfect	2	2	m	m	s	s
+Daniel 5:27	373796	תְּקִ֥ילְתָּה	AVQi2ms	peil	peil	imperfect	perfect	2	2	m	m	s	s
+Daniel 6:4	373909	עֲשִׁ֔ית	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Daniel 6:5	373933	שְׁחִיתָ֜ה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 6:5	373948	שְׁחִיתָ֔ה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 6:8	373987	אִתְיָעַ֜טוּ	AVPp3mp	ithpaal	etpaal	perfect	perfect	3	3	m	m	p	p
+Daniel 6:9	374027	תְּקִ֥ים	AVai2ms	aphel	haphel	imperfect	imperfect	2	2	m	m	s	s
+Daniel 6:9	374043	תֶעְדֵּֽא	AVqi3fs	peal	peal	imperfect	imperfect	3	2	f	m	s	s
+Daniel 6:11	374067	פְּתִיחָ֥ן	AVQsfpa	peil	peal	part pass	part pass	_	?	f	f	p	p
+Daniel 6:11	374085	מֹודֵא֙	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
+Daniel 6:13	374112	קְרִ֨יבוּ	AVQp3mp	peil	peal	perfect	perfect	3	3	m	m	p	p
+Daniel 6:13	374114	אָמְרִ֥ין	AVqrmsa	peal	peal	part act	part act	_	?	m	m	s	p
+Daniel 6:13	374157	תֶעְדֵּֽא	AVqi3fs	peal	peal	imperfect	imperfect	3	2	f	m	s	s
+Daniel 6:15	374197	בְּאֵ֣שׁ	AVqrmsa	peal	peal	part act	perfect	_	3	m	m	s	s
+Daniel 6:20	374324	הִ֨תְבְּהָלָ֔ה	ANcfsa	tiphel	hithpeel	?	inf cons	s	?	a	?	?	?
+Daniel 6:27	374483	שִׂ֣ים	AVqp3ms	peal	peil	perfect	perfect	3	3	m	m	s	s
+Daniel 6:28	374518	מַצִּ֗ל	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
+Daniel 7:2	374585	מְגִיחָ֖ן	AVarfpa	aphel	haphel	part act	part act	_	?	f	f	p	p
+Daniel 7:7	374694	דְּחִילָה֩	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 7:7	374708	מַדֱּקָ֔ה	AVarfsa	aphel	haphel	part act	part act	_	?	f	f	s	s
+Daniel 7:8	374742	אתעקרו	AVip3mp	ithpeel	etpeel	perfect	perfect	3	3	m	f	p	p
+Daniel 7:18	374943	יַחְסְנ֤וּן	AVai3mp	aphel	haphel	imperfect	imperfect	3	3	m	m	p	p
+Daniel 7:19	374963	דְּחִילָ֣ה	AVQsfsa	peil	peal	part pass	part pass	_	?	f	f	s	s
+Daniel 7:19	374973	מַדֲּקָ֔ה	AVarfsa	aphel	haphel	part act	part act	_	?	f	f	s	s
+Daniel 7:20	374991	נפלו	AVqp3mp	peal	peal	perfect	perfect	3	3	m	f	p	p
+Daniel 7:23	375050	תִשְׁנֵ֖א	AVqi3fs	peal	peal	imperfect	imperfect	3	2	f	m	s	s
+Daniel 7:23	375052	כָּל	AVqi3fs	peal	?	imperfect	?	3	_	f	m	s	s
+Daniel 7:23	375061	תַדְּקִנַּֽהּ	AVai3fs	aphel	haphel	imperfect	imperfect	3	3	f	f	s	s
+Daniel 7:28	375163	יִשְׁתַּנֹּ֣ון	AVMi3mp	hithpaal	etpaal	imperfect	imperfect	3	3	m	m	p	p
+Daniel 8:7	375343	יִּתְמַרְמַ֤ר	HVfw3ms	hithpalpel	hithpael	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+Daniel 8:11	375455	הרים	HVhp3ms	hiphil	hophal	perfect	perfect	3	3	m	m	s	s
+Daniel 9:5	375861	והרשׁענו	HC	?	hiphil	?	perfect	?	1	?	?	?	p
+Daniel 9:24	376322	חתם	HVqc	qal	hiphil	inf cons	inf cons	_	?	?	?	?	?
+Daniel 9:27	376432	מְשֹׁמֵ֔ם	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Daniel 10:5	376539	לָב֣וּשׁ	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+Daniel 11:10	377147	יתגרו	HVti3mp	hithpael	hithpael	imperfect	imperfect	3	3	m	m	p	s
+Daniel 11:11	377151	יִתְמַרְמַר֙	HVfi3ms	hithpalpel	hithpael	imperfect	imperfect	3	3	m	m	s	s
+Daniel 11:18	377314	ישׁב	HVhi3ms	hiphil	qal	imperfect	imperfect	3	3	m	m	s	s
+Daniel 11:31	377587	מְשֹׁומֵֽם	HVmrmsa	poel	piel	part act	part act	_	?	m	m	s	s
+Daniel 11:39	377738	הכיר	HVhp3ms	hiphil	hiphil	perfect	imperfect	3	3	m	m	s	s
+Daniel 12:6	378003	לְב֣וּשׁ	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Daniel 12:7	378023	לְב֣וּשׁ	HVqsmsc	qal	?	part pass	?	_	_	m	m	s	s
+Ezra 3:3	379173	יעל	HVhw3ms	hiphil	hiphil	wayyiqtol	wayyiqtol	3	3	m	m	s	p
+Ezra 3:12	379465	יָסְדֹ֔ו	HVqc	qal	qal	inf cons	part act	_	?	?	m	?	s
+Ezra 4:12	379740	יְדִ֨יעַ֙	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Ezra 4:12	379761	אשׁכללו	AVvi3mp	ishtaphel	shaphel	imperfect	perfect	3	3	m	m	p	p
+Ezra 4:12	379764	יַחִֽיטוּ	AVai3mp	aphel	pael	imperfect	perfect	3	3	m	m	p	p
+Ezra 4:13	379766	יְדִ֨יעַ֙	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Ezra 4:13	379787	תְּהַנְזִֽק	AVhi3ms	haphel	haphel	imperfect	imperfect	3	2	m	m	s	s
+Ezra 4:15	379837	עָבְדִ֣ין	AVqrmsa	peal	peal	part act	part act	_	?	m	m	s	p
+Ezra 4:22	379972	הַנְזָקַ֖ת	ANcfsc	tiphel	haphel	?	inf cons	s	?	c	?	?	?
+Ezra 5:5	380131	יְתִיב֥וּן	AVai3mp	aphel	haphel	imperfect	imperfect	3	3	m	m	p	p
+Ezra 5:7	380161	כְּתִ֣יב	AVQp3ms	peil	peal	perfect	part pass	3	?	m	m	s	s
+Ezra 5:8	380169	יְדִ֣יעַ	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Ezra 5:8	380198	מַצְלַ֥ח	AVarmsa	aphel	haphel	part act	part act	_	?	m	m	s	s
+Ezra 5:15	380360	אֲחֵ֣ת	AVav2ms	aphel	aphel	imperative	imperative	2	2	m	m	s	s
+Ezra 5:16	380394	שְׁלִֽם	AVQsmsa	peil	peal	part pass	perfect	_	3	m	m	s	s
+Ezra 6:2	380464	כְּתִ֥יב	AVQp3ms	peil	peal	perfect	part pass	3	?	m	m	s	s
+Ezra 6:3	380490	מְסֹֽובְלִ֑ין	AVssmpa	saphel	pael	part pass	part pass	_	?	m	m	p	p
+Ezra 6:5	380545	תַחֵ֖ת	AVai2ms	aphel	haphel	imperfect	imperfect	2	2	m	m	s	s
+Ezra 6:11	380685	זְקִ֖יף	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Ezra 6:14	380746	מַצְלְחִ֔ין	AVarmpa	aphel	haphel	part act	part act	_	?	m	m	p	p
+Ezra 6:17	380826	חטיא	AVpc	pael	?	inf cons	?	_	_	?	f	?	s
+Ezra 7:11	381139	סֹפֵ֞ר	HNcmsc	tiphil	qal	?	part act	s	?	c	m	?	s
+Ezra 7:12	381158	גְּמִ֖יר	AVQsmsa	peil	peal	part pass	part pass	_	?	m	m	s	s
+Ezra 7:14	381192	שְׁלִ֔יחַ	AVQsmsa	peil	peil	part pass	perfect	_	3	m	m	s	s
+Ezra 7:16	381236	הִתְנַדָּב֨וּת	ANcfsc	tiphel	hithpaal	?	inf cons	s	?	c	?	?	?
+Ezra 7:25	381450	יָדַ֖ע	AVqp3ms	peal	peal	perfect	part act	3	?	m	m	s	s
+Ezra 8:17	381788	אוצאה	HVhw1cs	hiphil	piel	wayyiqtol	wayyiqtol	1	1	c	?	s	s
+Ezra 8:17	381809	נתונים	HVqsmpa	qal	?	part pass	?	_	_	m	m	p	p
+Ezra 9:3	382365	מְשֹׁומֵֽם	HVmsmsa	poel	piel	part pass	part act	_	?	m	m	s	s
+Ezra 9:4	382382	מְשֹׁומֵ֔ם	HVmsmsa	poel	piel	part pass	part act	_	?	m	m	s	s
+Ezra 9:9	382535	רֹומֵ֞ם	HVmc	poel	piel	inf cons	inf cons	_	?	?	?	?	?
+Ezra 9:14	382681	כַּלֵּ֔ה	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+Nehemiah 2:3	383791	אֻכְּל֥וּ	HVQp3cp	qalpassive	pual	perfect	perfect	3	3	c	?	p	p
+Nehemiah 2:13	384057	אֻכְּל֥וּ	HVQp3cp	qalpassive	pual	perfect	perfect	3	3	c	?	p	p
+Nehemiah 3:15	384557	יעמידו	HVhi3mp	hiphil	hiphil	imperfect	imperfect	3	3	m	m	p	s
+Nehemiah 5:9	385586	יאמר	HVqw3ms	qal	qal	wayyiqtol	wayyiqtol	3	1	m	?	s	s
+Nehemiah 6:6	386030	נִשְׁמָע֙	HVNp3ms	niphal	niphal	perfect	part act	3	?	m	m	s	s
+Nehemiah 7:2	386386	יָרֵ֥א	HVqp3ms	qal	qal	perfect	part act	3	?	m	m	s	s
+Nehemiah 7:3	386393	יאמר	HVqw3ms	qal	qal	wayyiqtol	wayyiqtol	3	1	m	?	s	s
+Nehemiah 8:6	387353	יִּשְׁתַּחֲוֻּ֛	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Nehemiah 8:11	387494	הַ֔סּוּ	HTj	pealal	piel	?	imperative	?	2	?	m	?	p
+Nehemiah 9:5	387845	מְרֹומַ֥ם	HVOsmsa	polal	pual	part pass	part pass	_	?	m	m	s	s
+Nehemiah 9:21	388249	כִּלְכַּלְתָּ֥ם	HVlp2ms	pilpel	piel	perfect	perfect	2	2	m	m	s	s
+Nehemiah 9:25	388355	מְלֵֽאִים	HAampa	?	qal	?	part act	p	?	a	m	?	p
+Nehemiah 9:28	388439	נֹ֣וחַ	HVqc	qal	qal	inf cons	inf abs	_	?	?	?	?	?
+Nehemiah 10:39	389163	עְשֵׂ֣ר	HVpc	piel	hiphil	inf cons	inf cons	_	?	?	?	?	?
+Nehemiah 12:30	390106	יִּֽטַּהֲר֔וּ	HVtw3mp	hithpael	piel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+Nehemiah 13:21	391024	לֵנִים֙	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+1_Chronicles 2:55	392530	ישׁבו	HVqp3cp	qal	qal	perfect	part act	3	?	c	m	p	p
+1_Chronicles 4:23	393168	יֹּ֣וצְרִ֔ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+1_Chronicles 9:33	396543	פטירים	HNcmpa	tiphil	qal	?	part pass	p	?	a	m	?	p
+1_Chronicles 11:13	397264	מְלֵאָ֣ה	HAafsa	?	qal	?	part act	s	?	a	f	?	s
+1_Chronicles 19:10	401387	בָּחוּר֙	HVqsmsa	qal	?	part pass	?	_	_	m	m	s	s
+1_Chronicles 21:21	402295	יִּשְׁתַּ֧חוּ	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+1_Chronicles 25:1	403896	נביאים	HNcmpa	tiphil	niphal	?	part act	p	?	a	m	?	p
+1_Chronicles 26:29	404756	שֹׁטְרִ֖ים	HNcmpa	tiphil	qal	?	part act	p	?	a	m	?	p
+1_Chronicles 27:1	404871	שֹׁטְרֵיהֶם֩	HNcmpc	tiphil	qal	?	part act	p	?	c	m	?	p
+1_Chronicles 29:20	406599	יִּֽשְׁתַּחֲו֛וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 2:5	407372	יְכַלְכְּלֻ֑הוּ	HVli3ms	pilpel	piel	imperfect	imperfect	3	3	m	m	s	p
+2_Chronicles 2:8	407475	גָּדֹ֥ול	HAamsa	?	qal	?	inf abs	s	?	a	?	?	?
+2_Chronicles 6:18	409363	יְכַלְכְּל֔וּךָ	HVli3mp	pilpel	piel	imperfect	imperfect	3	3	m	m	p	p
+2_Chronicles 7:3	410083	יִּֽשְׁתַּֽחֲו֔וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 7:22	410599	יִּשְׁתַּחֲו֥וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 8:10	410806	נציבים	HNcmpa	tiphil	niphal	?	part act	p	?	a	m	?	p
+2_Chronicles 8:11	410850	בָּֽאָ֥ה	HVqp3fs	qal	qal	perfect	part act	3	?	f	f	s	s
+2_Chronicles 17:12	414807	גָדֵ֖ל	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+2_Chronicles 18:29	415549	הִתְחַפֵּשׂ֙	HVta	hithpael	hithpael	inf abs	imperative	_	2	?	m	?	s
+2_Chronicles 18:29	415551	בֹ֣וא	HVqa	qal	qal	inf abs	imperative	_	2	?	m	?	s
+2_Chronicles 19:2	415723	חֹזֶה֒	HVqrmsa	qal	?	part act	?	_	_	m	m	s	s
+2_Chronicles 20:18	416391	הִֽשְׁתַּחֲוֹ֖ת	HVtc	hithpael	hishtaphel	inf cons	inf cons	_	?	?	?	?	?
+2_Chronicles 20:35	416767	אֶתְחַבַּר֙	HVtp3ms	hithpael	etpaal	perfect	perfect	3	3	m	m	s	s
+2_Chronicles 24:10	418435	כַלֵּֽה	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+2_Chronicles 24:17	418632	יִּֽשְׁתַּחֲו֖וּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 24:22	418754	מֹותֹ֣ו	HVqc	qal	?	inf cons	?	_	_	?	m	?	s
+2_Chronicles 24:27	418874	ורב	HC	?	qal	?	imperfect	?	3	?	m	?	s
+2_Chronicles 28:19	420804	מַ֖עַל	HNcmsa	tiphil	qal	?	perfect	s	3	a	m	?	s
+2_Chronicles 28:23	420878	יַעְזְר֑וּנִי	HVhi3mp	hiphil	qal	imperfect	imperfect	3	3	m	m	p	p
+2_Chronicles 29:29	421654	יִּֽשְׁתַּחֲוֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 29:30	421685	יִּֽשְׁתַּחֲוֽוּ	HVtw3mp	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 31:1	422548	כַלֵּ֑ה	HVpc	piel	piel	inf cons	inf abs	_	?	?	?	?	?
+2_Chronicles 32:23	423646	יִּנַּשֵּׂ֛א	HVtw3ms	hithpael	niphal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Chronicles 33:3	423941	יִּשְׁתַּ֨חוּ֙	HVtw3ms	hithpael	hishtaphel	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Chronicles 33:6	423990	עֹונֵ֤ן	HVmp3ms	poel	piel	perfect	perfect	3	3	m	m	s	s
+2_Chronicles 33:16	424261	יכן	HVhw3ms	hiphil	qal	wayyiqtol	wayyiqtol	3	3	m	m	s	s
+2_Chronicles 33:18	424305	חֹזִ֔ים	HVqrmpa	qal	?	part act	?	_	_	m	m	p	p
+2_Chronicles 34:7	424602	הֵדַ֔ק	HVhc	hiphil	hiphil	inf cons	perfect	_	3	?	m	?	s
+2_Chronicles 34:9	424695	ישׁבי	HVqrmpc	qal	qal	part act	wayyiqtol	_	3	m	m	p	p
+2_Chronicles 34:13	424813	שֹׁטְרִ֖ים	HNcmpa	tiphil	qal	?	part act	p	?	a	m	?	p
+2_Chronicles 34:25	425104	יקטירו	HVhw3mp	hiphil	piel	wayyiqtol	wayyiqtol	3	3	m	m	p	p
+2_Chronicles 34:28	425188	אֹֽסִפְךָ֜	HVqrmsc	qal	qal	part act	imperfect	_	1	m	?	s	s
+2_Chronicles 36:16	426384	מִֽתַּעְתְּעִ֖ים	HVfrmpa	hithpalpel	hithpael	part act	part act	_	?	m	m	p	p

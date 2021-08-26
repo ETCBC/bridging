@@ -1,7 +1,9 @@
 passage	node	occurrence	OSMmorph	OSMtype	BHStype	OSMmorphSuffix	OSMsuffixType	BHSsuffixType
 Genesis 1:2	15	הָיְתָ֥ה	HVqp3fs	verb	verb:copulative verb:	None	?	:
+Genesis 1:3	33	יֹּ֥אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:3	35	יְהִ֣י	HVqj3ms	verb	verb:copulative verb:	None	?	:
 Genesis 1:3	38	יְהִי	HVqw3ms	verb	verb:copulative verb:	None	?	:
+Genesis 1:4	47	טֹ֑וב	HAamsa	adjective:adjective	verb::	None	?	:
 Genesis 1:4	51	בֵּ֥ין	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:4	55	בֵ֥ין	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:5	61	לָ	HRd	preposition:definite article	preposition::	None	?	:
@@ -13,12 +15,16 @@ Genesis 1:5	73	עֶ֥רֶב	HNcmsa	noun:common	noun:potential adverb:	None	?	:
 Genesis 1:5	75	יְהִי	HVqw3ms	verb	verb:copulative verb:	None	?	:
 Genesis 1:5	76	בֹ֖קֶר	HNcmsa	noun:common	noun:potential adverb:	None	?	:
 Genesis 1:5	77	יֹ֥ום	HNcmsa	noun:common	noun:potential adverb:	None	?	:
+Genesis 1:6	80	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:6	82	יְהִ֥י	HVqj3ms	verb	verb:copulative verb:	None	?	:
 Genesis 1:6	89	יהִ֣י	HVqi3ms	verb	verb:copulative verb:	None	?	:
 Genesis 1:6	91	בֵּ֥ין	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:7	103	בֵּ֤ין	HR	preposition	noun:potential preposition:	None	?	:
+Genesis 1:7	106	אֲשֶׁר֙	HTr	particle:relative	conjunction::	None	?	:
+Genesis 1:7	108	תַּ֣חַת	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:7	109	לָ	HRd	preposition:definite article	preposition::	None	?	:
 Genesis 1:7	113	בֵ֣ין	HR	preposition	noun:potential preposition:	None	?	:
+Genesis 1:7	116	אֲשֶׁ֖ר	HTr	particle:relative	conjunction::	None	?	:
 Genesis 1:7	119	לָ	HRd	preposition:definite article	preposition::	None	?	:
 Genesis 1:7	123	יְהִי	HVqw3ms	verb	verb:copulative verb:	None	?	:
 Genesis 1:7	124	כֵֽן	HD	adverb	adverb:anaphoric adverb:	None	?	:
@@ -28,43 +34,66 @@ Genesis 1:8	134	עֶ֥רֶב	HNcmsa	noun:common	noun:potential adverb:	None	?	:
 Genesis 1:8	136	יְהִי	HVqw3ms	verb	verb:copulative verb:	None	?	:
 Genesis 1:8	137	בֹ֖קֶר	HNcmsa	noun:common	noun:potential adverb:	None	?	:
 Genesis 1:8	138	יֹ֥ום	HNcmsa	noun:common	noun:potential adverb:	None	?	:
+Genesis 1:9	141	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
+Genesis 1:9	147	תַּ֤חַת	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:9	159	כֵֽן	HD	adverb	adverb:anaphoric adverb:	None	?	:
 Genesis 1:10	163	לַ	HRd	preposition:definite article	preposition::	None	?	:
+Genesis 1:10	178	טֹֽוב	HAamsa	adjective:adjective	verb::	None	?	:
+Genesis 1:11	180	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
+Genesis 1:11	195	אֲשֶׁ֥ר	HTr	particle:relative	conjunction::	None	?	:
 Genesis 1:11	203	כֵֽן	HD	adverb	adverb:anaphoric adverb:	None	?	:
+Genesis 1:12	218	אֲשֶׁ֥ר	HTr	particle:relative	conjunction::	None	?	:
+Genesis 1:12	227	טֹֽוב	HAamsa	adjective:adjective	verb::	None	?	:
 Genesis 1:13	230	עֶ֥רֶב	HNcmsa	noun:common	noun:potential adverb:	None	?	:
 Genesis 1:13	233	בֹ֖קֶר	HNcmsa	noun:common	noun:potential adverb:	None	?	:
+Genesis 1:14	237	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:14	247	בֵּ֥ין	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:14	251	בֵ֣ין	HR	preposition	noun:potential preposition:	None	?	:
 Genesis 1:15	281	כֵֽן	HD	adverb	adverb:anaphoric adverb:	None	?	:
 Genesis 1:18	330	בַּ	HRd	preposition:definite article	preposition::	None	?	:
 Genesis 1:18	334	בַ	HRd	preposition:definite article	preposition::	None	?	:
 Genesis 1:18	340	בֵּ֥ין	HR	preposition	noun:potential preposition:	None	?	:
-Genesis 1:18	344	בֵ֣ין	HR	preposition	noun:potential preposition:	None	?	:
+Genesis 1:18	351	טֹֽוב	HAamsa	adjective:adjective	verb::	None	?	:
+Genesis 1:20	361	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:21	390	כָּל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:21	396	אֲשֶׁר֩	HTr	particle:relative	conjunction::	None	?	:
 Genesis 1:21	404	כָּל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:21	413	טֹֽוב	HAamsa	adjective:adjective	verb::	None	?	:
+Genesis 1:22	419	אמֹ֑ר	HVqc	verb	verb:quotation verb:	None	?	:
 Genesis 1:22	428	בַּ	HRd	preposition:definite article	preposition::	None	?	:
 Genesis 1:22	435	בָּ	HRd	preposition:definite article	preposition::	None	?	:
+Genesis 1:24	447	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:24	460	חַֽיְתֹו	HNcfsc	noun:common	noun::	None	?	:W
 Genesis 1:24	466	כֵֽן	HD	adverb	adverb:anaphoric adverb:	None	?	:
 Genesis 1:25	484	כָּל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:25	494	טֹֽוב	HAamsa	adjective:adjective	verb::	None	?	:
+Genesis 1:26	496	יֹּ֣אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:26	521	כָל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
 Genesis 1:26	526	כָל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:28	557	יֹּ֨אמֶר	HVqw3ms	verb	verb:quotation verb:	None	?	:
 Genesis 1:28	583	כָל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
 Genesis 1:29	597	כָּל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:29	601	אֲשֶׁר֙	HTr	particle:relative	conjunction::	None	?	:
 Genesis 1:29	604	כָל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
 Genesis 1:29	609	כָּל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:29	612	אֲשֶׁר	HTr	particle:relative	conjunction::	None	?	:
 Genesis 1:30	624	כָל	HNcmsc	noun:common	noun:distributive noun:	None	?	:
+Genesis 1:30	641	אֲשֶׁר	HTr	particle:relative	conjunction::	None	?	:
 Genesis 1:30	653	כֵֽן	HD	adverb	adverb:anaphoric adverb:	None	?	:
+Genesis 1:31	659	אֲשֶׁ֣ר	HTr	particle:relative	conjunction::	None	?	:
+Genesis 2:2	693	אֲשֶׁ֣ר	HTr	particle:relative	conjunction::	None	?	:
 Genesis 2:5	750	טֶ֚רֶם	HD	adverb	noun:potential preposition:	None	?	:
 Genesis 2:5	760	טֶ֣רֶם	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 2:5	772	אַ֔יִן	HTn	particle:negative	noun:copulative noun:	None	?	:
 Genesis 2:14	936	קִדְמַ֣ת	HNcfsc	noun:common	noun:potential preposition:	None	?	:
+Genesis 2:21	1096	תַּחְתֶּֽנָּה	HR	preposition	noun:potential preposition:	HSp3fs	suffix:pronominal	p:N
 Genesis 2:24	1144	אָבִ֖יו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	p:J
 Genesis 3:3	1231	תְּמֻתֽוּן	HVqi2mp	verb	verb::	HSn	suffix:paragogic nun	:
 Genesis 3:4	1241	תְּמֻתֽוּן	HVqi2mp	verb	verb::	HSn	suffix:paragogic nun	:
 Genesis 3:9	1354	אַיֶּֽכָּה	HTi	particle:interrogative	interrogative particle::	HSp2ms	suffix:pronominal	p:N
 Genesis 3:11	1385	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 3:12	1397	עִמָּדִ֔י	HR	preposition	noun:potential preposition:	HSp1cs	suffix:pronominal	p:
+Genesis 3:15	1475	תְּשׁוּפֶ֥נּוּ	HVqi2ms	verb	verb::	HSp3ms	suffix:pronominal	p:N
+Genesis 3:17	1500	אָדָ֣ם	HNp	noun:proper name	noun::	None	?	:
+Genesis 3:17	1526	תֹּֽאכֲלֶ֔נָּה	HVqi2ms	verb	verb::	HSp3fs	suffix:pronominal	p:N
 Genesis 3:24	1663	דֶּ֖רֶךְ	HNcbsc	noun:common	noun:potential preposition:	None	?	:
 Genesis 4:2	1691	אָחִ֖יו	HNcmsc	noun:common	noun:distributive noun:	HSp3ms	suffix:pronominal	p:J
 Genesis 4:4	1722	גַם	HD	adverb	adverb:focus particle:	None	?	:
@@ -83,35 +112,55 @@ Genesis 4:20	2010	אֲבִ֕י	HNcmsc	noun:common	noun::	None	?	:J
 Genesis 4:21	2017	אָחִ֖יו	HNcmsc	noun:common	noun:distributive noun:	HSp3ms	suffix:pronominal	p:J
 Genesis 4:21	2021	אֲבִ֕י	HNcmsc	noun:common	noun::	None	?	:J
 Genesis 4:22	2029	גַם	HD	adverb	adverb:focus particle:	None	?	:
+Genesis 4:22	2033	תּ֣וּבַל קַ֔יִן	HNp	noun:proper name	proper noun::person	HNp	noun:proper name	:
+Genesis 4:22	2042	תּֽוּבַל־קַ֖יִן	HNp	noun:proper name	proper noun::person	HNp	noun:proper name	:
 Genesis 4:24	2068	שִׁבְעָתַ֖יִם	HNcfda	noun:common	noun:cardinal:	None	?	:
+Genesis 5:24	2461	אֵינֶ֕נּוּ	HTn	particle:negative	noun:copulative noun:	HSp3ms	suffix:pronominal	p:N
 Genesis 6:3	2650	גַּ֖ם	HD	adverb	adverb:focus particle:	None	?	:
 Genesis 6:4	2674	כֵ֗ן	HD	adverb	adverb:anaphoric adverb:	None	?	:
 Genesis 6:4	2689	גִּבֹּרִ֛ים	HAampa	adjective:adjective	noun::	None	?	:
 Genesis 6:12	2822	דַּרְכֹּ֖ו	HNcbsc	noun:common	noun:potential preposition:	HSp3ms	suffix:pronominal	p:
 Genesis 6:16	2897	תְּכַלֶ֣נָּה	HVpi2ms	verb	verb::	HSp3fs	suffix:pronominal	p:N
 Genesis 6:16	2900	מַ֔עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
+Genesis 7:8	3184	אֵינֶ֖נָּה	HTn	particle:negative	noun:copulative noun:	HSp3fs	suffix:pronominal	p:N
 Genesis 7:20	3440	מַ֔עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
 Genesis 8:13	3807	רִאשֹׁון֙	HAamsa	adjective:adjective	adjective:ordinal:	None	?	:
 Genesis 9:5	4110	אַ֨ךְ	HD	adverb	adverb:focus particle:	None	?	:
+Genesis 9:5	4120	אֶדְרְשֶׁ֑נּוּ	HVqi1cs	verb	verb::	HSp3ms	suffix:pronominal	p:N
 Genesis 9:5	4129	אָחִ֔יו	HNcmsc	noun:common	noun:distributive noun:	HSp3ms	suffix:pronominal	p:J
 Genesis 9:18	4387	אֲבִ֥י	HNcmsc	noun:common	noun::	None	?	:J
 Genesis 9:22	4424	אֲבִ֣י	HNcmsc	noun:common	noun::	None	?	:J
 Genesis 9:22	4428	אָבִ֑יו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	p:J
+Genesis 10:2	4565	תֻבָ֑ל	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 10:2	4567	מֶ֖שֶׁךְ	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 10:3	4573	אַשְׁכֲּנַ֥ז	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 10:3	4575	רִיפַ֖ת	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 10:4	4584	כִּתִּ֖ים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Genesis 10:4	4586	דֹדָנִֽים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Genesis 10:6	4609	פ֥וּט	HNp	noun:proper name	proper noun::people	None	?	:
 Genesis 10:8	4639	גִּבֹּ֖ר	HAamsa	adjective:adjective	noun::	None	?	:
+Genesis 10:9	4645	גִבֹּֽר	HAamsc	adjective:adjective	noun::	None	?	:
 Genesis 10:9	4655	גִּבֹּ֥ור	HAamsc	adjective:adjective	noun::	None	?	:
-Genesis 10:19	4791	גְרָ֖רָה	HNp	noun:proper name	proper noun::		?	:H
-Genesis 10:19	4795	סְדֹ֧מָה	HNp	noun:proper name	proper noun::		?	:H
+Genesis 10:11	4687	רְחֹבֹ֥ת עִ֖יר	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
+Genesis 10:13	4708	לוּדִ֧ים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Genesis 10:13	4711	עֲנָמִ֛ים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Genesis 10:13	4714	לְהָבִ֖ים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Genesis 10:13	4717	נַפְתֻּחִֽים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Genesis 10:14	4720	פַּתְרֻסִ֞ים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Genesis 10:14	4723	כַּסְלֻחִ֗ים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Genesis 10:18	4778	אַחַ֣ר	HD	adverb	noun:potential preposition:	None	?	:
 Genesis 10:21	4821	אֲבִי֙	HNcmsc	noun:common	noun::	None	?	:J
 Genesis 10:21	4825	אֲחִ֖י	HNcmsc	noun:common	noun:distributive noun:	None	?	:J
-Genesis 10:30	4931	סְפָ֖רָה	HNp	noun:proper name	proper noun::		?	:H
+Genesis 10:29	4920	יֹובָ֑ב	HNp	noun:proper name	proper noun::people	None	?	:
 Genesis 11:3	4996	הָ֚בָה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
 Genesis 11:4	5020	הָ֣בָה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
 Genesis 11:7	5085	הָ֚בָה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
-Genesis 11:10	5142	מְאַ֣ת	HR	preposition	noun:cardinal:	None	?	:
-Genesis 11:10	5143	שָׁנָ֔ה	HAcbsc	adjective:cardinal number	noun::	HNcfsa	noun:common	:
+Genesis 11:10	5148	שְׁנָתַ֖יִם	HAcfda	adjective:cardinal number	noun::	None	?	:
 Genesis 11:29	5421	אֲבִֽי	HNcmsc	noun:common	noun::	None	?	:J
 Genesis 11:29	5424	אֲבִ֥י	HNcmsc	noun:common	noun::	None	?	:J
-Genesis 11:30	5430	אֵ֥ין	HTn	particle:negative	noun:copulative noun:	None	?	:
+Genesis 12:1	5504	אַרְאֶֽךָּ	HVhi1cs	verb	verb::	HSp2ms	suffix:pronominal	p:N
+Genesis 12:8	5642	בֵֽית־אֵ֖ל	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
+Genesis 12:8	5646	בֵּֽית־אֵ֤ל	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
 Genesis 12:15	5766	פַרְעֹ֔ה	HNp	noun:proper name	noun::	None	?	:
 Genesis 12:15	5771	פַּרְעֹ֑ה	HNp	noun:proper name	noun::	None	?	:
 Genesis 12:15	5777	פַּרְעֹֽה	HNp	noun:proper name	noun::	None	?	:
@@ -120,526 +169,776 @@ Genesis 12:18	5817	פַרְעֹה֙	HNp	noun:proper name	noun::	None	?	:
 Genesis 12:18	5826	לָ֚מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
 Genesis 12:19	5833	לָמָ֤ה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
 Genesis 12:20	5853	פַּרְעֹ֖ה	HNp	noun:proper name	noun::	None	?	:
+Genesis 13:3	5905	בֵּֽית־אֵ֑ל	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
+Genesis 13:3	5917	בֵּֽית־אֵ֖ל	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
 Genesis 13:15	6153	אֶתְּנֶ֑נָּה	HVqi1cs	verb	verb::	HSp3fs	suffix:pronominal	p:N
-Genesis 13:17	6192	אֶתְּנֶֽנָּה	HVqi1cs	verb	verb::	HSp3fs	suffix:pronominal	p:N
-Genesis 15:2	6697	אֲדֹנָ֤י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
-Genesis 15:8	6801	אֲדֹנָ֣י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
-Genesis 15:8	6807	אִֽירָשֶֽׁנָּה	HVqi1cs	verb	verb::	HSp3fs	suffix:pronominal	p:N
+Genesis 14:5	6289	רְפָאִים֙	HNgmsa	noun:gentilic	proper noun::people	None	?	:
+Genesis 14:5	6291	עַשְׁתְּרֹ֣ת קַרְנַ֔יִם	HNp	noun:proper name	proper noun::place	HNgmsa	noun:gentilic	:
+Genesis 14:5	6303	שָׁוֵ֖ה	HNp	noun:proper name	noun::	None	?	:
+Genesis 14:6	6313	אֵ֣יל פָּארָ֔ן	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
+Genesis 14:7	6323	עֵ֤ין מִשְׁפָּט֙	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
+Genesis 14:7	6341	חַֽצְצֹ֥ן תָּמָֽר	HNp	noun:proper name	proper noun::place	HNp	noun:proper name	:
+Genesis 15:2	6697	אֲדֹנָ֤י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
+Genesis 15:8	6801	אֲדֹנָ֣י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
 Genesis 15:9	6811	קְחָ֥ה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
 Genesis 15:14	6912	כֵ֥ן	HD	adverb	adverb:anaphoric adverb:	None	?	:
+Genesis 15:20	7015	רְפָאִֽים	HNgmpa	noun:gentilic	proper noun::people	None	?	:
 Genesis 16:7	7176	דֶ֥רֶךְ	HNcbsc	noun:common	noun:potential preposition:	None	?	:
 Genesis 16:13	7275	גַ֥ם	HD	adverb	adverb:focus particle:	None	?	:
-Genesis 18:3	7844	אֲדֹנָ֗י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
+Genesis 16:14	7286	בְּאֵ֥ר	HNp	noun:proper name	noun::	None	?	:
+Genesis 17:1	7342	אֵ֣ל	HNp	noun:proper name	noun::	None	?	:
+Genesis 17:19	7636	אֲבָל֙	HD	adverb	interjection::	None	?	:
+Genesis 18:1	7815	חֹ֥ם	HNcmsc	noun:common	verb::	None	?	:
+Genesis 18:3	7844	אֲדֹנָ֗י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
 Genesis 18:13	8030	לָ֣מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
+Genesis 18:13	8037	אַ֥ף	HD	adverb	adverb:focus particle:	None	?	:
 Genesis 18:19	8132	דֶּ֣רֶךְ	HNcbsc	noun:common	noun:potential preposition:	None	?	:
-Genesis 18:22	8186	סְדֹ֑מָה	HNp	noun:proper name	proper noun::		?	:H
+Genesis 18:23	8200	אַ֣ף	HD	adverb	adverb:focus particle:	None	?	:
 Genesis 18:24	8206	יֵ֛שׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 18:27	8293	אֲדֹנָ֔י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
+Genesis 18:24	8214	אַ֤ף	HD	adverb	adverb:focus particle:	None	?	:
+Genesis 18:25	8229	חָלִ֨לָה	HTj	particle:interjection	interjection::	HSh	suffix:paragogic he	:
+Genesis 18:25	8251	חָלִ֣לָה	HTj	particle:interjection	interjection::	HSh	suffix:paragogic he	:
+Genesis 18:27	8293	אֲדֹנָ֔י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
+Genesis 18:28	8300	יַחְסְר֞וּן	HVqi3mp	verb	verb::	HSn	suffix:paragogic nun	:
 Genesis 18:29	8332	יִמָּצְא֥וּן	HVNi3mp	verb	verb::	HSn	suffix:paragogic nun	:
+Genesis 18:30	8349	אדֹנָי֙	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
 Genesis 18:30	8353	יִמָּצְא֥וּן	HVNi3mp	verb	verb::	HSn	suffix:paragogic nun	:
-Genesis 18:31	8372	אֲדֹנָ֔י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
+Genesis 18:31	8372	אֲדֹנָ֔י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
 Genesis 18:31	8374	יִמָּצְא֥וּן	HVNi3mp	verb	verb::	HSn	suffix:paragogic nun	:
+Genesis 18:32	8391	אדֹנָי֙	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
 Genesis 18:32	8398	יִמָּצְא֥וּן	HVNi3mp	verb	verb::	HSn	suffix:paragogic nun	:
-Genesis 19:1	8429	סְדֹ֨מָה֙	HNp	noun:proper name	proper noun::		?	:H
 Genesis 19:2	8470	דַרְכְּכֶ֑ם	HNcbsc	noun:common	noun:potential preposition:	HSp2mp	suffix:pronominal	p:
 Genesis 19:4	8499	טֶרֶם֮	HD	adverb	noun:potential preposition:	None	?	:
 Genesis 19:21	8904	בִלְתִּ֛י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 19:23	8939	צֹֽעֲרָה	HNp	noun:proper name	proper noun::		?	:H
-Genesis 19:31	9100	אֵ֤ין	HTn	particle:negative	noun:copulative noun:	None	?	:
 Genesis 19:31	9108	דֶ֖רֶךְ	HNcbsc	noun:common	noun:potential preposition:	None	?	:
 Genesis 19:32	9112	לְכָ֨ה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
 Genesis 19:38	9231	גַם	HD	adverb	adverb:focus particle:	None	?	:
-Genesis 20:4	9312	אֲדֹנָ֕י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
+Genesis 19:38	9242	עַמֹּ֖ון	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 20:4	9312	אֲדֹנָ֕י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
 Genesis 20:5	9327	גַם	HD	adverb	adverb:focus particle:	None	?	:
-Genesis 20:11	9474	אֵין	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 21:5	9686	מְאַ֣ת	HR	preposition	noun:cardinal:	None	?	:
-Genesis 21:5	9687	שָׁנָ֑ה	HAcbsc	adjective:cardinal number	noun::	HNcfsa	noun:common	:
 Genesis 21:23	10032	הִשָּׁ֨בְעָה	HVNv2ms	verb	verb::	HSh	suffix:paragogic he	:
 Genesis 21:26	10103	בִּלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 22:7	10387	הִנֶּ֣נִּֽי	HTm	particle:demonstrative	interjection::	HSp1cs	suffix:pronominal	p:N
-Genesis 22:20	10669	גַם	HD	adverb	adverb:focus particle:	None	?	:
+Genesis 22:9	10452	מַּ֖עַל	HD	adverb	noun::	None	?	:
+Genesis 22:16	10579	יַ֚עַן	HC	conjunction	noun:potential preposition:	None	?	:
+Genesis 22:18	10629	עֵ֕קֶב	HNcmsa	noun:common	noun:potential preposition:	None	?	:
 Genesis 23:1	10747	שְׁנֵ֖י	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 23:2	10754	קִרְיַ֥ת אַרְבַּ֛ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
 Genesis 23:8	10850	יֵ֣שׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
 Genesis 23:19	11071	כֵן֩	HD	adverb	adverb:anaphoric adverb:	None	?	:
-Genesis 24:15	11420	טֶרֶם֮	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 24:21	11536	דַּרְכֹּ֖ו	HNcbsc	noun:common	noun:potential preposition:	HSp3ms	suffix:pronominal	p:
-Genesis 24:23	11573	יֵ֧שׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 24:27	11632	דֶּ֨רֶךְ֙	HNcbsa	noun:common	noun:potential preposition:	None	?	:
-Genesis 24:31	11717	לָ֤מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
-Genesis 24:42	11926	יֶשְׁךָ	HTm	particle:demonstrative	noun:copulative noun:	HSp2ms	suffix:pronominal	p:
-Genesis 24:45	11979	טֶ֨רֶם	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 24:49	12083	יֶשְׁכֶ֨ם	HTm	particle:demonstrative	noun:copulative noun:	HSp2mp	suffix:pronominal	p:
-Genesis 24:60	12282	רְבָבָ֑ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
-Genesis 25:7	12523	שְׁנֵֽי	HAcmdc	adjective:cardinal number	noun::	None	?	:
-Genesis 25:7	12528	מְאַ֥ת	HR	preposition	noun:cardinal:	None	?	:
-Genesis 25:7	12529	שָׁנָ֛ה	HAcbsc	adjective:cardinal number	noun::	HNcfsa	noun:common	:
-Genesis 25:17	12670	שְׁנֵי֙	HAcmdc	adjective:cardinal number	noun::	None	?	:
-Genesis 25:17	12673	מְאַ֥ת	HR	preposition	noun:cardinal:	None	?	:
-Genesis 25:17	12674	שָׁנָ֛ה	HAcbsc	adjective:cardinal number	noun::	HNcfsa	noun:common	:
-Genesis 25:22	12769	לָ֥מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
-Genesis 25:26	12826	כֵ֞ן	HD	adverb	adverb:anaphoric adverb:	None	?	:
-Genesis 25:31	12917	מִכְרָ֥ה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
-Genesis 25:32	12933	לָמָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
-Genesis 25:33	12940	הִשָּׁ֤בְעָה	HVNv2ms	verb	verb::	HSh	suffix:paragogic he	:
-Genesis 26:1	13002	גְּרָֽרָה	HNp	noun:proper name	proper noun::		?	:H
-Genesis 26:33	13591	שִׁבְעָ֑ה	HAcmsa	adjective:cardinal number	proper noun::	None	?	:
-Genesis 26:33	13598	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-Genesis 27:3	13682	צ֥וּדָה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
-Genesis 27:4	13693	הָבִ֥יאָה	HVhv2ms	verb	verb::	HSh	suffix:paragogic he	:
-Genesis 27:4	13702	טֶ֥רֶם	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 27:18	13927	הִנֶּ֔נִּי	HTm	particle:demonstrative	interjection::	HSp1cs	suffix:pronominal	p:N
-Genesis 27:19	13953	תְּבָרֲכַ֥נִּי	HVpi3fs	verb	verb::	HSp1cs	suffix:pronominal	p:N
-Genesis 27:31	14177	תְּבָרֲכַ֥נִּי	HVpi3fs	verb	verb::	HSp1cs	suffix:pronominal	p:N
-Genesis 27:33	14215	טֶ֥רֶם	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 27:34	14241	גַם	HD	adverb	adverb:focus particle:	None	?	:
-Genesis 27:38	14321	גַם	HD	adverb	adverb:focus particle:	None	?	:
-Genesis 27:45	14450	אַף	HTa	particle:affirmation	noun::	None	?	:
-Genesis 27:45	14465	לָמָ֥ה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
-Genesis 27:46	14496	לָ֥מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
-Genesis 28:13	14748	אֶתְּנֶ֖נָּה	HVqi1cs	verb	verb::	HSp3fs	suffix:pronominal	p:N
-Genesis 28:16	14814	יֵ֣שׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 28:17	14835	אֵ֣ין	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 28:19	14886	רִאשֹׁנָֽה	HAafsa	adjective:adjective	adjective:ordinal:	None	?	:
-Genesis 30:1	15615	אַ֖יִן	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 30:2	15620	אַ֥ף	HTa	particle:affirmation	noun::	None	?	:
-Genesis 30:15	15823	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Genesis 31:20	16737	בְּלִי֙	HTn	particle:negative	noun:potential preposition:	None	?	:
-Genesis 31:29	16894	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 31:50	17327	אֵ֥ין	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 32:5	17500	תֹאמְר֔וּן	HVqi2mp	verb	verb:quotation verb:	HSn	suffix:paragogic nun	:
-Genesis 32:20	17837	תְּדַבְּר֣וּן	HVpi2mp	verb	verb:quotation verb:	HSn	suffix:paragogic nun	:
-Genesis 33:2	18114	רִֽאשֹׁנָ֑ה	HAafsa	adjective:adjective	adjective:ordinal:	None	?	:
-Genesis 33:9	18231	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 33:11	18278	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 35:16	19358	אֶפְרָ֑תָה	HNp	noun:proper name	proper noun::	None	?	:H
-Genesis 35:19	19407	אֶפְרָ֔תָה	HNp	noun:proper name	proper noun::	None	?	:H
-Genesis 35:28	19526	מְאַ֥ת	HR	preposition	noun:cardinal:	None	?	:
-Genesis 35:28	19527	שָׁנָ֖ה	HAcbsc	adjective:cardinal number	noun::	HNcfsa	noun:common	:
-Genesis 37:17	20482	דֹּתָ֑יְנָה	HNp	noun:proper name	proper noun::		?	:H
-Genesis 37:18	20499	טֶ֨רֶם֙	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 37:24	20615	אֵ֥ין	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 37:29	20717	אֵין	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 37:30	20737	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
-Genesis 37:36	20841	פַּרְעֹ֔ה	HNp	noun:proper name	noun::	None	?	:
-Genesis 38:9	20979	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 39:1	21424	פַּרְעֹ֜ה	HNp	noun:proper name	noun::	None	?	:
-Genesis 39:4	21483	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
-Genesis 39:11	21665	אֵ֨ין	HTn	particle:negative	noun:copulative noun:	None	?	:
-Genesis 40:2	21935	פַּרְעֹ֔ה	HNp	noun:proper name	noun::	None	?	:
-Genesis 40:7	22027	פַרְעֹ֗ה	HNp	noun:proper name	noun::	None	?	:
-Genesis 41:20	22724	רִאשֹׁנֹ֖ות	HAafpa	adjective:adjective	adjective:ordinal:	None	?	:
-Genesis 41:27	22856	שְׁנֵ֥י	HAcmdc	adjective:cardinal number	noun::	None	?	:
-Genesis 41:30	22885	שְׁנֵ֤י	HAcmdc	adjective:cardinal number	noun::	None	?	:
-Genesis 41:50	23277	טֶ֥רֶם	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 43:3	24185	בִּלְתִּ֖י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 43:5	24213	בִּלְתִּ֖י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 43:32	24779	יוּכְל֜וּן	HVqi3mp	verb	verb::	HSn	suffix:paragogic nun	:
-Genesis 44:4	24920	טֹובָֽה	HAafsa	adjective:adjective	noun::	None	?	:
-Genesis 44:23	25258	תֹסִפ֖וּן	HVhi2mp	verb	verb::	HSn	suffix:paragogic nun	:
-Genesis 45:28	25991	טֶ֥רֶם	HD	adverb	noun:potential preposition:	None	?	:
-Genesis 47:18	26979	בִּלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
-Genesis 50:20	28635	טֹבָ֔ה	HAafsa	adjective:adjective	noun::	None	?	:
-Exodus 4:10	30370	אֲדֹנָי֒	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
-Exodus 4:13	30433	אֲדֹנָ֑י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
-Exodus 4:14	30441	אַ֨ף	HTa	particle:affirmation	noun::	None	?	:
-Exodus 5:22	31216	אֲדֹנָ֗י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
-Exodus 6:6	31334	לָכֵ֞ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Exodus 8:18	32802	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
-Exodus 8:25	32965	בִלְתִּי֙	HC	conjunction	noun:potential preposition:	None	?	:J
-Exodus 10:7	33968	הֲ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
-Exodus 10:29	34441	כֵּ֣ן	HTm	particle:demonstrative	adjective::	None	?	:
-Exodus 12:9	34847	נָ֔א	HTe	particle:exhortation	adjective::	None	?	:
-Exodus 15:17	37133	אֲדֹנָ֖י	HNcmpc	noun:common	proper noun::	HSp1cs	suffix:pronominal	:
-Exodus 16:28	37951	אָ֨נָה֙	HD	adverb	interrogative particle::	None	?	:
-Exodus 18:9	38640	טֹּובָ֔ה	HAafsa	adjective:adjective	noun::	None	?	:
-Exodus 21:8	40141	לא	HTn	particle:negative	preposition::	None	?	p:
-Exodus 25:20	42254	מַ֗עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Exodus 32:19	46923	אַ֣ף	HTa	particle:affirmation	noun::	None	?	:
-Exodus 32:22	46988	אַ֖ף	HTa	particle:affirmation	noun::	None	?	:
-Exodus 34:1	47776	רִאשֹׁנִ֑ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
-Exodus 34:1	47791	רִאשֹׁנִ֖ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
-Exodus 34:4	47851	רִאשֹׁנִ֗ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
-Exodus 37:9	50072	מַ֗עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Exodus 38:25	50893	מְאַ֣ת	HR	preposition	noun:cardinal:	None	?	:
-Exodus 38:25	50894	כִּכָּ֑ר	HAcbsc	adjective:cardinal number	noun::	HNcbsa	noun:common	:
-Exodus 38:26	50932	מַ֔עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Exodus 38:27	50947	מְאַת֙	HR	preposition	noun:cardinal:	None	?	:
-Exodus 38:27	50948	כִּכַּ֣ר	HAcbsc	adjective:cardinal number	noun::	HNcbsc	noun:common	:
-Exodus 38:27	50962	מְאַ֧ת	HR	preposition	noun:cardinal:	None	?	:
-Exodus 38:27	50963	אֲדָנִ֛ים	HAcbsc	adjective:cardinal number	noun::	HNcmpa	noun:common	:
-Leviticus 5:8	54477	רִאשֹׁונָ֑ה	HAafsa	adjective:adjective	adjective:ordinal:	None	?	:
-Leviticus 9:15	57192	רִאשֹֽׁון	HAamsa	adjective:adjective	adjective:ordinal:	None	?	:
-Leviticus 11:21	58184	לא	HTn	particle:negative	preposition::	None	?	p:
-Leviticus 25:30	67708	לא	HTn	particle:negative	preposition::	None	?	p:
-Leviticus 26:8	68272	רְבָבָ֣ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
-Leviticus 26:45	68925	רִאשֹׁנִ֑ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
-Leviticus 27:7	69079	מַ֨עְלָה֙	HD	adverb	noun::	HSd	suffix:directional he	:H
-Numbers 1:3	69665	מַ֔עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Numbers 1:16	69771	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Numbers 1:18	69816	מַ֖עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Numbers 1:20	69854	מַ֔עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Numbers 1:22	69891	מַ֔עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
-Numbers 2:9	70537	מְאַ֨ת	HR	preposition	noun:cardinal:	None	?	:
-Numbers 2:9	70538	אֶ֜לֶף	HAcbsc	adjective:cardinal number	noun:cardinal:	HAcbsa	adjective:cardinal number	:
-Numbers 2:16	70632	מְאַ֨ת	HR	preposition	noun:cardinal:	None	?	:
-Numbers 2:16	70633	אֶ֜לֶף	HAcbsc	adjective:cardinal number	noun:cardinal:	HAcbsa	adjective:cardinal number	:
-Numbers 2:24	70744	אֶ֛לֶף	HAcbsc	adjective:cardinal number	noun:cardinal:	HAcbsa	adjective:cardinal number	:
-Numbers 2:31	70834	אֶ֗לֶף	HAcbsc	adjective:cardinal number	noun:cardinal:	HAcbsa	adjective:cardinal number	:
-Numbers 7:13	74146	מְלֵאִ֗ים	HAampa	adjective:adjective	verb::	None	?	:
-Numbers 7:14	74158	מְלֵאָ֥ה	HAafsa	adjective:adjective	verb::	None	?	:
-Numbers 7:19	74228	מְלֵאִ֗ים	HAampa	adjective:adjective	verb::	None	?	:
-Numbers 7:20	74240	מְלֵאָ֥ה	HAafsa	adjective:adjective	verb::	None	?	:
-Numbers 7:25	74309	מְלֵאִ֗ים	HAampa	adjective:adjective	verb::	None	?	:
-Numbers 7:26	74321	מְלֵאָ֥ה	HAafsa	adjective:adjective	verb::	None	?	:
-Numbers 7:31	74390	מְלֵאִ֗ים	HAampa	adjective:adjective	verb::	None	?	:
-Numbers 7:32	74402	מְלֵאָ֥ה	HAafsa	adjective:adjective	verb::	None	?	:
-Numbers 7:37	74471	מְלֵאִ֗ים	HAampa	adjective:adjective	verb::	None	?	:
-Numbers 7:38	74483	מְלֵאָ֥ה	HAafsa	adjective:adjective	verb::	None	?	:
-Numbers 10:4	76318	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Numbers 10:36	76792	רִֽבְבֹ֖ות	HNcfpc	noun:common	noun:noun of multitude:	None	?	:
-Numbers 10:36	76793	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Numbers 11:10	76982	אַ֤ף	HTa	particle:affirmation	noun::	None	?	:
-Numbers 12:9	77733	אַ֧ף	HTa	particle:affirmation	noun::	None	?	:
-Numbers 13:28	78266	אֶ֚פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-Numbers 14:11	78625	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
-Numbers 14:11	78633	אָ֨נָה֙	HD	adverb	interrogative particle::	None	?	:
-Numbers 16:11	80256	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Numbers 20:12	82792	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Numbers 22:22	84242	אַ֣ף	HTa	particle:affirmation	noun::	None	?	:
-Numbers 22:27	84374	אַ֣ף	HTa	particle:affirmation	noun::	None	?	:
-Numbers 22:35	84560	אֶ֗פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-Numbers 23:13	84915	אֶ֚פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-Numbers 23:18	85007	בְּנֹ֥ו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Numbers 24:3	85260	בְּנֹ֣ו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Numbers 24:10	85352	אַ֤ף	HTa	particle:affirmation	noun::	None	?	:
-Numbers 24:13	85425	טֹובָ֛ה	HAafsa	adjective:adjective	noun::	None	?	:
-Numbers 24:15	85462	בְּנֹ֣ו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Numbers 25:6	85714	מִּדְיָנִ֔ית	HAafsa	adjective:adjective	adjective:gentilic:	None	?	:
-Numbers 25:12	85826	לָכֵ֖ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Numbers 25:14	85864	מִּדְיָנִ֔ית	HAafsa	adjective:adjective	adjective:gentilic:	None	?	:
-Numbers 25:15	85881	מִּדְיָנִ֖ית	HAafsa	adjective:adjective	adjective:gentilic:	None	?	:
-Numbers 27:7	87018	כֵּ֗ן	HTm	particle:demonstrative	adjective::	None	?	:
-Numbers 31:5	88937	אַלְפֵ֣י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Numbers 31:48	89752	אַלְפֵ֣י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Numbers 34:5	91484	נַ֣חְלָה	HNcmsc	noun:common	noun::	HSh	suffix:paragogic he	:H
-Numbers 36:5	92641	כֵּ֛ן	HTm	particle:demonstrative	adjective::	None	?	:
-Deuteronomy 1:28	93374	אָנָ֣ה	HD	adverb	interrogative particle::	None	?	:
-Deuteronomy 10:17	99503	גִּבֹּר֙	HAamsa	adjective:adjective	noun::	None	?	:
-Deuteronomy 15:4	102035	אֶ֕פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-Deuteronomy 23:7	106011	טֹבָתָ֑ם	HAafsc	adjective:adjective	noun::	HSp3mp	suffix:pronominal	p:
-Deuteronomy 26:14	107494	אֹנִ֜י	HNcmsa	noun:common	noun::	None	?	p:
-Deuteronomy 28:11	108272	טֹובָ֔ה	HAafsa	adjective:adjective	noun::	None	?	:
-Deuteronomy 32:11	111587	כְּנָפָיו֙	HD	adverb	noun::		?	p:
-Deuteronomy 32:30	111834	רְבָבָ֑ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
-Deuteronomy 33:2	112259	רִבְבֹ֣ת	HNcfpc	noun:common	noun:noun of multitude:	None	?	:
-Deuteronomy 33:17	112490	אַפְסֵי	HNcmpc	noun:common	noun:copulative noun:	None	?	:
-Deuteronomy 33:17	112494	רִבְבֹ֣ות	HNcfpc	noun:common	noun:noun of multitude:	None	?	:
-Deuteronomy 33:17	112498	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Joshua 2:4	113450	כֵּ֗ן	HTm	particle:demonstrative	adjective::	None	?	:
-Joshua 2:5	113476	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
-Joshua 15:28	121878	שֶׁ֖בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-Joshua 18:3	122887	אָ֨נָה֙	HD	adverb	interrogative particle::	None	?	:
-Joshua 19:2	123440	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-Joshua 19:2	123442	שֶׁ֖בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-Joshua 21:11	124651	מִגְרָשֶׁ֖הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:13	124684	מִגְרָשֶׁ֑הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:13	124690	מִגְרָשֶֽׁהָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:14	124696	מִגְרָשֶׁ֔הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:14	124702	מִגְרָשֶֽׁהָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:15	124708	מִגְרָשֶׁ֔הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:15	124714	מִגְרָשֶֽׁהָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:16	124720	מִגְרָשֶׁ֗הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:16	124726	מִגְרָשֶׁ֔הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 21:16	124731	מִגְרָשֶׁ֑הָ	HNcmpc	noun:common	noun::	HSd	suffix:directional he	p:
-Joshua 22:14	125618	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Joshua 22:21	125800	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Joshua 22:30	126046	אַלְפֵ֤י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
-Judges 1:5	127539	אֲדֹנִ֥י בֶ֨זֶק֙	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:6	127556	אֲדֹ֣נִי בֶ֔זֶק	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:7	127572	אֲדֹֽנִי־בֶ֗זֶק	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:10	127653	קִרְיַ֣ת אַרְבַּ֑ע	HNp	noun:proper name	proper noun::	HAcfsa	adjective:cardinal number	:
-Judges 1:11	127676	קִרְיַת־סֵֽפֶר	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:12	127683	קִרְיַת־סֵ֖פֶר	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:22	127904	בֵּֽית־אֵ֑ל	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:23	127913	בֵֽית־אֵ֑ל	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:27	127992	בֵּית־שְׁאָ֣ן	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:33	128133	בֵֽית־שֶׁ֨מֶשׁ֙	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 1:33	128137	בֵית־עֲנָ֔ת	HNp	noun:proper name	proper noun::	HNp	noun:proper name	:
-Judges 4:9	129562	אֶ֚פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-Judges 4:11	129619	חֹתֵ֣ן	HNcmsc	noun:common	verb::	None	?	:
-Judges 5:26	130324	עֲמֵלִ֑ים	HNcmpa	noun:common	adjective::	None	?	:
-Judges 6:11	130641	אֲבִ֣י	HNgmsa	noun:gentilic	noun::	None	?	:J
-Judges 6:15	130741	אַלְפִּי֙	HNcmsc	noun:common	noun:noun of multitude:	HSp1cs	suffix:pronominal	p:
-Judges 6:24	130962	אֲבִ֥י	HNgmsa	noun:gentilic	noun::	None	?	:J
-Judges 8:7	132272	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Judges 10:13	134367	לָכֵ֥ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Judges 11:8	134614	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-Judges 12:6	135537	כֵּ֔ן	HTm	particle:demonstrative	adjective::	None	?	:
-Judges 19:17	139509	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
-Judges 19:23	139675	אַל	HTn	particle:negative	preposition::	None	?	:
-Judges 20:1	139905	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-Judges 20:10	140087	רְבָבָ֔ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
-1_Samuel 2:10	142251	אַפְסֵי	HNcmpc	noun:common	noun:copulative noun:	None	?	:
-1_Samuel 2:30	142706	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
-1_Samuel 4:21	143795	אִֽי־כָבֹוד֙	HTj	particle:interjection	proper noun::		?	:
-1_Samuel 7:9	144886	יעלה	HVhw3ms	verb	verb::	None	?	p:
-1_Samuel 10:19	146672	אַלְפֵיכֶֽם	HAcbpc	adjective:cardinal number	noun:noun of multitude:	HSp2mp	suffix:pronominal	p:
-1_Samuel 16:16	150632	טֹ֥וב	HVqq3ms	verb	adjective::	None	?	:
-1_Samuel 16:23	150776	טֹ֣וב	HVqp3ms	verb	adjective::	None	?	:
-1_Samuel 18:1	152175	יאהבו	HVqw3ms	verb	verb::	None	?	p:
-1_Samuel 18:7	152309	רִבְבֹתָֽיו	HNcfpc	noun:common	noun:noun of multitude:	HSp3ms	suffix:pronominal	p:
-1_Samuel 18:8	152328	רְבָבֹ֔ות	HNcfpa	noun:common	noun:noun of multitude:	None	?	:
-1_Samuel 23:17	155703	כֵּֽן	HTm	particle:demonstrative	adjective::	None	?	:
-1_Samuel 27:10	158427	אַל	HTn	particle:negative	interrogative particle::	None	?	:
-2_Samuel 1:21	160870	בְּלִ֖י	HTn	particle:negative	noun:potential preposition:	None	?	:
-2_Samuel 2:1	160986	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
-2_Samuel 12:14	166691	אֶ֗פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-2_Samuel 13:13	167413	אָ֤נָה	HD	adverb	interrogative particle::	None	?	:
-2_Samuel 16:18	170177	לא	HTn	particle:negative	preposition::	None	?	p:
-2_Samuel 17:11	170533	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-2_Samuel 19:7	172095	לא	HTn	particle:negative	conjunction::	None	?	:
-2_Samuel 20:1	173091	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-2_Samuel 20:2	173128	שֶׁ֣בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-2_Samuel 20:6	173220	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::	None	?	:
-2_Samuel 24:3	175489	כָּהֵ֤ם	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
-2_Samuel 24:3	175491	כָהֵם֙	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
-1_Kings 6:24	180572	כְּנָפָ֖יו	HD	adverb	noun::		?	p:
-1_Kings 6:24	180576	כְּנָפָֽיו	HD	adverb	noun::		?	p:
-1_Kings 22:49	194645	עשׂר	HAcmsa	adjective:cardinal number	verb::	None	?	:
-2_Kings 6:10	198335	הזהירה	HVhp3ms	verb	verb::	HSh	suffix:paragogic he	p:
-2_Kings 8:10	199807	לא	HTn	particle:negative	preposition::	None	?	p:
-2_Kings 25:27	212008	אֱוִ֣יל מְרֹדַךְ֩	HAamsa	adjective:adjective	proper noun::		?	:
-Isaiah 1:5	212146	וְ	HR	preposition	conjunction::	None	?	:
-Isaiah 3:24	213261	כִּי	HC	conjunction	noun::	None	?	:
-Isaiah 3:26	213275	אָנ֥וּ	HD	adverb	verb::	None	?	:
-Isaiah 5:8	213572	אֶ֣פֶס	HNcmsc	noun:common	noun:copulative noun:	None	?	:
-Isaiah 9:2	215177	לא	HTn	particle:negative	preposition::	None	?	p:
-Isaiah 14:6	216934	בְּלִ֥י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Isaiah 19:8	218260	אָנוּ֙	HD	adverb	verb::	None	?	:
-Isaiah 23:2	219430	אִ֑י	HTj	particle:interjection	noun::	None	?	:
-Isaiah 23:6	219483	אִֽי	HTj	particle:interjection	noun::	None	?	:
-Isaiah 28:8	220950	בְּלִ֖י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Isaiah 32:10	222800	בְּלִ֥י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Isaiah 34:12	223468	אָֽפֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
-Isaiah 34:16	223544	קִבְּצָֽן	HVpp3ms	verb	verb::	HSn	suffix:paragogic nun	p:
-Isaiah 38:17	225311	בְּלִ֔י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Isaiah 47:8	228639	אַפְסִ֣י	HNcmsc	noun:common	noun:copulative noun:	HSp1cs	suffix:pronominal	:J
-Isaiah 47:10	228689	אַפְסִ֥י	HNcmsc	noun:common	noun:copulative noun:	HSp1cs	suffix:pronominal	:J
-Isaiah 49:5	229221	לא	HTn	particle:negative	preposition::	None	?	p:
-Isaiah 56:9	231488	חַיְתֹ֣ו	HNcfsc	noun:common	noun::	None	?	:W
-Isaiah 56:9	231494	חַיְתֹ֖ו	HNcfsc	noun:common	noun::	None	?	:W
-Isaiah 63:9	233605	לא	HTn	particle:negative	preposition::	None	?	p:
-Jeremiah 9:24	239863	מ֖וּל	HR	preposition	verb::	None	?	:
-Jeremiah 18:3	243708	הו	HSp3ms	suffix:pronominal	personal pronoun::	None	?	:
-Jeremiah 47:4	260328	אִ֥י	HTj	particle:interjection	noun::	None	?	:
-Jeremiah 47:6	260350	אַל	HTn	particle:negative	preposition::	None	?	:
-Jeremiah 52:31	264667	אֱוִ֣יל מְרֹדַךְ֩	HAamsa	adjective:adjective	proper noun::		?	:
-Ezekiel 48:16	290515	חֲמֵ֥שׁ חמשׁ	HAcfsa	adjective:cardinal number	noun:cardinal:	HAcfsa	adjective:cardinal number	:
-Hosea 1:4	290992	מְעַ֗ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
-Hosea 1:6	291032	לֹ֣א רֻחָ֑מָה	HTn	particle:negative	proper noun::	HNp	noun:proper name	:
-Hosea 1:8	291074	לֹ֣א רֻחָ֑מָה	HTn	particle:negative	proper noun::	HNp	noun:proper name	:
-Hosea 1:9	291084	לֹ֣א עַמִּ֑י	HTn	particle:negative	proper noun::	HNp	noun:proper name	:
-Hosea 2:3	291153	רֻחָֽמָה	HVPp3fs	verb	proper noun::	None	?	:
-Hosea 2:25	291573	לֹ֣א רֻחָ֑מָה	HTn	particle:negative	proper noun::	HNp	noun:proper name	:
-Hosea 4:18	291977	מָגִנֶּֽיהָ	HNcbpc	noun:common	adjective::	HSp3fs	suffix:pronominal	p:
-Hosea 7:4	292417	אֹפֶ֑ה	HVqrmsa	verb	noun::	None	?	:
-Hosea 7:6	292448	אֹֽפֵהֶ֔ם	HVqrmsc	verb	noun::	HSp3mp	suffix:pronominal	p:
-Hosea 7:8	292480	בְּלִ֥י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Hosea 8:7	292687	בְּלִ֣י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Hosea 8:10	292726	מְּעָ֔ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
-Hosea 9:10	292956	אָהֳבָֽם	HVqc	verb	noun::	HSp3mp	suffix:pronominal	p:
-Hosea 10:13	293265	עַוְלָ֥תָה	HNcfsc	noun:common	noun::	HSd	suffix:directional he	:
-Hosea 13:10	293827	אֵפֹ֔וא	HD	adverb	interjection::	None	?	:
-Joel 3:2	294932	הֵ֔מָּה	HPdxmp	pronoun:demonstrative	personal pronoun::	None	?	:
-Joel 4:1	295007	הֵ֖מָּה	HPdxmp	pronoun:demonstrative	personal pronoun::	None	?	:
-Joel 4:3	295061	זֹּונָ֔ה	HNcfsa	noun:common	verb::	None	?	:
-Joel 4:8	295155	שְׁבָאיִ֖ם	HNgmpa	noun:gentilic	proper noun::	None	?	:
-Joel 4:14	295245	חָר֑וּץ	HNp	noun:proper name	verb::	None	?	:
-Joel 4:14	295253	חָרֽוּץ	HNp	noun:proper name	verb::	None	?	:
-Amos 5:14	296736	כֵ֞ן	HD	adverb	adjective::	None	?	:
-Amos 5:25	296900	הַ	HTi	particle:interrogative	article::	None	?	:
-Amos 6:2	296968	רַבָּ֑ה	HNp	noun:proper name	adjective::	None	?	:
-Obadiah 1:3	298206	שִׁבְתֹּ֑ו	HNcfsc	noun:common	verb::	HSp3ms	suffix:pronominal	p:
-Jonah 1:15	298910	זַּעְפֹּֽו	HVqc	verb	noun::	HSp3ms	suffix:pronominal	p:
-Jonah 2:4	298980	וְ	HR	preposition	conjunction::	None	?	:
-Jonah 3:5	299157	וְ	HR	preposition	conjunction::	None	?	:
-Jonah 4:11	299537	וּ	HR	preposition	conjunction::	None	?	:
-Habakkuk 2:19	302774	דּוּמָ֑ם	HNcmsa	noun:common	adverb::	None	?	:
-Habakkuk 2:20	302794	הַ֥ס	HTj	particle:interjection	verb::	None	?	:
-Zephaniah 1:7	303207	הַ֕ס	HTj	particle:interjection	verb::	None	?	:
-Zephaniah 1:11	303303	נְטִ֥ילֵי	HNcmpc	noun:common	adjective::	None	?	:
-Zephaniah 2:14	303699	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Zephaniah 2:15	303735	אַפְסִ֣י	HNcmsc	noun:common	noun:copulative noun:	HSp1cs	suffix:pronominal	:J
-Zephaniah 3:7	303852	אָכֵן֙	HD	adverb	interjection::	None	?	:
-Zephaniah 3:8	303873	קָבְצִ֣י	HVqc	verb	verb::	HSp1cs	suffix:pronominal	:J
-Zephaniah 3:10	303914	פּוּצַ֔י	HVqsmsc	verb	noun::	HSp1cs	suffix:pronominal	:
-Haggai 1:6	304217	מְעָ֗ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
-Haggai 1:9	304272	מְעָ֔ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
-Haggai 2:6	304606	הֶ	HR	preposition	article::	None	?	:
-Haggai 2:18	304862	מָ֑עְלָה	HR	preposition	noun::	HSd	suffix:directional he	:H
-Haggai 2:19	304900	הַ	HRd	preposition:definite article	article::	None	?	:
-Malachi 2:8	309931	לֵּוִ֔י	HNp	noun:proper name	adjective:gentilic:	None	?	:
-Malachi 2:12	310008	יַעֲשֶׂ֨נָּה֙	HVqi3ms	verb	verb::	HSn	suffix:paragogic nun	p:N
-Malachi 3:10	310378	בְּלִי	HTn	particle:negative	noun:potential preposition:	None	?	:
-Psalms 19:4	313207	בְּ֝לִ֗י	HTn	particle:negative	noun:potential preposition:	None	?	:
-Psalms 50:10	318733	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Psalms 79:2	324272	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Psalms 79:12	324385	שִׁ֭בְעָתַיִם	HNcfda	noun:common	noun:cardinal:	None	?	:
-Psalms 90:12	326354	כֵּ֣ן	HTm	particle:demonstrative	adjective::	None	?	:
-Psalms 104:11	328329	חַיְתֹ֣ו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Psalms 104:20	328426	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
-Psalms 124:4	332953	נַ֝֗חְלָה	HNcmsc	noun:common	noun::	HSh	suffix:paragogic he	:H
-Job 22:30	341757	אִֽי	HTj	particle:interjection	negative particle::	None	?	:
-Proverbs 1:5	346968	חָ֭כָם	HNcmsa	noun:common	adjective::	None	?	:
-Proverbs 1:10	347016	חַ֝טָּאִ֗ים	HNcmpa	noun:common	adjective::	None	?	:
-Proverbs 3:13	347564	יָפִ֥יק	HNcfsa	noun:common	verb::	None	?	:
-Proverbs 3:35	347774	כְסִילִ֗ים	HNcmpa	noun:common	adjective::	None	?	:
-Proverbs 11:19	349793	כֵּן	HTm	particle:demonstrative	adjective::	None	?	:
-Proverbs 28:2	354600	כֵּ֣ן	HTm	particle:demonstrative	adjective::	None	?	:
-Ruth 1:13	356036	לָהֵ֣ן	HC	conjunction	adverb:conjunctive adverb:	None	?	:
-Ruth 1:13	356038	עַ֚ד	HD	adverb	preposition::	None	?	:
-Ruth 1:13	356042	לָהֵן֙	HC	conjunction	adverb:conjunctive adverb:	None	?	:
-Ruth 1:20	356181	מָרָ֔א	HNp	noun:proper name	adjective::	None	?	:
-Ruth 2:1	356231	מידע	HVPrmsa	verb	noun::	None	?	:
-Ruth 2:7	356376	מְעָֽט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
-Ruth 2:9	356432	אֲשֶׁ֥ר	HPr	pronoun:relative	conjunction::	None	?	:
-Ruth 3:12	356979	כִּ֥י אם	HC	conjunction	conjunction::	HC	conjunction	:
-Ruth 3:13	357009	חַי	HNcmsa	noun:common	adjective::	None	?	:
-Ruth 4:1	357142	פְּלֹנִ֣י	HPf	pronoun:indefinite	noun::	None	?	:
-Song_of_songs 2:13	357957	לכי	HVqv2fs	verb	preposition::	None	?	p:
-Song_of_songs 3:8	358155	אֲחֻ֣זֵי	HVqsmpc	verb	adjective::	None	?	:
-Song_of_songs 6:5	358742	הֵ֖ם	HSp3mp	suffix:pronominal	personal pronoun::	None	?	:
-Song_of_songs 6:11	358841	הֲ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
-Song_of_songs 6:12	358853	עַמִּי	HNcmsc	noun:common	noun::	HSp1cs	suffix:pronominal	:J
-Ecclesiastes 3:21	360509	מָ֑עְלָה	HR	preposition	noun::	HSd	suffix:directional he	:H
-Ecclesiastes 8:10	362082	כֵּן	HTm	particle:demonstrative	adjective::	None	?	:
-Ecclesiastes 8:12	362111	וּ	HAcbsc	adjective:cardinal number	conjunction::	HC	conjunction	:
-Ecclesiastes 9:12	362645	כָּהֵ֗ם	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
-Ecclesiastes 10:16	362940	אִֽי	HTj	particle:interjection	interrogative particle::	None	?	:
-Esther 5:13	367881	יְּהוּדִ֔י	HAamsa	adjective:adjective	adjective:gentilic:	None	?	:
-Esther 9:13	369453	יְּהוּדִים֙	HAampa	adjective:adjective	adjective:gentilic:	None	?	:
-Daniel 2:2	370568	כַּשְׂדִּ֔ים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-Daniel 2:4	370601	כַּשְׂדִּ֛ים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-Daniel 2:4	370605	אֲרָמִ֑ית	HNgmsa	noun:gentilic	adjective::	None	?	:
-Daniel 2:5	370625	אַזְדָּ֑א	AAafsa	adjective:adjective	adverb::	None	?	:
-Daniel 2:6	370639	הֵ֨ן	ATm	particle:demonstrative	conjunction::	None	?	:
-Daniel 2:6	370653	לָהֵ֕ן	AC	conjunction	adverb:conjunctive adverb:	None	?	:
-Daniel 2:7	370659	תִנְיָנ֖וּת	AAobpa	adjective:ordinal number	adverb::	None	?	:
-Daniel 2:7	370668	פִשְׁרָ֥ה	ANcmsc	noun:common	noun::	ASp3ms	suffix:pronominal	:>
-Daniel 2:8	370678	דִּ֥י	AC	conjunction	preposition::	None	?	:
-Daniel 2:8	370682	כָּ	AC	conjunction	preposition::	None	?	:
-Daniel 2:8	370683	ל	AC	conjunction	preposition::	None	?	:
-Daniel 2:8	370685	דִּ֣י	AC	conjunction	preposition::	None	?	:
-Daniel 2:8	370687	דִּ֥י	AC	conjunction	preposition::	None	?	:
-Daniel 2:8	370688	אַזְדָּ֖א	AAafsa	adjective:adjective	adverb::	None	?	:
-Daniel 2:9	370691	דִּ֣י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:9	370709	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:9	370712	לָהֵ֗ן	AC	conjunction	adverb:conjunctive adverb:	None	?	:
-Daniel 2:9	370718	דִּ֥י	AC	conjunction	preposition::	None	?	:
-Daniel 2:10	370728	אִיתַ֤י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
-Daniel 2:10	370732	דִּ֚י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:10	370738	כָּ	AC	conjunction	preposition::	None	?	:
-Daniel 2:10	370739	ל	AC	conjunction	preposition::	None	?	:
-Daniel 2:10	370741	דִּ֚י	AC	conjunction	preposition::	None	?	:
-Daniel 2:11	370761	דִֽי	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:11	370768	אִיתַ֔י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
-Daniel 2:11	370769	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:11	370775	דִּ֚י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:11	370780	אִיתֹֽוהִי	ATa	particle:affirmation	noun:copulative noun:	ASp3ms	suffix:pronominal	p:
-Daniel 2:12	370781	כָּ	AC	conjunction	preposition::	None	?	:
-Daniel 2:12	370784	דְּנָ֔ה	AC	conjunction	demonstrative pronoun::	None	?	:
-Daniel 2:12	370796	חַכִּימֵ֥י	ANcmpc	noun:common	adjective::	None	?	:
-Daniel 2:13	370802	חַכִּֽימַיָּ֖א	ANcmpd	noun:common	adjective::	ATd	particle:definite article	:>
-Daniel 2:14	370822	דִּ֣י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:14	370824	דִּ֚י	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:14	370829	חַכִּימֵ֖י	ANcmpc	noun:common	adjective::	None	?	:
-Daniel 2:15	370837	דִֽי	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:15	370840	מָ֥ה	APixbs	pronoun:interrogative	interrogative pronoun::	None	?	:
-Daniel 2:19	370909	דִֽי	ATr	particle:relative	preposition::	None	?	:
-Daniel 2:20	370939	הִֽיא	ATa	particle:affirmation	personal pronoun::	None	?	:
-Daniel 2:22	370966	מָ֣ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 2:23	370982	וּ	ANcfsd	noun:common	conjunction::	None	?	:
-Daniel 2:23	370983	גְבוּרְתָ֖א	ATd	particle:definite article	noun::	ATd	particle:definite article	:>
-Daniel 2:24	370999	דְּנָ֗ה	AC	conjunction	demonstrative pronoun::	None	?	:
-Daniel 2:26	371066	איתיך	ATa	particle:affirmation	noun:copulative noun:	ASp2ms	suffix:pronominal	p:
-Daniel 2:26	371072	חֲזֵ֖ית	ATr	particle:relative	verb::	None	?	:
-Daniel 2:28	371095	בְּרַ֡ם	AC	conjunction	adverb::	None	?	:
-Daniel 2:28	371096	אִיתַ֞י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
-Daniel 2:28	371107	מָ֛ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 2:28	371120	הֽוּא	HTa	particle:affirmation	personal pronoun::	None	?	:
-Daniel 2:29	371127	מָ֛ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 2:29	371136	מָה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 2:30	371145	אִיתַ֥י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
-Daniel 2:32	371187	ה֣וּא	APd3ms	pronoun:demonstrative	personal pronoun::	None	?	:
-Daniel 2:35	371257	הִמֹּון֙	ASp3mp	suffix:pronominal	personal pronoun::	None	?	:
-Daniel 2:38	371321	ה֔וּא	ATa	particle:affirmation	personal pronoun::	None	?	:
-Daniel 2:44	371452	אִנּ֗וּן	APdxmp	pronoun:demonstrative	personal pronoun::	None	?	:
-Daniel 2:45	371507	מָ֛ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 2:47	371547	ה֣וּא	ATa	particle:affirmation	personal pronoun::	None	?	:
-Daniel 3:6	371722	מַן	APf3bs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 3:6	371723	דִּי	APf3bs	pronoun:indefinite	preposition::	None	?	:
-Daniel 3:7	371739	דְּנָ֡ה	AC	conjunction	demonstrative pronoun::	None	?	:
-Daniel 3:8	371774	דְּנָה֙	AC	conjunction	demonstrative pronoun::	None	?	:
-Daniel 3:11	371823	מַן	APf3cs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 3:11	371824	דִּי	APf3cs	pronoun:indefinite	preposition::	None	?	:
-Daniel 3:12	371835	אִיתַ֞י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
-Daniel 3:14	371896	צְדָּ֕א	ANcmsa	noun:common	adverb::	None	?	:
-Daniel 3:14	371904	אִֽיתֵיכֹון֙	ATa	particle:affirmation	noun:copulative noun:	ASp2mp	suffix:pronominal	p:
-Daniel 3:15	371916	אִֽיתֵיכֹ֣ון	ATa	particle:affirmation	noun:copulative noun:	ASp2mp	suffix:pronominal	p:
-Daniel 3:15	371955	מַן	APi3cs	pronoun:interrogative	interrogative pronoun::	None	?	:
-Daniel 3:15	371956	ה֣וּא	ATa	particle:affirmation	personal pronoun::	None	?	:
-Daniel 3:17	371981	אִיתַ֗י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
-Daniel 3:22	372091	דְּנָ֗ה	AC	conjunction	demonstrative pronoun::	None	?	:
-Daniel 3:22	372113	דִּ֥י	AT	particle	preposition::	None	?	:
-Daniel 3:25	372180	רביעיא	AAomsd	adjective:ordinal number	adjective:ordinal:	ATd	particle:definite article	:
-Daniel 3:33	372373	מָ֣ה	APfxcs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 3:33	372378	מָ֣ה	APfxcs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 4:12	372585	בְּרַ֨ם	AC	conjunction	adverb::	None	?	:
-Daniel 4:12	372600	דִּ֣י	AT	particle	preposition::	None	?	:
-Daniel 4:14	372649	מַן	APfxcs	pronoun:indefinite	interrogative pronoun::	None	?	:
-Daniel 4:14	372650	דִּ֤י	APfxcs	pronoun:indefinite	preposition::	None	?	:
-Daniel 4:15	372667	פִּשְׁרֵ֣א	ANcmsd	noun:common	noun::	ATd	particle:definite article	p:
-Daniel 4:16	372708	פִשְׁרֵא֙	ANcmsd	noun:common	noun::	ATd	particle:definite article	p:
-Daniel 4:19	372762	ה֣וּא	APdxms	pronoun:demonstrative	personal pronoun::	None	?	:
-Daniel 4:20	372796	בְּרַ֨ם	AC	conjunction	adverb::	None	?	:
-Daniel 4:20	372811	דִּ֣י	AT	particle	preposition::	None	?	:
-Daniel 4:21	372840	מַלְכָּֽא	ANcmsc	noun:common	noun::	ASp1cs	suffix:pronominal	:>
-Daniel 4:22	372862	לָ֣ךְ	AR	preposition	preposition::	ATo	particle:direct object marker	p:
-Daniel 4:22	372880	מַן	APrxcs	pronoun:relative	interrogative pronoun::	None	?	:
-Daniel 4:22	372881	דִּ֥י	APrxcs	pronoun:relative	preposition::	None	?	:
-Daniel 4:23	372897	דִּ֣י	AAafsa	adjective:adjective	preposition::	None	?	:
-Daniel 4:24	372902	לָהֵ֣ן	AC	conjunction	adverb:conjunctive adverb:	None	?	:
-Daniel 4:26	372935	דִּ֥י	AT	particle	preposition::	None	?	:
-Daniel 4:29	373009	מַן	APrxcs	pronoun:relative	interrogative pronoun::	None	?	:
-Daniel 4:29	373010	דִּ֥י	APrxcs	pronoun:relative	preposition::	None	?	:
-Daniel 4:32	373106	מָ֥ה	APixbs	pronoun:interrogative	interrogative pronoun::	None	?	:
-Daniel 5:2	373192	אֲב֔וּהִי	ANcmsc	noun:common	noun::	ASp3ms	suffix:pronominal	p:W
-Daniel 5:5	373249	דִּ֣י	AT	particle	preposition::	None	?	:
-Daniel 5:5	373259	דִּֽי	AT	particle	preposition::	None	?	:
-Daniel 5:5	373262	דִּ֣י	AT	particle	preposition::	None	?	:
-Daniel 5:7	373306	דִּ֣י	AT	particle	preposition::	None	?	:
-Daniel 5:7	373320	דִֽי	AT	particle	preposition::	None	?	:
-Daniel 5:7	373325	תַלְתִּ֥י	AAomsa	adjective:ordinal number	noun::	None	?	p:
-Daniel 5:8	373341	פשׁרא	ANcmsd	noun:common	noun::	ATd	particle:definite article	p:
-Daniel 6:6	373962	עֲלֹ֖והִי	AR	preposition	preposition::	APp3ms	pronoun:personal	p:
-Daniel 6:10	374043	דְּנָ֑ה	AC	conjunction	demonstrative pronoun::	None	?	:
-Daniel 6:18	374272	חֲדָ֔ה	ANcfsa	noun:common	noun:cardinal:	None	?	:
-Daniel 6:20	374320	הִ֨תְבְּהָלָ֔ה	ANcfsa	noun:common	verb::	None	?	:
-Daniel 6:23	374385	הִשְׁתְּכַ֣חַת	ANcfsa	noun:common	verb::	None	?	:
-Daniel 6:28	374522	וּ	AR	preposition	conjunction::	None	?	:
-Daniel 6:28	374523	בְ	ANcmpd	noun:common	preposition::	None	?	:
-Daniel 6:28	374524	אַרְעָ֑א	ATd	particle:definite article	noun::	ATd	particle:definite article	:>
-Daniel 7:5	374644	שׁניה	ANcfpd	noun:common	noun::	ATd	particle:definite article	p:
-Ezra 2:50	378821	מעינים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-Ezra 2:50	378823	נפיסים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-Ezra 5:3	380084	מַן	APi	pronoun:interrogative	interrogative pronoun::	None	?	:
-Ezra 5:4	380101	מַן	APi	pronoun:interrogative	interrogative pronoun::	None	?	:
-Ezra 5:9	380205	מַן	APi	pronoun:interrogative	interrogative pronoun::	None	?	:
-Nehemiah 7:52	386854	מְעוּנִ֖ים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-Nehemiah 7:52	386856	נפושׁסים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-1_Chronicles 4:41	393409	מעינים	HNgmpa	noun:gentilic	proper noun::	None	?	:
-1_Chronicles 6:9	394165	תַּ֤חַת	HR	preposition	proper noun::	None	?	:
-1_Chronicles 6:22	394298	תַּ֨חַת֙	HR	preposition	proper noun::	None	?	:
-1_Chronicles 21:3	401846	כָּהֵם֙	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
-2_Chronicles 9:11	411307	כָהֵ֛ם	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
-2_Chronicles 26:7	419723	מְּעוּנִֽים	HNgmpa	noun:gentilic	proper noun::	None	?	:
+Genesis 24:15	11421	טֶרֶם֮	HD	adverb	noun:potential preposition:	None	?	:
+Genesis 24:21	11537	דַּרְכֹּ֖ו	HNcbsc	noun:common	noun:potential preposition:	HSp3ms	suffix:pronominal	p:
+Genesis 24:23	11574	יֵ֧שׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
+Genesis 24:31	11718	לָ֤מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
+Genesis 24:42	11927	יֶשְׁךָ	HTm	particle:demonstrative	noun:copulative noun:	HSp2ms	suffix:pronominal	p:
+Genesis 24:45	11980	טֶ֨רֶם	HD	adverb	noun:potential preposition:	None	?	:
+Genesis 24:49	12084	יֶשְׁכֶ֨ם	HTm	particle:demonstrative	noun:copulative noun:	HSp2mp	suffix:pronominal	p:
+Genesis 24:59	12263	מֵנִקְתָּ֑הּ	HVhrfsc	verb	noun::	HSp3fs	suffix:pronominal	p:
+Genesis 24:60	12283	רְבָבָ֑ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
+Genesis 25:3	12467	אַשּׁוּרִ֥ם	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 25:3	12469	לְטוּשִׁ֖ים	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 25:3	12471	לְאֻמִּֽים	HNp	noun:proper name	proper noun::people	None	?	:
+Genesis 25:7	12524	שְׁנֵֽי	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 25:17	12671	שְׁנֵי֙	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 25:22	12770	לָ֥מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
+Genesis 25:26	12827	כֵ֞ן	HD	adverb	adverb:anaphoric adverb:	None	?	:
+Genesis 25:31	12918	מִכְרָ֥ה	HVqv2ms	verb	verb::	HSh	suffix:paragogic he	:
+Genesis 25:32	12934	לָמָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
+Genesis 25:33	12941	הִשָּׁ֤בְעָה	HVNv2ms	verb	verb::	HSh	suffix:paragogic he	:
+Genesis 26:13	13242	גָדֵ֔ל	HVqrmsa	verb	adjective::	None	?	:
+Genesis 26:33	13592	שִׁבְעָ֑ה	HAcmsa	adjective:cardinal number	proper noun::place	None	?	:
+Genesis 26:33	13599	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+Genesis 27:4	13703	טֶ֥רֶם	HD	adverb	noun:potential preposition:	None	?	:
+Genesis 27:28	14101	שְׁמַנֵּ֖י	HNcmpc	noun:common	adjective::	None	?	:
+Genesis 27:33	14203	אֵפֹ֡וא	HD	adverb	interjection::	None	?	:
+Genesis 27:33	14216	טֶ֥רֶם	HD	adverb	noun:potential preposition:	None	?	:
+Genesis 27:37	14306	אֵפֹ֔וא	HD	adverb	interjection::	None	?	:
+Genesis 27:39	14340	שְׁמַנֵּ֤י	HNcmpc	noun:common	adjective::	None	?	:
+Genesis 27:45	14451	אַף	HTa	particle:affirmation	noun::	None	?	:
+Genesis 27:45	14466	לָמָ֥ה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
+Genesis 27:46	14497	לָ֥מָּה	HR	preposition	interrogative particle::	HTi	particle:interrogative	:
+Genesis 28:16	14814	אָכֵן֙	HD	adverb	interjection::	None	?	:
+Genesis 28:16	14815	יֵ֣שׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
+Genesis 28:19	14887	רִאשֹׁנָֽה	HAafsa	adjective:adjective	adjective:ordinal:	None	?	:
+Genesis 30:2	15621	אַ֥ף	HTa	particle:affirmation	noun::	None	?	:
+Genesis 30:11	15747	ב	HR	preposition	verb::	None	?	:
+Genesis 30:15	15824	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Genesis 30:21	15924	אַחַ֖ר	HD	adverb	noun:potential preposition:	None	?	:
+Genesis 30:42	16354	עֲטֻפִים֙	HVqsmpa	verb	adjective::	None	?	:
+Genesis 31:20	16738	בְּלִי֙	HTn	particle:negative	noun:potential preposition:	None	?	:
+Genesis 31:29	16895	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
+Genesis 31:47	17279	שָׂהֲדוּתָ֑א	ANp	noun:proper name	noun::	None	?	:>
+Genesis 32:5	17501	תֹאמְר֔וּן	HVqi2mp	verb	verb:quotation verb:	HSn	suffix:paragogic nun	:
+Genesis 32:20	17838	תְּדַבְּר֣וּן	HVpi2mp	verb	verb:quotation verb:	HSn	suffix:paragogic nun	:
+Genesis 33:2	18115	רִֽאשֹׁנָ֑ה	HAafsa	adjective:adjective	adjective:ordinal:	None	?	:
+Genesis 33:7	18203	אַחַ֗ר	HD	adverb	noun:potential preposition:	None	?	:
+Genesis 33:9	18232	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
+Genesis 33:11	18279	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
+Genesis 35:16	19359	אֶפְרָ֑תָה	HNp	noun:proper name	proper noun::person	None	?	:H
+Genesis 35:19	19408	אֶפְרָ֔תָה	HNp	noun:proper name	proper noun::person	None	?	:H
+Genesis 35:21	19433	מִגְדַּל־עֵֽדֶר	HNcmsc	noun:common	proper noun::place	HNp	noun:proper name	:
+Genesis 37:30	20738	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
+Genesis 38:9	20980	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
+Genesis 38:21	21221	קְּדֵשָׁ֛ה	HNcfsa	noun:common	adjective::	None	?	:
+Genesis 39:4	21484	יֶשׁ	HTm	particle:demonstrative	noun:copulative noun:	None	?	:
+Genesis 39:20	21838	אסורי	HVqsmpc	verb	noun::	None	?	:
+Genesis 40:1	21928	אֹפֶ֑ה	HVqrmsa	verb	noun::	None	?	:
+Genesis 40:2	21943	מַּשְׁקִ֔ים	HNcmpa	noun:common	verb::	None	?	:
+Genesis 40:2	21948	אֹופִֽים	HVqrmpa	verb	noun::	None	?	:
+Genesis 40:5	21997	מַּשְׁקֶ֣ה	HNcmsa	noun:common	verb::	None	?	:
+Genesis 40:5	22000	אֹפֶ֗ה	HVqrmsa	verb	noun::	None	?	:
+Genesis 40:9	22067	מַּשְׁקִ֛ים	HNcmpa	noun:common	verb::	None	?	:
+Genesis 40:16	22206	אֹפִ֖ים	HVqrmpa	verb	noun::	None	?	:
+Genesis 40:17	22236	אֹפֶ֑ה	HVqrmsa	verb	noun::	None	?	:
+Genesis 40:20	22307	מַּשְׁקִ֗ים	HNcmpa	noun:common	verb::	None	?	:
+Genesis 40:20	22313	אֹפִ֖ים	HVqrmpa	verb	noun::	None	?	:
+Genesis 40:21	22322	מַּשְׁקִ֖ים	HNcmpa	noun:common	verb::	None	?	:
+Genesis 40:22	22336	אֹפִ֖ים	HVqrmpa	verb	noun::	None	?	:
+Genesis 40:23	22348	מַּשְׁקִ֛ים	HNcmpa	noun:common	verb::	None	?	:
+Genesis 41:1	22357	שְׁנָתַ֣יִם	HAcfda	adjective:cardinal number	noun::	None	?	:
+Genesis 41:9	22517	מַּשְׁקִ֔ים	HNcmpa	noun:common	verb::	None	?	:
+Genesis 41:10	22546	אֹפִֽים	HVqrmpa	verb	noun::	None	?	:
+Genesis 41:20	22725	רִאשֹׁנֹ֖ות	HAafpa	adjective:adjective	adjective:ordinal:	None	?	:
+Genesis 41:23	22768	צְנֻמֹ֥ות	HVqsfpa	verb	adjective::	None	?	:
+Genesis 41:27	22857	שְׁנֵ֥י	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 41:30	22886	שְׁנֵ֤י	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 41:34	22974	שְׁנֵ֥י	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 41:36	23013	שְׁנֵ֣י	HAcmdc	adjective:cardinal number	noun::	None	?	:
+Genesis 41:42	23117	שֵׁ֔שׁ	HAcfsa	adjective:cardinal number	noun::	None	?	:
+Genesis 41:43	23138	אַבְרֵ֑ךְ	HD	adverb	interjection::	None	?	:
+Genesis 42:21	23766	אֲבָל֮	HD	adverb	interjection::	None	?	:
+Genesis 43:3	24186	בִּלְתִּ֖י	HC	conjunction	noun:potential preposition:	None	?	:J
+Genesis 43:5	24214	בִּלְתִּ֖י	HC	conjunction	noun:potential preposition:	None	?	:J
+Genesis 43:11	24328	אֵפֹוא֮	HD	adverb	interjection::	None	?	:
+Genesis 43:16	24456	בָּ֑יְתָה	HNcmsa	noun:common	noun::	HSh	suffix:paragogic he	:H
+Genesis 43:32	24780	יוּכְל֜וּן	HVqi3mp	verb	verb::	HSn	suffix:paragogic nun	:
+Genesis 44:4	24921	טֹובָֽה	HAafsa	adjective:adjective	noun::	None	?	:
+Genesis 47:18	26980	בִּלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
+Genesis 47:24	27122	חֲמִישִׁ֖ית	HAofsa	adjective:ordinal number	noun::	None	?	:
+Genesis 48:7	27442	אֶפְרָ֑תָה	HNp	noun:proper name	proper noun::person	None	?	:H
+Genesis 49:15	27976	טֹ֔וב	HAamsa	adjective:adjective	verb::	None	?	:
+Genesis 50:20	28636	טֹבָ֔ה	HAafsa	adjective:adjective	noun::	None	?	:
+Exodus 2:14	29422	אָכֵ֖ן	HD	adverb	interjection::	None	?	:
+Exodus 3:22	30146	שְּׁכֶנְתָּהּ֙	HAafsc	adjective:adjective	noun::	HSp3fs	suffix:pronominal	p:
+Exodus 4:10	30371	אֲדֹנָי֒	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
+Exodus 4:13	30434	אֲדֹנָ֑י	HNcmpc	noun:common	proper noun::person	HSp1cs	suffix:pronominal	:
+Exodus 4:14	30442	אַ֨ף	HTa	particle:affirmation	noun::	None	?	:
+Exodus 6:6	31335	לָכֵ֞ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Exodus 8:18	32803	בִלְתִּ֥י	HC	conjunction	noun:potential preposition:	None	?	:J
+Exodus 10:7	33969	הֲ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
+Exodus 10:10	34025	כֵ֤ן	HD	adverb	adjective::	None	?	:
+Exodus 10:29	34442	כֵּ֣ן	HTm	particle:demonstrative	adjective::	None	?	:
+Exodus 12:4	34751	שְׁכֵנֹ֛ו	HAamsc	adjective:adjective	noun::	HSp3ms	suffix:pronominal	p:
+Exodus 12:8	34843	מְרֹרִ֖ים	HNcmpa	noun:common	adjective::	None	?	:
+Exodus 12:9	34848	נָ֔א	HTe	particle:exhortation	adjective::	None	?	:
+Exodus 13:12	36000	זְּכָרִ֖ים	HNcmpa	noun:common	adjective::	None	?	:
+Exodus 13:15	36078	זְּכָרִ֔ים	HNcmpa	noun:common	adjective::	None	?	:
+Exodus 14:11	36429	בְּלִ֤י	HTn	particle:negative	noun:potential preposition:	None	?	:
+Exodus 16:28	37952	אָ֨נָה֙	HD	adverb	interrogative particle::	None	?	:
+Exodus 18:9	38641	טֹּובָ֔ה	HAafsa	adjective:adjective	noun::	None	?	:
+Exodus 19:17	39432	תַחְתִּ֥ית	HNcfsc	noun:common	adjective::	None	?	:
+Exodus 20:4	39637	מַּ֡֔עַל	HD	adverb	noun::	None	?	:
+Exodus 20:20	39898	עֲבוּר֙	HR	preposition	noun::	None	?	:
+Exodus 20:20	39906	עֲב֗וּר	HR	preposition	noun::	None	?	:
+Exodus 21:8	40137	רָעָ֞ה	HAafsa	adjective:adjective	verb::	None	?	:
+Exodus 21:8	40142	לא	HTn	particle:negative	preposition::	None	?	p:
+Exodus 24:11	41818	אֲצִילֵי֙	HNcmpc	noun:common	adjective::	None	?	:
+Exodus 25:20	42255	מַ֗עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
+Exodus 25:21	42284	מָ֑עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
+Exodus 25:33	42483	מְֽשֻׁקָּדִ֞ים	HVPsmpa	verb	adjective::	None	?	:
+Exodus 25:33	42495	מְשֻׁקָּדִ֛ים	HVPsmpa	verb	adjective::	None	?	:
+Exodus 25:34	42520	מְשֻׁקָּדִ֔ים	HVPsmpa	verb	adjective::	None	?	:
+Exodus 26:8	42784	עַשְׁתֵּ֥י	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Exodus 26:12	42876	אֲחֹרֵ֥י	HR	preposition	noun:potential adverb:	None	?	:
+Exodus 26:13	42898	סָר֜וּחַ	HVqsmsa	verb	adjective::	None	?	:
+Exodus 26:14	42925	מָֽעְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
+Exodus 28:27	44195	מַּ֕עַל	HD	adverb	noun::	None	?	:
+Exodus 30:14	45769	מָ֑עְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
+Exodus 32:19	46924	אַ֣ף	HTa	particle:affirmation	noun::	None	?	:
+Exodus 32:22	46989	אַ֖ף	HTa	particle:affirmation	noun::	None	?	:
+Exodus 33:16	47628	אֵפֹ֗וא	HD	adverb	interjection::	None	?	:
+Exodus 34:1	47777	רִאשֹׁנִ֑ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
+Exodus 34:1	47792	רִאשֹׁנִ֖ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
+Exodus 34:4	47852	רִאשֹׁנִ֗ים	HAampa	adjective:adjective	adjective:ordinal:	None	?	:
+Exodus 36:19	49599	מָֽעְלָה	HD	adverb	noun::	HSd	suffix:directional he	:H
+Exodus 37:19	50254	מְֽשֻׁקָּדִ֞ים	HVPsmpa	verb	adjective::	None	?	:
+Exodus 37:19	50266	מְשֻׁקָּדִ֛ים	HVPsmpa	verb	adjective::	None	?	:
+Exodus 37:20	50289	מְשֻׁ֨קָּדִ֔ים	HVPsmpa	verb	adjective::	None	?	:
+Leviticus 4:3	53551	אַשְׁמַ֣ת	HNcfsc	noun:common	verb::	None	?	:
+Leviticus 4:21	53978	רִאשֹׁ֑ון	HAamsa	adjective:adjective	adjective:ordinal:	None	?	:
+Leviticus 5:8	54478	רִאשֹׁונָ֑ה	HAafsa	adjective:adjective	adjective:ordinal:	None	?	:
+Leviticus 5:24	54847	חֲמִשִׁתָ֖יו	HAobpc	adjective:ordinal number	noun::	HSp3ms	suffix:pronominal	p:
+Leviticus 5:24	54857	אַשְׁמָתֹֽו	HNcfsc	noun:common	verb::	HSp3ms	suffix:pronominal	p:
+Leviticus 9:15	57193	רִאשֹֽׁון	HAamsa	adjective:adjective	adjective:ordinal:	None	?	:
+Leviticus 10:10	57594	חֹ֑ל	HNcmsa	noun:common	adjective::	None	?	:
+Leviticus 11:21	58185	לא	HTn	particle:negative	preposition::	None	?	p:
+Leviticus 12:7	58837	זָּכָ֖ר	HNcmsa	noun:common	adjective::	None	?	:
+Leviticus 16:22	62715	גְּזֵרָ֑ה	HAafsa	adjective:adjective	noun::	None	?	:
+Leviticus 25:30	67709	לא	HTn	particle:negative	preposition::	None	?	p:
+Leviticus 26:8	68273	רְבָבָ֣ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
+Leviticus 27:15	69247	חֲמִישִׁ֧ית	HAofsc	adjective:ordinal number	noun::	None	?	:
+Numbers 1:16	69765	קריאי	HAampc	adjective:adjective	verb::	None	?	:
+Numbers 1:16	69772	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Numbers 5:22	73203	אָמֵ֥ן	HD	adverb	interjection::	None	?	:
+Numbers 7:13	74147	מְלֵאִ֗ים	HAampa	adjective:adjective	verb::	None	?	:
+Numbers 7:72	74930	עַשְׁתֵּ֣י	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Numbers 10:4	76319	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Numbers 10:36	76793	רִֽבְבֹ֖ות	HNcfpc	noun:common	noun:noun of multitude:	None	?	:
+Numbers 10:36	76794	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Numbers 11:10	76983	אַ֤ף	HTa	particle:affirmation	noun::	None	?	:
+Numbers 12:9	77734	אַ֧ף	HTa	particle:affirmation	noun::	None	?	:
+Numbers 13:18	78052	מְעַ֥ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Numbers 13:22	78145	עֲנָ֑ק	HNgmsa	noun:gentilic	noun::	None	?	:
+Numbers 13:28	78267	אֶ֚פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+Numbers 13:28	78287	עֲנָ֖ק	HNgmsa	noun:gentilic	noun::	None	?	:
+Numbers 14:11	78626	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
+Numbers 14:11	78634	אָ֨נָה֙	HD	adverb	interrogative particle::	None	?	:
+Numbers 14:16	78744	בִּלְתִּ֞י	HTn	particle:negative	noun:potential preposition:	None	?	:J
+Numbers 15:6	79423	שְׁלִשִׁ֥ית	HAofsa	adjective:ordinal number	noun::	None	?	:
+Numbers 15:7	79431	שְׁלִשִׁ֣ית	HAofsa	adjective:ordinal number	noun::	None	?	:
+Numbers 16:11	80257	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Numbers 20:12	82793	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Numbers 21:20	83515	יְשִׁימֹֽן	HNcmsa	noun:common	proper noun::place	None	?	:
+Numbers 21:23	83574	יָ֑הְצָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Numbers 22:22	84243	אַ֣ף	HTa	particle:affirmation	noun::	None	?	:
+Numbers 22:27	84375	אַ֣ף	HTa	particle:affirmation	noun::	None	?	:
+Numbers 22:35	84561	אֶ֗פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+Numbers 23:13	84916	אֶ֚פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+Numbers 23:18	85008	בְּנֹ֥ו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Numbers 23:19	85020	הַ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
+Numbers 23:28	85172	יְשִׁימֹֽן	HNcmsa	noun:common	proper noun::place	None	?	:
+Numbers 24:3	85261	בְּנֹ֣ו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Numbers 24:10	85353	אַ֤ף	HTa	particle:affirmation	noun::	None	?	:
+Numbers 24:15	85463	בְּנֹ֣ו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Numbers 24:24	85594	כִּתִּ֔ים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Numbers 25:6	85715	מִּדְיָנִ֔ית	HAafsa	adjective:adjective	adjective:gentilic:	None	?	:
+Numbers 25:12	85827	לָכֵ֖ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Numbers 25:14	85865	מִּדְיָנִ֔ית	HAafsa	adjective:adjective	adjective:gentilic:	None	?	:
+Numbers 25:15	85882	מִּדְיָנִ֖ית	HAafsa	adjective:adjective	adjective:gentilic:	None	?	:
+Numbers 26:54	86682	מְעַ֕ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Numbers 26:56	86712	מְעָֽט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Numbers 27:7	87019	כֵּ֗ן	HTm	particle:demonstrative	adjective::	None	?	:
+Numbers 28:14	87586	שְׁלִישִׁ֧ת	HAofsc	adjective:ordinal number	noun::	None	?	:
+Numbers 29:20	88226	עַשְׁתֵּי	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Numbers 31:5	88938	אַלְפֵ֣י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Numbers 31:48	89753	אַלְפֵ֣י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Numbers 33:8	90793	הַֽחִירֹ֔ת	HTd	particle:definite article	proper noun::place	HNp	noun:proper name	:
+Numbers 33:54	91338	מְעַט֙	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Numbers 34:4	91462	מַעֲלֵ֤ה עַקְרַבִּים֙	HNcmsc	noun:common	proper noun::place	HNp	noun:proper name	:
+Numbers 34:5	91485	נַ֣חְלָה	HNcmsc	noun:common	noun::	HSh	suffix:paragogic he	:H
+Numbers 35:8	92000	מְעַ֖ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Numbers 36:5	92642	כֵּ֛ן	HTm	particle:demonstrative	adjective::	None	?	:
+Deuteronomy 1:28	93375	אָנָ֣ה	HD	adverb	interrogative particle::	None	?	:
+Deuteronomy 2:10	93935	אֵמִ֥ים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Deuteronomy 2:11	93961	אֵמִֽים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Deuteronomy 2:23	94173	עַוִּ֛ים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Deuteronomy 2:32	94380	יָֽהְצָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Deuteronomy 15:4	102036	אֶ֕פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+Deuteronomy 20:19	104749	הָֽ	HTi	particle:interrogative	article::	None	?	:
+Deuteronomy 26:14	107496	אֹנִ֜י	HNcmsa	noun:common	noun::	None	?	p:
+Deuteronomy 32:30	111836	רְבָבָ֑ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
+Deuteronomy 32:36	111913	אֶ֖פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+Deuteronomy 33:2	112261	רִבְבֹ֣ת	HNcfpc	noun:common	noun:noun of multitude:	None	?	:
+Deuteronomy 33:17	112492	אַפְסֵי	HNcmpc	noun:common	noun:copulative noun:	None	?	:
+Deuteronomy 33:17	112496	רִבְבֹ֣ות	HNcfpc	noun:common	noun:noun of multitude:	None	?	:
+Deuteronomy 33:17	112500	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Joshua 2:4	113452	כֵּ֗ן	HTm	particle:demonstrative	adjective::	None	?	:
+Joshua 2:5	113478	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
+Joshua 8:16	117206	עיר	HNcfsa	noun:common	proper noun::place	None	?	:
+Joshua 11:17	119844	חָלָק֙	HNp	noun:proper name	adjective::	None	?	:
+Joshua 11:21	119941	עֲנָקִים֙	HNgmpa	noun:gentilic	noun::	None	?	:
+Joshua 12:7	120198	חָלָ֖ק	HNp	noun:proper name	adjective::	None	?	:
+Joshua 12:23	120349	גֹּויִ֥ם	HNcmpa	noun:common	proper noun::place	None	?	:
+Joshua 13:3	120432	עַוִּֽים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Joshua 13:18	120715	יַ֥הְצָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Joshua 14:15	121375	קִרְיַ֣ת אַרְבַּ֔ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
+Joshua 14:15	121382	עֲנָקִ֖ים	HNgmpa	noun:gentilic	noun::	None	?	:
+Joshua 15:3	121431	מַעֲלֵ֤ה עַקְרַבִּים֙	HNcmsc	noun:common	proper noun::place	HNp	noun:proper name	:
+Joshua 15:7	121528	מַעֲלֵ֣ה אֲדֻמִּ֔ים	HNcmsc	noun:common	proper noun::place	HNp	noun:proper name	:
+Joshua 15:8	121552	בֶן־הִנֹּ֗ם	HNcmsc	noun:common	proper noun::place	HNp	noun:proper name	:
+Joshua 15:13	121692	קִרְיַ֥ת אַרְבַּ֛ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
+Joshua 15:28	121880	שֶׁ֖בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+Joshua 15:54	122085	קִרְיַ֥ת אַרְבַּ֛ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
+Joshua 16:6	122280	יָנֹֽוחָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Joshua 16:7	122284	יָּנֹ֖וחָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Joshua 18:3	122889	אָ֨נָה֙	HD	adverb	interrogative particle::	None	?	:
+Joshua 18:16	123233	בֶן־הִנֹּ֔ם	HNcmsc	noun:common	proper noun::place	HNp	noun:proper name	:
+Joshua 18:23	123351	עַוִּ֥ים	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Joshua 19:2	123442	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+Joshua 19:2	123444	שֶׁ֖בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+Joshua 19:13	123591	עִתָּ֣ה	HNp	noun:proper name	noun::	None	?	:H
+Joshua 19:22	123689	שׁחצומה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Joshua 20:5	124236	בְלִי	HTn	particle:negative	noun:potential preposition:	None	?	:
+Joshua 20:7	124314	קִרְיַ֥ת אַרְבַּ֛ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
+Joshua 21:11	124642	קִרְיַת֩ אַרְבַּ֨ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
+Joshua 21:36	125065	יַ֖הְצָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Joshua 22:14	125620	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Joshua 22:17	125678	מְעַט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Joshua 22:21	125802	אַלְפֵ֥י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Joshua 22:29	126002	חָלִילָה֩	HTj	particle:interjection	interjection::	HSd	suffix:directional he	:
+Joshua 22:30	126048	אַלְפֵ֤י	HAcbpc	adjective:cardinal number	noun:noun of multitude:	None	?	:
+Judges 1:10	127655	קִרְיַ֣ת אַרְבַּ֑ע	HNp	noun:proper name	proper noun::place	HAcfsa	adjective:cardinal number	:
+Judges 3:15	129021	בֶּן	HNgmsc	noun:gentilic	noun::	None	?	:
+Judges 4:9	129565	אֶ֚פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+Judges 6:11	130644	אֲבִ֣י	HNgmsa	noun:gentilic	noun::	None	?	:J
+Judges 6:15	130744	אַלְפִּי֙	HNcmsc	noun:common	noun:noun of multitude:	HSp1cs	suffix:pronominal	p:
+Judges 6:24	130965	אֲבִ֥י	HNgmsa	noun:gentilic	noun::	None	?	:J
+Judges 8:7	132275	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Judges 10:13	134370	לָכֵ֥ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Judges 11:7	134603	מַדּ֜וּעַ	HD	adverb	interrogative particle::	None	?	:
+Judges 11:8	134617	לָכֵן֙	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+Judges 11:20	134916	יָ֑הְצָה	HNp	noun:proper name	proper noun::place	HSd	suffix:directional he	:
+Judges 12:5	135520	הַֽ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
+Judges 12:6	135540	כֵּ֔ן	HTm	particle:demonstrative	adjective::	None	?	:
+Judges 13:2	135722	דָּנִ֖י	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Judges 13:8	135894	הַ	HRd	preposition:definite article	article::	None	?	:
+Judges 13:14	136024	צִוִּיתִ֖יהָ	HVpp1cs	verb	verb::	HPp3fs	pronoun:personal	p:
+Judges 13:17	136078	דבריך	HNcmpc	noun:common	noun::	HPp2ms	pronoun:personal	p:
+Judges 13:23	136199	הֶרְאָ֖נוּ	HVhp3ms	verb	verb::	HPp1cp	pronoun:personal	p:
+Judges 14:14	136543	הָֽ	HRd	preposition:definite article	article::	None	?	:
+Judges 14:15	136592	הַ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
+Judges 14:15	136594	יָרְשֵׁ֕נוּ	HVqc	verb	verb::	HPp1cp	pronoun:personal	p:
+Judges 15:6	136867	תִּמְנִ֔י	HNp	noun:proper name	adjective:gentilic:	None	?	:
+Judges 16:25	137798	כי	HC	conjunction	preposition::	None	?	:
+Judges 19:17	139512	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
+Judges 19:23	139678	אַל	HTn	particle:negative	preposition::	None	?	:
+Judges 20:1	139908	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+Judges 20:10	140090	רְבָבָ֔ה	HNcfsa	noun:common	noun:noun of multitude:	None	?	:
+1_Samuel 1:1	141547	צֹופִ֖ים	HNp	noun:proper name	verb::	None	?	:
+1_Samuel 2:3	142163	לא	HTn	particle:negative	preposition::	None	?	p:
+1_Samuel 2:10	142254	אַפְסֵי	HNcmpc	noun:common	noun:copulative noun:	None	?	:
+1_Samuel 2:16	142413	לו	HR	preposition	negative particle::	HSp3ms	suffix:pronominal	:
+1_Samuel 2:30	142709	לָכֵ֗ן	HR	preposition	adverb:conjunctive adverb:	HD	adverb	:
+1_Samuel 3:19	143241	אָֽרְצָה	HNcbsa	noun:common	noun::	HSh	suffix:paragogic he	:H
+1_Samuel 4:21	143798	אִֽי־כָבֹוד֙	HTj	particle:interjection	proper noun::person	HNp	noun:proper name	:
+1_Samuel 5:1	143835	מֵ	HC	conjunction	preposition::	None	?	:
+1_Samuel 6:14	144464	בֵּֽית	HNgmsa	noun:gentilic	noun::	None	?	:
+1_Samuel 6:18	144605	בֵּֽית	HNgmsa	noun:gentilic	noun::	None	?	:
+1_Samuel 7:9	144889	יעלה	HVhw3ms	verb	verb::	None	?	p:
+1_Samuel 9:26	146165	גג	HNcmsa	noun:common	noun::	None	?	:H
+1_Samuel 10:19	146675	אַלְפֵיכֶֽם	HAcbpc	adjective:cardinal number	noun:noun of multitude:	HSp2mp	suffix:pronominal	p:
+1_Samuel 14:6	148475	מְעָֽט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+1_Samuel 16:1	150296	בֵּֽית	HNgmsa	noun:gentilic	noun::	None	?	:
+1_Samuel 18:1	152178	יאהבו	HVqw3ms	verb	verb::	None	?	p:
+1_Samuel 18:7	152312	רִבְבֹתָֽיו	HNcfpc	noun:common	noun:noun of multitude:	HSp3ms	suffix:pronominal	p:
+1_Samuel 18:8	152331	רְבָבֹ֔ות	HNcfpa	noun:common	noun:noun of multitude:	None	?	:
+1_Samuel 20:2	153448	לו	HR	preposition	negative particle::	HSp3ms	suffix:pronominal	:
+1_Samuel 20:19	153835	אָֽזֶל	HNp	noun:proper name	proper noun::	None	?	:
+1_Samuel 21:3	154426	פְּלֹנִ֖י	HPf	pronoun:indefinite	noun::	None	?	:
+1_Samuel 21:9	154567	אִ֛ין	HTn	particle:negative	conjunction::	None	?	:
+1_Samuel 23:17	155706	כֵּֽן	HTm	particle:demonstrative	adjective::	None	?	:
+1_Samuel 23:27	155935	מַהֲרָ֣ה	HVpv2ms	verb	verb::	HSd	suffix:directional he	:
+1_Samuel 26:22	158119	החנית	HTd	particle:definite article	noun::	HNcfsa	noun:common	:
+1_Samuel 27:10	158430	אַל	HTn	particle:negative	interrogative particle::	None	?	:
+2_Samuel 1:21	160873	בְּלִ֖י	HTn	particle:negative	noun:potential preposition:	None	?	:
+2_Samuel 2:1	160989	אָ֥נָה	HD	adverb	interrogative particle::	None	?	:
+2_Samuel 4:6	162726	הֵנָּה	HPp3fp	pronoun:personal	adverb::	None	?	:
+2_Samuel 9:3	165010	אֶ֨פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+2_Samuel 10:9	165489	בישׂראל	HR	preposition	proper noun::person	HNp	noun:proper name	:
+2_Samuel 11:3	165789	בַּת־שֶׁ֣בַע	HNp	noun:proper name	proper noun::person	HAcfsa	adjective:cardinal number	:
+2_Samuel 12:14	166694	אֶ֗פֶס	HNcmsa	noun:common	noun:copulative noun:	None	?	:
+2_Samuel 12:24	166948	בַּת־שֶׁ֣בַע	HNp	noun:proper name	proper noun::person	HAcfsa	adjective:cardinal number	:
+2_Samuel 14:19	168490	אִ֣שׁ	HTa	particle:affirmation	noun:copulative noun:	None	?	:
+2_Samuel 14:20	168522	עֲב֤וּר	HR	preposition	noun::	None	?	:
+2_Samuel 15:18	169279	הַ	HRd	preposition:definite article	article::	None	?	:
+2_Samuel 15:27	169519	הֲ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
+2_Samuel 16:2	169797	ול	HC	conjunction	conjunction::	HR	preposition	:
+2_Samuel 16:10	170001	כי	HC	conjunction	adverb::	None	?	:
+2_Samuel 16:10	170003	וכי	HC	conjunction	conjunction::	HC	conjunction	:
+2_Samuel 16:18	170180	לא	HTn	particle:negative	preposition::	None	?	p:
+2_Samuel 17:11	170536	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+2_Samuel 17:14	170641	עֲב֗וּר	HC	conjunction	noun::	None	?	:
+2_Samuel 18:2	171091	שְּׁלִשִׁ֔ת	HAofsa	adjective:ordinal number	noun::	None	?	:
+2_Samuel 19:4	172015	הַ	HR	preposition	article::	None	?	:
+2_Samuel 19:7	172098	לא	HTn	particle:negative	conjunction::	None	?	:
+2_Samuel 19:32	172761	ב	HR	preposition	article::	None	?	:
+2_Samuel 19:41	172967	ויעברו	HC	conjunction	verb::	HVhw3mp	verb	:
+2_Samuel 20:1	173094	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:2	173131	שֶׁ֣בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:6	173223	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:7	173266	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:10	173356	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:13	173435	שֶׁ֥בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:21	173590	שֶׁ֧בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 20:22	173638	שֶׁ֤בַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+2_Samuel 21:9	173947	שׁבעתים	HAcfda	adjective:cardinal number	noun:cardinal:	None	?	p:
+2_Samuel 21:12	174040	שׁם	HD	adverb	adverb::	None	?	:H
+2_Samuel 21:12	174041	הפלשׁתים	HTd	particle:definite article	adjective:gentilic:	HNgmpa	noun:gentilic	:
+2_Samuel 21:16	174131	רָפָ֗ה	HNgmsa	noun:gentilic	proper noun::person	None	?	:
+2_Samuel 21:18	174206	רָפָֽה	HNgmsa	noun:gentilic	proper noun::person	None	?	:
+2_Samuel 21:19	174221	אֹרְגִ֜ים	HNp	noun:proper name	verb::	None	?	:
+2_Samuel 21:20	174264	רָפָֽה	HNgmsa	noun:gentilic	proper noun::person	None	?	:
+2_Samuel 21:22	174282	רָפָ֖ה	HNgmsa	noun:gentilic	proper noun::person	None	?	:
+2_Samuel 23:8	174938	שָּׁלִשִׁ֗י	HAcbpa	adjective:cardinal number	adjective:ordinal:	None	?	:
+2_Samuel 23:18	175174	שׁלשׁי	HAomsa	adjective:ordinal number	noun:cardinal:	None	?	:
+2_Samuel 23:21	175246	אשׁר	HTr	particle:relative	noun:distributive noun:	None	?	:
+2_Samuel 24:2	175467	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+2_Samuel 24:3	175492	כָּהֵ֤ם	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
+2_Samuel 24:3	175494	כָהֵם֙	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
+2_Samuel 24:6	175577	יַּ֔עַן	HNp	noun:proper name	noun:potential preposition:	None	?	:
+2_Samuel 24:15	175803	שֶׁ֔בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+1_Kings 1:11	176306	בַּת־שֶׁ֤בַע	HNp	noun:proper name	proper noun::person	HAcfsa	adjective:cardinal number	:
+1_Kings 6:1	180086	זִ֗ו	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+1_Kings 6:31	180714	חֲמִשִֽׁית	HAofsa	adjective:ordinal number	noun::	None	?	:
+1_Kings 6:37	180817	זִֽו	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+1_Kings 6:38	180827	בּ֗וּל	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+1_Kings 10:28	184980	מִקְוֵ֕ה	HR	preposition	noun::	HNp	noun:proper name	:
+1_Kings 10:28	184985	מִקְוֵ֖ה	HR	preposition	noun::	HNp	noun:proper name	:
+1_Kings 12:33	186762	לבד	HR	preposition	noun::	HNcmsa	noun:common	p:
+1_Kings 19:3	191457	שֶׁ֖בַע	HAcfsa	adjective:cardinal number	proper noun::place	None	?	:
+1_Kings 21:8	193187	הספרים	HTd	particle:definite article	noun::	HNcmpa	noun:common	:
+1_Kings 22:49	194648	עשׂר	HAcmsa	adjective:cardinal number	verb::	None	?	:
+2_Kings 5:13	197770	אָבִי֙	HTe	particle:exhortation	noun::	None	?	p:
+2_Kings 5:18	197926	יִסְלַח־נא	HVqj3ms	verb	verb::	HTe	particle:exhortation	:
+2_Kings 6:8	198300	פְּלֹנִ֥י	HPf	pronoun:indefinite	noun::	None	?	:
+2_Kings 6:25	198699	חרייונים	HNcmsc	noun:common	noun::	HNcfpa	noun:common	:
+2_Kings 7:13	199325	ההמון	HTd	particle:definite article	noun::	HNcmsa	noun:common	:
+2_Kings 8:10	199810	לא	HTn	particle:negative	preposition::	None	?	p:
+2_Kings 11:1	202008	וראתה	HC	conjunction	verb::	HVqp3fs	verb	:
+2_Kings 11:4	202091	כָּרִי֙	HNgmsa	noun:gentilic	proper noun::people	None	?	:
+2_Kings 12:9	202743	בִלְתִּ֥י	HTn	particle:negative	noun:potential preposition:	None	?	:J
+2_Kings 16:17	205493	ואת	HC	conjunction	preposition::	HTo	particle:direct object marker	:
+2_Kings 18:23	207062	אַשּׁ֑וּר	HNgmsa	noun:gentilic	proper noun::place	None	?	:
+2_Kings 18:26	207135	אֲרָמִ֔ית	HNgfsa	noun:gentilic	adjective::	None	?	:
+2_Kings 20:4	208263	העיר	HTd	particle:definite article	noun::	HNcfsa	noun:common	:
+2_Kings 22:5	209332	בבית	HR	preposition	noun::	HNcmsc	noun:common	:
+2_Kings 25:2	211367	עַשְׁתֵּ֣י	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+2_Kings 25:27	212011	אֱוִ֣יל מְרֹדַךְ֩	HAamsa	adjective:adjective	proper noun::person	HNp	noun:proper name	:
+Isaiah 1:5	212149	וְ	HR	preposition	conjunction::	None	?	:
+Isaiah 3:15	213130	מ	HR	preposition	interrogative pronoun::	None	?	:
+Isaiah 3:24	213264	כִּי	HC	conjunction	noun::	None	?	:
+Isaiah 3:26	213278	אָנ֥וּ	HD	adverb	verb::	None	?	:
+Isaiah 5:14	213670	לִ	HC	conjunction	preposition::	None	?	:
+Isaiah 5:14	213671	בְלִי	HTn	particle:negative	noun:potential preposition:	None	?	:
+Isaiah 5:29	213937	ושׁאג	HC	conjunction	verb::	HVqq3ms	verb	:
+Isaiah 8:8	214885	עִמָּ֥נוּ	HNp	noun:proper name	preposition::	None	?	p:
+Isaiah 9:2	215180	לא	HTn	particle:negative	preposition::	None	?	p:
+Isaiah 10:13	215746	כַּאבִּ֖יר	HR	preposition	adjective::	HAamsa	adjective:adjective	:
+Isaiah 10:29	216023	לָ֑נוּ	HR	preposition	verb::	HSp1cp	suffix:pronominal	:
+Isaiah 11:15	216378	בַּעְיָ֣ם	HR	preposition	noun::	HNcmsc	noun:common	:
+Isaiah 14:6	216937	בְּלִ֥י	HTn	particle:negative	noun:potential preposition:	None	?	:
+Isaiah 19:8	218263	אָנוּ֙	HD	adverb	verb::	None	?	:
+Isaiah 22:5	219058	שֹׁ֥ועַ	HNcmsa	noun:common	proper noun::people	None	?	:
+Isaiah 23:2	219433	אִ֑י	HTj	particle:interjection	noun::	None	?	:
+Isaiah 23:6	219486	אִֽי	HTj	particle:interjection	noun::	None	?	:
+Isaiah 25:10	220252	במי	HR	preposition	preposition::	HNcmpc	noun:common	:
+Isaiah 28:8	220953	בְּלִ֖י	HTn	particle:negative	noun:potential preposition:	None	?	:
+Isaiah 29:11	221546	הספר	HTd	particle:definite article	noun::	HNcmsa	noun:common	:
+Isaiah 32:10	222803	בְּלִ֥י	HTn	particle:negative	noun:potential preposition:	None	?	:
+Isaiah 34:16	223547	קִבְּצָֽן	HVpp3ms	verb	verb::	HSn	suffix:paragogic nun	p:
+Isaiah 36:11	223994	אֲרָמִ֔ית	HNgfsa	noun:gentilic	adjective::	None	?	:
+Isaiah 43:14	227171	בָֽרִיחִים֙	HRd	preposition:definite article	adjective::	HNcmpa	noun:common	:
+Isaiah 44:24	227813	מי	HNcmpc	noun:common	preposition::	None	?	:
+Isaiah 47:8	228642	אַפְסִ֣י	HNcmsc	noun:common	noun:copulative noun:	HSp1cs	suffix:pronominal	:J
+Isaiah 47:10	228692	אַפְסִ֥י	HNcmsc	noun:common	noun:copulative noun:	HSp1cs	suffix:pronominal	:J
+Isaiah 49:5	229224	לא	HTn	particle:negative	preposition::	None	?	p:
+Isaiah 51:10	230046	הַ	HTi	particle:interrogative	article::	None	?	:
+Isaiah 56:9	231491	חַיְתֹ֣ו	HNcfsc	noun:common	noun::	None	?	:W
+Isaiah 56:9	231497	חַיְתֹ֖ו	HNcfsc	noun:common	noun::	None	?	:W
+Isaiah 59:18	232540	עַ֤ל	HR	preposition	noun::	None	?	:
+Isaiah 59:18	232543	עַ֣ל	HR	preposition	noun::	None	?	:
+Isaiah 62:4	233305	בָ֔הּ	HNp	noun:proper name	preposition::	None	?	p:
+Isaiah 63:9	233608	לא	HTn	particle:negative	preposition::	None	?	p:
+Jeremiah 1:3	235046	עַשְׁתֵּ֣י	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Jeremiah 4:5	236639	ותקעו	HC	conjunction	verb::	HVqv2mp	verb	:
+Jeremiah 5:13	237333	דִּבֵּ֖ר	HNcmsa	noun:common	verb:quotation verb:	None	?	:
+Jeremiah 5:24	237563	וירה	HC	conjunction	noun::	HNcmsa	noun:common	:
+Jeremiah 8:1	238957	ויציאו	HC	conjunction	verb::	HVhi3mp	verb	:
+Jeremiah 9:24	239866	מ֖וּל	HR	preposition	verb::	None	?	:
+Jeremiah 10:11	240081	דִּֽי	ATr	particle:relative	preposition::	None	?	:
+Jeremiah 11:14	240654	אֵינֶ֣נִּי	HTi	particle:interrogative	noun:copulative noun:	HSp1cs	suffix:pronominal	p:N
+Jeremiah 16:19	243077	אַפְסֵי	HD	adverb	noun:copulative noun:	None	?	:
+Jeremiah 18:3	243711	הו	HSp3ms	suffix:pronominal	personal pronoun::demonstrative personal pronoun	None	?	:
+Jeremiah 23:18	246312	דברי	HC	conjunction	noun::	HVqw3ms	verb	p:
+Jeremiah 36:32	255103	הֵֽמָּה	HSp3mp	suffix:pronominal	personal pronoun::demonstrative personal pronoun	None	?	:
+Jeremiah 38:11	255908	הסחבות	HTd	particle:definite article	noun::	HNcfpa	noun:common	:
+Jeremiah 38:16	256032	את אֲשֶׁר֩	HTo	particle:direct object marker	conjunction::	HTr	particle:relative	:
+Jeremiah 39:12	256632	כִּ֗י אם	HC	conjunction	conjunction::	HC	conjunction	:
+Jeremiah 41:17	257763	כמוהם	HR	preposition	proper noun::person	HSp3mp	suffix:pronominal	:
+Jeremiah 47:4	260331	אִ֥י	HTj	particle:interjection	noun::	None	?	:
+Jeremiah 49:37	261838	וְ	HR	preposition	conjunction::	None	?	:
+Jeremiah 51:1	262760	קָמָ֑י	HNp	noun:proper name	verb::	None	?	p:
+Jeremiah 51:3	262783	יִדְרֹ֤ךְ ידרך	HVqi3ms	verb	verb::	HVqi3ms	verb	:
+Jeremiah 52:5	264015	עַשְׁתֵּ֣י	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Jeremiah 52:31	264670	אֱוִ֣יל מְרֹדַךְ֩	HAamsa	adjective:adjective	proper noun::person	HNp	noun:proper name	:
+Ezekiel 3:15	265794	אשׁר	HTr	particle:relative	verb::	None	?	:
+Ezekiel 5:2	266454	שְׁלִשִׁ֗ית	HAofsa	adjective:ordinal number	noun::	None	?	:
+Ezekiel 5:12	266684	שְׁלִשִׁתֵ֞יךְ	HAofsc	adjective:ordinal number	noun::	HSp2fs	suffix:pronominal	p:
+Ezekiel 8:2	267682	חַשְׁמַֽלָה	HNcmsa	noun:common	noun::	HSh	suffix:paragogic he	:H
+Ezekiel 8:6	267779	מ	HR	preposition	interrogative pronoun::	None	?	:
+Ezekiel 8:6	267780	הם	HSp3mp	suffix:pronominal	personal pronoun::demonstrative personal pronoun	None	?	:
+Ezekiel 9:5	268212	על	HR	preposition	negative particle::	None	?	:
+Ezekiel 14:4	270435	בה	HR	preposition	verb::	HSp3fs	suffix:pronominal	:
+Ezekiel 21:19	274855	שְׁלִישִׁ֨תָה֙	HAofsa	adjective:ordinal number	noun::	HSh	suffix:paragogic he	p:
+Ezekiel 26:1	277403	עַשְׁתֵּֽי	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Ezekiel 27:10	277956	פָּרַ֨ס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Ezekiel 31:14	280049	אֵלֵיהֶ֛ם	HNcmpc	noun:common	preposition::	HSp3mp	suffix:pronominal	p:
+Ezekiel 38:5	283893	פָּרַ֛ס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Ezekiel 41:8	286298	אַצִּֽילָה	HNcfsa	noun:common	noun::	None	?	:H
+Ezekiel 42:16	287061	אמות	HNcfpc	noun:common	noun:cardinal:	None	?	:
+Ezekiel 46:15	289435	ועשׂו	HC	conjunction	verb::	HVqq3cp	verb	:
+Ezekiel 47:13	289970	גֵּ֤ה	HPdxms	pronoun:demonstrative	adjective::	None	?	:
+Hosea 1:4	290995	מְעַ֗ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Hosea 1:6	291035	לֹ֣א רֻחָ֑מָה	HTn	particle:negative	proper noun::person	HNp	noun:proper name	:
+Hosea 1:8	291077	לֹ֣א רֻחָ֑מָה	HTn	particle:negative	proper noun::person	HNp	noun:proper name	:
+Hosea 1:9	291087	לֹ֣א עַמִּ֑י	HTn	particle:negative	proper noun::person	HNp	noun:proper name	:
+Hosea 2:3	291156	רֻחָֽמָה	HVPp3fs	verb	proper noun::person	None	?	:
+Hosea 2:25	291576	לֹ֣א רֻחָ֑מָה	HTn	particle:negative	proper noun::person	HNp	noun:proper name	:
+Hosea 8:10	292729	מְּעָ֔ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Joel 3:2	294935	הֵ֔מָּה	HPdxmp	pronoun:demonstrative	personal pronoun::demonstrative personal pronoun	None	?	:
+Joel 4:1	295010	הֵ֖מָּה	HPdxmp	pronoun:demonstrative	personal pronoun::demonstrative personal pronoun	None	?	:
+Joel 4:8	295158	שְׁבָאיִ֖ם	HNgmpa	noun:gentilic	proper noun::people	None	?	:
+Joel 4:14	295248	חָר֑וּץ	HNp	noun:proper name	verb::	None	?	:
+Joel 4:14	295256	חָרֽוּץ	HNp	noun:proper name	verb::	None	?	:
+Amos 5:14	296739	כֵ֞ן	HD	adverb	adjective::	None	?	:
+Amos 5:25	296903	הַ	HTi	particle:interrogative	article::	None	?	:
+Amos 6:2	296971	רַבָּ֑ה	HNp	noun:proper name	adjective::	None	?	:
+Jonah 2:4	298983	וְ	HR	preposition	conjunction::	None	?	:
+Jonah 3:5	299160	וְ	HR	preposition	conjunction::	None	?	:
+Jonah 4:11	299540	וּ	HR	preposition	conjunction::	None	?	:
+Micah 6:10	301011	אִשׁ֙	HTa	particle:affirmation	noun:copulative noun:	None	?	:
+Habakkuk 2:19	302777	דּוּמָ֑ם	HNcmsa	noun:common	adverb::	None	?	:
+Habakkuk 2:20	302797	הַ֥ס	HTj	particle:interjection	verb::	None	?	:
+Zephaniah 1:7	303210	הַ֕ס	HTj	particle:interjection	verb::	None	?	:
+Zephaniah 2:14	303702	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Zephaniah 2:15	303738	אַפְסִ֣י	HNcmsc	noun:common	noun:copulative noun:	HSp1cs	suffix:pronominal	:J
+Zephaniah 3:8	303876	קָבְצִ֣י	HVqc	verb	verb::	HSp1cs	suffix:pronominal	:J
+Haggai 1:6	304220	מְעָ֗ט	HAamsa	adjective:adjective	noun:potential adverb:	None	?	:
+Haggai 2:6	304609	הֶ	HR	preposition	article::	None	?	:
+Haggai 2:19	304903	הַ	HRd	preposition:definite article	article::	None	?	:
+Zechariah 1:7	305127	עַשְׁתֵּֽי	HAobpc	adjective:ordinal number	noun:cardinal:	None	?	:
+Zechariah 1:7	305132	שְׁבָ֔ט	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Zechariah 2:17	305651	הַ֥ס	HTj	particle:interjection	verb::	None	?	:
+Zechariah 5:9	306339	הֵ֥נָּה	HSp3fp	suffix:pronominal	personal pronoun::demonstrative personal pronoun	None	?	:
+Zechariah 7:1	306722	כִסְלֵֽו	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Zechariah 9:12	307691	הַ	HRd	preposition:definite article	article::	None	?	:
+Malachi 2:12	310011	יַעֲשֶׂ֨נָּה֙	HVqi3ms	verb	verb::	HSn	suffix:paragogic nun	p:N
+Psalms 10:10	311879	ודכה	HC	conjunction	verb::	HVqq3ms	verb	:
+Psalms 18:32	312991	זוּלָתִ֥י	HR	preposition	noun:potential preposition:	HSp1cs	suffix:pronominal	:J
+Psalms 50:10	318736	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Psalms 68:19	321430	לַ	HTd	particle:definite article	preposition::	None	?	:
+Psalms 79:2	324276	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Psalms 79:12	324389	שִׁ֭בְעָתַיִם	HNcfda	noun:common	noun:cardinal:	None	?	:
+Psalms 83:18	324995	עֲדֵי	HNcmpc	noun:common	preposition::	None	?	:
+Psalms 88:1	325547	לְ	HC	conjunction	preposition::	None	?	:
+Psalms 90:12	326358	כֵּ֣ן	HTm	particle:demonstrative	adjective::	None	?	:
+Psalms 92:8	326635	עֲדֵי	HNcmpc	noun:common	preposition::	None	?	:
+Psalms 102:4	327766	כְּמֹו	HR	preposition	preposition::	HPf	pronoun:indefinite	:
+Psalms 104:11	328333	חַיְתֹ֣ו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Psalms 104:20	328430	חַיְתֹו	HNcfsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Psalms 114:8	330720	מַעְיְנֹו	HNcmsc	noun:common	noun::	HSp3ms	suffix:pronominal	:W
+Psalms 116:15	331012	מָּ֗וְתָה	HNcmsa	noun:common	noun::	HSh	suffix:paragogic he	:H
+Psalms 124:4	332957	נַ֝֗חְלָה	HNcmsa	noun:common	noun::	HSh	suffix:paragogic he	:H
+Psalms 140:10	334669	מְסִבָּ֑י	HVhrmpc	verb	noun:potential adverb:	HSp1cs	suffix:pronominal	p:
+Job 9:35	338583	כֵ֥ן	HD	adverb	adjective::	None	?	:
+Job 19:29	340913	שׁדין	HTr	particle:relative	noun::	HNcmsa	noun:common	:
+Job 22:30	341761	אִֽי	HTj	particle:interjection	negative particle::	None	?	:
+Job 24:25	342192	אַ֗ל	HTn	particle:negative	noun::	None	?	:
+Job 30:24	343333	לָהֶ֥ן	HC	conjunction	preposition::	None	?	p:
+Job 34:36	344714	אָבִ֗י	HTj	particle:interjection	noun::	None	?	p:
+Proverbs 2:7	347304	וצפן	HC	conjunction	verb::	HVqq3ms	verb	:
+Proverbs 11:19	349797	כֵּן	HTm	particle:demonstrative	adjective::	None	?	:
+Proverbs 13:20	350345	וחכם	HC	conjunction	verb::	HVqv2ms	verb	:
+Proverbs 17:27	351608	וקר	HC	conjunction	adjective::	HAamsc	adjective:adjective	:
+Proverbs 23:5	353047	ועיף	HC	conjunction	verb::	HVqq3ms	verb	:
+Proverbs 23:29	353279	אֲבֹ֡וי	HTj	particle:interjection	noun::	None	?	:
+Proverbs 27:17	354461	יָ֑חַד	HVhi3ms	verb	noun:potential adverb:	None	?	:
+Proverbs 27:17	354464	יַ֣חַד	HVhi3ms	verb	noun:potential adverb:	None	?	:
+Proverbs 28:2	354604	כֵּ֣ן	HTm	particle:demonstrative	adjective::	None	?	:
+Proverbs 31:4	355542	או	HC	conjunction	interrogative particle::	None	?	:
+Ruth 1:13	356040	לָהֵ֣ן	HC	conjunction	adverb:conjunctive adverb:	None	?	:
+Ruth 1:13	356042	עַ֚ד	HD	adverb	preposition::	None	?	:
+Ruth 1:13	356046	לָהֵן֙	HC	conjunction	adverb:conjunctive adverb:	None	?	:
+Ruth 1:20	356185	מָרָ֔א	HNp	noun:proper name	adjective::	None	?	:
+Ruth 3:12	356983	כִּ֥י אם	HC	conjunction	conjunction::	HC	conjunction	:
+Ruth 4:1	357146	פְּלֹנִ֣י	HPf	pronoun:indefinite	noun::	None	?	:
+Song_of_songs 2:13	357961	לכי	HVqv2fs	verb	preposition::	None	?	p:
+Song_of_songs 6:5	358746	הֵ֖ם	HSp3mp	suffix:pronominal	personal pronoun::demonstrative personal pronoun	None	?	:
+Song_of_songs 6:11	358845	הֲ	HTd	particle:definite article	interrogative particle:interrogative particle:	None	?	:
+Song_of_songs 6:12	358857	עַמִּי	HNcmsc	noun:common	noun::	HSp1cs	suffix:pronominal	:J
+Ecclesiastes 4:10	360736	אִ֣י	HTj	particle:interjection	interrogative particle::	None	?	:
+Ecclesiastes 5:15	361138	כָּל	HR	preposition	noun:distributive noun:	HR	preposition	:
+Ecclesiastes 8:10	362086	כֵּן	HTm	particle:demonstrative	adjective::	None	?	:
+Ecclesiastes 9:12	362649	כָּהֵ֗ם	HR	preposition	preposition::	HPp3mp	pronoun:personal	p:
+Ecclesiastes 10:3	362783	שׁה	HTr	particle:relative	conjunction::	HTd	particle:definite article	:
+Ecclesiastes 10:16	362944	אִֽי	HTj	particle:interjection	interrogative particle::	None	?	:
+Ecclesiastes 10:20	363025	הכנפים	HTd	particle:definite article	noun::	HNcfda	noun:common	:
+Ecclesiastes 12:12	363465	הֵ֖מָּה	HPdxmp	pronoun:demonstrative	personal pronoun::demonstrative personal pronoun	None	?	:
+Lamentations 4:3	364992	כי	HC	conjunction	preposition::	None	?	:
+Lamentations 4:12	365120	וכל	HC	conjunction	noun:distributive noun:	HNcmsc	noun:common	:
+Esther 1:3	365509	פָּרַ֣ס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Esther 1:14	365778	פָּרַ֣ס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Esther 1:18	365888	פָּֽרַס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Esther 1:19	365923	פָֽרַס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Esther 2:16	366483	טֵבֵ֑ת	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Esther 3:7	366816	נִיסָ֔ן	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Esther 3:7	366846	אֲדָֽר	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Esther 3:13	367061	אֲדָ֑ר	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Esther 5:13	367885	יְּהוּדִ֔י	HAamsa	adjective:adjective	adjective:gentilic:	None	?	:
+Esther 8:9	368891	סִיוָ֗ן	HNp	noun:proper name	proper noun::measurement unit	None	?	:
+Esther 9:13	369457	יְּהוּדִים֙	HAampa	adjective:adjective	adjective:gentilic:	None	?	:
+Esther 9:18	369580	יהודיים	HNcmpa	noun:common	adjective:gentilic:	None	?	:
+Esther 10:2	370049	פָרָֽס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Daniel 2:4	370609	אֲרָמִ֑ית	HNgfsa	noun:gentilic	adjective::	None	?	:
+Daniel 2:5	370629	אַזְדָּ֑א	AAafsa	adjective:adjective	adverb::	None	?	:
+Daniel 2:6	370643	הֵ֨ן	ATm	particle:demonstrative	conjunction::	None	?	:
+Daniel 2:6	370657	לָהֵ֕ן	AC	conjunction	adverb:conjunctive adverb:	None	?	:
+Daniel 2:7	370663	תִנְיָנ֖וּת	AAobpa	adjective:ordinal number	adverb::	None	?	:
+Daniel 2:7	370672	פִשְׁרָ֥ה	ANcmsc	noun:common	noun::	ASp3ms	suffix:pronominal	:>
+Daniel 2:8	370682	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:8	370686	כָּ	AC	conjunction	preposition::	None	?	:
+Daniel 2:8	370687	ל	AC	conjunction	preposition::	None	?	:
+Daniel 2:8	370689	דִּ֣י	AC	conjunction	preposition::	None	?	:
+Daniel 2:8	370691	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:8	370692	אַזְדָּ֖א	AAafsa	adjective:adjective	adverb::	None	?	:
+Daniel 2:9	370695	דִּ֣י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:9	370713	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:9	370716	לָהֵ֗ן	AC	conjunction	adverb:conjunctive adverb:	None	?	:
+Daniel 2:9	370722	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:10	370732	אִיתַ֤י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
+Daniel 2:10	370736	דִּ֚י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:11	370765	דִֽי	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:11	370772	אִיתַ֔י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
+Daniel 2:11	370773	דִּ֥י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:11	370779	דִּ֚י	ATr	particle:relative	preposition::	None	?	:
+Daniel 2:11	370784	אִיתֹֽוהִי	ATa	particle:affirmation	noun:copulative noun:	ASp3ms	suffix:pronominal	p:
+Daniel 2:12	370788	דְּנָ֔ה	AC	conjunction	demonstrative pronoun::	None	?	:
+Daniel 2:20	370943	הִֽיא	ATa	particle:affirmation	personal pronoun::	None	?	:
+Daniel 2:22	370970	מָ֣ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 2:24	371003	דְּנָ֗ה	AC	conjunction	demonstrative pronoun::	None	?	:
+Daniel 2:26	371070	איתיך	ATa	particle:affirmation	noun:copulative noun:	ASp2ms	suffix:pronominal	p:
+Daniel 2:26	371076	חֲזֵ֖ית	ATr	particle:relative	verb::	None	?	:
+Daniel 2:28	371099	בְּרַ֡ם	AC	conjunction	adverb::	None	?	:
+Daniel 2:28	371100	אִיתַ֞י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
+Daniel 2:28	371111	מָ֛ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 2:28	371124	הֽוּא	ATa	particle:affirmation	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 2:29	371131	מָ֛ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 2:29	371140	מָה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 2:30	371149	אִיתַ֥י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
+Daniel 2:32	371191	ה֣וּא	APd3ms	pronoun:demonstrative	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 2:38	371325	ה֔וּא	ATa	particle:affirmation	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 2:44	371456	אִנּ֗וּן	APdxmp	pronoun:demonstrative	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 2:45	371511	מָ֛ה	APfxbs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 2:47	371551	ה֣וּא	ATa	particle:affirmation	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 3:6	371726	מַן	APf3bs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 3:6	371727	דִּי	APf3bs	pronoun:indefinite	preposition::	None	?	:
+Daniel 3:7	371743	דְּנָ֡ה	AC	conjunction	demonstrative pronoun::	None	?	:
+Daniel 3:8	371778	דְּנָה֙	AC	conjunction	demonstrative pronoun::	None	?	:
+Daniel 3:11	371827	מַן	APf3cs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 3:11	371828	דִּי	APf3cs	pronoun:indefinite	preposition::	None	?	:
+Daniel 3:12	371839	אִיתַ֞י	ATa	particle:affirmation	noun:copulative noun:	None	?	:
+Daniel 3:14	371900	צְדָּ֕א	ANcmsa	noun:common	adverb::	None	?	:
+Daniel 3:14	371908	אִֽיתֵיכֹון֙	ATa	particle:affirmation	noun:copulative noun:	ASp2mp	suffix:pronominal	p:
+Daniel 3:15	371959	מַן	APi3cs	pronoun:interrogative	interrogative pronoun::	None	?	:
+Daniel 3:15	371960	ה֣וּא	ATa	particle:affirmation	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 3:22	372095	דְּנָ֗ה	AC	conjunction	demonstrative pronoun::	None	?	:
+Daniel 3:25	372184	רביעיא	AAomsd	adjective:ordinal number	adjective:ordinal:	ATd	particle:definite article	:
+Daniel 3:33	372377	מָ֣ה	APfxcs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 3:33	372382	מָ֣ה	APfxcs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 4:12	372589	בְּרַ֨ם	AC	conjunction	adverb::	None	?	:
+Daniel 4:12	372604	דִּ֣י	AT	particle	preposition::	None	?	:
+Daniel 4:14	372653	מַן	APfxcs	pronoun:indefinite	interrogative pronoun::	None	?	:
+Daniel 4:14	372654	דִּ֤י	APfxcs	pronoun:indefinite	preposition::	None	?	:
+Daniel 4:15	372671	פִּשְׁרֵ֣א	ANcmsd	noun:common	noun::	ATd	particle:definite article	p:
+Daniel 4:16	372712	פִשְׁרֵא֙	ANcmsd	noun:common	noun::	ATd	particle:definite article	p:
+Daniel 4:19	372766	ה֣וּא	APdxms	pronoun:demonstrative	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 4:20	372800	בְּרַ֨ם	AC	conjunction	adverb::	None	?	:
+Daniel 4:20	372815	דִּ֣י	AT	particle	preposition::	None	?	:
+Daniel 4:21	372844	מַלְכָּֽא	ANcmsc	noun:common	noun::	ASp1cs	suffix:pronominal	:>
+Daniel 4:22	372866	לָ֣ךְ	AR	preposition	preposition::	ATo	particle:direct object marker	p:
+Daniel 4:22	372884	מַן	APrxcs	pronoun:relative	interrogative pronoun::	None	?	:
+Daniel 4:22	372885	דִּ֥י	APrxcs	pronoun:relative	preposition::	None	?	:
+Daniel 4:23	372901	דִּ֣י	AAafsa	adjective:adjective	preposition::	None	?	:
+Daniel 4:24	372906	לָהֵ֣ן	AC	conjunction	adverb:conjunctive adverb:	None	?	:
+Daniel 4:26	372939	דִּ֥י	AT	particle	preposition::	None	?	:
+Daniel 4:29	373013	מַן	APrxcs	pronoun:relative	interrogative pronoun::	None	?	:
+Daniel 4:29	373014	דִּ֥י	APrxcs	pronoun:relative	preposition::	None	?	:
+Daniel 4:32	373110	מָ֥ה	APixbs	pronoun:interrogative	interrogative pronoun::	None	?	:
+Daniel 5:2	373196	אֲב֔וּהִי	ANcmsc	noun:common	noun::	ASp3ms	suffix:pronominal	p:W
+Daniel 5:5	373253	דִּ֣י	AT	particle	preposition::	None	?	:
+Daniel 5:5	373263	דִּֽי	AT	particle	preposition::	None	?	:
+Daniel 5:5	373266	דִּ֣י	AT	particle	preposition::	None	?	:
+Daniel 5:7	373324	דִֽי	AT	particle	preposition::	None	?	:
+Daniel 5:8	373345	פשׁרא	ANcmsd	noun:common	noun::	ATd	particle:definite article	p:
+Daniel 5:11	373400	אֲב֗וּךְ	ANcmsc	noun:common	noun::	ASp2ms	suffix:pronominal	p:W
+Daniel 5:11	373414	אֲב֔וּךְ	ANcmsc	noun:common	noun::	ASp2ms	suffix:pronominal	p:W
+Daniel 5:11	373421	אֲב֥וּךְ	ANcmsc	noun:common	noun::	ASp2ms	suffix:pronominal	p:W
+Daniel 5:13	373469	ה֤וּא	ATa	particle:affirmation	personal pronoun::demonstrative personal pronoun	None	?	:
+Daniel 5:16	373552	תַלְתָּ֥א	AAobsa	adjective:ordinal number	noun::	None	?	:>
+Daniel 5:18	373594	אֲבֽוּךְ	ANcmsc	noun:common	noun::	ASp2ms	suffix:pronominal	p:W
+Daniel 5:21	373690	דִּ֥י	APf3cs	pronoun:indefinite	preposition::	None	?	:
+Daniel 5:25	373781	מְנֵ֥א	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:25	373782	מְנֵ֖א	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:25	373783	תְּקֵ֥ל	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:25	373785	פַרְסִֽין	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:26	373789	מְנֵ֕א	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:27	373795	תְּקֵ֑ל	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:28	373802	פְּרֵ֑ס	ANxxxa	noun:unknown	noun::	None	?	:
+Daniel 5:28	373808	מָדַ֥י	ANgmsd	noun:gentilic	proper noun::place	None	?	:
+Daniel 5:28	373810	פָרָֽס	ANgmsd	noun:gentilic	proper noun::place	None	?	:
+Daniel 5:29	373832	תַּלְתָּ֖א	AAobsa	adjective:ordinal number	noun::	None	?	:>
+Daniel 6:6	373966	עֲלֹ֖והִי	AR	preposition	preposition::	APp3ms	pronoun:personal	p:
+Daniel 6:10	374047	דְּנָ֑ה	AC	conjunction	demonstrative pronoun::	None	?	:
+Daniel 6:18	374276	חֲדָ֔ה	ANcfsa	noun:common	noun:cardinal:	None	?	:
+Daniel 7:5	374648	שׁניה	ANcfpd	noun:common	noun::	ATd	particle:definite article	p:
+Daniel 7:6	374673	גביה	ANcmpd	noun:common	noun::	ATd	particle:definite article	p:
+Daniel 7:6	374682	לַֽהּ	AC	conjunction	preposition::	AAcbsa	adjective:cardinal number	p:
+Daniel 7:7	374712	רגליה	ANcfpd	noun:common	noun::	ATd	particle:definite article	p:
+Daniel 7:7	374721	קָֽדָמַ֔יהּ	ANcfsd	noun:common	noun:potential preposition:	ATd	particle:definite article	p:
+Daniel 7:8	374744	קדמיה	AAamsd	adjective:adjective	noun:potential preposition:	ATd	particle:definite article	p:
+Daniel 7:16	374909	חַד֙	AAomsa	adjective:ordinal number	noun:cardinal:	None	?	:
+Daniel 7:16	374913	יַצִּיבָ֥א	AAafsa	adjective:adjective	adjective::	None	?	:>
+Daniel 7:17	374932	אַרְבְּעָ֥ה	AAabsa	adjective:adjective	noun:cardinal:	None	?	:
+Daniel 7:22	375025	עַתִּיק֙	ANp	noun:proper name	adjective::	None	?	:
+Daniel 7:23	375040	כֵּן֮	AAampa	adjective:adjective	adverb::	None	?	:
+Daniel 7:23	375045	רביעיא	AAomsd	adjective:ordinal number	adjective:ordinal:	ATd	particle:definite article	:
+Daniel 7:23	375052	כָּל	AVqi3fs	verb	noun:distributive noun:	None	?	:
+Daniel 8:13	375489	פַּֽלְמֹונִ֣י	HPf	pronoun:indefinite	noun::	None	?	:
+Daniel 8:20	375623	פָרָֽס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Daniel 10:1	376447	פָּרַ֔ס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Daniel 10:13	376732	פָּרַ֗ס	HNp	noun:proper name	proper noun::gentilic	None	?	:
+Daniel 11:12	377183	רִבֹּאֹ֖ות	HNcbpa	noun:common	noun:cardinal:	None	?	:
+Ezra 2:69	379064	רִבֹּ֣אות	HNcbpa	noun:common	noun:cardinal:	None	?	:
+Ezra 4:2	379543	כָכֶ֔ם	HRd	preposition:definite article	preposition::	HPp2mp	pronoun:personal	p:
+Ezra 4:3	379576	לָ֔נוּ	HRd	preposition:definite article	preposition::	HPp1cp	pronoun:personal	p:
+Ezra 4:7	379664	אֲרָמִ֖ית	HNgfsa	noun:gentilic	adjective::	None	?	:
+Ezra 4:7	379667	אֲרָמִֽית	HNgfsa	noun:gentilic	adjective::	None	?	:
+Ezra 4:9	379698	ארכוי	ANgmpc	noun:gentilic	adjective:gentilic:	None	?	:>
+Ezra 4:9	379701	דהוא	ATr	particle:relative	adjective:gentilic:	ATa	particle:affirmation	:>
+Ezra 4:10	379721	עֲבַֽר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 4:11	379736	עֲבַֽר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 4:12	379760	שׁורי	ANcmpc	noun:common	noun::	None	?	:>
+Ezra 4:16	379862	דְּנָ֔ה	AC	conjunction	demonstrative pronoun::	None	?	:
+Ezra 4:16	379865	עֲבַ֣ר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 4:17	379889	עֲבַֽר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 4:20	379934	עֲבַ֣ר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 5:3	380078	עֲבַֽר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 5:3	380088	מַן	APi3ms	pronoun:interrogative	interrogative pronoun::	None	?	:
+Ezra 5:4	380105	מַן	APi	pronoun:interrogative	interrogative pronoun::	None	?	:
+Ezra 5:4	380106	אִנּוּן֙	ATa	particle:affirmation	personal pronoun::demonstrative personal pronoun	None	?	:
+Ezra 5:6	380141	עֲבַֽר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 5:6	380150	עֲבַ֣ר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 5:9	380209	מַן	APi	pronoun:interrogative	interrogative pronoun::	None	?	:
+Ezra 5:11	380243	הִמֹּ֡ו	ATa	particle:affirmation	personal pronoun::	None	?	:
+Ezra 5:13	380294	בְּרַם֙	AC	conjunction	adverb::	None	?	:
+Ezra 6:6	380552	עֲבַֽר	ANp	noun:proper name	noun:potential preposition:	None	?	:
+Ezra 6:11	380670	מִנִּי֮	ANcmpc	noun:common	preposition::	ASp3ms	suffix:pronominal	p:
+Ezra 7:17	381250	דְּנָה֩	AC	conjunction	demonstrative pronoun::	None	?	:
+Ezra 7:18	381276	דִי֩	APfxcs	pronoun:indefinite	preposition::	None	?	:
+Ezra 7:23	381386	מָ֤ה	APixcs	pronoun:interrogative	interrogative pronoun::	None	?	:
+Nehemiah 7:70	387099	רִבֹּ֑ות	HNcbpa	noun:common	noun:cardinal:	None	?	:
+Nehemiah 8:11	387494	הַ֔סּוּ	HTj	particle:interjection	verb::	None	?	:
+Nehemiah 9:17	388162	וחסד	HC	conjunction	noun::	HNcmsa	noun:common	:
+1_Chronicles 1:7	391303	תַרְשִׁ֑ישָׁה	HNp	noun:proper name	proper noun::place	HSh	suffix:paragogic he	:H
+1_Chronicles 4:8	392917	הַצֹּבֵבָ֑ה	HTd	particle:definite article	proper noun::person	HNp	noun:proper name	:
+1_Chronicles 5:13	393659	שֶׁבַע	HAcfsa	adjective:cardinal number	proper noun::person	None	?	:
+1_Chronicles 6:9	394169	תַּ֤חַת	HR	preposition	proper noun::person	None	?	:
+1_Chronicles 6:22	394302	תַּ֨חַת֙	HR	preposition	proper noun::person	None	?	:
+1_Chronicles 15:13	399241	מַ	HTi	particle:interrogative	preposition::	None	?	:
+1_Chronicles 20:6	401777	רָפָֽא	HNgmsa	noun:gentilic	proper noun::person	None	?	:
+1_Chronicles 20:8	401793	רָפָ֖א	HNgmsa	noun:gentilic	proper noun::person	None	?	:
+1_Chronicles 24:15	403686	הַפִּצֵּ֖ץ	HTd	particle:definite article	proper noun::person	HNp	noun:proper name	:
+2_Chronicles 4:16	408462	אָבִ֛יו	HNp	noun:proper name	noun::	None	?	p:J
+2_Chronicles 29:36	421816	הַ	HTr	particle:relative	article::	None	?	:
+2_Chronicles 30:2	421878	הַ	HRd	preposition:definite article	article::	None	?	:
+2_Chronicles 30:2	421879	שֵּׁנִֽי	HNcbsa	noun:common	adjective:ordinal:	None	?	:
+2_Chronicles 36:17	426402	כשׂדיים	HNgmpa	noun:gentilic	proper noun::place	None	?	:
