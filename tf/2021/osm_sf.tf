@@ -8,7 +8,7 @@
 @source_url=https://github.com/openscriptures/morphhb
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2021-08-26T12:21:35Z
+@dateWritten=2021-08-27T12:17:23Z
 
 194	HSp3ms
 196	HSp3ms
