@@ -24,7 +24,9 @@
 
 ## About
 
-Both the BHSA and the OpenScriptures add linguistic markup to the Hebrew Bible.
+Both the BHSA and the
+[OpenScriptures](https://github.com/openscriptures/morphhb)
+add linguistic markup to the Hebrew Bible.
 
 The BHSA is the product of years of encoding work by researchers,
 in a strongly algorithmic fashion,
