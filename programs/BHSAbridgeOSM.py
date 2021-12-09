@@ -57,6 +57,7 @@
 import os
 import sys
 import collections
+import yaml
 from glob import glob
 from lxml import etree
 from itertools import zip_longest
@@ -64,7 +65,7 @@ from functools import reduce
 from unicodedata import normalize, category
 
 from tf.fabric import Fabric
-from tf.core.helpers import rangesFromSet
+from tf.core.helpers import rangesFromSet, formatMeta
 import utils
 
 
@@ -854,7 +855,7 @@ else:
 # First we represent them as a list of intervals, using a utility function of TF,
 # and then we get an overview of the lengths of the intervals.
 
-# In[34]:
+# In[33]:
 
 
 noMorphIntervals = rangesFromSet(noMorphWords)
@@ -902,7 +903,7 @@ else:
 # 
 # Let's assemble the feature data.
 
-# In[35]:
+# In[34]:
 
 
 osmData = {}
@@ -916,34 +917,35 @@ for (w, js) in osmFromBhs.items():
         osm_sfData[w] = osmMorphemes[js[1]][2]
 
 
-# And combine it with a bit of metadata.
+# In[35]:
+
+
+genericMetaPath = f"{thisRepo}/yaml/generic.yaml"
+bridgingMetaPath = f"{thisRepo}/yaml/bridging.yaml"
+
+with open(genericMetaPath) as fh:
+    genericMeta = yaml.load(fh, Loader=yaml.FullLoader)
+    genericMeta["version"] = VERSION
+with open(bridgingMetaPath) as fh:
+    bridgingMeta = formatMeta(yaml.load(fh, Loader=yaml.FullLoader))
+
+metaData = {"": genericMeta, **bridgingMeta}
+
 
 # In[36]:
 
 
 nodeFeatures = dict(osm=osmData, osm_sf=osm_sfData)
-metaData = dict(
-    osm=dict(
-        valueType="str",
-        description="primary morphology string according to OpenScriptures",
-        source="Open Scriptures",
-        source_url="https://github.com/openscriptures/morphhb",
-        conversion="notebook openscriptures in BHSA repo",
-        conversion_author="Dirk Roorda",
-        coreData="BHSA",
-        coreVersion=VERSION,
-    ),
-    osm_sf=dict(
-        valueType="str",
-        description="secundary morphology string according to OpenScriptures",
-        source="Open Scriptures",
-        source_url="https://github.com/openscriptures/morphhb",
-        conversion="notebook openscriptures in BHSA repo",
-        conversion_author="Dirk Roorda",
-        coreData="BHSA",
-        coreVersion=VERSION,
-    ),
-)
+
+for f in nodeFeatures:
+    metaData[f]["valueType"] = "str"
+
+
+# And combine it with a bit of metadata.
+
+# In[37]:
+
+
 utils.caption(4, "Writing tree feature to TF")
 TFw = Fabric(locations=thisTempTf, silent=True)
 TFw.save(nodeFeatures=nodeFeatures, edgeFeatures={}, metaData=metaData)

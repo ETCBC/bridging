@@ -1,14 +1,14 @@
 @node
-@conversion=notebook openscriptures in BHSA repo
 @conversion_author=Dirk Roorda
 @coreData=BHSA
-@coreVersion=2021
-@description=secundary morphology string according to OpenScriptures
+@description=🆗 morphology tag (secundary morpheme) by OpenScriptures
+@provenance=notebook BHSAbridgeOSM in https://github.com/ETCBC/bridging
 @source=Open Scriptures
 @source_url=https://github.com/openscriptures/morphhb
 @valueType=str
+@version=2021
 @writtenBy=Text-Fabric
-@dateWritten=2021-11-30T15:37:13Z
+@dateWritten=2021-12-09T14:41:43Z
 
 194	HSp3ms
 196	HSp3ms

@@ -1,0 +1,6 @@
+osm:
+  desc: "🆗 morphology tag (primary morpheme) by OpenScriptures"
+  eg: "HR HVqp3ms"
+
+osm_sf:
+  desc: "🆗 morphology tag (secundary morpheme) by OpenScriptures"
