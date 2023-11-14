@@ -5,7 +5,7 @@ def show(T, F, ws, getBHSinfo, getOSMinfo, indent='', asString=False):
     Which information is printed, depends on the two other arguments,
     which are functions, taking a word node
     and delivering information about that word.
-    getBHSInfo will be used to grab BHS info, getOSMinfo will be used to grab OSM info.
+    `getBHSInfo` will be used to grab BHS info, `getOSMinfo` will be used to grab OSM info.
     '''
     t = ('{}{} w{}"{}"\n{}\tBHS: {}\n{}\tOSM: {}'.format(
         indent,
